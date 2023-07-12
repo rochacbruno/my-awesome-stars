@@ -1055,6 +1055,7 @@
 - [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [mbi/django-front](https://github.com/mbi/django-front) - Django-front is a front-end editing Django application
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [abilian/abilian-core](https://github.com/abilian/abilian-core) - Abilian Core framework and services
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
@@ -3482,7 +3483,6 @@
 - [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - 🐍🐳 Python module to manage Digital Ocean droplets
 - [rbp/configtamer](https://github.com/rbp/configtamer) - A configuration file format and parser. An alternative to Python's configparser
 - [jhmaddox/django-precompressed](https://github.com/jhmaddox/django-precompressed) - precompressed is a pluggable application for Django developers who want to serve precompressed (gzipped) static files.
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [percolate/redset](https://github.com/percolate/redset) - A Redis-backed sorted set useful for coordinating distributed work.
 - [Zulko/picnic.py](https://github.com/Zulko/picnic.py) - Easy Python packages creation.
 - [aaugustin/django-transaction-signals](https://github.com/aaugustin/django-transaction-signals) - Transaction signals for Django. Don't miss the README!
@@ -4465,7 +4465,7 @@
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [fitzgen/dodrio](https://github.com/fitzgen/dodrio) - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [gahag/bgrep](https://github.com/gahag/bgrep) - A binary grep written in Rust.
@@ -4900,7 +4900,7 @@
 - [codigofalado/twitch-giphy](https://github.com/codigofalado/twitch-giphy) - Um chatbot para Twitch que integra a API do GIPHY, fazendo com que hashtags no chat da Twitch virem GIFs na Live :)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
