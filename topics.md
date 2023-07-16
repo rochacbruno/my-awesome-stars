@@ -7062,6 +7062,7 @@
 
 ## rust 
 
+- [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [tanay-pingalkar/rq](https://github.com/tanay-pingalkar/rq) - A jquery inspired library for wasm made in rust
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
