@@ -3451,7 +3451,7 @@
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [shime/vim-livedown](https://github.com/shime/vim-livedown) - Vim plugin for Livedown.
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
-- [LucasHe4rt/ArchLinux4noobs](https://github.com/LucasHe4rt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
+- [LucasCBittencourt/ArchLinux4noobs](https://github.com/LucasCBittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
 - [nrc/rustaceans.org](https://github.com/nrc/rustaceans.org) - Backing data for
 - [nighto/brasil-portugal](https://github.com/nighto/brasil-portugal) - Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal
@@ -5335,7 +5335,6 @@
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [cenkalti/github-flask](https://github.com/cenkalti/github-flask) - 🍾 Flask extension for GitHub API
 - [dusty-phillips/orkiv](https://github.com/dusty-phillips/orkiv) - Examples from the Kivy tutorial I am developing at archlinux.me/dusty/
-- [shadow-box/Violent-Python-Examples](https://github.com/shadow-box/Violent-Python-Examples) - 
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [jamescasbon/flask-backbone-mongo](https://github.com/jamescasbon/flask-backbone-mongo) - experiments with backbone.js, flask and mongo
 - [rampatra/contentshare.js](https://github.com/rampatra/contentshare.js) - A jQuery Plugin which lets you Share what you Like
@@ -7062,6 +7061,7 @@
 
 ## rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [tanay-pingalkar/rq](https://github.com/tanay-pingalkar/rq) - A jquery inspired library for wasm made in rust
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
@@ -7652,6 +7652,7 @@
 
 ## terminal 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
