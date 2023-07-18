@@ -816,7 +816,6 @@
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
 - [lissatransborda/transchange](https://github.com/lissatransborda/transchange) - A CLI package to change names in github repositories files
 - [forge-ext/forge](https://github.com/forge-ext/forge) - Forge - Tiling and Window Manager for Gnome-Shell
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -1554,7 +1553,7 @@
 - [tiantifascista/TIcomBoulos](https://github.com/tiantifascista/TIcomBoulos) - 
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
 - [MichaelThessel/tilix-gruvbox](https://github.com/MichaelThessel/tilix-gruvbox) - Gruvbox color schemes for Tilix terminal
-- [LucasHe4rt/ArchLinux4noobs](https://github.com/LucasHe4rt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
+- [LucasCBittencourt/ArchLinux4noobs](https://github.com/LucasCBittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
 - [nrc/rustaceans.org](https://github.com/nrc/rustaceans.org) - Backing data for
 - [nighto/brasil-portugal](https://github.com/nighto/brasil-portugal) - Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal
 - [juligaioso/referencias-para-estudos](https://github.com/juligaioso/referencias-para-estudos) - Repositório criado para reunir materiais de estudo, artigos, canais no youtube, e tudo o mais para melhorar e evoluir como dev
@@ -1839,6 +1838,7 @@
 - [django-auth-ldap/django-auth-ldap](https://github.com/django-auth-ldap/django-auth-ldap) - Django authentication backend that authenticates against an LDAP service.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [jpsca/jinjax](https://github.com/jpsca/jinjax) - Server-Side Components with Jinja
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [furkanonder/beetrace](https://github.com/furkanonder/beetrace) - Trace your python process line by line with low overhead!
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [cosmicpb/FascistFree](https://github.com/cosmicpb/FascistFree) - 
@@ -3660,7 +3660,6 @@
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [cenkalti/github-flask](https://github.com/cenkalti/github-flask) - 🍾 Flask extension for GitHub API
 - [dusty-phillips/orkiv](https://github.com/dusty-phillips/orkiv) - Examples from the Kivy tutorial I am developing at archlinux.me/dusty/
-- [shadow-box/Violent-Python-Examples](https://github.com/shadow-box/Violent-Python-Examples) - 
 - [kivy/kivy-designer](https://github.com/kivy/kivy-designer) - UI designer for Kivy - DEPRECATED
 - [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
 - [vladikk/JSON2CSV](https://github.com/vladikk/JSON2CSV) - Utility to convert json files to csv
@@ -4081,6 +4080,7 @@
 
 ## Rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [tanay-pingalkar/rq](https://github.com/tanay-pingalkar/rq) - A jquery inspired library for wasm made in rust
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
