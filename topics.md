@@ -3451,7 +3451,7 @@
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [shime/vim-livedown](https://github.com/shime/vim-livedown) - Vim plugin for Livedown.
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
-- [LucasCBittencourt/ArchLinux4noobs](https://github.com/LucasCBittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
+- [lucascbittencourt/ArchLinux4noobs](https://github.com/lucascbittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
 - [nrc/rustaceans.org](https://github.com/nrc/rustaceans.org) - Backing data for
 - [nighto/brasil-portugal](https://github.com/nighto/brasil-portugal) - Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal
