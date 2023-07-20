@@ -1553,7 +1553,7 @@
 - [tiantifascista/TIcomBoulos](https://github.com/tiantifascista/TIcomBoulos) - 
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
 - [MichaelThessel/tilix-gruvbox](https://github.com/MichaelThessel/tilix-gruvbox) - Gruvbox color schemes for Tilix terminal
-- [LucasCBittencourt/ArchLinux4noobs](https://github.com/LucasCBittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
+- [lucascbittencourt/ArchLinux4noobs](https://github.com/lucascbittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
 - [nrc/rustaceans.org](https://github.com/nrc/rustaceans.org) - Backing data for
 - [nighto/brasil-portugal](https://github.com/nighto/brasil-portugal) - Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal
 - [juligaioso/referencias-para-estudos](https://github.com/juligaioso/referencias-para-estudos) - Repositório criado para reunir materiais de estudo, artigos, canais no youtube, e tudo o mais para melhorar e evoluir como dev
@@ -4080,6 +4080,7 @@
 
 ## Rust 
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [tanay-pingalkar/rq](https://github.com/tanay-pingalkar/rq) - A jquery inspired library for wasm made in rust
@@ -4182,7 +4183,7 @@
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
-- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
@@ -4490,7 +4491,7 @@
 - [psFried/flo](https://github.com/psFried/flo) - An event stream server that aims to one day be simple, scalable, and developer friendly
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
-- [DenisKolodin/rusty](https://github.com/DenisKolodin/rusty) - Minimal Rust Application Template - dotenv, clap, log, config
+- [therustmonk/rusty](https://github.com/therustmonk/rusty) - Minimal Rust Application Template - dotenv, clap, log, config
 - [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
 - [ivanceras/rustorm](https://github.com/ivanceras/rustorm) - an orm for rust
