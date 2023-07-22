@@ -796,6 +796,7 @@
 
 ## compiler 
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
@@ -2631,6 +2632,7 @@
 
 ## lua 
 
+- [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
@@ -3110,6 +3112,7 @@
 
 ## others 
 
+- [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [codeshow/qpizza](https://github.com/codeshow/qpizza) - QPizza is the best pizza
@@ -3601,7 +3604,7 @@
 - [spulec/uncurl](https://github.com/spulec/uncurl) - A library to convert curl requests to python-requests.
 - [raftario/filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service
 - [mozilla/PyPOM](https://github.com/mozilla/PyPOM) - Python page object model for Selenium
-- [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [ehuss/cargo-prefetch](https://github.com/ehuss/cargo-prefetch) - Cargo subcommand to download popular crates.
 - [slaily/pyhttptest](https://github.com/slaily/pyhttptest) - A command-line tool for HTTP tests over RESTful APIs✨
 - [pulp/squeezer](https://github.com/pulp/squeezer) - Ansible modules to control a pulp3 server
@@ -3748,7 +3751,7 @@
 - [pizzamig/structopt-flags](https://github.com/pizzamig/structopt-flags) - A set of reusable flags for structopt
 - [coder543/zapper](https://github.com/coder543/zapper) - speedy templating engine: 30x faster than Handlebars, half the features!
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
-- [DenisKolodin/rusty](https://github.com/DenisKolodin/rusty) - Minimal Rust Application Template - dotenv, clap, log, config
+- [therustmonk/rusty](https://github.com/therustmonk/rusty) - Minimal Rust Application Template - dotenv, clap, log, config
 - [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
 - [okfn-brasil/vitimas-da-intolerancia](https://github.com/okfn-brasil/vitimas-da-intolerancia) - Conheça as vítimas de ódio político
 - [leoGalani/sherlock](https://github.com/leoGalani/sherlock) - Sherlock QA - Test Manager
@@ -7129,7 +7132,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
-- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
