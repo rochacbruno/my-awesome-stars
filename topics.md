@@ -3269,7 +3269,7 @@
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
 - [avinassh/py-caskdb](https://github.com/avinassh/py-caskdb) - (educational) build your own disk based KV store
 - [gandro/input-event-daemon](https://github.com/gandro/input-event-daemon) - input event handling daemon for linux (unmaintained)
-- [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - An experimental visual coding editor
+- [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [rhuygen/textualog](https://github.com/rhuygen/textualog) - Display, filter and search log messages in your terminal
 - [willnode/forward-domain](https://github.com/willnode/forward-domain) - Forward Domains, completely free and open source.
@@ -4596,7 +4596,7 @@
 - [ymichael/cprofilev](https://github.com/ymichael/cprofilev) - :fire: An easier way to use cProfile
 - [joaodubas/docker-orientdb](https://github.com/joaodubas/docker-orientdb) - Docker image for OrientDB
 - [brennerm/PyTricks](https://github.com/brennerm/PyTricks) - Collection of less popular features and tricks for the Python programming language
-- [toddsifleet/equals](https://github.com/toddsifleet/equals) - Fuzzy equality objects for testing, a stricter version of Mock.Any.
+- [smartfastlabs/equals](https://github.com/smartfastlabs/equals) - Fuzzy equality objects for testing, a stricter version of Mock.Any.
 - [rtluckie/seria](https://github.com/rtluckie/seria) - 
 - [paypal/support](https://github.com/paypal/support) - An evented server framework designed for building scalable and introspectable services, built at PayPal.
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
