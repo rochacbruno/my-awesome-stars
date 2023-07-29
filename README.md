@@ -758,7 +758,6 @@
 
 ## Handlebars 
 
-- [kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template) - Template for 'mdbook' books with my preferences
 - [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/master
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
@@ -1788,6 +1787,7 @@
 
 ## Perl 
 
+- [kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template) - Template for 'mdbook' books with my preferences
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [jaagr/dots](https://github.com/jaagr/dots) - dotfiles for my local setup
 - [sitaramc/gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
@@ -3078,7 +3078,7 @@
 - [chris1610/barnum-proj](https://github.com/chris1610/barnum-proj) - Python application for generating pseudo-random data
 - [ymichael/cprofilev](https://github.com/ymichael/cprofilev) - :fire: An easier way to use cProfile
 - [brennerm/PyTricks](https://github.com/brennerm/PyTricks) - Collection of less popular features and tricks for the Python programming language
-- [toddsifleet/equals](https://github.com/toddsifleet/equals) - Fuzzy equality objects for testing, a stricter version of Mock.Any.
+- [smartfastlabs/equals](https://github.com/smartfastlabs/equals) - Fuzzy equality objects for testing, a stricter version of Mock.Any.
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [rtluckie/seria](https://github.com/rtluckie/seria) - 
 - [paypal/support](https://github.com/paypal/support) - An evented server framework designed for building scalable and introspectable services, built at PayPal.
@@ -4868,7 +4868,7 @@
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [devpt-org/discord-bot](https://github.com/devpt-org/discord-bot) - Uma experiência colaborativa construindo um  BotDiscord devPT utilizando Hexagonal Arch
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
-- [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - An experimental visual coding editor
+- [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
