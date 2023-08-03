@@ -870,7 +870,7 @@
 - [greyli/albumy](https://github.com/greyli/albumy) - A photo-sharing social networking built with Flask.
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
@@ -1806,6 +1806,7 @@
 
 ## Python 
 
+- [dunossauro/fast_zero](https://github.com/dunossauro/fast_zero) - Código do fastapi-do-zero
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
@@ -2124,7 +2125,7 @@
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [artemShelest/flask-admin-subview](https://github.com/artemShelest/flask-admin-subview) - Embedded Flask-Admin list views
 - [AFistfulOfLinks/afistfuloflinks](https://github.com/AFistfulOfLinks/afistfuloflinks) - A Fistful of Links website sources (Hugo) and tools
-- [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth
+- [jazzband/django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django rest auth
 - [dcifuen/chalice-dynaconf-helloworld](https://github.com/dcifuen/chalice-dynaconf-helloworld) - Making chalice and dynaconf play together
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - EyeLoop is a Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments on consumer-grade hardware.
@@ -4082,6 +4083,9 @@
 
 ## Rust 
 
+- [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
+- [duo-rs/duo](https://github.com/duo-rs/duo) - Observability duet: Logging and Tracing
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
@@ -4097,7 +4101,7 @@
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf 2.0)
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) - ANSI text styling
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance
@@ -4227,7 +4231,7 @@
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [yuulive/mo](https://github.com/yuulive/mo) - 
