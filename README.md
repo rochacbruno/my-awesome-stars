@@ -356,7 +356,6 @@
 
 ## Cython 
 
-- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [yihuang/cprotobuf](https://github.com/yihuang/cprotobuf) - protocol buffer implemented in cython
 - [capnproto/pycapnp](https://github.com/capnproto/pycapnp) - Cap'n Proto serialization/RPC system - Python bindings
@@ -1016,7 +1015,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [litewrite/litewrite](https://github.com/litewrite/litewrite) - Distraction-free writing.
 - [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [DDKnoll/Instagram-Infinite-Scroll](https://github.com/DDKnoll/Instagram-Infinite-Scroll) - A single page Infinite Scroll app built using Ractive.js, jQuery, and Pure CSS.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [jimmysawczuk/clippy-jquery](https://github.com/jimmysawczuk/clippy-jquery) - A jQuery plugin to make clippy easy and quick to use
@@ -1498,6 +1497,7 @@
 
 ## Others 
 
+- [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [apyb/comunidade](https://github.com/apyb/comunidade) - Espaço para discussão da comunidade em torno da APyB
@@ -1806,7 +1806,6 @@
 
 ## Python 
 
-- [dunossauro/fast_zero](https://github.com/dunossauro/fast_zero) - Código do fastapi-do-zero
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
@@ -2087,6 +2086,7 @@
 - [VaultVulp/dypendence](https://github.com/VaultVulp/dypendence) - Dependency Injection over Dynaconf
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [dflook/python-minifier](https://github.com/dflook/python-minifier) - Transform Python source code into its most compact representation
+- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [e-alizadeh/pycallgraph](https://github.com/e-alizadeh/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
@@ -3663,6 +3663,7 @@
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [cenkalti/github-flask](https://github.com/cenkalti/github-flask) - 🍾 Flask extension for GitHub API
 - [dusty-phillips/orkiv](https://github.com/dusty-phillips/orkiv) - Examples from the Kivy tutorial I am developing at archlinux.me/dusty/
+- [shadow-box/Violent-Python-Examples](https://github.com/shadow-box/Violent-Python-Examples) - 
 - [kivy/kivy-designer](https://github.com/kivy/kivy-designer) - UI designer for Kivy - DEPRECATED
 - [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
 - [vladikk/JSON2CSV](https://github.com/vladikk/JSON2CSV) - Utility to convert json files to csv
@@ -4859,7 +4860,7 @@
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible) - vscode/vscodium extension for providing Ansible auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.
 - [nacmartin/manitas](https://github.com/nacmartin/manitas) - Move your fingers in the air to interact with a computer ☝️☝️
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - The secrets manager for .env files – from the same people that pioneered dotenv.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env files.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
