@@ -653,7 +653,7 @@
 
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - The secrets manager for .env files – from the same people that pioneered dotenv.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env files.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
@@ -1262,7 +1262,7 @@
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [spotify/helios](https://github.com/spotify/helios) - Docker container orchestration platform
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [cburmeister/flask-bones](https://github.com/cburmeister/flask-bones) - An example of a large scale Flask application using blueprints and extensions.
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
@@ -2321,7 +2321,7 @@
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
@@ -3116,8 +3116,8 @@
 
 ## others 
 
+- [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [duo-rs/duo](https://github.com/duo-rs/duo) - Observability duet: Logging and Tracing
-- [dunossauro/fast_zero](https://github.com/dunossauro/fast_zero) - Código do fastapi-do-zero
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
@@ -5345,6 +5345,7 @@
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [cenkalti/github-flask](https://github.com/cenkalti/github-flask) - 🍾 Flask extension for GitHub API
 - [dusty-phillips/orkiv](https://github.com/dusty-phillips/orkiv) - Examples from the Kivy tutorial I am developing at archlinux.me/dusty/
+- [shadow-box/Violent-Python-Examples](https://github.com/shadow-box/Violent-Python-Examples) - 
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [jamescasbon/flask-backbone-mongo](https://github.com/jamescasbon/flask-backbone-mongo) - experiments with backbone.js, flask and mongo
 - [rampatra/contentshare.js](https://github.com/rampatra/contentshare.js) - A jQuery Plugin which lets you Share what you Like
@@ -7437,7 +7438,7 @@
 
 ## security 
 
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - The secrets manager for .env files – from the same people that pioneered dotenv.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env files.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
