@@ -1539,7 +1539,7 @@
 - [lincolixavier/tretadev](https://github.com/lincolixavier/tretadev) - Repositório criado com o intuito de centralizar as tretas semanais que acontecem na cena dev BR
 - [awesome-rust-cloud-native/awesome-rust-cloud-native](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native) - A curated list of awesome Cloud Native Rust frameworks, libraries and software
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [leandrocostam/cka-preparation-guide](https://github.com/leandrocostam/cka-preparation-guide) - Certified Kubernetes Administrator (CKA) Preparation Guide - Curriculum v1.26
+- [leandrocostam/cka-preparation-guide](https://github.com/leandrocostam/cka-preparation-guide) - Certified Kubernetes Administrator (CKA) Preparation Guide
 - [naomijub/web-dev-rust-book](https://github.com/naomijub/web-dev-rust-book) - Livro sobre desenvolvimento web em Rust
 - [asciidoctor/asciidoc-docs](https://github.com/asciidoctor/asciidoc-docs) - The source files in this repository served as the initial contribution for the AsciiDoc Language specification project at Eclipse. This repository is now archived.
 - [newswangerd/galaxy-api-v4](https://github.com/newswangerd/galaxy-api-v4) - 
@@ -4102,7 +4102,7 @@
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf 2.0)
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) - ANSI text styling
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance
