@@ -1806,6 +1806,7 @@
 
 ## Python 
 
+- [leforestier/yattag](https://github.com/leforestier/yattag) - Python library to generate HTML or XML in a readable, concise and pythonic way.
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
@@ -2670,7 +2671,7 @@
 - [mindflayer/python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
 - [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 - [ziplokk1/python-shopify-api](https://github.com/ziplokk1/python-shopify-api) - Wrapper and parser modules for Shopify's API.
-- [OrkoHunter/pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
+- [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [Net-ng/kansha](https://github.com/Net-ng/kansha) - Manage and share collaborative pinboards on the web.
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
