@@ -572,7 +572,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [pratikborsadiya/vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 5 admin/dashboard template
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [aozora/bootplus](https://github.com/aozora/bootplus) - Sleek, intuitive, and powerful Google styled front-end framework for faster and easier web development
@@ -596,7 +596,7 @@
 - [dzaytsev91/mygf-instagram](https://github.com/dzaytsev91/mygf-instagram) - Like posts of my girlfriend's Instagram using web api, don't need any api key and access tokens just login and password
 - [wrxck/telegram-bot-lua](https://github.com/wrxck/telegram-bot-lua) - A simple yet extensive Lua library for the Telegram bot API.
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [OrkoHunter/pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
+- [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [enginebai/PyMessager](https://github.com/enginebai/PyMessager) - Python API to develop chatbot on Facebook Messenger Platform
@@ -787,7 +787,7 @@
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
-- [OrkoHunter/pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
+- [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 
 ## coding 
 
@@ -3118,6 +3118,12 @@
 
 ## others 
 
+- [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [assert-rs/assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions.
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
+- [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - WIP: Sample serverless application written in Python
+- [leforestier/yattag](https://github.com/leforestier/yattag) - Python library to generate HTML or XML in a readable, concise and pythonic way.
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [duo-rs/duo](https://github.com/duo-rs/duo) - Observability duet: Logging and Tracing
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
@@ -6450,7 +6456,7 @@
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [adfinis/foreman-yml](https://github.com/adfinis/foreman-yml) - Make automated Foreman configuration as easy as pie.
 - [mindflayer/python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
-- [OrkoHunter/pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
+- [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
 - [thanethomson/statik](https://github.com/thanethomson/statik) - Multi-purpose static web site generator aimed at developers.
 - [zmqless/python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
