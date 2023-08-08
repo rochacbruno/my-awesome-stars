@@ -1501,6 +1501,7 @@
 
 ## Others 
 
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1810,6 +1811,8 @@
 
 ## Python 
 
+- [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
+- [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - WIP: Sample serverless application written in Python
 - [leforestier/yattag](https://github.com/leforestier/yattag) - Python library to generate HTML or XML in a readable, concise and pythonic way.
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -4089,6 +4092,8 @@
 
 ## Rust 
 
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [assert-rs/assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions.
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
 - [duo-rs/duo](https://github.com/duo-rs/duo) - Observability duet: Logging and Tracing
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
