@@ -893,7 +893,7 @@
 ## dart 
 
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data 
@@ -1481,7 +1481,7 @@
 
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1918,7 +1918,7 @@
 - [Caaddss/awesome-live-coding-streams](https://github.com/Caaddss/awesome-live-coding-streams) - 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
-- [builders-club/vscode-twitch-themer](https://github.com/builders-club/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
+- [build-with-me/vscode-twitch-themer](https://github.com/build-with-me/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
 - [rennerocha/mediafeed](https://github.com/rennerocha/mediafeed) - Web application to help categorize and aggregate subscriptions of media channels for easy access. (working only with Youtube channels at this moment)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Galaxy NextGen
@@ -2493,6 +2493,7 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
+- [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -2577,7 +2578,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
@@ -3120,6 +3121,8 @@
 
 ## others 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+- [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [viniciusfonseca/rinha-backend-rust](https://github.com/viniciusfonseca/rinha-backend-rust) - 
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
@@ -5894,7 +5897,7 @@
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
@@ -7185,7 +7188,7 @@
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [naomijub/web-dev-rust-book](https://github.com/naomijub/web-dev-rust-book) - Livro sobre desenvolvimento web em Rust
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -7767,7 +7770,7 @@
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
 
