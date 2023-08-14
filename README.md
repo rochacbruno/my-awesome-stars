@@ -4093,6 +4093,7 @@
 
 ## Rust 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [viniciusfonseca/rinha-backend-rust](https://github.com/viniciusfonseca/rinha-backend-rust) - 
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
@@ -4245,7 +4246,7 @@
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [yuulive/mo](https://github.com/yuulive/mo) - 
