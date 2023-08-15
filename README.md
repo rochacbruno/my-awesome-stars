@@ -924,6 +924,7 @@
 - [alexyorke/Pedant](https://github.com/alexyorke/Pedant) - Find and fix bothersome punctuation and formatting errors in English texts.
 - [markmarkoh/datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
 - [GNOME/polari](https://github.com/GNOME/polari) - Read-only mirror of https://gitlab.gnome.org/GNOME/polari
+- [Katello/katello](https://github.com/Katello/katello) - Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.
 - [capablemonkey/github-go-to-definition](https://github.com/capablemonkey/github-go-to-definition) - 'Go to definition' for GitHub pull request diffs and file views
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [decentfox/relask](https://github.com/decentfox/relask) - A Relay-based web development kit on Flask
@@ -4068,7 +4069,6 @@
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) - Next-gen CLI tool for Katello (Katello-specific commands)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [Katello/katello](https://github.com/Katello/katello) - Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.
 - [projectatomic/adb-atomic-developer-bundle](https://github.com/projectatomic/adb-atomic-developer-bundle) - a prepackaged development environment filled with production-grade pre-configured tools that makes container development easier
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
