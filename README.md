@@ -4137,7 +4137,7 @@
 - [cuducos/ezz](https://github.com/cuducos/ezz) - 🎦 ezz is a simple CLI tool to schedule Zoom meetings
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
