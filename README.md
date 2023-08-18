@@ -927,7 +927,6 @@
 - [Katello/katello](https://github.com/Katello/katello) - Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.
 - [capablemonkey/github-go-to-definition](https://github.com/capablemonkey/github-go-to-definition) - 'Go to definition' for GitHub pull request diffs and file views
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
-- [decentfox/relask](https://github.com/decentfox/relask) - A Relay-based web development kit on Flask
 - [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) - :arrow_forward: Ansible integration in Foreman
 - [Kozea/umlaut](https://github.com/Kozea/umlaut) - Because a picture is worth a thousand words
 - [FruitieX/teleirc](https://github.com/FruitieX/teleirc) - A simple Telegram ↔ IRC gateway.
