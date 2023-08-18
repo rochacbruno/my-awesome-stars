@@ -4225,7 +4225,6 @@
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [kushaldas/retask](https://github.com/kushaldas/retask) - Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.
-- [decentfox/relask](https://github.com/decentfox/relask) - A Relay-based web development kit on Flask
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
 - [etsy/logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
 - [lzap/snap-guest](https://github.com/lzap/snap-guest) - Bash script for quick provisioning of copy-on-write KVM guests
