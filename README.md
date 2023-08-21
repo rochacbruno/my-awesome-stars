@@ -3620,7 +3620,7 @@
 - [ionelmc/django-redisboard](https://github.com/ionelmc/django-redisboard) - Redis monitoring and inspection tool in django admin.
 - [wq/wq.db](https://github.com/wq/wq.db) - ☁🌐 wq's db library, extending Django REST framework to support apps for geospatial field data collection, citizen science, and crowdsourcing.
 - [augustomen/simple-data-importer](https://github.com/augustomen/simple-data-importer) - 
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [opps/opps-social](https://github.com/opps/opps-social) - Social application, like, dislike and favorite
 - [jdiez17/flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
 - [paypal/PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
