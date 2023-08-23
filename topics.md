@@ -651,6 +651,7 @@
 
 ## cli 
 
+- [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - Simplify your video editing workflow with Python 📹
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
@@ -2145,6 +2146,7 @@
 
 ## http 
 
+- [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3124,7 +3126,6 @@
 
 ## others 
 
-- [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - micro tools to help me with video editing
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
@@ -6038,6 +6039,7 @@
 
 ## python 
 
+- [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - Simplify your video editing workflow with Python 📹
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
@@ -7093,6 +7095,7 @@
 
 ## rust 
 
+- [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
