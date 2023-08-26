@@ -2279,7 +2279,7 @@
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [asottile/flake8-2020](https://github.com/asottile/flake8-2020) - flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 - [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
-- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - The leading open source test management system with over 1 million downloads!
+- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - The leading open source test management system with 2 million downloads!
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases & fixups
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
@@ -2365,7 +2365,7 @@
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
-- [life4/deal](https://github.com/life4/deal) - Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
+- [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [okfn-brasil/vitimas-da-intolerancia](https://github.com/okfn-brasil/vitimas-da-intolerancia) - Conheça as vítimas de ódio político
 - [BNMetrics/logme](https://github.com/BNMetrics/logme) - Python Logging For Humans (Also supports configurable color logging for the terminal!)
 - [niccokunzmann/hanging_threads](https://github.com/niccokunzmann/hanging_threads) - Deadlocks? Detect where your threads hang in Python with one import.
