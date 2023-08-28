@@ -602,6 +602,7 @@
 
 ## HTML 
 
+- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [codeshow/qpizza](https://github.com/codeshow/qpizza) - QPizza is the best pizza
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [karlamagueta/Bikcraft](https://github.com/karlamagueta/Bikcraft) - 
@@ -1528,7 +1529,6 @@
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [razevedo1994/data_engineer_roadmap](https://github.com/razevedo1994/data_engineer_roadmap) - Personal roadmap to guide my studies.
-- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [jupjohn/awesome-twitch-stuff](https://github.com/jupjohn/awesome-twitch-stuff) - A list of awesome Twitch/streaming-related tools
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [cassiobotaro/awesome-python-modules-as-script](https://github.com/cassiobotaro/awesome-python-modules-as-script) - :neckbeard: Catalogue of useful python modules that run as script.
@@ -4093,6 +4093,7 @@
 
 ## Rust 
 
+- [dmcg310/Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Terminal based file explorer.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
@@ -4119,7 +4120,7 @@
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) - ANSI text styling
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance
@@ -4687,6 +4688,7 @@
 
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [cristatus/asciidoctor-styles](https://github.com/cristatus/asciidoctor-styles) - A themeable stylesheet for Asciidoctor.
 - [marcelogumercinocosta/django-garb](https://github.com/marcelogumercinocosta/django-garb) - Modern theme for Django admin interface
@@ -4716,7 +4718,6 @@
 
 ## Shell 
 
-- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [Fmstrat/samba-domain](https://github.com/Fmstrat/samba-domain) - Samba Active Directory Domain Controller for Docker
