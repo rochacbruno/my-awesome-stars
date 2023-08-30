@@ -110,7 +110,6 @@
 
 ## C 
 
-- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of "NCurses Disk Usage"
 - [otherJL0/tree-sitter-hurl](https://github.com/otherJL0/tree-sitter-hurl) - Tree-sitter grammar for Hurl
 - [andykitchen/swcursor](https://github.com/andykitchen/swcursor) - Large software cursor for screen recording on X11
@@ -191,6 +190,7 @@
 
 ## C++ 
 
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
@@ -642,6 +642,7 @@
 - [rustbridge/website](https://github.com/rustbridge/website) - the website for rustbridge
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
 - [rust-br/2018-roadshow](https://github.com/rust-br/2018-roadshow) - Rust Roadshow 🇧🇷 2-4 de fevereiro de 2018
+- [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [kichik/whypy3](https://github.com/kichik/whypy3) - All the reasons to switch to Python 3 today
 - [lex009/flask-admin-lte](https://github.com/lex009/flask-admin-lte) - AdminLTE for Flask Admin
@@ -816,6 +817,7 @@
 
 ## JavaScript 
 
+- [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
 - [lissatransborda/transchange](https://github.com/lissatransborda/transchange) - A CLI package to change names in github repositories files
@@ -1310,7 +1312,6 @@
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [PulpQE/pulp-qe-tools](https://github.com/PulpQE/pulp-qe-tools) - Tools, Helpers, Scripts, Playbooks and docs for Pulp QE
 - [nixocio/Internals](https://github.com/nixocio/Internals) - 
-- [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [opensanca/trilha-python](https://github.com/opensanca/trilha-python) - Curso "introdutório" à linguagem Python
 - [renzon/pytest-decorator](https://github.com/renzon/pytest-decorator) - Small test for decorator lib with pytest dependency injection
 - [danilobellini/scientific-literature](https://github.com/danilobellini/scientific-literature) - Notebooks and other stuff from my analysis of scientific literature I've found interesting
@@ -4157,7 +4158,7 @@
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) - Fediverse API client library for Rust
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [sigmaSd/IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust Repl
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
