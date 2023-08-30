@@ -1501,7 +1501,7 @@
 
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -3127,6 +3127,7 @@
 
 ## others 
 
+- [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [dmcg310/Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Terminal based file explorer.
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -7139,7 +7140,7 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) - Fediverse API client library for Rust
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [sigmaSd/IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust Repl
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL.
@@ -7974,7 +7975,7 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
