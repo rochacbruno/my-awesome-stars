@@ -1176,6 +1176,7 @@
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [django-getpaid/django-getpaid](https://github.com/django-getpaid/django-getpaid) - Django payments processor.
 - [revsys/django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [znc-sistemas/django-municipios](https://github.com/znc-sistemas/django-municipios) - Aplicação plugável Django com modelos e widgets para os Municípios Brasileiros
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [jonasundderwolf/django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Django helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
@@ -5636,7 +5637,6 @@
 - [stephenmcd/gunicorn-console](https://github.com/stephenmcd/gunicorn-console) - A curses application for managing gunicorn processes.
 - [claystreet/bootstrap-rta](https://github.com/claystreet/bootstrap-rta) - Bootstrap Rich TextArea (RTA)
 - [bread-and-pepper/django-userena](https://github.com/bread-and-pepper/django-userena) - Accounts for Django made beautifully simple
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [lucasicf/dict2xml](https://github.com/lucasicf/dict2xml) - Python tool for converting a JSON-style dictionary element to a XML document.
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [jasonlau/jQuery-Screw](https://github.com/jasonlau/jQuery-Screw) - Screw (scroll + view) is a jQuery plugin which loads HTML as a user scrolls the webpage. Screw will help you save bandwidth by only loading content as it is scrolled into view. Screw can also be used 
@@ -6824,6 +6824,7 @@
 - [django-getpaid/django-getpaid](https://github.com/django-getpaid/django-getpaid) - Django payments processor.
 - [revsys/django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [znc-sistemas/django-municipios](https://github.com/znc-sistemas/django-municipios) - Aplicação plugável Django com modelos e widgets para os Municípios Brasileiros
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
