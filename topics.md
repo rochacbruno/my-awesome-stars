@@ -1169,7 +1169,7 @@
 - [summernote/django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
 - [AndrewIngram/django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Django's class-based generic views are awesome, let's have more of them.
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
-- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [Bouke/django-airbrake](https://github.com/Bouke/django-airbrake) - Django Airbrake provides a logging handler to push exceptions and other errors to airbrakeapp or other airbrake-compatible exception handler services (e.g. aTech Media's Codebase).
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [timmyomahony/django-pagedown](https://github.com/timmyomahony/django-pagedown) - A django app that allows the easy addition of Stack Overflow's "PageDown" markdown editor to a django form field, whether in a custom app or the Django Admin
@@ -2358,6 +2358,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [danishkhan/NicEdit](https://github.com/danishkhan/NicEdit) - WYSIWYG editor
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [darcyclarke/Repo.js](https://github.com/darcyclarke/Repo.js) - :page_facing_up: A plugin to embed Github repos on your site
@@ -2919,6 +2920,7 @@
 
 ## neovim 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
@@ -3128,6 +3130,7 @@
 
 ## others 
 
+- [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [dmcg310/Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Terminal based file explorer.
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
@@ -3242,7 +3245,6 @@
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [redhat-actions/podman-login](https://github.com/redhat-actions/podman-login) - GitHub Action to log into a container image registry. For use with podman, buildah, and skopeo.
 - [cuducos/chunk](https://github.com/cuducos/chunk) - 🧱 Chunk is a download manager for slow and unstable servers
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [lambda-study-group/dicionario-termos-funcionais](https://github.com/lambda-study-group/dicionario-termos-funcionais) - Dicionario de termos funcionais traduzidos
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [ansible/ansible-sdk](https://github.com/ansible/ansible-sdk) - The Ansible SDK
@@ -6815,7 +6817,7 @@
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
 - [coleifer/flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
-- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
@@ -7046,6 +7048,7 @@
 - [anyaudio/web](https://github.com/anyaudio/web) - [Inactive] A free, open source music player
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [globocom/megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 
 ## redux 
 
@@ -7100,6 +7103,7 @@
 
 ## rust 
 
+- [bennetthardwick/rust-obs-plugins](https://github.com/bennetthardwick/rust-obs-plugins) - A safe wrapper around the OBS API, useful for creating OBS sources, filters and effects.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -7146,6 +7150,7 @@
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL.
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [poc] A Python package manager written in Rust inspired by Cargo.
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
@@ -7917,6 +7922,7 @@
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook) - :book: Um livro escrito em português sobre o editor de texto Vim
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
 - [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
