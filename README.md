@@ -3825,7 +3825,7 @@
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
 - [jgorset/django-shortcuts](https://github.com/jgorset/django-shortcuts) - You spend too much time typing "python manage.py"
 - [radiac/django-yarr](https://github.com/radiac/django-yarr) - A lightweight customisable RSS reader for Django.
-- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [pjwerneck/ptpy](https://github.com/pjwerneck/ptpy) - Python em Português
 - [philippWassibauer/templated-emails](https://github.com/philippWassibauer/templated-emails) - A simple app (that works similar to django-notification) that allows you to send emails by specifying a short.txt (subject), email.txt (plain text), and email.html (html email, optional) in a folder. 
 - [henriquebastos/django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
