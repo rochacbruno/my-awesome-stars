@@ -110,6 +110,7 @@
 
 ## C 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of "NCurses Disk Usage"
 - [otherJL0/tree-sitter-hurl](https://github.com/otherJL0/tree-sitter-hurl) - Tree-sitter grammar for Hurl
 - [andykitchen/swcursor](https://github.com/andykitchen/swcursor) - Large software cursor for screen recording on X11
@@ -1508,6 +1509,7 @@
 
 ## Others 
 
+- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
@@ -3363,7 +3365,7 @@
 - [sublime-emacs/sublemacspro](https://github.com/sublime-emacs/sublemacspro) - Emacs Pro Essentials brings the most common emacs features and key bindings that you love to Sublime Text. The kill and mark rings, i-search, registers, numeric arguments, and cursor motion commands f
 - [justinabrahms/imhotep](https://github.com/justinabrahms/imhotep) - A static-analysis bot for Github
 - [omaciel/fauxfactory](https://github.com/omaciel/fauxfactory) - Generates random data for your tests.
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [rachelsanders/Flask-FeatureFlags](https://github.com/rachelsanders/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration.
 - [undercase/FlappyKivy](https://github.com/undercase/FlappyKivy) - Flappy Bird clone programming in Python + Kivy!
 - [bouncer-app/flask-bouncer](https://github.com/bouncer-app/flask-bouncer) - Flask declarative authorization
@@ -4099,6 +4101,10 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
+- [viniciusfonseca/caramuru](https://github.com/viniciusfonseca/caramuru) - 
+- [reu/rinha-compiladores](https://github.com/reu/rinha-compiladores) - rinha-compiladores
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
@@ -4735,6 +4741,7 @@
 
 ## Shell 
 
+- [joepvd/zsh-hints](https://github.com/joepvd/zsh-hints) - Easily display non-completable trivia right under your editing buffer
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [Fmstrat/samba-domain](https://github.com/Fmstrat/samba-domain) - Samba Active Directory Domain Controller for Docker
