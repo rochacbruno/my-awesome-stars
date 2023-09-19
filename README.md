@@ -428,6 +428,7 @@
 
 ## Go 
 
+- [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
@@ -1867,7 +1868,7 @@
 - [cosmicpb/FascistFree](https://github.com/cosmicpb/FascistFree) - 
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
-- [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A Python tool to unstrip Rust/Go binaries on Linux
+- [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [carlos-rian/fastapi-handler](https://github.com/carlos-rian/fastapi-handler) - 
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
@@ -4027,7 +4028,7 @@
 - [lfagundes/oosheet](https://github.com/lfagundes/oosheet) - OpenOffice.org Spreadsheet scripting and macros made easy with Python
 - [etianen/moody-templates](https://github.com/etianen/moody-templates) - A fast, extensible templating engine for Python 3 with Django-like syntax.
 - [omab/django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [marcelcaraciolo/crab](https://github.com/marcelcaraciolo/crab) - Crab - A  recommendation engine library for Python
 - [seb-m/pyinotify](https://github.com/seb-m/pyinotify) - Monitoring filesystems events with inotify on Linux.
 - [douglascamata/web2pyrecipe](https://github.com/douglascamata/web2pyrecipe) - A recipe for using web2py with Buildout
