@@ -497,7 +497,7 @@
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
-- [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -4066,7 +4066,7 @@
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
 - [kmarekspartz/yapl](https://github.com/kmarekspartz/yapl) - YAml Programming Language
 - [negrosdev/negros.dev](https://github.com/negrosdev/negros.dev) - Official repository of negros.dev
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [uroesch/asciidoctor-pdf-tutorial-theme](https://github.com/uroesch/asciidoctor-pdf-tutorial-theme) - asciidoctor-pdf theme for technical tutorials
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
