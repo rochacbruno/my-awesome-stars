@@ -582,7 +582,7 @@
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [FiloSottile/Heartbleed](https://github.com/FiloSottile/Heartbleed) - A checker (site and tool) for CVE-2014-0160
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [rakyll/boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
@@ -4105,6 +4105,7 @@
 
 ## Rust 
 
+- [MrCasCode/log-analyzer-pro](https://github.com/MrCasCode/log-analyzer-pro) - 
 - [eburghar/kakpipe](https://github.com/eburghar/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -4959,7 +4960,7 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [yiblet/inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
-- [build-with-me/vscode-twitch-themer](https://github.com/build-with-me/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
+- [MichaelJolley/vscode-twitch-themer](https://github.com/MichaelJolley/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) - 📚 Functions and algorithms implemented purely with TypeScript's type system
 - [codigofalado/twitch-giphy](https://github.com/codigofalado/twitch-giphy) - Um chatbot para Twitch que integra a API do GIPHY, fazendo com que hashtags no chat da Twitch virem GIFs na Live :)
