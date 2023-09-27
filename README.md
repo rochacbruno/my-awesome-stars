@@ -1514,6 +1514,7 @@
 
 ## Others 
 
+- [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
@@ -4110,6 +4111,7 @@
 
 ## Rust 
 
+- [jb--/lychpy](https://github.com/jb--/lychpy) - Unofficial Python bindings for Lychee
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [MrCasCode/log-analyzer-pro](https://github.com/MrCasCode/log-analyzer-pro) - 
 - [eburghar/kakpipe](https://github.com/eburghar/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
