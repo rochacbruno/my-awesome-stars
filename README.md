@@ -1826,6 +1826,7 @@
 
 ## Python 
 
+- [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services that interact with event streams such as Apache Kafka and RabbitMQ.
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [pedro-psb/history-runner](https://github.com/pedro-psb/history-runner) - Quickly run any command across different git tags.
@@ -2603,7 +2604,7 @@
 - [ej-f/orquesta](https://github.com/ej-f/orquesta) - An open source automation tool for remote terminal operations
 - [reddit/baseplate.py](https://github.com/reddit/baseplate.py) - reddit's python service framework
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
-- [gaojiuli/gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
+- [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
 - [treethought/flask-assistant](https://github.com/treethought/flask-assistant) - Framework for Building Virtual Assistants with Dialogflow and python
 - [larryhastings/gilectomy](https://github.com/larryhastings/gilectomy) - Gilectomy branch of CPython.  Use "gilectomy" branch in git.  Read the important, short README below!
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
