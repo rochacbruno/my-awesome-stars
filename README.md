@@ -972,7 +972,6 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor under 10kB
-- [wysiwygjs/wysiwyg.js](https://github.com/wysiwygjs/wysiwyg.js) - wysiwyg contenteditable editor (minified+compression: 6kb)
 - [cheeaun/mooeditable](https://github.com/cheeaun/mooeditable) - [DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
 - [Waxolunist/bootstrap3-wysihtml5-bower](https://github.com/Waxolunist/bootstrap3-wysihtml5-bower) - Simple, beautiful wysiwyg editor
 - [jhollingworth/bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
@@ -1831,7 +1830,7 @@
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [pedro-psb/history-runner](https://github.com/pedro-psb/history-runner) - Quickly run any command across different git tags.
 - [irsl/curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
-- [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: a python REPL with an integrated LLM agent
+- [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - Simplify your video editing workflow with Python 📹
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - WIP: Sample serverless application written in Python
@@ -4734,7 +4733,7 @@
 - [marcelogumercinocosta/django-garb](https://github.com/marcelogumercinocosta/django-garb) - Modern theme for Django admin interface
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [BraveUX/for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - Badges for badges' sake.
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 
