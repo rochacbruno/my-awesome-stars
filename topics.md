@@ -22,6 +22,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -529,6 +530,15 @@
 - [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [cburmeister/flask-bones](https://github.com/cburmeister/flask-bones) - An example of a large scale Flask application using blueprints and extensions.
 
+## backend 
+
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
+- [FFY00/trampolim](https://github.com/FFY00/trampolim) - A modern Python build backend
+- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
 ## bash 
 
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -673,6 +683,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cuducos/ezz](https://github.com/cuducos/ezz) - 🎦 ezz is a simple CLI tool to schedule Zoom meetings
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
@@ -693,7 +704,7 @@
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1528,7 +1539,7 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
@@ -2450,6 +2461,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -3194,6 +3206,7 @@
 
 ## others 
 
+- [AdrianPayne/fastapi-rocket-boilerplate](https://github.com/AdrianPayne/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
 - [jb--/lychpy](https://github.com/jb--/lychpy) - Unofficial Python bindings for Lychee
 - [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
@@ -3211,7 +3224,7 @@
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
 - [metafates/buffer-language-server](https://github.com/metafates/buffer-language-server) - 💬 LSP that can autocomplete words found in the opened buffer
-- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion for Helix editor
+- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
@@ -3631,6 +3644,7 @@
 - [karlamagueta/pablito](https://github.com/karlamagueta/pablito) - to a toa
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
@@ -6246,7 +6260,7 @@
 - [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
 - [betodealmeida/shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [fluentpython/lispy](https://github.com/fluentpython/lispy) - Learning with Peter Norvig's lis.py interpreter
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
@@ -7825,7 +7839,7 @@
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Szymongib/bookmark](https://github.com/Szymongib/bookmark) - Save your favourite URLs from the comfort of your terminal and open them quickly in the browser.
