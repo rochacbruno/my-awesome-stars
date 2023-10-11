@@ -439,6 +439,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [laubstein/galaxy-light](https://github.com/laubstein/galaxy-light) - Ansible Galaxy server alternative
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -484,6 +485,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [andygeiss/ecs](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [tducasse/go-instabot](https://github.com/tducasse/go-instabot) - Automatically follow, like, and comment on instagram
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -1827,6 +1829,7 @@
 
 ## Python 
 
+- [AdrianPayne/fastapi-rocket-boilerplate](https://github.com/AdrianPayne/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷
@@ -2069,7 +2072,7 @@
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [RedHatQE/teflo_examples](https://github.com/RedHatQE/teflo_examples) - Examples on how to use Teflo
 - [RedHatQE/teflo](https://github.com/RedHatQE/teflo) - Teflo is a standalone orchestration software that controls the flow of a set of testing scenarios, allowing users to provision machines, deploy software, execute tests against them and manage generate
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [ballet/ballet](https://github.com/ballet/ballet) - ☀️🦶 A lightweight framework for collaborative, open-source feature engineering
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
@@ -4134,7 +4137,7 @@
 - [tomgroenwoldt/helix-shortcut-quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) - Learn the helix editor keymap on the web!
 - [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
 - [metafates/buffer-language-server](https://github.com/metafates/buffer-language-server) - 💬 LSP that can autocomplete words found in the opened buffer
-- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion for Helix editor
+- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bennetthardwick/rust-obs-plugins](https://github.com/bennetthardwick/rust-obs-plugins) - A safe wrapper around the OBS API, useful for creating OBS sources, filters and effects.
