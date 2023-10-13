@@ -1087,7 +1087,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool
@@ -1226,7 +1226,7 @@
 - [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
@@ -1918,12 +1918,11 @@
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [bnjjj/twelf](https://github.com/bnjjj/twelf) - Twelf is a configuration solution for Rust including 12-Factor support. It is designed with layers in order to configure different sources and formats to build your configuration. The main goal is to 
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [devpt-org/discord-bot](https://github.com/devpt-org/discord-bot) - Uma experiência colaborativa construindo um  BotDiscord devPT utilizando Hexagonal Arch
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
@@ -1962,6 +1961,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [VaultVulp/dypendence](https://github.com/VaultVulp/dypendence) - Dependency Injection over Dynaconf
 - [fao89/groot](https://github.com/fao89/groot) - The coolest guardian of the galaxy!
 - [dflook/python-minifier](https://github.com/dflook/python-minifier) - Transform Python source code into its most compact representation
@@ -2529,7 +2529,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -3170,6 +3170,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [RespiradorHacker/camara-descontaminacao-ar](https://github.com/RespiradorHacker/camara-descontaminacao-ar) - Câmara de descontaminação de ar
 - [gita/BhagavadGita](https://github.com/gita/BhagavadGita) - A non-profit initiative to help spread the transcendental wisdom from the Bhagavad Gita to people around the world.
+- [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -3206,7 +3207,7 @@
 
 ## others 
 
-- [AdrianPayne/fastapi-rocket-boilerplate](https://github.com/AdrianPayne/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
 - [jb--/lychpy](https://github.com/jb--/lychpy) - Unofficial Python bindings for Lychee
 - [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
@@ -3361,6 +3362,7 @@
 - [QuineDot/rust-snags](https://github.com/QuineDot/rust-snags) - Gotchas and warts in Rust Lang
 - [jctanner/hub-backport-analyzer](https://github.com/jctanner/hub-backport-analyzer) - linting for hub jira+PR backports
 - [Electron100/butane](https://github.com/Electron100/butane) - An ORM for Rust with a focus on simplicity and on writing Rust, not SQL
+- [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -7199,6 +7201,7 @@
 
 ## rust 
 
+- [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [eburghar/kakpipe](https://github.com/eburghar/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
