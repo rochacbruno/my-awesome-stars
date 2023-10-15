@@ -248,6 +248,7 @@
 
 ## CSS 
 
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - Quickly test Common Expression Language (CEL)
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [ansible-community/sphinx_ansible_theme](https://github.com/ansible-community/sphinx_ansible_theme) - A reusable Ansible Sphinx Theme
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
@@ -430,6 +431,7 @@
 
 ## Go 
 
+- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -558,7 +560,7 @@
 - [jonathansp/guess-language](https://github.com/jonathansp/guess-language) - Guess the natural language of a text (idiom).
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [raelmax/cook](https://github.com/raelmax/cook) - A simple command line application to generate projects from templates.
