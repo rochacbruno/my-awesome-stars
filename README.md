@@ -1874,7 +1874,7 @@
 - [pytest-dev/iniconfig](https://github.com/pytest-dev/iniconfig) - 
 - [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [HewlettPackard/squest](https://github.com/HewlettPackard/squest) - Service request portal on top of Ansible Tower/AWX
-- [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - Implementation of Redis in python. fully compatible with using redis-py.
+- [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - Implementation of Redis in python without having a Redis server running. Fully compatible with using redis-py.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [taskipy/taskipy](https://github.com/taskipy/taskipy) - the complementary task runner for python
 - [code-specialist/fastapi-auth-middleware](https://github.com/code-specialist/fastapi-auth-middleware) - Lightweight auth middleware for FastAPI that just works. Fits most auth workflows with only a few lines of code
@@ -2612,7 +2612,6 @@
 - [renzon/blackjack-python](https://github.com/renzon/blackjack-python) - A Simple version of Black Jack game in python
 - [JoseTomasTocino/yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [rrajaravi/anyserv](https://github.com/rrajaravi/anyserv) - Get a full fake REST API with zero coding
 - [Carreau/ftuple](https://github.com/Carreau/ftuple) - Mostly a Joke. This is not a serious project. Or is it....
 - [ej-f/orquesta](https://github.com/ej-f/orquesta) - An open source automation tool for remote terminal operations
@@ -4125,6 +4124,7 @@
 
 ## Rust 
 
+- [adwhit/diesel-derive-enum](https://github.com/adwhit/diesel-derive-enum) - Use enums with Diesel ORM
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft) - An implementation of Raft in Rust.
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
