@@ -1317,6 +1317,7 @@
 
 ## Jupyter Notebook 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An open framework for Federated Learning.
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
@@ -1529,7 +1530,6 @@
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [apyb/comunidade](https://github.com/apyb/comunidade) - Espaço para discussão da comunidade em torno da APyB
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [karlamagueta/karlamagueta](https://github.com/karlamagueta/karlamagueta) - 
@@ -1835,6 +1835,7 @@
 
 ## Python 
 
+- [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
@@ -1918,7 +1919,7 @@
 - [samwillis/tetra](https://github.com/samwillis/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [allisson/fastqueue](https://github.com/allisson/fastqueue) - Simple queue system based on FastAPI and PostgreSQL
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
+- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [jaraco/jaraco.crypto](https://github.com/jaraco/jaraco.crypto) - 
@@ -2047,7 +2048,7 @@
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
 - [adriendelsalle/fps](https://github.com/adriendelsalle/fps) - fast pluggable server (experimental)
 - [andressadotpy/dangled](https://github.com/andressadotpy/dangled) - DNS monitoring system built with Python.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [digitronik/miqsel](https://github.com/digitronik/miqsel) - ManageIQ Selenium Containerize Server
 - [ansible-collections/community.internal_test_tools](https://github.com/ansible-collections/community.internal_test_tools) - Internal only, not for end users
 - [sanitizers/patchback-github-app](https://github.com/sanitizers/patchback-github-app) - 
