@@ -536,7 +536,7 @@
 ## backend 
 
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [FFY00/trampolim](https://github.com/FFY00/trampolim) - A modern Python build backend
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
@@ -1152,7 +1152,7 @@
 - [rennerocha/mediafeed](https://github.com/rennerocha/mediafeed) - Web application to help categorize and aggregate subscriptions of media channels for easy access. (working only with Youtube channels at this moment)
 - [tiagocordeiro/djmenu](https://github.com/tiagocordeiro/djmenu) - Django food menu. A simple solution for restaurants and pizzerias.
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django) - A Django plugin for pytest.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -1260,7 +1260,7 @@
 - [HorusGoul/rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, Facebook, and/or Periscope at the same time? That's what this project allows you to do!
 - [pulp/pulp-oci-images](https://github.com/pulp/pulp-oci-images) - Containerfiles and other assets for building Pulp 3 OCI images
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [oracle/railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
@@ -1449,7 +1449,7 @@
 - [rantav/flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A Swagger spec extractor for flask-restful
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [guokr/swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Flask, Tornado, Falcon, Sanic
 - [wiltonsr/Flask-Toastr](https://github.com/wiltonsr/Flask-Toastr) - Showing non-blocking notifications with Flask's flash and toastr.
 - [rochacbruno/talkshow](https://github.com/rochacbruno/talkshow) - A Call 4 Papers System - A simple base app as example of Flask Architecture
@@ -1741,8 +1741,9 @@
 
 ## go 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis Desktop Manager
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [undistro/cel-playground](https://github.com/undistro/cel-playground) - Quickly test Common Expression Language (CEL)
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
@@ -1800,8 +1801,9 @@
 
 ## golang 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis Desktop Manager
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [undistro/cel-playground](https://github.com/undistro/cel-playground) - Quickly test Common Expression Language (CEL)
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -1893,10 +1895,9 @@
 ## hacktoberfest 
 
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
-- [undistro/cel-playground](https://github.com/undistro/cel-playground) - Quickly test Common Expression Language (CEL)
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷
@@ -1954,7 +1955,6 @@
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [cassiobotaro/modeloC4](https://github.com/cassiobotaro/modeloC4) - 📏Modelo C4 para documentação de arquiteturas
@@ -1967,7 +1967,7 @@
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [JamesIves/github-sponsors-readme-action](https://github.com/JamesIves/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [ansible-collections/community.internal_test_tools](https://github.com/ansible-collections/community.internal_test_tools) - Internal only, not for end users
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [sanitizers/patchback-github-app](https://github.com/sanitizers/patchback-github-app) - 
@@ -2980,6 +2980,7 @@
 
 ## monitoring 
 
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
@@ -3085,7 +3086,6 @@
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
@@ -3243,6 +3243,7 @@
 
 ## others 
 
+- [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
 - [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
@@ -6218,7 +6219,7 @@
 - [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the awesome walrus operator
 - [samwillis/tetra](https://github.com/samwillis/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
+- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An open framework for Federated Learning.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -6295,7 +6296,7 @@
 - [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [willmcgugan/asyncchat](https://github.com/willmcgugan/asyncchat) - Short example of how to implement Python's async from scratchw
 - [usagitoneko97/klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
@@ -6404,7 +6405,7 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [guokr/swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Flask, Tornado, Falcon, Sanic
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -7037,7 +7038,7 @@
 - [sivakov512/python-markdown-full-yaml-metadata](https://github.com/sivakov512/python-markdown-full-yaml-metadata) - YAML metadata extension for Python-Markdown
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [NexInfinite/whython](https://github.com/NexInfinite/whython) - An almost fully customizable language made in python!
@@ -7349,7 +7350,7 @@
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
@@ -7403,6 +7404,7 @@
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another generic purpose fancy watcher.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [alexkehayias/woz](https://github.com/alexkehayias/woz) - Woz is a progressive WebAssembly app (PWAA) generator for Rust.
@@ -7737,7 +7739,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [kennethreitz/bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
@@ -8130,7 +8132,7 @@
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -8148,6 +8150,7 @@
 
 ## vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis Desktop Manager
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
@@ -8184,6 +8187,7 @@
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
