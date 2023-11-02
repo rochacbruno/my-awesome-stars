@@ -829,7 +829,7 @@
 
 ## JavaScript 
 
-- [undistro/cel-playground](https://github.com/undistro/cel-playground) - Quickly test Common Expression Language (CEL)
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
@@ -2259,7 +2259,7 @@
 - [Arfafa/ThisApiDoesNotExist](https://github.com/Arfafa/ThisApiDoesNotExist) - Api não oficial das páginas thispersondoesnotexist e thiscatdoesnotexist
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [Katello/pulp-katello](https://github.com/Katello/pulp-katello) - Plugins useful for katello interatctions with pulp
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [python-poetry/semver](https://github.com/python-poetry/semver) - A semantic versioning library for Python
 - [guokr/swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Flask, Tornado, Falcon, Sanic
@@ -4364,7 +4364,7 @@
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another generic purpose fancy watcher.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
@@ -5098,6 +5098,7 @@
 
 ## Vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis Desktop Manager
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CodingGarden/sproutkit](https://github.com/CodingGarden/sproutkit) - Apps and Components for Twitch Overlays
