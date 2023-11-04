@@ -4130,6 +4130,7 @@
 
 ## Rust 
 
+- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
@@ -4835,7 +4836,7 @@
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. Report Portal starts here - see readme below.
+- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. ReportPortal starts here - see readme below.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
