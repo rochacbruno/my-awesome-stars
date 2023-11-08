@@ -893,6 +893,7 @@
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
@@ -1835,6 +1836,8 @@
 
 ## Python 
 
+- [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
+- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
@@ -3129,7 +3132,6 @@
 - [smartfastlabs/equals](https://github.com/smartfastlabs/equals) - Fuzzy equality objects for testing, a stricter version of Mock.Any.
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [rtluckie/seria](https://github.com/rtluckie/seria) - 
-- [paypal/support](https://github.com/paypal/support) - An evented server framework designed for building scalable and introspectable services, built at PayPal.
 - [hhuuggoo/thedoctor](https://github.com/hhuuggoo/thedoctor) - python function input validation
 - [zachwill/moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
@@ -4130,6 +4132,7 @@
 
 ## Rust 
 
+- [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
@@ -4874,7 +4877,7 @@
 - [ekohl/ownca](https://github.com/ekohl/ownca) - Set of scripts for generating custom ca and signed certs: devel only
 - [meltwater/docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
-- [redhat-performance/satperf](https://github.com/redhat-performance/satperf) - Collection of Automation/Tools for Performance Analysis/Testing of Satelitte6
+- [redhat-performance/satperf](https://github.com/redhat-performance/satperf) - Collection of Automation/Tools for Performance Analysis/Testing of Satelite 6
 - [lzap/snap-guest](https://github.com/lzap/snap-guest) - Bash script for quick provisioning of copy-on-write KVM guests
 - [fsouza/elasticmq-docker](https://github.com/fsouza/elasticmq-docker) - 
 - [luzfcb/playbooks](https://github.com/luzfcb/playbooks) - My personal Ansible playbooks
@@ -5019,7 +5022,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -5101,7 +5103,7 @@
 ## Vue 
 
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
-- [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
+- [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CodingGarden/sproutkit](https://github.com/CodingGarden/sproutkit) - Apps and Components for Twitch Overlays
 - [codigofalado/obs-countdown](https://github.com/codigofalado/obs-countdown) - Tela de Countdown para Streams
