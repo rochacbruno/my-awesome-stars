@@ -71,7 +71,6 @@
 - [Smarty](#smarty)
 - [Starlark](#starlark)
 - [TSQL](#tsql)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -1552,7 +1551,7 @@
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [razevedo1994/data_engineer_roadmap](https://github.com/razevedo1994/data_engineer_roadmap) - Personal roadmap to guide my studies.
-- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
+- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
 - [jupjohn/awesome-twitch-stuff](https://github.com/jupjohn/awesome-twitch-stuff) - A list of awesome Twitch/streaming-related tools
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [cassiobotaro/awesome-python-modules-as-script](https://github.com/cassiobotaro/awesome-python-modules-as-script) - :neckbeard: Catalogue of useful python modules that run as script.
@@ -1865,7 +1864,7 @@
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [CaravanaCloud/up](https://github.com/CaravanaCloud/up) - Unified and Pluggable CLI
 - [fabiocaccamo/django-redirects](https://github.com/fabiocaccamo/django-redirects) - :arrow_right_hook: :white_check_mark: redirects as they should be, with full control.
-- [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive SSR Python Web Framework for Front-End Applications
+- [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [matheus-feu/dynaconf-example](https://github.com/matheus-feu/dynaconf-example) - 
 - [adamchainz/unittest-parametrize](https://github.com/adamchainz/unittest-parametrize) - Parametrize tests within unittest TestCases.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -2109,6 +2108,7 @@
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
 - [untitaker/pytest-subtesthack](https://github.com/untitaker/pytest-subtesthack) - A hack to explicitly set up and tear down fixtures.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
+- [honghaier-game/PyMe](https://github.com/honghaier-game/PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
 - [asottile/reorder-python-imports](https://github.com/asottile/reorder-python-imports) - Rewrites source to reorder python imports
 - [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
 - [vsajip/py-cfg-lib](https://github.com/vsajip/py-cfg-lib) - A Python library for working with the CFG configuration format.
@@ -4113,7 +4113,6 @@
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [pascalj/disgo](https://github.com/pascalj/disgo) - Comment hosting with Go
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
@@ -4133,6 +4132,7 @@
 
 ## Rust 
 
+- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
@@ -4907,6 +4907,7 @@
 - [qw3rtman/p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
 - [enotodden/turbo-virtual-env](https://github.com/enotodden/turbo-virtual-env) - A simple script to install Turbo and LuaJIT in a self-contained directory.
 - [delacruz-dev/rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [dmvieira/web2py-migrate](https://github.com/dmvieira/web2py-migrate) - Easy web2py database migration workflow and scaffolding for continuous integration or just version control
 - [octohost/octohost](https://github.com/octohost/octohost) - Simple web focused Dockerfile based PaaS server.
 - [fabriziofortino/orientdb-servicewrapper](https://github.com/fabriziofortino/orientdb-servicewrapper) - A service wrapper on top of OrientDB https://github.com/orientechnologies/orientdb
@@ -4941,10 +4942,6 @@
 
 - [lihaoyi/macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
 
-## Tcl 
-
-- [honghaier-game/PyMe](https://github.com/honghaier-game/PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
-
 ## TeX 
 
 - [laboon/ebook](https://github.com/laboon/ebook) - Software Testing ebook
@@ -4956,6 +4953,7 @@
 
 ## TypeScript 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
