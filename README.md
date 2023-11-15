@@ -109,6 +109,7 @@
 
 ## C 
 
+- [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of "NCurses Disk Usage"
@@ -1071,7 +1072,6 @@
 - [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [mbi/django-front](https://github.com/mbi/django-front) - Django-front is a front-end editing Django application
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [abilian/abilian-core](https://github.com/abilian/abilian-core) - Abilian Core framework and services
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
@@ -1835,6 +1835,7 @@
 
 ## Python 
 
+- [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
@@ -3536,6 +3537,7 @@
 - [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - 🐍🐳 Python module to manage Digital Ocean droplets
 - [rbp/configtamer](https://github.com/rbp/configtamer) - A configuration file format and parser. An alternative to Python's configparser
 - [jhmaddox/django-precompressed](https://github.com/jhmaddox/django-precompressed) - precompressed is a pluggable application for Django developers who want to serve precompressed (gzipped) static files.
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [percolate/redset](https://github.com/percolate/redset) - A Redis-backed sorted set useful for coordinating distributed work.
 - [Zulko/picnic.py](https://github.com/Zulko/picnic.py) - Easy Python packages creation.
 - [aaugustin/django-transaction-signals](https://github.com/aaugustin/django-transaction-signals) - Transaction signals for Django. Don't miss the README!
@@ -3543,7 +3545,7 @@
 - [noamraph/tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
 - [ntucker/django-recaptcha-form](https://github.com/ntucker/django-recaptcha-form) - Provides form widgets and class mixin for django newforms. This allows adding a recaptcha test to any django form.
-- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
+- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [morepath/morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [yasoob/logit-bin](https://github.com/yasoob/logit-bin) - A simple pastebin in Flask. Implements basic Authentication and uses WTForms and Flask-Sqlalchemy.
@@ -4132,6 +4134,8 @@
 
 ## Rust 
 
+- [Peperworx/fluxion](https://github.com/Peperworx/fluxion) - Fluxion is an actor framework designed with distributed systems in mind, namely sending messages not just between actors, but also between systems.
+- [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models.
