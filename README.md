@@ -213,7 +213,6 @@
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [microsoft/Pyjion](https://github.com/microsoft/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [skx/kilua](https://github.com/skx/kilua) - A minimal text-editor with lua scripting.
 - [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
@@ -1835,6 +1834,7 @@
 
 ## Python 
 
+- [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
@@ -2052,7 +2052,7 @@
 - [adriendelsalle/fps](https://github.com/adriendelsalle/fps) - fast pluggable server (experimental)
 - [andressadotpy/dangled](https://github.com/andressadotpy/dangled) - DNS monitoring system built with Python.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
-- [digitronik/miqsel](https://github.com/digitronik/miqsel) - ManageIQ Selenium Containerize Server
+- [digitronik/miqsel](https://github.com/digitronik/miqsel) - Selenium Containerize Server
 - [ansible-collections/community.internal_test_tools](https://github.com/ansible-collections/community.internal_test_tools) - Internal only, not for end users
 - [sanitizers/patchback-github-app](https://github.com/sanitizers/patchback-github-app) - 
 - [asweigart/pwinput](https://github.com/asweigart/pwinput) - A cross-platform Python module that displays **** for password input. Works on Windows, unlike getpass. Formerly called stdiomask.
@@ -2238,7 +2238,7 @@
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mshriver/something_framework](https://github.com/mshriver/something_framework) - A skeleton framework for discussion of pytest framework design
-- [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
 - [jquast/blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [olist/hulks](https://github.com/olist/hulks) - Olist custom linting hooks :green_heart: :alien:
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
@@ -4762,6 +4762,7 @@
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fengsp/pencil](https://github.com/fengsp/pencil) - A web application microframework for Rust
 - [erickt/rust-elasticsearch](https://github.com/erickt/rust-elasticsearch) - Rust library to interact with ElasticSearch
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -4966,7 +4967,7 @@
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible) - vscode/vscodium extension for providing Ansible auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.
 - [nacmartin/manitas](https://github.com/nacmartin/manitas) - Move your fingers in the air to interact with a computer ☝️☝️
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync your .env files between machines, environments, and team members. From the same people that pioneered dotenv.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
