@@ -429,6 +429,7 @@
 
 ## Go 
 
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
@@ -1408,7 +1409,7 @@
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
@@ -1834,6 +1835,7 @@
 
 ## Python 
 
+- [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
@@ -2347,7 +2349,7 @@
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [omkarkhatavkar/jirasync](https://github.com/omkarkhatavkar/jirasync) - This CLI tool to sync and track GitHub issues, pr's, pr_reviews with Jira.   Currently supported to only for create, update and close status.
 - [RedHatQE/ouia](https://github.com/RedHatQE/ouia) - The Open UI Automation Standard
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [peterjc/flake8-black](https://github.com/peterjc/flake8-black) - flake8 plugin to run black for checking Python coding style
 - [SatelliteQE/airgun](https://github.com/SatelliteQE/airgun) - AirGun is a Python library that is built over Widgetastic and navmazing to make Satellite 6 UI testing easier.
 - [openstack/openstacksdk](https://github.com/openstack/openstacksdk) - Unified SDK for OpenStack. Mirror of code maintained at opendev.org.
@@ -2968,7 +2970,7 @@
 - [deepgully/me](https://github.com/deepgully/me) - Personal website powered by Flask, supports GAE, SAE and BAE.
 - [pyparallel/pyparallel](https://github.com/pyparallel/pyparallel) - Experimental multicore fork of Python 3
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [Leviathan1995/Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
+- [strings1110/Pylsy](https://github.com/strings1110/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [habnabit/vcversioner](https://github.com/habnabit/vcversioner) - take version numbers from version control
 - [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Shamelessly convert any Python 2 script into a terrible single line of code
@@ -4759,7 +4761,7 @@
 - [johannhof/pipeline.rs](https://github.com/johannhof/pipeline.rs) - :umbrella: =&gt; :partly_sunny: =&gt; :sunny:
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
