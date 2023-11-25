@@ -2047,7 +2047,6 @@
 - [blurg/sauron-engine](https://github.com/blurg/sauron-engine) - One engine to rule them all
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [SatelliteQE/airgun](https://github.com/SatelliteQE/airgun) - AirGun is a Python library that is built over Widgetastic and navmazing to make Satellite 6 UI testing easier.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
@@ -3250,6 +3249,7 @@
 
 ## others 
 
+- [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [codeshow/one-minute](https://github.com/codeshow/one-minute) - Dicas rápidas sobre Python
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
