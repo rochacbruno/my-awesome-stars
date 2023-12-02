@@ -884,7 +884,7 @@
 
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [s3rvac/blog](https://github.com/s3rvac/blog) - Source code and other material for my blog posts.
@@ -1493,7 +1493,6 @@
 - [enginebai/PyMessager](https://github.com/enginebai/PyMessager) - Python API to develop chatbot on Facebook Messenger Platform
 - [sloria/flask-konch](https://github.com/sloria/flask-konch) - An improved shell command for the Flask CLI
 - [sunary/flask-optimize](https://github.com/sunary/flask-optimize) - Flask optimization: cache, minify html and gzip response
-- [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [gouthambs/Flask-Blogging](https://github.com/gouthambs/Flask-Blogging) - A Markdown Based Python Blog Engine as a Flask Extension.
 - [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
 - [derkan/flask-locale](https://github.com/derkan/flask-locale) - Implements i18n and l10n support for Flask.
@@ -1568,7 +1567,7 @@
 - [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2052,7 +2051,6 @@
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python3 library for multimedia functions at the command terminal
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [wiltonsr/Flask-Toastr](https://github.com/wiltonsr/Flask-Toastr) - Showing non-blocking notifications with Flask's flash and toastr.
@@ -3249,6 +3247,7 @@
 
 ## others 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [codeshow/one-minute](https://github.com/codeshow/one-minute) - Dicas rápidas sobre Python
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
@@ -6209,7 +6208,7 @@
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - Simplify your video editing workflow with Python 📹
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - This project covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit 
@@ -7135,7 +7134,6 @@
 - [SatelliteQE/betelgeuse](https://github.com/SatelliteQE/betelgeuse) - Betelgeuse reads standard Python test cases and offers tools   to interact with Polarion.
 - [renanivo/with](https://github.com/renanivo/with) - A shell context manager
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-- [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [gouthambs/Flask-Blogging](https://github.com/gouthambs/Flask-Blogging) - A Markdown Based Python Blog Engine as a Flask Extension.
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
@@ -7188,7 +7186,7 @@
 
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
-- [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 ## react 
@@ -7251,7 +7249,6 @@
 - [marioidival/goga](https://github.com/marioidival/goga) - A fully RESTful API from any existing PostgreSQL database written in Rust
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
-- [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [circuits/circuits](https://github.com/circuits/circuits) - circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
