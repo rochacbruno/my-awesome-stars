@@ -3516,7 +3516,7 @@
 - [codysoyland/django-phased](https://github.com/codysoyland/django-phased) - Simple two-phase template rendering application useful for caching of authenticated requests
 - [Ink/python-instagram](https://github.com/Ink/python-instagram) - Python Client for Instagram API
 - [renzon/tekton-micro](https://github.com/renzon/tekton-micro) - Python Microarchitecture for routing web application by convention
-- [GetBlimp/django-websocket-request](https://github.com/GetBlimp/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
+- [blimpio/django-websocket-request](https://github.com/blimpio/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
 - [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [neyer/snout](https://github.com/neyer/snout) - django url pattern generation via inspection
@@ -4962,6 +4962,7 @@
 
 ## TypeScript 
 
+- [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
