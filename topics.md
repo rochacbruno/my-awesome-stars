@@ -5239,7 +5239,7 @@
 - [billyyarosh/Bootstrap-Clean-Dashboard-Theme](https://github.com/billyyarosh/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
 - [Ink/python-instagram](https://github.com/Ink/python-instagram) - Python Client for Instagram API
 - [renzon/tekton-micro](https://github.com/renzon/tekton-micro) - Python Microarchitecture for routing web application by convention
-- [GetBlimp/django-websocket-request](https://github.com/GetBlimp/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
+- [blimpio/django-websocket-request](https://github.com/blimpio/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
 - [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [neyer/snout](https://github.com/neyer/snout) - django url pattern generation via inspection
@@ -6200,6 +6200,7 @@
 
 ## python 
 
+- [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
@@ -7191,6 +7192,7 @@
 
 ## react 
 
+- [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
