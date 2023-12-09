@@ -371,7 +371,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -779,6 +779,7 @@
 
 ## Handlebars 
 
+- [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles) - 
 - [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/master
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
@@ -1560,7 +1561,6 @@
 - [TheZoq2/ferris](https://github.com/TheZoq2/ferris) - Variations of Ferris, the rust mascot
 - [luisvonmuller/Esta-Semana-Em-Rust](https://github.com/luisvonmuller/Esta-Semana-Em-Rust) - Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust".
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles) - 
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [dunossauro/guia-de-estilo-python](https://github.com/dunossauro/guia-de-estilo-python) - Tradução das propostas de melhoria do python referentes a estilo de código (PEP-8) e docstrings (PEP-257)
 - [simonw/datasette-plugin-template-repository](https://github.com/simonw/datasette-plugin-template-repository) - GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
@@ -1837,6 +1837,9 @@
 
 ## Python 
 
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [codeshow/one-minute](https://github.com/codeshow/one-minute) - Dicas rápidas sobre Python
@@ -1993,7 +1996,7 @@
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [rhuygen/textualog](https://github.com/rhuygen/textualog) - Display, filter and search log messages in your terminal
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
@@ -4140,6 +4143,9 @@
 
 ## Rust 
 
+- [film42/sidekiq-rs](https://github.com/film42/sidekiq-rs) - A port of sidekiq to rust using tokio
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
 - [Peperworx/fluxion](https://github.com/Peperworx/fluxion) - Fluxion is an actor framework designed with distributed systems in mind, namely sending messages not just between actors, but also between systems.
 - [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
@@ -4382,7 +4388,7 @@
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another generic purpose fancy watcher.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
@@ -4505,7 +4511,7 @@
 - [jniltinho/cli-linux](https://github.com/jniltinho/cli-linux) - Rust CLI Linux
 - [pedrohrb/intzl](https://github.com/pedrohrb/intzl) - Its my a Flask (Python-web framework) initializer (Project struct)!
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [risoflora/fiscalidade](https://github.com/risoflora/fiscalidade) - Biblioteca Rust para validação, assinatura e transmissão de XMLs para webservices SEFAZ.
 - [termapps/enquirer](https://github.com/termapps/enquirer) - Command line utility for stylish interactive prompts
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
@@ -4965,7 +4971,7 @@
 
 ## TypeScript 
 
-- [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
