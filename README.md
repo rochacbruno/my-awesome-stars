@@ -1912,7 +1912,7 @@
 - [carlos-rian/fastapi-handler](https://github.com/carlos-rian/fastapi-handler) - 
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 4, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [ansible/galaxy_collection](https://github.com/ansible/galaxy_collection) - Collection of modules and roles to configure Automation Hub
 - [fmaida/mkdocs-blog-plugin](https://github.com/fmaida/mkdocs-blog-plugin) - This plugin for MkDocs allows to keeps a really simple blog section inside your documentation site.
