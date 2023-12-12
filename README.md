@@ -71,6 +71,7 @@
 - [Smarty](#smarty)
 - [Starlark](#starlark)
 - [TSQL](#tsql)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -2118,7 +2119,6 @@
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
 - [untitaker/pytest-subtesthack](https://github.com/untitaker/pytest-subtesthack) - A hack to explicitly set up and tear down fixtures.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
-- [honghaier-game/PyMe](https://github.com/honghaier-game/PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
 - [asottile/reorder-python-imports](https://github.com/asottile/reorder-python-imports) - Rewrites source to reorder python imports
 - [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
 - [vsajip/py-cfg-lib](https://github.com/vsajip/py-cfg-lib) - A Python library for working with the CFG configuration format.
@@ -4143,6 +4143,7 @@
 
 ## Rust 
 
+- [prefix-dev/resolvo-rpm](https://github.com/prefix-dev/resolvo-rpm) - Resolver for RPM packages
 - [film42/sidekiq-rs](https://github.com/film42/sidekiq-rs) - A port of sidekiq to rust using tokio
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -4511,7 +4512,7 @@
 - [jniltinho/cli-linux](https://github.com/jniltinho/cli-linux) - Rust CLI Linux
 - [pedrohrb/intzl](https://github.com/pedrohrb/intzl) - Its my a Flask (Python-web framework) initializer (Project struct)!
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [risoflora/fiscalidade](https://github.com/risoflora/fiscalidade) - Biblioteca Rust para validação, assinatura e transmissão de XMLs para webservices SEFAZ.
 - [termapps/enquirer](https://github.com/termapps/enquirer) - Command line utility for stylish interactive prompts
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
@@ -4959,6 +4960,10 @@
 ## TSQL 
 
 - [lihaoyi/macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
+
+## Tcl 
+
+- [honghaier-game/PyMe](https://github.com/honghaier-game/PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
 
 ## TeX 
 
