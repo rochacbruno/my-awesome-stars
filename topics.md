@@ -1033,7 +1033,7 @@
 - [naomijub/transistor](https://github.com/naomijub/transistor) - https://crates.io/crates/transistor
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [kneufeld/alkali](https://github.com/kneufeld/alkali) - a simple python database
 - [ivanceras/rustorm](https://github.com/ivanceras/rustorm) - an orm for rust
@@ -3248,6 +3248,7 @@
 
 ## others 
 
+- [prefix-dev/resolvo-rpm](https://github.com/prefix-dev/resolvo-rpm) - Resolver for RPM packages
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
@@ -3584,7 +3585,7 @@
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [michaeljolley/twitch-orbit](https://github.com/michaeljolley/twitch-orbit) - Application that monitors Twitch chat to record activities into Orbit.
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [christoomey/vim-system-copy](https://github.com/christoomey/vim-system-copy) - Vim plugin for copying to the system clipboard with text-objects and motions
 - [theN0b0dy/django-rest-notifications](https://github.com/theN0b0dy/django-rest-notifications) - Github notifications for django rest framework
@@ -6939,7 +6940,7 @@
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
+- [rufuspollock-okfn/dataconverters](https://github.com/rufuspollock-okfn/dataconverters) - Python library and command line tool for converting data from one format to another
 - [lepture/flask-oauthlib](https://github.com/lepture/flask-oauthlib) - YOU SHOULD USE https://github.com/lepture/authlib
 - [barseghyanartur/django-dash](https://github.com/barseghyanartur/django-dash) - Customisable, modular dashboard application framework for Django.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
@@ -7510,7 +7511,7 @@
 - [whatisaphone/genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [risoflora/fiscalidade](https://github.com/risoflora/fiscalidade) - Biblioteca Rust para validação, assinatura e transmissão de XMLs para webservices SEFAZ.
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
