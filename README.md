@@ -1425,7 +1425,7 @@
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
 - [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My config files
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!
@@ -3612,7 +3612,7 @@
 - [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [fergalwalsh/pico](https://github.com/fergalwalsh/pico) - Pico is a very small web application framework for Python.
-- [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
+- [rufuspollock-okfn/dataconverters](https://github.com/rufuspollock-okfn/dataconverters) - Python library and command line tool for converting data from one format to another
 - [imom0/SimpleTornadoServer](https://github.com/imom0/SimpleTornadoServer) - `python -m SimpleTornadoServer` like SimpleHTTPServer.
 - [jonathanslenders/asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156)
 - [zeraholladay/Flask-Oauth2-Example](https://github.com/zeraholladay/Flask-Oauth2-Example) - Flask bootstrap Google OAuth2 and SQLAlchemy. Ready for Heroku.
