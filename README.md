@@ -1634,7 +1634,7 @@
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [jrabello/rust-safety](https://github.com/jrabello/rust-safety) - Slides of my presentation on 11º Rust Meetup SP
 - [nikomatsakis/office-hours](https://github.com/nikomatsakis/office-hours) - Help me help you!
-- [foldmap/cookbook.fish](https://github.com/foldmap/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
+- [joxji/cookbook.fish](https://github.com/joxji/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [openstack-infra/nodepool](https://github.com/openstack-infra/nodepool) - MOVED: Now at https://opendev.org/zuul/nodepool
 - [orige-zz/githubpages.registro.br](https://github.com/orige-zz/githubpages.registro.br) - Pequeno tutorial de como configurar o DNS do registro.br para seu projeto hospedado aqui no GitHub.
@@ -2001,7 +2001,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [sirfuzzalot/textual-inputs](https://github.com/sirfuzzalot/textual-inputs) - Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
 - [wasi-master/google-tui](https://github.com/wasi-master/google-tui) - A terminal user interface for searching google
