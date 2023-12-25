@@ -1634,7 +1634,7 @@
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [jrabello/rust-safety](https://github.com/jrabello/rust-safety) - Slides of my presentation on 11º Rust Meetup SP
 - [nikomatsakis/office-hours](https://github.com/nikomatsakis/office-hours) - Help me help you!
-- [joxji/cookbook.fish](https://github.com/joxji/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [openstack-infra/nodepool](https://github.com/openstack-infra/nodepool) - MOVED: Now at https://opendev.org/zuul/nodepool
 - [orige-zz/githubpages.registro.br](https://github.com/orige-zz/githubpages.registro.br) - Pequeno tutorial de como configurar o DNS do registro.br para seu projeto hospedado aqui no GitHub.
@@ -4219,7 +4219,7 @@
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) - ANSI text styling
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance
@@ -4978,7 +4978,7 @@
 ## TypeScript 
 
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive Python notebook with built-in UI elements: reproducible, git-friendly, & deployable!
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python: run reproducible experiments, bring data to life with UI elements, execute as a script, deploy as an app, and version with git.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
