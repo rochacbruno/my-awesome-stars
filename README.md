@@ -383,7 +383,7 @@
 - [ansible/galaxy-dev](https://github.com/ansible/galaxy-dev) - Ansible Automation Hub
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
+- [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [ybalt/ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
 - [diyan/pgcli-docker](https://github.com/diyan/pgcli-docker) - pgcli in a tiny Docker image powered by Alpine Linux
@@ -3672,7 +3672,7 @@
 - [ionelmc/django-redisboard](https://github.com/ionelmc/django-redisboard) - Redis monitoring and inspection tool in django admin.
 - [wq/wq.db](https://github.com/wq/wq.db) - ☁🌐 wq's db library, extending Django REST framework to support apps for geospatial field data collection, citizen science, and crowdsourcing.
 - [augustomen/simple-data-importer](https://github.com/augustomen/simple-data-importer) - 
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [opps/opps-social](https://github.com/opps/opps-social) - Social application, like, dislike and favorite
 - [jdiez17/flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
 - [paypal/PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
