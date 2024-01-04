@@ -3338,7 +3338,7 @@
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) - ANSI text styling
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
