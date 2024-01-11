@@ -37,6 +37,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [LiveScript](#livescript)
 - [Lua](#lua)
@@ -1353,6 +1354,10 @@
 - [chris-piekarski/python-json-socket](https://github.com/chris-piekarski/python-json-socket) - JSON messaging based socket interface with multi-threaded server and client
 - [damontallen/IPython-quick-ref-sheets](https://github.com/damontallen/IPython-quick-ref-sheets) - This is ongoing work developing quick reference sheets for IPython
 
+## Just 
+
+- [jefftriplett/scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
+
 ## Kotlin 
 
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -1549,7 +1554,6 @@
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [dwimberger/ldap-ad-it](https://github.com/dwimberger/ldap-ad-it) - Simple LDAP server simulating AD for integration testing
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [jefftriplett/scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -1837,6 +1841,7 @@
 
 ## Python 
 
+- [stefankoegl/python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -3314,7 +3319,6 @@
 - [heynemann/cow](https://github.com/heynemann/cow) - cow is a quick-start for tornado-powered projects (specially apis).
 - [hynek/characteristic](https://github.com/hynek/characteristic) - Please use attrs instead!
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [awsroadhouse/roadhouse](https://github.com/awsroadhouse/roadhouse) - Library for sanely managing AWS security settings
 - [sametmax/django-quicky](https://github.com/sametmax/django-quicky) - A collection of toys to skip the forplay with Django and go straight to the point: url and view decorators.
 - [boydgreenfield/query](https://github.com/boydgreenfield/query) - Interactive SQL database exploration in Python
@@ -4779,6 +4783,7 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fengsp/pencil](https://github.com/fengsp/pencil) - A web application microframework for Rust
 - [erickt/rust-elasticsearch](https://github.com/erickt/rust-elasticsearch) - Rust library to interact with ElasticSearch
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 
@@ -4816,6 +4821,7 @@
 
 ## Shell 
 
+- [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [joepvd/zsh-hints](https://github.com/joepvd/zsh-hints) - Easily display non-completable trivia right under your editing buffer
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
