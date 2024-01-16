@@ -2816,7 +2816,7 @@
 - [dominis/ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
 - [msabramo/ansible_role_apply](https://github.com/msabramo/ansible_role_apply) - Apply a single Ansible role to host(s) easily
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
-- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
+- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - sophisticated automated test library and runner
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module
 - [ansible/ansible-modules-extras](https://github.com/ansible/ansible-modules-extras) - Ansible extra modules - these modules ship with ansible
 - [dcramer/reraise](https://github.com/dcramer/reraise) - 
@@ -3331,7 +3331,7 @@
 - [giampaolo/pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [sloria/pypi-cli](https://github.com/sloria/pypi-cli) - A command-line interface to the Python Package Index (PyPI). Get package info, download statistics, and more.
-- [ziyasal/socket.io-python-emitter](https://github.com/ziyasal/socket.io-python-emitter) - Python implementation of socket.io-emitter
+- [ziyasal/socket.io-python-emitter](https://github.com/ziyasal/socket.io-python-emitter) - Python implementation of socket.io-emitter that provides a hook point to easily allow you to emit events to browsers from anywhere :rocket:
 - [jhamrick/dbtools](https://github.com/jhamrick/dbtools) - Tools for interfacing with SQLite databases
 - [rasbt/markdown-toclify](https://github.com/rasbt/markdown-toclify) - A Python command line tool that creates a Table of Contents for Markdown documents
 - [crossbario/crossbar](https://github.com/crossbario/crossbar) - Crossbar.io - WAMP application router
