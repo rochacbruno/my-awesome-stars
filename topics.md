@@ -817,7 +817,7 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [code-hike/video-tutorial-maker](https://github.com/code-hike/video-tutorial-maker) - Make programming tutorials with markdown
@@ -1565,7 +1565,7 @@
 
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -1916,7 +1916,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
-- [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -3030,7 +3029,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
@@ -3254,6 +3253,7 @@
 
 ## others 
 
+- [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [lspraciano/fastapiAPITemplate](https://github.com/lspraciano/fastapiAPITemplate) - Modelo básico de API  com FastAPI
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
@@ -3510,7 +3510,7 @@
 - [thaisribeiro/desvie-do-nerdola](https://github.com/thaisribeiro/desvie-do-nerdola) - Um joguinho feito em python
 - [scumjr/cameo](https://github.com/scumjr/cameo) - Snap Camera for Linux
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [perylemke/swcli](https://github.com/perylemke/swcli) - A simple CLI to consult Star Wars infos in StarWars API (https://swapi.dev/api/).
 - [technote-space/assign-author](https://github.com/technote-space/assign-author) - GitHub Actions to assign author to issue or PR
 - [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
@@ -4383,7 +4383,6 @@
 - [dominis/ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
 - [msabramo/ansible_role_apply](https://github.com/msabramo/ansible_role_apply) - Apply a single Ansible role to host(s) easily
 - [projectatomic/adb-atomic-developer-bundle](https://github.com/projectatomic/adb-atomic-developer-bundle) - a prepackaged development environment filled with production-grade pre-configured tools that makes container development easier
-- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
 - [ansible/ansible-modules-extras](https://github.com/ansible/ansible-modules-extras) - Ansible extra modules - these modules ship with ansible
 - [dcramer/reraise](https://github.com/dcramer/reraise) - 
 - [capablemonkey/github-go-to-definition](https://github.com/capablemonkey/github-go-to-definition) - 'Go to definition' for GitHub pull request diffs and file views
@@ -6154,7 +6153,7 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [ivanceras/rustorm](https://github.com/ivanceras/rustorm) - an orm for rust
 - [ivanceras/diwata](https://github.com/ivanceras/diwata) - A user-friendly database interface
@@ -6878,7 +6877,7 @@
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [giampaolo/pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
-- [ziyasal/socket.io-python-emitter](https://github.com/ziyasal/socket.io-python-emitter) - Python implementation of socket.io-emitter
+- [ziyasal/socket.io-python-emitter](https://github.com/ziyasal/socket.io-python-emitter) - Python implementation of socket.io-emitter that provides a hook point to easily allow you to emit events to browsers from anywhere :rocket:
 - [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [toastdriven/restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python.
@@ -7157,6 +7156,7 @@
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [jllorencetti/pets](https://github.com/jllorencetti/pets) - Pets is a Django-based website that allows people to share photos and information about missing pets and pets available for adoption
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - sophisticated automated test library and runner
 - [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
 - [SatelliteQE/betelgeuse](https://github.com/SatelliteQE/betelgeuse) - Betelgeuse reads standard Python test cases and offers tools   to interact with Polarion.
 - [renanivo/with](https://github.com/renanivo/with) - A shell context manager
@@ -7371,7 +7371,7 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) - Fediverse API client library for Rust
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [sigmaSd/IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust Repl
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL.
@@ -7442,7 +7442,7 @@
 - [rillrate-fossil/rillrate](https://github.com/rillrate-fossil/rillrate) - Real-time UI for bots and tools
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
-- [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor framework for Rust based on asynchronous functions.
+- [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor library for Rust based on asynchronous functions.
 - [hello-rust/community](https://github.com/hello-rust/community) - Ad-hoc online meetups for the Rust community. Everyone is welcome! 🌎🌈✌️
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -7486,7 +7486,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
@@ -7771,7 +7771,7 @@
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ryfeus/lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
@@ -7832,7 +7832,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 
 ## software 
 
@@ -7867,7 +7867,7 @@
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - The most pythonic ORM (for SQLite and PostgreSQL). Seriously, try it out!
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [fazibear/defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
@@ -7902,7 +7902,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [ivanceras/rustorm](https://github.com/ivanceras/rustorm) - an orm for rust
@@ -8270,7 +8270,7 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
