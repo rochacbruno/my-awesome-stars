@@ -617,6 +617,7 @@
 
 ## HTML 
 
+- [k4ml/htmx-snippets](https://github.com/k4ml/htmx-snippets) - Collection of htmx example
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [codeshow/qpizza](https://github.com/codeshow/qpizza) - QPizza is the best pizza
@@ -2338,7 +2339,7 @@
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [asottile/flake8-2020](https://github.com/asottile/flake8-2020) - flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 - [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
-- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - The leading open source test management system with over 2 million downloads!
+- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - open source test management system with over 2 million downloads!
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases & fixups
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
@@ -4148,6 +4149,8 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [bltavares/axum-content-negotiation](https://github.com/bltavares/axum-content-negotiation) - Axum middleware to use Accept and Content-Type headers to serialize with different formats
 - [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [prefix-dev/resolvo-rpm](https://github.com/prefix-dev/resolvo-rpm) - Resolver for RPM packages
