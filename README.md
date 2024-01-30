@@ -634,6 +634,7 @@
 - [RedHatInsights/red-hat-ansible-automation-platform-documentation](https://github.com/RedHatInsights/red-hat-ansible-automation-platform-documentation) - 
 - [rochacbruno/asciidoctor-book-template](https://github.com/rochacbruno/asciidoctor-book-template) - A book template to write using asciidoctor.
 - [andredias/cookiecutter-fastapi](https://github.com/andredias/cookiecutter-fastapi) - 
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [oreillymedia/orm_book_samples](https://github.com/oreillymedia/orm_book_samples) - Sample book files for O'Reilly content
@@ -1596,6 +1597,7 @@
 - [nighto/brasil-portugal](https://github.com/nighto/brasil-portugal) - Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal
 - [juligaioso/referencias-para-estudos](https://github.com/juligaioso/referencias-para-estudos) - Repositório criado para reunir materiais de estudo, artigos, canais no youtube, e tudo o mais para melhorar e evoluir como dev
 - [Caaddss/awesome-live-coding-streams](https://github.com/Caaddss/awesome-live-coding-streams) - 
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [dunossauro/curso-brython](https://github.com/dunossauro/curso-brython) - Reunindo infomações para o curso de brython.
 - [gdois/Vscode-theme](https://github.com/gdois/Vscode-theme) - Theme created for https://www.twitch.tv/karlamag.
 - [DanielHe4rt/git4noobs](https://github.com/DanielHe4rt/git4noobs) - Aulão de Git para iniciantes
@@ -4800,7 +4802,6 @@
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [cristatus/asciidoctor-styles](https://github.com/cristatus/asciidoctor-styles) - A themeable stylesheet for Asciidoctor.
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -4991,6 +4992,7 @@
 
 ## TypeScript 
 
+- [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot + OpenAI.
 - [scylladb/gaming-leaderboard-demo](https://github.com/scylladb/gaming-leaderboard-demo) - Learn how to use ScyllaDB to generate a monstrously fast leadearboard for your application!
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
@@ -5052,7 +5054,6 @@
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [yiblet/inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
 - [michaeljolley/vscode-twitch-themer](https://github.com/michaeljolley/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) - 📚 Functions and algorithms implemented purely with TypeScript's type system
 - [codigofalado/twitch-giphy](https://github.com/codigofalado/twitch-giphy) - Um chatbot para Twitch que integra a API do GIPHY, fazendo com que hashtags no chat da Twitch virem GIFs na Live :)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
