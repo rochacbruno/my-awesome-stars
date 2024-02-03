@@ -798,7 +798,7 @@
 - [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips
 - [intoolswetrust/ldap-server](https://github.com/intoolswetrust/ldap-server) - Simple in-memory LDAP server for testing purposes - single JAR based on ApacheDS
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GraphWalker/graphwalker-project](https://github.com/GraphWalker/graphwalker-project) - This is the repo for the Model-based testing tool GraphWalker.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
@@ -4829,6 +4829,7 @@
 
 ## Shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
@@ -4999,7 +5000,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [willianrod/ODeck](https://github.com/willianrod/ODeck) - A free and open-source alternative to StreamDeck
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
