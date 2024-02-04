@@ -4090,7 +4090,6 @@
 - [marinho/PyNFe](https://github.com/marinho/PyNFe) - Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.
 - [mikemaccana/python-docx](https://github.com/mikemaccana/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
-- [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [fiorix/cyclone](https://github.com/fiorix/cyclone) - Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [ella/ella](https://github.com/ella/ella) - Ella is a CMS based on Python web framework Django with a main focus on high-traffic news websites and Internet magazines.
