@@ -6074,7 +6074,6 @@
 - [hugomaiavieira/afterFormat](https://github.com/hugomaiavieira/afterFormat) - Instala automaticamente diversos softwares básicos que sempre são necessários após uma formatação.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
 - [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
-- [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [jjlee/mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .
 - [fiorix/cyclone](https://github.com/fiorix/cyclone) - Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
