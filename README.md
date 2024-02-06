@@ -4090,6 +4090,7 @@
 - [marinho/PyNFe](https://github.com/marinho/PyNFe) - Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.
 - [mikemaccana/python-docx](https://github.com/mikemaccana/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
+- [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [fiorix/cyclone](https://github.com/fiorix/cyclone) - Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [ella/ella](https://github.com/ella/ella) - Ella is a CMS based on Python web framework Django with a main focus on high-traffic news websites and Internet magazines.
@@ -5082,7 +5083,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - Badges for badges' sake.
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [no13bus/redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, react, vite, socket.io
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [melpon/wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
