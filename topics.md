@@ -4764,7 +4764,7 @@
 - [lihaoyi/macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
 - [Eyepea/API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
 - [yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - Badges for badges' sake.
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [phlax/aio](https://github.com/phlax/aio) - aio is a minimal application framework for python3's asyncio module.
 - [closeio/flask-tracking](https://github.com/closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
 - [karan/slack-overflow](https://github.com/karan/slack-overflow) - A programmer's best friend, now in Slack.
@@ -6074,6 +6074,7 @@
 - [hugomaiavieira/afterFormat](https://github.com/hugomaiavieira/afterFormat) - Instala automaticamente diversos softwares básicos que sempre são necessários após uma formatação.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
 - [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
+- [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [jjlee/mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .
 - [fiorix/cyclone](https://github.com/fiorix/cyclone) - Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
