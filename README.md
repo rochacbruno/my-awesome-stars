@@ -1847,6 +1847,7 @@
 
 ## Python 
 
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
 - [lspraciano/fastapiAPITemplate](https://github.com/lspraciano/fastapiAPITemplate) - Modelo básico de API  com FastAPI
@@ -1857,6 +1858,7 @@
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [codeshow/one-minute](https://github.com/codeshow/one-minute) - Dicas rápidas sobre Python
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
@@ -3084,7 +3086,7 @@
 - [baseprime/mongobench](https://github.com/baseprime/mongobench) - MongoDB Benchmarking
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
-- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
+- [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [dellis23/disrupt](https://github.com/dellis23/disrupt) - A python "tool" for "interacting" with the terminals of "friends" and "colleagues".
 - [klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench) - Another benchmark for some python frameworks
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -4997,7 +4999,6 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium.
 - [scylladb/gaming-leaderboard-demo](https://github.com/scylladb/gaming-leaderboard-demo) - Learn how to use ScyllaDB to generate a monstrously fast leadearboard for your application!
-- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
