@@ -49,6 +49,7 @@
 - [Mustache](#mustache)
 - [Nginx](#nginx)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Opa](#opa)
@@ -1518,6 +1519,10 @@
 
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
+
+## Nix 
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 
 ## OCaml 
 
@@ -4845,7 +4850,6 @@
 - [rgarrigue/songbook](https://github.com/rgarrigue/songbook) - Song(E)book generation
 - [ArtiomSu/kensington-expert-trackball-linux-config](https://github.com/ArtiomSu/kensington-expert-trackball-linux-config) - 
 - [dunossauro/ansible-lab](https://github.com/dunossauro/ansible-lab) - Laboratório para live de python sobre ansible
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [jc00ke/move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) - Script to move windows from one monitor to the next in Xubuntu
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
