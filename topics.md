@@ -837,6 +837,7 @@
 ## code-quality 
 
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
@@ -2040,7 +2041,6 @@
 - [rennerocha/mediafeed](https://github.com/rennerocha/mediafeed) - Web application to help categorize and aggregate subscriptions of media channels for easy access. (working only with Youtube channels at this moment)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Galaxy NextGen
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [tiagocordeiro/djmenu](https://github.com/tiagocordeiro/djmenu) - Django food menu. A simple solution for restaurants and pizzerias.
 - [tsoding/cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [codigofalado/twitch-giphy](https://github.com/codigofalado/twitch-giphy) - Um chatbot para Twitch que integra a API do GIPHY, fazendo com que hashtags no chat da Twitch virem GIFs na Live :)
