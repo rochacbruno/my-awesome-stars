@@ -256,6 +256,7 @@
 - [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [ansible-community/sphinx_ansible_theme](https://github.com/ansible-community/sphinx_ansible_theme) - A reusable Ansible Sphinx Theme
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [audreyfeldroy/one-click-hugo-cms](https://github.com/audreyfeldroy/one-click-hugo-cms) - 
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
@@ -1538,7 +1539,6 @@
 
 ## Others 
 
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
@@ -2054,7 +2054,7 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
 - [perylemke/chespirito-api](https://github.com/perylemke/chespirito-api) - Uma API pública contendo informações sobre o unvierso de Roberto Gomez Bolaños.
 - [jAzz-hub/Criatividade_Pythonica](https://github.com/jAzz-hub/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [responsibleproblemsolving/energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool
@@ -4810,7 +4810,6 @@
 
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [cristatus/asciidoctor-styles](https://github.com/cristatus/asciidoctor-styles) - A themeable stylesheet for Asciidoctor.
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -4840,6 +4839,7 @@
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [joepvd/zsh-hints](https://github.com/joepvd/zsh-hints) - Easily display non-completable trivia right under your editing buffer
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
