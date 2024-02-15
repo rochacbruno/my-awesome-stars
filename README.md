@@ -81,6 +81,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YAML](#yaml)
+- [Zig](#zig)
 
 ## ASL 
 
@@ -5166,6 +5167,10 @@
 ## YAML 
 
 - [redhat-cop/controller_configuration](https://github.com/redhat-cop/controller_configuration) - A collection of roles to manage Ansible Controller and previously Ansible Tower
+
+## Zig 
+
+- [fulcrum-so/ziggy-pydust](https://github.com/fulcrum-so/ziggy-pydust) - A toolkit for building Python extensions in Zig.
 
 
 ## License
