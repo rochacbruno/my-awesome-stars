@@ -1448,7 +1448,7 @@
 - [joselbr2099/mcompiler](https://github.com/joselbr2099/mcompiler) - Plugin to compile some languages ​​in micro text editor
 - [un-def/tinystash](https://github.com/un-def/tinystash) - A storage-less database-less file sharing service powered by OpenResty
 - [wrxck/telegram-bot-lua](https://github.com/wrxck/telegram-bot-lua) - A simple yet extensive Lua library for the Telegram bot API.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [kennethreitz/super-sphere](https://github.com/kennethreitz/super-sphere) - A minimal action game by Kenneth Reitz.
 - [sumory/lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty
 - [rangercyh/chance](https://github.com/rangercyh/chance) - A library for Mersenne Twister random number generator in lua
@@ -1853,6 +1853,7 @@
 
 ## Python 
 
+- [Never-Over/modguard](https://github.com/Never-Over/modguard) - 
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
