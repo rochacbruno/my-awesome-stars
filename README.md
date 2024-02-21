@@ -113,6 +113,7 @@
 
 ## C 
 
+- [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
@@ -454,7 +455,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [timopattikawa/kamoro](https://github.com/timopattikawa/kamoro) - Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
 - [cuducos/chunk](https://github.com/cuducos/chunk) - 🧱 Chunk is a download manager for slow and unstable servers
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -490,7 +491,7 @@
 - [drgarcia1986/changelogger](https://github.com/drgarcia1986/changelogger) - A cross-platform changelog file generator
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
@@ -1678,7 +1679,7 @@
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [rust-br/estudos](https://github.com/rust-br/estudos) - Local destinado para estudos sobre assuntos relacionados a Rust
 - [jamiejennings/rosie-pattern-language](https://github.com/jamiejennings/rosie-pattern-language) - Rosie Pattern Language (RPL) and the Rosie Pattern Engine have MOVED!
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [wcrasta/SWA-Scraper](https://github.com/wcrasta/SWA-Scraper) - 
 - [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
@@ -1853,7 +1854,7 @@
 
 ## Python 
 
-- [Never-Over/modguard](https://github.com/Never-Over/modguard) - 
+- [Never-Over/modguard](https://github.com/Never-Over/modguard) - A Python tool to enforce a modular, decoupled package architecture
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
@@ -2221,7 +2222,7 @@
 - [rennerocha/mediafeed](https://github.com/rennerocha/mediafeed) - Web application to help categorize and aggregate subscriptions of media channels for easy access. (working only with Youtube channels at this moment)
 - [ramalho/leanstr](https://github.com/ramalho/leanstr) - A "lean" string class for Python, using UTF-8 internally
 - [GabrielIssisvan/python](https://github.com/GabrielIssisvan/python) - 
-- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Galaxy NextGen
+- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server
 - [nnja/circuitpython_bluetooth_led_jacket](https://github.com/nnja/circuitpython_bluetooth_led_jacket) - A Bluetooth LED jacket running CircuitPython
 - [cadu-leite/networkdays](https://github.com/cadu-leite/networkdays) - Networkdays functions ...  including `networkdays` excel like function with no dependencies (no NumPy)
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
@@ -5032,7 +5033,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
