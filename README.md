@@ -885,7 +885,6 @@
 - [nixocio/savite](https://github.com/nixocio/savite) - This a WIP django app - To manage bookmarks.
 - [hliyan/jarvis](https://github.com/hliyan/jarvis) - J.A.R.V.I.S - Just Another Rudimentary Verbal Instruction Shell
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [cpojer/pyjest](https://github.com/cpojer/pyjest) - Example Jest runner for Python
 - [boyney123/github-actions](https://github.com/boyney123/github-actions) - Open source list of GitHub Actions. Free free to submit a PR to add your action
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
@@ -1854,6 +1853,7 @@
 
 ## Python 
 
+- [fictivekin/dynaconf-aws-loader](https://github.com/fictivekin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
 - [Never-Over/modguard](https://github.com/Never-Over/modguard) - A Python tool to enforce a modular, decoupled package architecture
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
@@ -2291,6 +2291,7 @@
 - [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
 - [rominf/poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Arfafa/ThisApiDoesNotExist](https://github.com/Arfafa/ThisApiDoesNotExist) - Api não oficial das páginas thispersondoesnotexist e thiscatdoesnotexist
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
@@ -3320,7 +3321,7 @@
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [bennylope/mongoengine-extras](https://github.com/bennylope/mongoengine-extras) - Use the latest django-extensions instead - now supports Mongo!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [bx2/queuer](https://github.com/bx2/queuer) - A simple Flask-based app for queued registration.
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [renatopp/aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
@@ -4163,6 +4164,7 @@
 
 ## Rust 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
