@@ -840,6 +840,7 @@
 
 ## JavaScript 
 
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
@@ -917,7 +918,6 @@
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [eissasoubhi/summernote-bricks](https://github.com/eissasoubhi/summernote-bricks) - A Summernote module to add user-friendly components to the wysiwyg editor
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [browserify/rustify](https://github.com/browserify/rustify) - Rust WebAssembly transform for Browserify
 - [bltavares/presentations](https://github.com/bltavares/presentations) - 
@@ -1524,7 +1524,7 @@
 
 ## Nix 
 
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## OCaml 
 
@@ -1540,6 +1540,7 @@
 
 ## Others 
 
+- [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
@@ -1853,6 +1854,7 @@
 
 ## Python 
 
+- [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [fictivekin/dynaconf-aws-loader](https://github.com/fictivekin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
 - [Never-Over/modguard](https://github.com/Never-Over/modguard) - A Python tool to enforce a modular, decoupled package architecture
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -1863,6 +1865,7 @@
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
@@ -3582,7 +3585,7 @@
 - [fozzle/python-brotherprint](https://github.com/fozzle/python-brotherprint) - Brother QL-580N networked printers library for Python
 - [palazzem/cookiecutter-django-cms](https://github.com/palazzem/cookiecutter-django-cms) - Simple cookiecutter template to be up and running quickly with your Django CMS project!
 - [dabapps/periodical](https://github.com/dabapps/periodical) - NO LONGER MAINTAINED A library for working with time and date series in Python
-- [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent applications.
+- [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent Python applications.
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [jaapz/flask-celery3](https://github.com/jaapz/flask-celery3) - Easily integrate Celery3 into Flask.
 - [PythonCharmers/python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility
@@ -4164,6 +4167,10 @@
 
 ## Rust 
 
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
+- [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
@@ -4297,7 +4304,7 @@
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
 - [raphamorim/cargo-server](https://github.com/raphamorim/cargo-server) - serve a static site, single page application or just a static file with Rust
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -4371,7 +4378,7 @@
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [mstruebing/waitz](https://github.com/mstruebing/waitz) - Waits until the exit code of a program is zero
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [facebookexperimental/starlark-rust](https://github.com/facebookexperimental/starlark-rust) - A Rust implementation of the Starlark language
+- [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -4845,7 +4852,6 @@
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [joepvd/zsh-hints](https://github.com/joepvd/zsh-hints) - Easily display non-completable trivia right under your editing buffer
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
@@ -5036,7 +5042,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -5083,6 +5089,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hiro-sun/vscode-emacs](https://github.com/hiro-sun/vscode-emacs) - 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
