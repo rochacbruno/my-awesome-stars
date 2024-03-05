@@ -134,7 +134,7 @@
 - [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [sdss/flicamera](https://github.com/sdss/flicamera) - A library and actor to control Finger Lakes Instrumentation cameras
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
@@ -1647,6 +1647,7 @@
 - [RoleModel/bash_command](https://github.com/RoleModel/bash_command) - Ansible role to execute arbitrary bash commands via a role
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
+- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. ReportPortal starts here - see readme below.
 - [jrabello/rust-safety](https://github.com/jrabello/rust-safety) - Slides of my presentation on 11º Rust Meetup SP
 - [nikomatsakis/office-hours](https://github.com/nikomatsakis/office-hours) - Help me help you!
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
@@ -3063,7 +3064,7 @@
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [ssteuteville/scrapyz](https://github.com/ssteuteville/scrapyz) - "Scrape Easy" - an extension of the Scrapy framework.
 - [j-bennet/wharfee](https://github.com/j-bennet/wharfee) - A CLI with autocompletion and syntax highlighting for Docker commands.
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [philipdexter/pdfserve](https://github.com/philipdexter/pdfserve) - Serve your pdf files one page at a time with page saving
 - [vintasoftware/tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper) - Python API client generator
 - [mardix/flask-recaptcha](https://github.com/mardix/flask-recaptcha) - The new Google ReCaptcha implementation for Flask without Flask-WTF.
@@ -3516,7 +3517,7 @@
 - [nigma/django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
 - [bretth/django-pq](https://github.com/bretth/django-pq) - [UNMAINTAINED] A task queue based on the elegant python RQ but with a django postgresql backend.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
+- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 - [futurecolors/django-geoip](https://github.com/futurecolors/django-geoip) - App to figure out where your visitors are from by their IP address.
 - [un33k/django-geoaware](https://github.com/un33k/django-geoaware) - Django GeoAware provides a middleware as well as a context processor for including GeoIP related info in the session and/or the context of your application.
 - [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
@@ -4895,7 +4896,6 @@
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. ReportPortal starts here - see readme below.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
