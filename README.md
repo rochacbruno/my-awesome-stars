@@ -3691,7 +3691,7 @@
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [nicolaiarocci/flask-mimerender](https://github.com/nicolaiarocci/flask-mimerender) - Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework
 - [authomatic/authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
-- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [googlearchive/PyDrive](https://github.com/googlearchive/PyDrive) - Google Drive API Python wrapper library
 - [ionelmc/django-redisboard](https://github.com/ionelmc/django-redisboard) - Redis monitoring and inspection tool in django admin.
