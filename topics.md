@@ -14,7 +14,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -401,12 +400,6 @@
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 
-## archlinux 
-
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
-
 ## artificial-intelligence 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
@@ -447,7 +440,6 @@
 - [adfinis/foreman-yml](https://github.com/adfinis/foreman-yml) - Make automated Foreman configuration as easy as pie.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake
 
 ## awesome 
@@ -5302,7 +5294,7 @@
 - [jarus/flask-fillin](https://github.com/jarus/flask-fillin) - Flask extension provides simple utilities for testing forms
 - [valdergallo/data-importer](https://github.com/valdergallo/data-importer) - Django Data Importer
 - [valdergallo/digitalocean-ubuntu-fabric](https://github.com/valdergallo/digitalocean-ubuntu-fabric) - Fabric colection to deploy Django with nginx and gunicorn in Digital Ocean
-- [petrjasek/eve-elastic](https://github.com/petrjasek/eve-elastic) - Elasticsearch data layer for eve framework
+- [superdesk/eve-elastic](https://github.com/superdesk/eve-elastic) - Elasticsearch data layer for eve framework
 - [adamhaney/django-ondelta](https://github.com/adamhaney/django-ondelta) - A django model mixin that makes it easy to react to field value changes on models. Supports an API similar to the model clean method.
 - [mansam/validator.py](https://github.com/mansam/validator.py) - Schemas for data structures.
 - [pier-oliviert/ecrire](https://github.com/pier-oliviert/ecrire) - Blog engine for developers
@@ -6419,7 +6411,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [willmcgugan/asyncchat](https://github.com/willmcgugan/asyncchat) - Short example of how to implement Python's async from scratchw
 - [usagitoneko97/klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [imageio/imageio](https://github.com/imageio/imageio) - Python library for reading and writing image data
 - [fsouza/autoflake8](https://github.com/fsouza/autoflake8) - Tool to automatically fix some issues reported by flake8 (previously forked from autoflake).
@@ -8032,7 +8024,7 @@
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
