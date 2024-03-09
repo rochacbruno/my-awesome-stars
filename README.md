@@ -203,7 +203,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -3537,7 +3537,7 @@
 - [jarus/flask-fillin](https://github.com/jarus/flask-fillin) - Flask extension provides simple utilities for testing forms
 - [valdergallo/data-importer](https://github.com/valdergallo/data-importer) - Django Data Importer
 - [valdergallo/digitalocean-ubuntu-fabric](https://github.com/valdergallo/digitalocean-ubuntu-fabric) - Fabric colection to deploy Django with nginx and gunicorn in Digital Ocean
-- [petrjasek/eve-elastic](https://github.com/petrjasek/eve-elastic) - Elasticsearch data layer for eve framework
+- [superdesk/eve-elastic](https://github.com/superdesk/eve-elastic) - Elasticsearch data layer for eve framework
 - [adamhaney/django-ondelta](https://github.com/adamhaney/django-ondelta) - A django model mixin that makes it easy to react to field value changes on models. Supports an API similar to the model clean method.
 - [mansam/validator.py](https://github.com/mansam/validator.py) - Schemas for data structures.
 - [fabric-bolt/fabric-bolt](https://github.com/fabric-bolt/fabric-bolt) - Fabric deployments via a web interface
