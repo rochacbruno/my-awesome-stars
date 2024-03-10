@@ -3597,7 +3597,7 @@
 - [tsileo/flask-yeoman](https://github.com/tsileo/flask-yeoman) - A Flask blueprint to make create web application using Yeoman and Flask an easy task.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [bitlabstudio/django-booking](https://github.com/bitlabstudio/django-booking) - A reusable Django app that manages bookings for various purposes.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [renzon/pagseguro2csv](https://github.com/renzon/pagseguro2csv) - Programa para transforma o XML do Pagseguro em CSV
 - [Caramel/django-viewtracker](https://github.com/Caramel/django-viewtracker) - Simple view-tracking application for Django
 - [morninj/web2pdf](https://github.com/morninj/web2pdf) - Convert webpages to PDFs for offline reading
