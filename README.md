@@ -1878,7 +1878,7 @@
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
@@ -4967,7 +4967,7 @@
 - [octohost/octohost](https://github.com/octohost/octohost) - Simple web focused Dockerfile based PaaS server.
 - [fabriziofortino/orientdb-servicewrapper](https://github.com/fabriziofortino/orientdb-servicewrapper) - A service wrapper on top of OrientDB https://github.com/orientechnologies/orientdb
 - [fonnesbeck/ScipySuperpack](https://github.com/fonnesbeck/ScipySuperpack) - Recent builds of Numpy, Scipy, Matplotlib, iPython and PyMC for OSX
-- [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule.
+- [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule. Discussions and general issues are here.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
