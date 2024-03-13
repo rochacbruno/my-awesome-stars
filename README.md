@@ -61,6 +61,7 @@
 - [PostScript](#postscript)
 - [Pug](#pug)
 - [Python](#python)
+- [QML](#qml)
 - [Ren'Py](#ren'py)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -2227,7 +2228,7 @@
 - [rennerocha/mediafeed](https://github.com/rennerocha/mediafeed) - Web application to help categorize and aggregate subscriptions of media channels for easy access. (working only with Youtube channels at this moment)
 - [ramalho/leanstr](https://github.com/ramalho/leanstr) - A "lean" string class for Python, using UTF-8 internally
 - [GabrielIssisvan/python](https://github.com/GabrielIssisvan/python) - 
-- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server
+- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/
 - [nnja/circuitpython_bluetooth_led_jacket](https://github.com/nnja/circuitpython_bluetooth_led_jacket) - A Bluetooth LED jacket running CircuitPython
 - [cadu-leite/networkdays](https://github.com/cadu-leite/networkdays) - Networkdays functions ...  including `networkdays` excel like function with no dependencies (no NumPy)
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
@@ -2436,7 +2437,7 @@
 - [Yipit/dredis](https://github.com/Yipit/dredis) - Disk-based Redis implementation
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [vaab/gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
-- [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -&gt; https://github.com/ansible/galaxy_ng
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
@@ -4117,6 +4118,10 @@
 - [web2py/web2py](https://github.com/web2py/web2py) - Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python.
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 
+## QML 
+
+- [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
+
 ## Ren'Py 
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
@@ -4969,7 +4974,7 @@
 - [octohost/octohost](https://github.com/octohost/octohost) - Simple web focused Dockerfile based PaaS server.
 - [fabriziofortino/orientdb-servicewrapper](https://github.com/fabriziofortino/orientdb-servicewrapper) - A service wrapper on top of OrientDB https://github.com/orientechnologies/orientdb
 - [fonnesbeck/ScipySuperpack](https://github.com/fonnesbeck/ScipySuperpack) - Recent builds of Numpy, Scipy, Matplotlib, iPython and PyMC for OSX
-- [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule. Discussions and general issues are here.
+- [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule. Discussions, Wiki and general issues are here.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -5072,7 +5077,7 @@
 - [pulp/pulp-ui](https://github.com/pulp/pulp-ui) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [yiblet/inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
 - [michaeljolley/vscode-twitch-themer](https://github.com/michaeljolley/vscode-twitch-themer) - A Visual Studio Code extension that listens to Twitch chat and allows viewers to change the streamers VS Code theme.
