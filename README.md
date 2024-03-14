@@ -439,6 +439,7 @@
 
 ## Go 
 
+- [jctanner/galaxygo](https://github.com/jctanner/galaxygo) - 
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -1328,7 +1329,6 @@
 
 ## Jupyter Notebook 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An open framework for Federated Learning.
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
@@ -1550,6 +1550,7 @@
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [apyb/comunidade](https://github.com/apyb/comunidade) - Espaço para discussão da comunidade em torno da APyB
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [karlamagueta/karlamagueta](https://github.com/karlamagueta/karlamagueta) - 
@@ -3336,7 +3337,7 @@
 - [miguelgrinberg/Flask-SocketIO-Chat](https://github.com/miguelgrinberg/Flask-SocketIO-Chat) - A simple chat application that demonstrates how to structure a Flask-SocketIO application.
 - [pricingassistant/mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 - [piglei/uwsgi-sloth](https://github.com/piglei/uwsgi-sloth) - Realtime uwsgi log file analyzer, slow requests analyzer.
-- [mattupstate/flask-environments](https://github.com/mattupstate/flask-environments) - Environment tools and configuration for Flask applications
+- [pallets-eco/flask-environments](https://github.com/pallets-eco/flask-environments) - Environment tools and configuration for Flask applications
 - [sass/libsass-python](https://github.com/sass/libsass-python) - A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [tspurway/hustle](https://github.com/tspurway/hustle) - A column oriented, embarrassingly distributed relational event database.
@@ -3716,7 +3717,7 @@
 - [mbr/simplekv](https://github.com/mbr/simplekv) - A simple key-value store for binary data.
 - [codelucas/easycomplete](https://github.com/codelucas/easycomplete) - A python autocompletion library. Easycomplete has a simple API and utilizes google's autocomplete results & the english dictionary for now.
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
-- [mattupstate/flask-rq](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
+- [pallets-eco/flask-rq](https://github.com/pallets-eco/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [closeio/flask-mongorest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
 - [closeio/flask-common](https://github.com/closeio/flask-common) - Some commonly shared code for Flask, MongoEngine, and Python apps
 - [closeio/Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
@@ -4174,6 +4175,7 @@
 
 ## Rust 
 
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
