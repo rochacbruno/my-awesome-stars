@@ -805,7 +805,7 @@
 - [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips
 - [intoolswetrust/ldap-server](https://github.com/intoolswetrust/ldap-server) - Simple in-memory LDAP server for testing purposes - single JAR based on ApacheDS
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GraphWalker/graphwalker-project](https://github.com/GraphWalker/graphwalker-project) - This is the repo for the Model-based testing tool GraphWalker.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
@@ -4175,6 +4175,7 @@
 
 ## Rust 
 
+- [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based REST client
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
