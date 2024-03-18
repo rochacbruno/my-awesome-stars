@@ -49,7 +49,6 @@
 - [Mustache](#mustache)
 - [Nginx](#nginx)
 - [Nim](#nim)
-- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Opa](#opa)
@@ -635,6 +634,7 @@
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [ansible/jinja-docsite](https://github.com/ansible/jinja-docsite) - A docsite for the Ansible community
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [karlamagueta/Aulas-html-e-css](https://github.com/karlamagueta/Aulas-html-e-css) - exercícios guanabara
 - [sethmlarson/utf8.xyz](https://github.com/sethmlarson/utf8.xyz) - A quick web app for fetching Unicode characters without extra fluff
 - [marcuxyz/mvc-flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc-flask extension to turn on MVC pattern in your applications.
@@ -1523,10 +1523,6 @@
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 
-## Nix 
-
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
-
 ## OCaml 
 
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
@@ -1880,7 +1876,6 @@
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
@@ -4201,6 +4196,7 @@
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
