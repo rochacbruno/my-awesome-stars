@@ -842,7 +842,7 @@
 
 ## JavaScript 
 
-- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
@@ -1648,7 +1648,6 @@
 - [jrabello/rust-safety](https://github.com/jrabello/rust-safety) - Slides of my presentation on 11º Rust Meetup SP
 - [nikomatsakis/office-hours](https://github.com/nikomatsakis/office-hours) - Help me help you!
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [openstack-infra/nodepool](https://github.com/openstack-infra/nodepool) - MOVED: Now at https://opendev.org/zuul/nodepool
 - [orige-zz/githubpages.registro.br](https://github.com/orige-zz/githubpages.registro.br) - Pequeno tutorial de como configurar o DNS do registro.br para seu projeto hospedado aqui no GitHub.
 - [seancron/ansible-junitxml](https://github.com/seancron/ansible-junitxml) - Ansible plugin that outputs JUnit XML results for ansible playbooks to use with Jenkins
@@ -4903,6 +4902,7 @@
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [lzap/doti3](https://github.com/lzap/doti3) - My .i3 dot files
