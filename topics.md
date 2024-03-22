@@ -3305,6 +3305,10 @@
 
 ## others 
 
+- [imqueue/pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
+- [jaraco/keyring](https://github.com/jaraco/keyring) - 
+- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt
 - [jctanner/galaxygo](https://github.com/jctanner/galaxygo) - 
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
