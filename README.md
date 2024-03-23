@@ -148,7 +148,7 @@
 - [bilhamil/OBSRemote](https://github.com/bilhamil/OBSRemote) - Websocket Enabled API and Webclient Plugin for Open Broadcaster Software
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
-- [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
@@ -1577,7 +1577,7 @@
 - [TheZoq2/ferris](https://github.com/TheZoq2/ferris) - Variations of Ferris, the rust mascot
 - [luisvonmuller/Esta-Semana-Em-Rust](https://github.com/luisvonmuller/Esta-Semana-Em-Rust) - Neste repositório você encontrará a tradução para PT-BR do "This Week in Rust".
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+- [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [dunossauro/guia-de-estilo-python](https://github.com/dunossauro/guia-de-estilo-python) - Tradução das propostas de melhoria do python referentes a estilo de código (PEP-8) e docstrings (PEP-257)
 - [simonw/datasette-plugin-template-repository](https://github.com/simonw/datasette-plugin-template-repository) - GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
@@ -1854,6 +1854,7 @@
 
 ## Python 
 
+- [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
 - [jaraco/keyring](https://github.com/jaraco/keyring) - 
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
