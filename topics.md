@@ -691,6 +691,7 @@
 
 ## chrome-extension 
 
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -1380,6 +1381,7 @@
 - [Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup) - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentat
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -1742,6 +1744,7 @@
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
@@ -1945,6 +1948,7 @@
 
 ## hacktoberfest 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [film42/sidekiq-rs](https://github.com/film42/sidekiq-rs) - A port of sidekiq to rust using tokio
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
@@ -2711,6 +2715,7 @@
 
 ## linux 
 
+- [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -2924,6 +2929,7 @@
 
 ## markdown 
 
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [rgarrigue/songbook](https://github.com/rgarrigue/songbook) - Song(E)book generation
@@ -2967,6 +2973,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [mplewis/csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -3310,6 +3317,7 @@
 
 ## others 
 
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [treagod/spectator](https://github.com/treagod/spectator) - Client to test web endpoints
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
@@ -3412,7 +3420,7 @@
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [JessicaNathany/the-office.api](https://github.com/JessicaNathany/the-office.api) - The Office API
-- [CaravanaCloud/up](https://github.com/CaravanaCloud/up) - Unified and Pluggable CLI
+- [CaravanaCloud/up](https://github.com/CaravanaCloud/up) - Delivering unified and pluggable container solutions
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [pblins/dundie-rewards-rs](https://github.com/pblins/dundie-rewards-rs) - 
@@ -5191,7 +5199,6 @@
 - [srusskih/SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
 - [mgcrea/angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [myint/image-view](https://github.com/myint/image-view) - Displays images (PNM, PNG, JPEG, etc.) conveniently from the terminal
 - [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
@@ -7282,6 +7289,7 @@
 
 ## qt 
 
+- [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
@@ -7400,6 +7408,7 @@
 
 ## rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based REST client
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
