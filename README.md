@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [KDE/ktexteditor](https://github.com/KDE/ktexteditor) - KTextEditor Framework
 - [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
@@ -261,7 +262,6 @@
 ## CSS 
 
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
-- [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [ansible-community/sphinx_ansible_theme](https://github.com/ansible-community/sphinx_ansible_theme) - A reusable Ansible Sphinx Theme
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -444,6 +444,8 @@
 
 ## Go 
 
+- [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [jctanner/galaxygo](https://github.com/jctanner/galaxygo) - 
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -848,7 +850,6 @@
 
 ## JavaScript 
 
-- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
@@ -1542,6 +1543,7 @@
 
 ## Others 
 
+- [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -1858,9 +1860,12 @@
 
 ## Python 
 
+- [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
+- [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
 - [jaraco/keyring](https://github.com/jaraco/keyring) - 
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [fictive-kin/dynaconf-aws-loader](https://github.com/fictive-kin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
 - [Never-Over/modguard](https://github.com/Never-Over/modguard) - A Python tool to enforce a modular, decoupled package architecture
@@ -1925,6 +1930,7 @@
 - [ansible/anonymizer](https://github.com/ansible/anonymizer) - 
 - [ansible-community/community-website](https://github.com/ansible-community/community-website) - Ansible Community website (WIP)
 - [pytest-dev/iniconfig](https://github.com/pytest-dev/iniconfig) - 
+- [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [HewlettPackard/squest](https://github.com/HewlettPackard/squest) - Service request portal on top of Ansible Tower/AWX
 - [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - Implementation of Redis in python without having a Redis server running. Fully compatible with using redis-py.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
@@ -2093,7 +2099,7 @@
 - [alex-oleshkevich/imia](https://github.com/alex-oleshkevich/imia) - An authentication library for Starlette and FastAPI.
 - [adriendelsalle/fps](https://github.com/adriendelsalle/fps) - fast pluggable server (experimental)
 - [andressadotpy/dangled](https://github.com/andressadotpy/dangled) - DNS monitoring system built with Python.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [digitronik/miqsel](https://github.com/digitronik/miqsel) - Selenium Containerize Server
 - [ansible-collections/community.internal_test_tools](https://github.com/ansible-collections/community.internal_test_tools) - Internal only, not for end users
 - [sanitizers/patchback-github-app](https://github.com/sanitizers/patchback-github-app) - 
@@ -4123,6 +4129,8 @@
 
 ## QML 
 
+- [qownnotes/scripts](https://github.com/qownnotes/scripts) - QOwnNotes script repository
+- [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
 
 ## Ren'Py 
@@ -4177,6 +4185,7 @@
 
 ## Rust 
 
+- [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based REST client
@@ -4865,6 +4874,7 @@
 
 ## Shell 
 
+- [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
@@ -5028,6 +5038,7 @@
 
 ## TypeScript 
 
+- [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [imqueue/pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support
 - [Silverquark/dance](https://github.com/Silverquark/dance) - Make your cursors dance with Helix-like modal editing in VS Code.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -5186,6 +5197,7 @@
 
 ## Vue 
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
