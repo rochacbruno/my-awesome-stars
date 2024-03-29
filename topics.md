@@ -1044,6 +1044,7 @@
 
 ## database 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1188,7 +1189,7 @@
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
 - [odwyersoftware/django-rename-app](https://github.com/odwyersoftware/django-rename-app) - A Django Management Command to rename existing Django Applications.
-- [samwillis/tetra](https://github.com/samwillis/tetra) - Tetra - A full stack component framework for Django using Alpine.js
+- [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [rg3915/django-experience](https://github.com/rg3915/django-experience) - Tutorial Django Experience 2022
@@ -1414,6 +1415,7 @@
 
 ## electron 
 
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - A better offline editor for Scratch 3.
@@ -2400,6 +2402,7 @@
 
 ## javascript 
 
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [qownnotes/scripts](https://github.com/qownnotes/scripts) - QOwnNotes script repository
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -2549,6 +2552,7 @@
 
 ## json 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [stefankoegl/python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -3215,6 +3219,7 @@
 
 ## nodejs 
 
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
@@ -3242,6 +3247,7 @@
 
 ## nosql 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [scylladb/gaming-leaderboard-demo](https://github.com/scylladb/gaming-leaderboard-demo) - Learn how to use ScyllaDB to generate a monstrously fast leadearboard for your application!
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [art049/odmantic](https://github.com/art049/odmantic) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints
@@ -3330,6 +3336,7 @@
 
 ## others 
 
+- [KDE/klevernotes](https://github.com/KDE/klevernotes) - A convergent markdown note taking application.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
 - [KDE/ktexteditor](https://github.com/KDE/ktexteditor) - KTextEditor Framework
@@ -6326,6 +6333,7 @@
 
 ## python 
 
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [Never-Over/modguard](https://github.com/Never-Over/modguard) - A Python tool to enforce a modular, decoupled package architecture
@@ -6378,7 +6386,7 @@
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
 - [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the awesome walrus operator
-- [samwillis/tetra](https://github.com/samwillis/tetra) - Tetra - A full stack component framework for Django using Alpine.js
+- [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An open framework for Federated Learning.
@@ -7428,6 +7436,7 @@
 
 ## rust 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based REST client
@@ -7979,6 +7988,7 @@
 
 ## sql 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
