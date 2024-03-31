@@ -458,7 +458,7 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
 - [xchapter7x/clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [laubstein/galaxy-light](https://github.com/laubstein/galaxy-light) - Ansible Galaxy server alternative
@@ -1865,6 +1865,9 @@
 
 ## Python 
 
+- [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
+- [billwparker/chat_application](https://github.com/billwparker/chat_application) - Chat Application using Streamlit and local models
+- [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
@@ -3368,7 +3371,7 @@
 - [giampaolo/pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [sloria/pypi-cli](https://github.com/sloria/pypi-cli) - A command-line interface to the Python Package Index (PyPI). Get package info, download statistics, and more.
-- [ziyasal/socket.io-python-emitter](https://github.com/ziyasal/socket.io-python-emitter) - Python implementation of socket.io-emitter that provides a hook point to easily allow you to emit events to browsers from anywhere :rocket:
+- [bugthesystem/socket.io-python-emitter](https://github.com/bugthesystem/socket.io-python-emitter) - Python implementation of socket.io-emitter that provides a hook point to easily allow you to emit events to browsers from anywhere :rocket:
 - [jhamrick/dbtools](https://github.com/jhamrick/dbtools) - Tools for interfacing with SQLite databases
 - [rasbt/markdown-toclify](https://github.com/rasbt/markdown-toclify) - A Python command line tool that creates a Table of Contents for Markdown documents
 - [crossbario/crossbar](https://github.com/crossbario/crossbar) - Crossbar.io - WAMP application router
