@@ -683,6 +683,7 @@
 
 ## chrome 
 
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
@@ -2730,6 +2731,7 @@
 
 ## linux 
 
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
@@ -3337,6 +3339,8 @@
 
 ## others 
 
+- [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
+- [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
 - [billwparker/chat_application](https://github.com/billwparker/chat_application) - Chat Application using Streamlit and local models
 - [KDE/klevernotes](https://github.com/KDE/klevernotes) - A convergent markdown note taking application.
