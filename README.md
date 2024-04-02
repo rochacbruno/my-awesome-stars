@@ -446,6 +446,7 @@
 
 ## Go 
 
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [jctanner/galaxygo](https://github.com/jctanner/galaxygo) - 
@@ -852,6 +853,7 @@
 
 ## JavaScript 
 
+- [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
@@ -1966,7 +1968,7 @@
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [ansible/galaxy_collection](https://github.com/ansible/galaxy_collection) - Collection of modules and roles to configure Automation Hub
 - [fmaida/mkdocs-blog-plugin](https://github.com/fmaida/mkdocs-blog-plugin) - This plugin for MkDocs allows to keeps a really simple blog section inside your documentation site.
-- [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
+- [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [SatelliteQE/blinker_herald](https://github.com/SatelliteQE/blinker_herald) - The Blinker Herald includes helpers to easily emit signals using the excellent blinker library.
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
