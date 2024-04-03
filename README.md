@@ -2785,7 +2785,7 @@
 - [pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
 - [Net-ng/kansha](https://github.com/Net-ng/kansha) - Manage and share collaborative pinboards on the web.
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
-- [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
+- [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [Capgemini/kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [abalkin/pytest-leaks](https://github.com/abalkin/pytest-leaks) - A pytest plugin to trace resource leaks.
 - [timofurrer/shellfuncs](https://github.com/timofurrer/shellfuncs) - Python API to execute shell functions as they would be Python functions
