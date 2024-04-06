@@ -97,6 +97,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -1957,6 +1958,10 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 
 ## hacking 
+
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+
+## hacking-tool 
 
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 
@@ -6036,7 +6041,7 @@
 - [dirn/When.py](https://github.com/dirn/When.py) - Friendly Python Dates
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [pyjs/pyjs](https://github.com/pyjs/pyjs) - Pyjs canonical sources. Start here!
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [manuelep/plugin_lookout](https://github.com/manuelep/plugin_lookout) - web2py plugin with the aim of inspecting into database connection contents without the needing of an appropriate model
 - [stoneyrh/xscripts](https://github.com/stoneyrh/xscripts) - 
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
@@ -7028,7 +7033,7 @@
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
 - [pythonclub/pythonclub.github.io](https://github.com/pythonclub/pythonclub.github.io) - Blog colaborativo sobre tecnologias que envolvam a linguagem Python
-- [Parsely/streamparse](https://github.com/Parsely/streamparse) - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.
+- [pystorm/streamparse](https://github.com/pystorm/streamparse) - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
 - [crate/crate-python](https://github.com/crate/crate-python) - A Python client library for CrateDB.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
