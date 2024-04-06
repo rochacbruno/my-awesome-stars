@@ -3417,7 +3417,7 @@
 - [toudi/porter](https://github.com/toudi/porter) - general-purpose deployment system
 - [debugger22/Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
 - [mozilla-releng/redo](https://github.com/mozilla-releng/redo) - Utilities to retry Python callables
-- [Parsely/streamparse](https://github.com/Parsely/streamparse) - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.
+- [pystorm/streamparse](https://github.com/pystorm/streamparse) - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
 - [bVector/tailcolor](https://github.com/bVector/tailcolor) - 'tail -F' with color feedback based on how recent the line was seen
@@ -4057,7 +4057,7 @@
 - [rpedroso/gweb2py](https://github.com/rpedroso/gweb2py) - 
 - [dirn/When.py](https://github.com/dirn/When.py) - Friendly Python Dates
 - [pyjs/pyjs](https://github.com/pyjs/pyjs) - Pyjs canonical sources. Start here!
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [manuelep/plugin_lookout](https://github.com/manuelep/plugin_lookout) - web2py plugin with the aim of inspecting into database connection contents without the needing of an appropriate model
 - [stoneyrh/xscripts](https://github.com/stoneyrh/xscripts) - 
 - [demianbrecht/sanction](https://github.com/demianbrecht/sanction) - A dead simple OAuth2 client implementation.
