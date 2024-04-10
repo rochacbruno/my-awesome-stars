@@ -244,7 +244,7 @@
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [dmlc/parameter_server](https://github.com/dmlc/parameter_server) - moved to https://github.com/dmlc/ps-lite
 - [moai/luamongo](https://github.com/moai/luamongo) - Lua driver for mongodb
-- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
+- [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) - 
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [beniz/seeks](https://github.com/beniz/seeks) - Seeks is a decentralized p2p websearch and collaborative tool.
@@ -1652,7 +1652,7 @@
 - [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [luzfcb/ergonomia_no_trabalho](https://github.com/luzfcb/ergonomia_no_trabalho) - repositório para listar produtos uteis para ergonomia no trabalho, visando manter a saúde de quem trampa muito tempo sentado (ou não) ou muito tempo na frente de uma tela de computador.
 - [oasis-roles/openstack_provision](https://github.com/oasis-roles/openstack_provision) - 
@@ -2330,7 +2330,6 @@
 - [Arfafa/ThisApiDoesNotExist](https://github.com/Arfafa/ThisApiDoesNotExist) - Api não oficial das páginas thispersondoesnotexist e thiscatdoesnotexist
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [Katello/pulp-katello](https://github.com/Katello/pulp-katello) - Plugins useful for katello interatctions with pulp
-- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [python-poetry/semver](https://github.com/python-poetry/semver) - A semantic versioning library for Python
 - [guokr/swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Flask, Tornado, Falcon, Sanic
