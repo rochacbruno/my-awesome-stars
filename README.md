@@ -114,6 +114,7 @@
 
 ## C 
 
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
@@ -200,6 +201,8 @@
 
 ## C++ 
 
+- [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
+- [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [KDE/ktexteditor](https://github.com/KDE/ktexteditor) - KTextEditor Framework
 - [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
@@ -1873,6 +1876,8 @@
 
 ## Python 
 
+- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bruno-fs/pybuild-deps](https://github.com/bruno-fs/pybuild-deps) - A simple tool for detection of PEP-517 build dependencies.
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
@@ -3270,7 +3275,6 @@
 - [cuducos/alchemydumps](https://github.com/cuducos/alchemydumps) - SQLAlchemy backup/dump tool for Flask
 - [mriehl/fysom](https://github.com/mriehl/fysom) - Finite State Machine for Python (based on Jake Gordon's javascript-state-machine)
 - [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [nvie/cookiecutter-python-cli](https://github.com/nvie/cookiecutter-python-cli) - 
 - [alexandrevicenzi/fluentmail](https://github.com/alexandrevicenzi/fluentmail) - Python SMTP client and Email for Humans™
 - [caiobegotti/Lost-Photos-Found](https://github.com/caiobegotti/Lost-Photos-Found) - Linux version of the LostPhotos application for Mac/Windows
 - [liftoff/pyminifier](https://github.com/liftoff/pyminifier) - Pyminifier is a Python code minifier, obfuscator, and compressor.
@@ -4206,6 +4210,7 @@
 
 ## Rust 
 
+- [JacobCallahan/Hussh](https://github.com/JacobCallahan/Hussh) - SSH for Humans
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
