@@ -919,6 +919,7 @@
 
 ## cpp 
 
+- [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1456,6 +1457,8 @@
 
 ## emoji 
 
+- [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [sh4nks/flask-emoji](https://github.com/sh4nks/flask-emoji) - Flask extension to add support for Emojis.
@@ -1820,6 +1823,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [cassiobotaro/concorrencia-go](https://github.com/cassiobotaro/concorrencia-go) - ⛓️ Estudos sobre concorrência em Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [terokarvinen/micro-jump](https://github.com/terokarvinen/micro-jump) - Jump to any function, class or heading with F4. Go, Markdown, Python, C... (+40 others). A plugin for micro editor.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1967,6 +1971,7 @@
 
 ## hacktoberfest 
 
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [film42/sidekiq-rs](https://github.com/film42/sidekiq-rs) - A port of sidekiq to rust using tokio
@@ -2739,6 +2744,8 @@
 
 ## linux 
 
+- [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
@@ -2919,6 +2926,7 @@
 
 ## macos 
 
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -3350,6 +3358,10 @@
 
 ## others 
 
+- [JacobCallahan/Hussh](https://github.com/JacobCallahan/Hussh) - SSH for Humans
+- [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
+- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [bruno-fs/pybuild-deps](https://github.com/bruno-fs/pybuild-deps) - A simple tool for detection of PEP-517 build dependencies.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
@@ -3615,7 +3627,6 @@
 - [wasi-master/google-tui](https://github.com/wasi-master/google-tui) - A terminal user interface for searching google
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [razevedo1994/data_engineer_roadmap](https://github.com/razevedo1994/data_engineer_roadmap) - Personal roadmap to guide my studies.
-- [cassiobotaro/concorrencia-go](https://github.com/cassiobotaro/concorrencia-go) - ⛓️ Estudos sobre concorrência em Go
 - [jupjohn/awesome-twitch-stuff](https://github.com/jupjohn/awesome-twitch-stuff) - A list of awesome Twitch/streaming-related tools
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
@@ -5000,7 +5011,6 @@
 - [mriehl/fysom](https://github.com/mriehl/fysom) - Finite State Machine for Python (based on Jake Gordon's javascript-state-machine)
 - [vjsrinath/sails-orientdb](https://github.com/vjsrinath/sails-orientdb) - An waterline adapter for orient db
 - [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [nvie/cookiecutter-python-cli](https://github.com/nvie/cookiecutter-python-cli) - 
 - [angstwad/flask-form-macros](https://github.com/angstwad/flask-form-macros) - Jinja2/Flask macros used to generate form fields
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 - [caiobegotti/Lost-Photos-Found](https://github.com/caiobegotti/Lost-Photos-Found) - Linux version of the LostPhotos application for Mac/Windows
@@ -8526,6 +8536,7 @@
 
 ## windows 
 
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
