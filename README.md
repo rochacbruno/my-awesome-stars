@@ -1876,6 +1876,7 @@
 
 ## Python 
 
+- [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
 - [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bruno-fs/pybuild-deps](https://github.com/bruno-fs/pybuild-deps) - A simple tool for detection of PEP-517 build dependencies.
@@ -4153,7 +4154,7 @@
 ## QML 
 
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
-- [KDE/klevernotes](https://github.com/KDE/klevernotes) - A convergent markdown note taking application.
+- [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
 - [qownnotes/scripts](https://github.com/qownnotes/scripts) - QOwnNotes script repository
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
