@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
