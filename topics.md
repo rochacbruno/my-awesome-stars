@@ -69,6 +69,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -1454,6 +1455,13 @@
 - [owainlewis/emacs-color-themes](https://github.com/owainlewis/emacs-color-themes) - A collection of custom themes for Emacs. All the themes are named after famous programmers.
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
+
+## embedded 
+
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+- [TeXitoi/rusty-clock](https://github.com/TeXitoi/rusty-clock) - An alarm clock with environment stats in pure bare metal embedded rust
+- [monkey/monkey](https://github.com/monkey/monkey) - Monkey HTTP Server
 
 ## ember 
 
@@ -3572,7 +3580,6 @@
 - [kmarekspartz/yapl](https://github.com/kmarekspartz/yapl) - YAml Programming Language
 - [fmaida/mkdocs-blog-plugin](https://github.com/fmaida/mkdocs-blog-plugin) - This plugin for MkDocs allows to keeps a really simple blog section inside your documentation site.
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
-- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [dunossauro/ansible-lab](https://github.com/dunossauro/ansible-lab) - Laboratório para live de python sobre ansible
 - [SatelliteQE/blinker_herald](https://github.com/SatelliteQE/blinker_herald) - The Blinker Herald includes helpers to easily emit signals using the excellent blinker library.
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
