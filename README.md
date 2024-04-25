@@ -455,6 +455,7 @@
 
 ## Go 
 
+- [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
@@ -1883,6 +1884,9 @@
 
 ## Python 
 
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
+- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
+- [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
 - [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
@@ -4777,7 +4781,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust
 - [bltavares/heartbeat](https://github.com/bltavares/heartbeat) - `top` for services
-- [cristianoliveira/rost](https://github.com/cristianoliveira/rost) - A simple host manager in Rust.
 - [arthurprs/floki](https://github.com/arthurprs/floki) - Floki Message Queue
 - [ricbit/rgzip](https://github.com/ricbit/rgzip) - Gzip decoder in Rust
 - [thiagopnts/groot](https://github.com/thiagopnts/groot) - :deciduous_tree: The Groot Programming Language
