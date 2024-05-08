@@ -276,6 +276,7 @@
 
 ## android 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1892,7 +1893,7 @@
 
 ## golang 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -1992,6 +1993,7 @@
 
 ## hacktoberfest 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -2767,6 +2769,7 @@
 
 ## linux 
 
+- [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
@@ -2950,6 +2953,7 @@
 
 ## macos 
 
+- [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
@@ -3045,7 +3049,7 @@
 
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) - Fediverse API client library for Rust
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
@@ -3385,6 +3389,7 @@
 
 ## others 
 
+- [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [hugopl/sidekiq.cr](https://github.com/hugopl/sidekiq.cr) - Simple, efficient job processing for Crystal
 - [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
@@ -3555,7 +3560,7 @@
 - [laubstein/galaxy-light](https://github.com/laubstein/galaxy-light) - Ansible Galaxy server alternative
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
-- [cosmicpb/FascistFree](https://github.com/cosmicpb/FascistFree) - 
+- [cosmicpb/FaceCut](https://github.com/cosmicpb/FaceCut) - 
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq) - Master key for exiting or deleting nvim/vim buffers with respect to window splits and tabs.
