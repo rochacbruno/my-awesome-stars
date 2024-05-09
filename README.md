@@ -457,6 +457,7 @@
 
 ## Go 
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
