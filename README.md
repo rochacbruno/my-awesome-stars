@@ -871,6 +871,7 @@
 
 ## JavaScript 
 
+- [andigandhi/Mastodon-Circles](https://github.com/andigandhi/Mastodon-Circles) - Producing a visual representation of Mastodon interactions with JS
 - [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
@@ -2246,7 +2247,7 @@
 - [cassiobotaro/poop](https://github.com/cassiobotaro/poop) - 💩 Python Object-Oriented Programming :snake:
 - [lebedov/ripdb](https://github.com/lebedov/ripdb) - Remotely accessible IPython-enabled debugger
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [andy-landy/traceback_with_variables](https://github.com/andy-landy/traceback_with_variables) - Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing ever
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
