@@ -5092,6 +5092,7 @@
 
 ## TypeScript 
 
+- [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [imqueue/pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support
