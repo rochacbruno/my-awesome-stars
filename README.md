@@ -46,6 +46,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mojo](#mojo)
 - [MoonScript](#moonscript)
 - [Mustache](#mustache)
@@ -1242,7 +1243,6 @@
 - [kolber/audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
 - [xoxco/jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 - [ducksboard/gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [jniltinho/smb4manager](https://github.com/jniltinho/smb4manager) - Samba4 Web Manager
 - [ed-lea/jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
 - [pazguille/async-img](https://github.com/pazguille/async-img) - [DEPRECATED: You should use https://github.com/pazguille/aload] Asynchronous Image Loader.
@@ -1536,6 +1536,10 @@
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [aptible/docker-cron-example](https://github.com/aptible/docker-cron-example) - DEPRECATED - Please see https://github.com/aptible/supercronic instead
 - [alanfranz/killmesoftly](https://github.com/alanfranz/killmesoftly) - Kill processes The Right Way.
+
+## Markdown 
+
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Mojo 
 
@@ -2843,7 +2847,7 @@
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
 - [materialsvirtuallab/flamyngo](https://github.com/materialsvirtuallab/flamyngo) - Flask frontend for MongoDB
 - [jamesabel/osnap](https://github.com/jamesabel/osnap) - 
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [alexprengere/jsonmixin](https://github.com/alexprengere/jsonmixin) - Automatic Json export of your Python objects
 - [renzon/pytocli](https://github.com/renzon/pytocli) - A Python lib to generate CLI commands
