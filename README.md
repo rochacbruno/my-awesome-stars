@@ -83,6 +83,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [YAML](#yaml)
 - [Zig](#zig)
 
@@ -1921,7 +1922,7 @@
 - [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [fictive-kin/dynaconf-aws-loader](https://github.com/fictive-kin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
-- [Never-Over/tach](https://github.com/Never-Over/tach) - A Python tool to enforce a modular, decoupled package architecture
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
@@ -2122,7 +2123,7 @@
 - [tylerhou/fiber](https://github.com/tylerhou/fiber) - 
 - [singingwolfboy/pytest-dynaconf](https://github.com/singingwolfboy/pytest-dynaconf) - 
 - [himdel/lint-po](https://github.com/himdel/lint-po) - A simple linter for gettext .po files to catch common translator mistakes.
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
 - [perylemke/chespirito-api](https://github.com/perylemke/chespirito-api) - Uma API pública contendo informações sobre o unvierso de Roberto Gomez Bolaños.
 - [jAzz-hub/Criatividade_Pythonica](https://github.com/jAzz-hub/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
@@ -4238,6 +4239,7 @@
 
 ## Rust 
 
+- [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [JacobCallahan/Hussh](https://github.com/JacobCallahan/Hussh) - SSH for Humans
@@ -4556,7 +4558,7 @@
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [tsoding/cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
@@ -4619,7 +4621,6 @@
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels
 - [fff-rs/juice](https://github.com/fff-rs/juice) - The Hacker's Machine Learning Engine
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [whatisaphone/genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -5267,6 +5268,10 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [pdyba/aioquiz](https://github.com/pdyba/aioquiz) - 
+
+## WebAssembly 
+
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## YAML 
 
