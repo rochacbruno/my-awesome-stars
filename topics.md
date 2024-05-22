@@ -242,6 +242,7 @@
 
 ## ai 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -719,6 +720,7 @@
 
 ## cli 
 
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
@@ -1155,6 +1157,7 @@
 
 ## devops 
 
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -1197,6 +1200,7 @@
 
 ## django 
 
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
@@ -3368,6 +3372,7 @@
 
 ## open-source 
 
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
@@ -3416,6 +3421,7 @@
 
 ## others 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [andigandhi/Mastodon-Circles](https://github.com/andigandhi/Mastodon-Circles) - Producing a visual representation of Mastodon interactions with JS
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
@@ -6430,6 +6436,8 @@
 
 ## python 
 
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
