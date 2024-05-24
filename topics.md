@@ -720,11 +720,12 @@
 
 ## cli 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture.     🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
@@ -1475,6 +1476,7 @@
 
 ## emacs 
 
+- [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [grafov/rust-playground](https://github.com/grafov/rust-playground) - GNU/Emacs mode that setup local playground for code snippets in Rust language.
 - [Sliim/helm-github-stars](https://github.com/Sliim/helm-github-stars) - Browse your starred repositories with Emacs helm interface
 - [owainlewis/emacs-color-themes](https://github.com/owainlewis/emacs-color-themes) - A collection of custom themes for Emacs. All the themes are named after famous programmers.
@@ -3021,6 +3023,7 @@
 
 ## markdown 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
@@ -3374,7 +3377,7 @@
 
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture.     🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -6450,7 +6453,7 @@
 - [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture.     🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable
 - [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -7294,6 +7297,7 @@
 
 ## python3 
 
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture.     🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
@@ -7555,6 +7559,7 @@
 
 ## rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
@@ -8229,6 +8234,7 @@
 
 ## terminal 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
