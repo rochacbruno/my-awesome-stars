@@ -463,7 +463,7 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 27th - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
@@ -2126,7 +2126,7 @@
 - [tylerhou/fiber](https://github.com/tylerhou/fiber) - 
 - [singingwolfboy/pytest-dynaconf](https://github.com/singingwolfboy/pytest-dynaconf) - 
 - [himdel/lint-po](https://github.com/himdel/lint-po) - A simple linter for gettext .po files to catch common translator mistakes.
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [perylemke/chespirito-api](https://github.com/perylemke/chespirito-api) - Uma API pública contendo informações sobre o unvierso de Roberto Gomez Bolaños.
 - [jAzz-hub/Criatividade_Pythonica](https://github.com/jAzz-hub/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
