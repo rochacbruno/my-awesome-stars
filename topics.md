@@ -1916,7 +1916,7 @@
 
 ## golang 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 27th - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -3081,7 +3081,7 @@
 
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 27th - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) - Fediverse API client library for Rust
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
@@ -3274,7 +3274,6 @@
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 
 ## nim 
 
@@ -7325,7 +7324,7 @@
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [monomonedula/nvelope](https://github.com/monomonedula/nvelope) - Define your JSON schema as Python dataclasses
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [sivakov512/python-markdown-full-yaml-metadata](https://github.com/sivakov512/python-markdown-full-yaml-metadata) - YAML metadata extension for Python-Markdown
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
@@ -7482,7 +7481,6 @@
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [globocom/megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
 - [olebedev/go-starter-kit](https://github.com/olebedev/go-starter-kit) - [abandoned] Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit
-- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [no13bus/redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, react, vite, socket.io
 - [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
