@@ -1919,7 +1919,7 @@
 - [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
 - [billwparker/chat_application](https://github.com/billwparker/chat_application) - Chat Application using Streamlit and local models
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
@@ -4263,7 +4263,7 @@
 - [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular, decoupled package architecture. 🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable wit
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing sys
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bltavares/axum-content-negotiation](https://github.com/bltavares/axum-content-negotiation) - Axum middleware to use Accept and Content-Type headers to serialize with different formats
