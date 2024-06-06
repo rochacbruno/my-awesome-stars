@@ -1947,7 +1947,7 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
-- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
+- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - 
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
@@ -4451,7 +4451,7 @@
 - [vv9k/mdbook-man](https://github.com/vv9k/mdbook-man) - Generate manual pages from mdBooks!
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [trillium-rs/trillium](https://github.com/trillium-rs/trillium) - 🌱🦀🌱 Trillium is a composable toolkit for building internet applications with async rust
+- [trillium-rs/trillium](https://github.com/trillium-rs/trillium) - Trillium is a composable toolkit for building internet applications with async rust
 - [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
 - [beltram/asserhttp](https://github.com/beltram/asserhttp) - Fluent http assertions
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -4608,7 +4608,7 @@
 - [tafia/nested](https://github.com/tafia/nested) - A memory efficient container for rust nested collections
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [GuillaumeGomez/process-viewer](https://github.com/GuillaumeGomez/process-viewer) - A process viewer GUI in rust
 - [thecoshman/http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [museun/twitchchat](https://github.com/museun/twitchchat) - interface to the irc portion of Twitch's chat
