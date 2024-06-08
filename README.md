@@ -1725,7 +1725,6 @@
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [rust-br/estudos](https://github.com/rust-br/estudos) - Local destinado para estudos sobre assuntos relacionados a Rust
 - [jamiejennings/rosie-pattern-language](https://github.com/jamiejennings/rosie-pattern-language) - Rosie Pattern Language (RPL) and the Rosie Pattern Engine have MOVED!
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [wcrasta/SWA-Scraper](https://github.com/wcrasta/SWA-Scraper) - 
 - [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
@@ -1936,7 +1935,7 @@
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
@@ -4887,6 +4886,7 @@
 - [marioidival/goga](https://github.com/marioidival/goga) - A fully RESTful API from any existing PostgreSQL database written in Rust
 - [rustless/rustless](https://github.com/rustless/rustless) - REST-like API micro-framework for Rust. Works with Iron.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
