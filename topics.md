@@ -3484,7 +3484,7 @@
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
 - [prefix-dev/resolvo-rpm](https://github.com/prefix-dev/resolvo-rpm) - Resolver for RPM packages
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
