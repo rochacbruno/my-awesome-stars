@@ -704,6 +704,7 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [kichik/whypy3](https://github.com/kichik/whypy3) - All the reasons to switch to Python 3 today
 - [lex009/flask-admin-lte](https://github.com/lex009/flask-admin-lte) - AdminLTE for Flask Admin
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [soltysh/talks](https://github.com/soltysh/talks) - Slides, code samples etc.
 - [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
@@ -1927,7 +1928,7 @@
 - [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [fictive-kin/dynaconf-aws-loader](https://github.com/fictive-kin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source  🐍  Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing sys
+- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ajatkj/typed_configparser](https://github.com/ajatkj/typed_configparser) - A fully typed configparser built on top of configparser
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python
@@ -2435,7 +2436,7 @@
 - [mesalock-linux/mesapy](https://github.com/mesalock-linux/mesapy) - A Fast and Safe Python based on PyPy
 - [python-needle/needle](https://github.com/python-needle/needle) - Automated tests for your CSS.
 - [ssrikanta/pytest-excel](https://github.com/ssrikanta/pytest-excel) - 
-- [andrewp-as-is/setupcfg-generator.py](https://github.com/andrewp-as-is/setupcfg-generator.py) - :package: :snake: setup.cfg generator
+- [andrewpetrochenkov/setupcfg-generator.py](https://github.com/andrewpetrochenkov/setupcfg-generator.py) - :package: :snake: setup.cfg generator
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [reportportal/client-Python](https://github.com/reportportal/client-Python) - A common client library for Python-based agents
 - [ionelmc/python-manhole](https://github.com/ionelmc/python-manhole) - Debugging manhole for python applications.
@@ -4886,7 +4887,6 @@
 - [marioidival/goga](https://github.com/marioidival/goga) - A fully RESTful API from any existing PostgreSQL database written in Rust
 - [rustless/rustless](https://github.com/rustless/rustless) - REST-like API micro-framework for Rust. Works with Iron.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -4962,7 +4962,7 @@
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [andrewp-as-is/pypi-register](https://github.com/andrewp-as-is/pypi-register) - :snake: register pypi.org project
+- [andrewpetrochenkov/pypi-register](https://github.com/andrewpetrochenkov/pypi-register) - :snake: register pypi.org project
 - [MashMB/manjaro-i3wm](https://github.com/MashMB/manjaro-i3wm) - Personalized Manjaro i3wm configuration
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
