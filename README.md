@@ -3585,7 +3585,7 @@
 - [nigma/django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
 - [bretth/django-pq](https://github.com/bretth/django-pq) - [UNMAINTAINED] A task queue based on the elegant python RQ but with a django postgresql backend.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
 - [futurecolors/django-geoip](https://github.com/futurecolors/django-geoip) - App to figure out where your visitors are from by their IP address.
 - [un33k/django-geoaware](https://github.com/un33k/django-geoaware) - Django GeoAware provides a middleware as well as a context processor for including GeoIP related info in the session and/or the context of your application.
 - [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
