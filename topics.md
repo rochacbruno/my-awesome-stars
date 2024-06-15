@@ -235,6 +235,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -464,7 +465,6 @@
 ## awesome 
 
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - The most pythonic ORM (for SQLite and PostgreSQL). Seriously, try it out!
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -727,7 +727,7 @@
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
@@ -871,7 +871,7 @@
 
 ## code-quality 
 
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
@@ -912,7 +912,7 @@
 
 ## config 
 
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [bnjjj/twelf](https://github.com/bnjjj/twelf) - Twelf is a configuration solution for Rust including 12-Factor support. It is designed with layers in order to configure different sources and formats to build your configuration. The main goal is to 
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
@@ -1142,7 +1142,7 @@
 
 ## dependency-management 
 
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [thoth-station/micropipenv](https://github.com/thoth-station/micropipenv) - A lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output. Designed for containerized Python applications but not limite
 
 ## deployment 
@@ -1164,7 +1164,7 @@
 ## devops 
 
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -1660,7 +1660,7 @@
 ## framework 
 
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
@@ -2777,7 +2777,7 @@
 
 ## library 
 
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
 - [danthedeckie/simpleeval](https://github.com/danthedeckie/simpleeval) - Simple Safe Sandboxed Extensible Expression Evaluator for Python
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) - Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
@@ -3177,7 +3177,7 @@
 - [anyaudio/web](https://github.com/anyaudio/web) - [Inactive] A free, open source music player
 - [anyaudio/anyaudio-server](https://github.com/anyaudio/anyaudio-server) - :musical_note: Simple server to search youtube and give direct audio download and stream links
 - [schollz/playlistfromsong](https://github.com/schollz/playlistfromsong) - Create an offline music playlist from a single song :notes:
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
 
 ## mysql 
 
@@ -3383,7 +3383,7 @@
 
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -6414,7 +6414,7 @@
 
 ## programming 
 
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [code-hike/video-tutorial-maker](https://github.com/code-hike/video-tutorial-maker) - Make programming tutorials with markdown
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [perifacode/comunidade](https://github.com/perifacode/comunidade) - ✊🏽 A comunidade de programação da periferia
@@ -6462,6 +6462,7 @@
 - [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -7169,6 +7170,7 @@
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
 - [nigma/django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
 - [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
 - [angstwad/elemental](https://github.com/angstwad/elemental) - A MVC-style project base for Flask applications
 - [pmclanahan/django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django email backend that uses a celery task for sending the email.
@@ -7323,7 +7325,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
 - [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -7577,7 +7579,7 @@
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -8245,7 +8247,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-- [gauge-sh/tach-python-modular-monorepo-framework-tool](https://github.com/gauge-sh/tach-python-modular-monorepo-framework-tool) - Tach - a Python framework for your modular monorepo - cli with bash and terminal support 🌎 Open-source 🐍 Installable via pip 🦀 Written in rust 🔒 Maintain code quality 🔧 Works through static parsing of
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
@@ -8697,6 +8699,11 @@
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [RReverser/serde-xml-rs](https://github.com/RReverser/serde-xml-rs) - xml-rs based deserializer for Serde (compatible with 1.0+)
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
+
+## zig 
+
+- [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) - A toolkit for building Python extensions in Zig.
+- [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
 
 
 ## License
