@@ -1473,7 +1473,7 @@
 - [terokarvinen/micro-jump](https://github.com/terokarvinen/micro-jump) - Jump to any function, class or heading with F4. Go, Markdown, Python, C... (+40 others). A plugin for micro editor.
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
-- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My config files
+- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
@@ -1907,7 +1907,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
