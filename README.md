@@ -1919,7 +1919,7 @@
 - [OpenPrinting/system-config-printer](https://github.com/OpenPrinting/system-config-printer) - Graphical user interface for CUPS administration
 - [billwparker/chat_application](https://github.com/billwparker/chat_application) - Chat Application using Streamlit and local models
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
+- [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
@@ -3476,7 +3476,7 @@
 - [scottwoodall/python-pgextras](https://github.com/scottwoodall/python-pgextras) - Unofficial Python port of Heroku's pgextras that provides various statistics for a Postgres instance.
 - [roryk/ipython-cluster-helper](https://github.com/roryk/ipython-cluster-helper) - Tool to easily start up an IPython cluster on different schedulers.
 - [pallets-eco/flask-session](https://github.com/pallets-eco/flask-session) - Server side session extension for Flask
-- [crate/crate-python](https://github.com/crate/crate-python) - A Python client library for CrateDB.
+- [crate/crate-python](https://github.com/crate/crate-python) - Python DB API client library for CrateDB, using HTTP.
 - [texuf/pymonster](https://github.com/texuf/pymonster) - PyMonster is python implementation of Stripe's description of their MongoDb-powered event processing system.
 - [cburmeister/flask-bones](https://github.com/cburmeister/flask-bones) - An example of a large scale Flask application using blueprints and extensions.
 - [emehrkay/Compass](https://github.com/emehrkay/Compass) - Python REST interface for OrientDB
