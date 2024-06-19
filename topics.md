@@ -45,6 +45,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -277,6 +278,7 @@
 - [torodb/stampede](https://github.com/torodb/stampede) - The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 
 ## android 
 
@@ -951,6 +953,13 @@
 
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 
+## cryptography 
+
+- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+- [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
+
 ## csharp 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1081,7 +1090,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -1261,7 +1270,7 @@
 - [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [django-recaptcha/django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [edoburu/django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs
@@ -1323,7 +1332,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
 - [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - A Telegram bot that helps you learn German der/die/das articles.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -1429,7 +1438,7 @@
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [plamorg/ambit](https://github.com/plamorg/ambit) - ambit is a dotfile manager (written in Rust)
-- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My config files
+- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -1870,7 +1879,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [cassiobotaro/concorrencia-go](https://github.com/cassiobotaro/concorrencia-go) - ⛓️ Estudos sobre concorrência em Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [terokarvinen/micro-jump](https://github.com/terokarvinen/micro-jump) - Jump to any function, class or heading with F4. Go, Markdown, Python, C... (+40 others). A plugin for micro editor.
@@ -1930,14 +1939,13 @@
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [timopattikawa/kamoro](https://github.com/timopattikawa/kamoro) - Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2264,7 +2272,6 @@
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman.
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -2308,7 +2315,6 @@
 
 ## html 
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2359,7 +2365,7 @@
 
 ## http 
 
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
@@ -2475,7 +2481,6 @@
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
@@ -3181,10 +3186,9 @@
 
 ## mysql 
 
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
@@ -3316,7 +3320,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [sorenlouv/backport](https://github.com/sorenlouv/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -6364,12 +6368,11 @@
 - [whythawk/full-stack-fastapi-postgresql](https://github.com/whythawk/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Nuxt3, Docker, automatic HTTPS and more.
 - [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL.
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate](https://github.com/syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate) - Boiler plate project for using GraphQL (Strawberry) with FastAPI and Async SQL Alchemy 🍓
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -6452,14 +6455,14 @@
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
 - [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
+- [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce a modular architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing syste
@@ -6565,7 +6568,7 @@
 - [sirfuzzalot/textual-inputs](https://github.com/sirfuzzalot/textual-inputs) - Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
 - [RedHatQE/cloudwash](https://github.com/RedHatQE/cloudwash) - A cloud resources cleanup utility tool
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [wasi-master/fastero](https://github.com/wasi-master/fastero) - Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
 - [rg3915/django-experience](https://github.com/rg3915/django-experience) - Tutorial Django Experience 2022
 - [BstLabs/py-dynacli](https://github.com/BstLabs/py-dynacli) - DynaCLI is a cloud-friendly Python library for converting pure Python functions into Linux Shell commands.
@@ -7143,7 +7146,7 @@
 - [pythonclub/pythonclub.github.io](https://github.com/pythonclub/pythonclub.github.io) - Blog colaborativo sobre tecnologias que envolvam a linguagem Python
 - [pystorm/streamparse](https://github.com/pystorm/streamparse) - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
-- [crate/crate-python](https://github.com/crate/crate-python) - A Python client library for CrateDB.
+- [crate/crate-python](https://github.com/crate/crate-python) - Python DB API client library for CrateDB, using HTTP.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce) - A very simple Salesforce.com REST API client for Python
@@ -7420,7 +7423,7 @@
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [alexandrevicenzi/fluentmail](https://github.com/alexandrevicenzi/fluentmail) - Python SMTP client and Email for Humans™
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [gmr/flatdict](https://github.com/gmr/flatdict) - Python module for interacting with nested dicts as a single level dict with delimited keys.
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
 - [ashcrow/flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework.
@@ -8159,11 +8162,11 @@
 - [torodb/stampede](https://github.com/torodb/stampede) - The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL
 - [mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder) - jQuery plugin offering an interface to create complex queries
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
-- [crate/crate-python](https://github.com/crate/crate-python) - A Python client library for CrateDB.
+- [crate/crate-python](https://github.com/crate/crate-python) - Python DB API client library for CrateDB, using HTTP.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 
@@ -8173,7 +8176,7 @@
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -8345,6 +8348,7 @@
 ## terraform 
 
 - [xchapter7x/clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
