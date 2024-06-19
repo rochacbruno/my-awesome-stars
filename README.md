@@ -144,7 +144,6 @@
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kovidgoyal/html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python
 - [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-TH
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -499,7 +498,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [cassiobotaro/concorrencia-go](https://github.com/cassiobotaro/concorrencia-go) - ⛓️ Estudos sobre concorrência em Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
@@ -947,6 +946,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [loganmzz/rust-presentation-introduction](https://github.com/loganmzz/rust-presentation-introduction) - "Tomorrow I stop coffee, I get to crab !"
@@ -3645,7 +3645,7 @@
 - [aaugustin/django-transaction-signals](https://github.com/aaugustin/django-transaction-signals) - Transaction signals for Django. Don't miss the README!
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [noamraph/tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [ntucker/django-recaptcha-form](https://github.com/ntucker/django-recaptcha-form) - Provides form widgets and class mixin for django newforms. This allows adding a recaptcha test to any django form.
 - [django-recaptcha/django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
