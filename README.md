@@ -3962,7 +3962,7 @@
 - [mbr/flask-bootstrap](https://github.com/mbr/flask-bootstrap) - Ready-to-use Twitter-bootstrap for use in Flask.
 - [MalphasWats/flask-blueprint-loader](https://github.com/MalphasWats/flask-blueprint-loader) - skeleton flask app for loading blueprints at run-time
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [syrusakbary/Flask-SuperAdmin](https://github.com/syrusakbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
 - [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
 - [jgorset/django-shortcuts](https://github.com/jgorset/django-shortcuts) - You spend too much time typing "python manage.py"
