@@ -5944,7 +5944,7 @@
 - [mbr/flask-bootstrap](https://github.com/mbr/flask-bootstrap) - Ready-to-use Twitter-bootstrap for use in Flask.
 - [smurfix/flask-script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
 - [MalphasWats/flask-blueprint-loader](https://github.com/MalphasWats/flask-blueprint-loader) - skeleton flask app for loading blueprints at run-time
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [syrusakbary/Flask-SuperAdmin](https://github.com/syrusakbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
 - [jgorset/django-shortcuts](https://github.com/jgorset/django-shortcuts) - You spend too much time typing "python manage.py"
 - [radiac/django-yarr](https://github.com/radiac/django-yarr) - A lightweight customisable RSS reader for Django.
