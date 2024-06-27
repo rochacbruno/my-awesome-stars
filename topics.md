@@ -1321,6 +1321,7 @@
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [zueve/zenv](https://github.com/zueve/zenv) - Zenv: Zen Environment - docker based virtual environments
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
 - [whythawk/full-stack-fastapi-postgresql](https://github.com/whythawk/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Nuxt3, Docker, automatic HTTPS and more.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -2973,6 +2974,7 @@
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [fff-rs/juice](https://github.com/fff-rs/juice) - The Hacker's Machine Learning Engine
@@ -3970,7 +3972,7 @@
 - [rust-torino/tree-sitter-core](https://github.com/rust-torino/tree-sitter-core) - Experimental oxidation of tree-sitter
 - [rodolfoghi/cpf-util-rust](https://github.com/rodolfoghi/cpf-util-rust) - CPF utils written in Rust
 - [DeanWay/pydantic-jsonapi](https://github.com/DeanWay/pydantic-jsonapi) - an implementation of JSON:api using pydantic for validation
-- [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [NinjaBunny9000/TwitchShoutoutBot](https://github.com/NinjaBunny9000/TwitchShoutoutBot) - A bot that shouts out a twitch team member! Uses chat + tts
@@ -4595,7 +4597,7 @@
 - [heynemann/skink](https://github.com/heynemann/skink) - Skink is a continuous-integration server in Python.
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [python/devguide](https://github.com/python/devguide) - The Python developer's guide
-- [red-hat-people-team/open-decision-framework](https://github.com/red-hat-people-team/open-decision-framework) - A community version of the Open Decision Framework
+- [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework
 - [alexyorke/Pedant](https://github.com/alexyorke/Pedant) - Find and fix bothersome punctuation and formatting errors in English texts.
 - [maxamillion/loopabull](https://github.com/maxamillion/loopabull) - Event loop driven Ansible playbook execution engine
 - [pretenders/pretenders](https://github.com/pretenders/pretenders) - Fake servers for testing
@@ -8240,7 +8242,6 @@
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
