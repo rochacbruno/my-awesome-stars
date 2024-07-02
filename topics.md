@@ -1237,6 +1237,7 @@
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [rg3915/django-experience](https://github.com/rg3915/django-experience) - Tutorial Django Experience 2022
+- [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
 - [rsinger86/drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) - Dynamically set fields and expand nested resources in Django REST Framework serializers.
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
@@ -3441,6 +3442,7 @@
 
 ## others 
 
+- [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -3752,7 +3754,6 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [perylemke/swcli](https://github.com/perylemke/swcli) - A simple CLI to consult Star Wars infos in StarWars API (https://swapi.dev/api/).
 - [technote-space/assign-author](https://github.com/technote-space/assign-author) - GitHub Actions to assign author to issue or PR
-- [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [erezsh/runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch
 - [mristin/fastapi-icontract](https://github.com/mristin/fastapi-icontract) - Specify contracts for FastAPI endpoints.
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
@@ -3823,7 +3824,7 @@
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [pulp/pulp-cli](https://github.com/pulp/pulp-cli) - 
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
-- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/master
+- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/quarkusmaster
 - [asciidoctor/asciidoc-docs](https://github.com/asciidoctor/asciidoc-docs) - The source files in this repository served as the initial contribution for the AsciiDoc Language specification project at Eclipse. This repository is now archived.
 - [newswangerd/galaxy-api-v4](https://github.com/newswangerd/galaxy-api-v4) - 
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
@@ -7338,7 +7339,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
