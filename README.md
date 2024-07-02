@@ -821,7 +821,7 @@
 ## Handlebars 
 
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles) - 
-- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/master
+- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/quarkusmaster
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
@@ -1901,6 +1901,7 @@
 
 ## Python 
 
+- [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
@@ -2064,7 +2065,7 @@
 - [adamchainz/patchy](https://github.com/adamchainz/patchy) - :anchor: Patch the inner source of python functions at runtime.
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [canonical/operator](https://github.com/canonical/operator) - Pure Python framework for writing Juju charms
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate](https://github.com/syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate) - Boiler plate project for using GraphQL (Strawberry) with FastAPI and Async SQL Alchemy 🍓
