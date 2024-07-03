@@ -4602,7 +4602,7 @@
 - [heynemann/skink](https://github.com/heynemann/skink) - Skink is a continuous-integration server in Python.
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [python/devguide](https://github.com/python/devguide) - The Python developer's guide
-- [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework
+- [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework - A flexible, open approach to making decisions and leading projects
 - [alexyorke/Pedant](https://github.com/alexyorke/Pedant) - Find and fix bothersome punctuation and formatting errors in English texts.
 - [maxamillion/loopabull](https://github.com/maxamillion/loopabull) - Event loop driven Ansible playbook execution engine
 - [pretenders/pretenders](https://github.com/pretenders/pretenders) - Fake servers for testing
