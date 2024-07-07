@@ -1899,6 +1899,7 @@
 
 ## Python 
 
+- [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
