@@ -698,7 +698,6 @@
 - [rustbridge/website](https://github.com/rustbridge/website) - the website for rustbridge
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
 - [rust-br/2018-roadshow](https://github.com/rust-br/2018-roadshow) - Rust Roadshow 🇧🇷 2-4 de fevereiro de 2018
-- [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [kichik/whypy3](https://github.com/kichik/whypy3) - All the reasons to switch to Python 3 today
 - [lex009/flask-admin-lte](https://github.com/lex009/flask-admin-lte) - AdminLTE for Flask Admin
@@ -1375,6 +1374,7 @@
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [PulpQE/pulp-qe-tools](https://github.com/PulpQE/pulp-qe-tools) - Tools, Helpers, Scripts, Playbooks and docs for Pulp QE
 - [nixocio/Internals](https://github.com/nixocio/Internals) - 
+- [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [opensanca/trilha-python](https://github.com/opensanca/trilha-python) - Curso "introdutório" à linguagem Python
 - [renzon/pytest-decorator](https://github.com/renzon/pytest-decorator) - Small test for decorator lib with pytest dependency injection
 - [danilobellini/scientific-literature](https://github.com/danilobellini/scientific-literature) - Notebooks and other stuff from my analysis of scientific literature I've found interesting
