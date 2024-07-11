@@ -5111,7 +5111,7 @@
 
 ## TypeScript 
 
-- [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+- [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [imqueue/pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support
