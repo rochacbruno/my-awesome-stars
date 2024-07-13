@@ -3514,7 +3514,7 @@
 - [ansible/logos](https://github.com/ansible/logos) - Ansible upstream logos
 - [jctanner/aah-jira-flask](https://github.com/jctanner/aah-jira-flask) - 
 - [prefix-dev/resolvo-rpm](https://github.com/prefix-dev/resolvo-rpm) - Resolver for RPM packages
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Ecommerce application
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -3627,7 +3627,7 @@
 - [furkanonder/beetrace](https://github.com/furkanonder/beetrace) - Trace your python process line by line with low overhead!
 - [laubstein/galaxy-light](https://github.com/laubstein/galaxy-light) - Ansible Galaxy server alternative
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
-- [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
+- [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) - Some color utils for neovim
 - [cosmicpb/FaceCut](https://github.com/cosmicpb/FaceCut) - 
 - [uriyyo/fastapi-pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI pagination 📖
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
@@ -4161,7 +4161,7 @@
 - [docker-library/postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [zeerorg/k3s-in-docker](https://github.com/zeerorg/k3s-in-docker) - A lightweight kubernetes development setup
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
-- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Security log analysis tools for server monitoring
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
