@@ -1899,6 +1899,8 @@
 
 ## Python 
 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
+- [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
@@ -2345,7 +2347,7 @@
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mshriver/something_framework](https://github.com/mshriver/something_framework) - A skeleton framework for discussion of pytest framework design
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [jquast/blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [olist/hulks](https://github.com/olist/hulks) - Olist custom linting hooks :green_heart: :alien:
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
@@ -4205,6 +4207,7 @@
 
 ## Ruby 
 
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
 - [kmarekspartz/yapl](https://github.com/kmarekspartz/yapl) - YAml Programming Language
 - [negrosdev/negros.dev](https://github.com/negrosdev/negros.dev) - Official repository of negros.dev
@@ -4246,6 +4249,7 @@
 
 ## Rust 
 
+- [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
