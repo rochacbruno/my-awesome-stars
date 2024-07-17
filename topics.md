@@ -710,7 +710,7 @@
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -1561,7 +1561,7 @@
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
@@ -3451,6 +3451,8 @@
 
 ## others 
 
+- [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
+- [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
@@ -6472,6 +6474,7 @@
 
 ## python 
 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
@@ -6712,7 +6715,7 @@
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [rednafi/pysanity](https://github.com/rednafi/pysanity) - Opinionated coding guidelines and best practices in Python
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [ddelange/pipgrip](https://github.com/ddelange/pipgrip) - Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm
@@ -7384,7 +7387,7 @@
 - [thoth-station/micropipenv](https://github.com/thoth-station/micropipenv) - A lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output. Designed for containerized Python applications but not limite
 - [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - An Async Bot/API wrapper for Twitch made in Python.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [nficano/yakutils](https://github.com/nficano/yakutils) - Yet another toolbox of Python 3 helper functions.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -7582,6 +7585,7 @@
 
 ## ruby 
 
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
@@ -7595,6 +7599,7 @@
 
 ## rust 
 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
