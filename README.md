@@ -144,6 +144,7 @@
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kovidgoyal/html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python
 - [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-TH
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -944,7 +945,6 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [loganmzz/rust-presentation-introduction](https://github.com/loganmzz/rust-presentation-introduction) - "Tomorrow I stop coffee, I get to crab !"
