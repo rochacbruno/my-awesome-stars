@@ -1162,7 +1162,7 @@
 - [mishoo/ymacs](https://github.com/mishoo/ymacs) - Ymacs is an^W the most Emacs-like code/text editor for the Web
 - [kthornbloom/Smoothbox](https://github.com/kthornbloom/Smoothbox) - A lightweight, responsive, & simple lightbox alternative (depreciated)
 - [kvendrik/responsive-images.js](https://github.com/kvendrik/responsive-images.js) - Lightweight plugin for easy responsive images replacement
-- [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - A chat room to demo presence
+- [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - INACTIVE - http://mzl.la/ghe-archive - A chat room to demo presence
 - [Bluefinch/microglark](https://github.com/Bluefinch/microglark) - A hacky minimalistic remote pair programming editor
 - [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
@@ -3732,7 +3732,6 @@
 - [adamn/python-webkit2png](https://github.com/adamn/python-webkit2png) - Python script that takes screenshots (browsershots) using webkit
 - [chhantyal/dj-dynamic-forms](https://github.com/chhantyal/dj-dynamic-forms) - Dynamic forms for Django - data storage in Postgres Hstore
 - [zachwill/flask-engine](https://github.com/zachwill/flask-engine) - A Flask skeleton for Google App Engine, using html5 boilerplate templating.
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [opps/opps-comments](https://github.com/opps/opps-comments) - Opps comments integrate disqus, facebook, intense debate and internal comment system
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [dag/flask-zodb](https://github.com/dag/flask-zodb) - Use the ZODB with Flask
@@ -4249,6 +4248,7 @@
 
 ## Rust 
 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -4315,7 +4315,7 @@
 - [reu/rinha-compiladores](https://github.com/reu/rinha-compiladores) - rinha-compiladores
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
 - [tomgroenwoldt/helix-shortcut-quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) - Learn the helix editor keymap on the web!
 - [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
@@ -5223,6 +5223,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 
