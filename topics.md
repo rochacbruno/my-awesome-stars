@@ -2061,7 +2061,7 @@
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [willianrod/ODeck](https://github.com/willianrod/ODeck) - A free and open-source alternative to StreamDeck
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
@@ -3452,6 +3452,7 @@
 
 ## others 
 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
 - [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
@@ -5671,7 +5672,7 @@
 - [smihica/emmet-mode](https://github.com/smihica/emmet-mode) - emmet's support for emacs.
 - [bear/parsedatetime](https://github.com/bear/parsedatetime) - Parse human-readable date/time strings
 - [yueyoum/django-social-login](https://github.com/yueyoum/django-social-login) - [DISCARDED]A Django APP for Social accounts login via OAuth2 Service
-- [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - A chat room to demo presence
+- [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - INACTIVE - http://mzl.la/ghe-archive - A chat room to demo presence
 - [not-kennethreitz/markdownplease.com](https://github.com/not-kennethreitz/markdownplease.com) - Give it a URL, it'll give you Markdown. Powered by Readability.
 - [bradymholt/jquery-googleslides](https://github.com/bradymholt/jquery-googleslides) - A jQuery plugin to display your Google Photos.
 - [t0m/select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) - simple css to make select2 widgets fit in with bootstrap
@@ -7635,7 +7636,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bennetthardwick/rust-obs-plugins](https://github.com/bennetthardwick/rust-obs-plugins) - A safe wrapper around the OBS API, useful for creating OBS sources, filters and effects.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
@@ -8290,7 +8291,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
