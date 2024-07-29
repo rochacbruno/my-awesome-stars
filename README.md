@@ -4248,6 +4248,7 @@
 
 ## Rust 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
