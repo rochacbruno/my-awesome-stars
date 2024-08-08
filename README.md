@@ -2028,7 +2028,7 @@
 - [Revolution1/etcd3-py](https://github.com/Revolution1/etcd3-py) - Pure python client for etcd v3 (Using gRPC-JSON-Gateway)
 - [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) - 
 - [ansible/eda-server-prototype](https://github.com/ansible/eda-server-prototype) - 
-- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - 
+- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - Ansible Collection for EDA
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
 - [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [allisson/fastqueue](https://github.com/allisson/fastqueue) - Simple queue system based on FastAPI and PostgreSQL
