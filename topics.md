@@ -3686,7 +3686,7 @@
 - [Revolution1/etcd3-py](https://github.com/Revolution1/etcd3-py) - Pure python client for etcd v3 (Using gRPC-JSON-Gateway)
 - [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) - 
 - [ansible/eda-server-prototype](https://github.com/ansible/eda-server-prototype) - 
-- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - 
+- [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible) - Ansible Collection for EDA
 - [INSAgenda/yew-template](https://github.com/INSAgenda/yew-template) - A crate to separate your HTML from your Rust code when using Yew
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
