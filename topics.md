@@ -3916,7 +3916,7 @@
 - [tjf801/oneliners](https://github.com/tjf801/oneliners) - one line of python code to impliment algorithms
 - [MichaelThessel/tilix-gruvbox](https://github.com/MichaelThessel/tilix-gruvbox) - Gruvbox color schemes for Tilix terminal
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about to install i3 & its and essentials packages, then make them look eye candy
 - [shime/vim-livedown](https://github.com/shime/vim-livedown) - Vim plugin for Livedown.
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
 - [lucascbittencourt/ArchLinux4noobs](https://github.com/lucascbittencourt/ArchLinux4noobs) - Tutorial De Instalação da distribuição ArchLinux.
