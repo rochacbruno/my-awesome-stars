@@ -1900,6 +1900,8 @@
 
 ## Python 
 
+- [hacksider/ShortsGenerator](https://github.com/hacksider/ShortsGenerator) - Automate the creation of Shorts content locally with a couple simple steps.
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
