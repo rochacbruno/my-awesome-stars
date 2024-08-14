@@ -1901,7 +1901,7 @@
 ## Python 
 
 - [hacksider/ShortsGenerator](https://github.com/hacksider/ShortsGenerator) - Automate the creation of Shorts content locally with a couple simple steps.
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
@@ -3593,7 +3593,7 @@
 - [nigma/django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
 - [bretth/django-pq](https://github.com/bretth/django-pq) - [UNMAINTAINED] A task queue based on the elegant python RQ but with a django postgresql backend.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
-- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata
 - [futurecolors/django-geoip](https://github.com/futurecolors/django-geoip) - App to figure out where your visitors are from by their IP address.
 - [un33k/django-geoaware](https://github.com/un33k/django-geoaware) - Django GeoAware provides a middleware as well as a context processor for including GeoIP related info in the session and/or the context of your application.
 - [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
@@ -4352,7 +4352,7 @@
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a modern and secure command-line tool that simplifies the management of environment variables
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
