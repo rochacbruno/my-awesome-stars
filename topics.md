@@ -7629,7 +7629,7 @@
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [Peperworx/fluxion](https://github.com/Peperworx/fluxion) - Fluxion is an actor framework designed with distributed systems in mind, namely sending messages not just between actors, but also between systems.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
@@ -8086,7 +8086,7 @@
 
 ## serverless 
 
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - This project covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
