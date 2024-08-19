@@ -4322,7 +4322,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
 - [tomgroenwoldt/helix-shortcut-quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) - Learn the helix editor keymap on the web!
-- [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
+- [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Web based playground for the helix editor.
 - [metafates/buffer-language-server](https://github.com/metafates/buffer-language-server) - 💬 LSP that can autocomplete words found in the opened buffer
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
@@ -5285,7 +5285,7 @@
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CodingGarden/sproutkit](https://github.com/CodingGarden/sproutkit) - Apps and Components for Twitch Overlays
