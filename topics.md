@@ -132,6 +132,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -215,6 +216,7 @@
 - [sublime-text](#sublime-text)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1893,7 +1895,7 @@
 ## go 
 
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1962,7 +1964,7 @@
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols.
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
@@ -2940,6 +2942,11 @@
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
 - [workalendar/workalendar](https://github.com/workalendar/workalendar) - Worldwide holidays and workdays computational toolkit.
 
+## login 
+
+- [redhat-actions/podman-login](https://github.com/redhat-actions/podman-login) - GitHub Action to log into a container image registry. For use with podman, buildah, and skopeo.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+
 ## low-code 
 
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
@@ -3586,7 +3593,7 @@
 - [reu/rinha-compiladores](https://github.com/reu/rinha-compiladores) - rinha-compiladores
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
-- [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
+- [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Web based playground for the helix editor.
 - [metafates/buffer-language-server](https://github.com/metafates/buffer-language-server) - 💬 LSP that can autocomplete words found in the opened buffer
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
@@ -3695,7 +3702,6 @@
 - [dunossauro/ansible-lab](https://github.com/dunossauro/ansible-lab) - Laboratório para live de python sobre ansible
 - [SatelliteQE/blinker_herald](https://github.com/SatelliteQE/blinker_herald) - The Blinker Herald includes helpers to easily emit signals using the excellent blinker library.
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
-- [redhat-actions/podman-login](https://github.com/redhat-actions/podman-login) - GitHub Action to log into a container image registry. For use with podman, buildah, and skopeo.
 - [lambda-study-group/dicionario-termos-funcionais](https://github.com/lambda-study-group/dicionario-termos-funcionais) - Dicionario de termos funcionais traduzidos
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [ansible/ansible-sdk](https://github.com/ansible/ansible-sdk) - The Ansible SDK
@@ -8275,6 +8281,10 @@
 
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
+## tailwindcss 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
 ## telegram 
 
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
@@ -8590,7 +8600,7 @@
 ## vue 
 
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
