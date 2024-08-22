@@ -2080,7 +2080,6 @@
 - [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking
 - [lundberg/respx](https://github.com/lundberg/respx) - Mock HTTPX with awesome request patterns and response side effects 🦋
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [jpsca/tcom](https://github.com/jpsca/tcom) - Superseeded by JinjaX
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
@@ -4302,7 +4301,7 @@
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft) - An implementation of Raft in Rust.
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
 - [clojure-rs/ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
