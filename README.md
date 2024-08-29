@@ -1611,7 +1611,7 @@
 - [Spredzy/pulp-installer-scenarios](https://github.com/Spredzy/pulp-installer-scenarios) - PoC for automated Cluster Pulp Installer
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [dwimberger/ldap-ad-it](https://github.com/dwimberger/ldap-ad-it) - Simple LDAP server simulating AD for integration testing
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [quambene/rust-concurrency](https://github.com/quambene/rust-concurrency) - Rust Concurrency Cheat Sheet
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -2216,7 +2216,7 @@
 - [alexmojaki/executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [samuelcolvin/pytest-toolbox](https://github.com/samuelcolvin/pytest-toolbox) - Numerous useful plugins for pytest.
-- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
 - [microsoft/quilla](https://github.com/microsoft/quilla) - Declarative UI Testing with JSON
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
@@ -2619,7 +2619,7 @@
 - [ua-nick/fleep-py](https://github.com/ua-nick/fleep-py) - File format determination library for Python
 - [toxinu/sushi](https://github.com/toxinu/sushi) - Sushi is package builder based on template.
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
-- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
+- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [morten1982/crossviper](https://github.com/morten1982/crossviper) - Tkinter Python IDE
 - [n1nj4sec/memorpy](https://github.com/n1nj4sec/memorpy) - Python library using ctypes to search/edit windows / linux / macOS / SunOS programs memory
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
@@ -2751,7 +2751,7 @@
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
 - [cuducos/brazilian-cities](https://github.com/cuducos/brazilian-cities) - A script to generate list with all Brazilian cities and states
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
-- [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
+- [pypa/setuptools-scm](https://github.com/pypa/setuptools-scm) - the blessed package to manage your versions by scm tags
 - [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
 - [stdevel/check_katello_sync](https://github.com/stdevel/check_katello_sync) - A Nagios / Icinga plugin for checking product synchronization within Katello/Red Hat Satellite 6.x
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
@@ -5170,7 +5170,7 @@
 - [jondot/hypertesting](https://github.com/jondot/hypertesting) - A declarative and contextual contract-driven testing framework for your API.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
