@@ -1528,7 +1528,7 @@
 
 ## Makefile 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. On premise.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
 - [lizgehret/dundies](https://github.com/lizgehret/dundies) - Random quote generator with quotes from The Office. Written in Rust.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
@@ -3774,7 +3774,6 @@
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [opps/opps-social](https://github.com/opps/opps-social) - Social application, like, dislike and favorite
 - [jdiez17/flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
-- [paypal/PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
 - [gtaylor/paypal-python](https://github.com/gtaylor/paypal-python) - Unofficial implementation of the now-old PayPal NVP APIs in Python
 - [bitlabstudio/django-paypal-express-checkout](https://github.com/bitlabstudio/django-paypal-express-checkout) - A reusable Django app to include a PayPal payment flow to your site.
 - [omab/python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
