@@ -2336,7 +2336,6 @@
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [RedHatInsights/drift-backend](https://github.com/RedHatInsights/drift-backend) - host drift analysis service
 - [isamert/gracer](https://github.com/isamert/gracer) - a rust code completion plugin for gedit
-- [cuducos/createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files
 - [SeldomQA/seldom](https://github.com/SeldomQA/seldom) - Seldom automation testing framework based on unittest
 - [thoth-station/micropipenv](https://github.com/thoth-station/micropipenv) - A lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output. Designed for containerized Python applications but not limite
 - [bmbouter/rq_coverage_testing](https://github.com/bmbouter/rq_coverage_testing) - 
@@ -4612,6 +4611,7 @@
 - [mre/envy](https://github.com/mre/envy) - 💫 Manage environment variables without cluttering your .zshrc.
 - [museun/simple_env_load](https://github.com/museun/simple_env_load) - a simple .env file loader
 - [AliasT/hostess](https://github.com/AliasT/hostess) - Command-line utility for managing your /etc/hosts file built with rust
+- [cuducos/createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [radicle-dev/radicle-surf](https://github.com/radicle-dev/radicle-surf) - A code browsing library for VCS file systems.
 - [rust-cli/confy](https://github.com/rust-cli/confy) - 🛋 Zero-boilerplate configuration management in Rust
