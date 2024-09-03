@@ -129,7 +129,6 @@
 - [andykitchen/swcursor](https://github.com/andykitchen/swcursor) - Large software cursor for screen recording on X11
 - [swillner/highlight-pointer](https://github.com/swillner/highlight-pointer) - Highlight mouse pointer/cursor using a dot - useful for presentations, screen sharing, ...
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [gandro/input-event-daemon](https://github.com/gandro/input-event-daemon) - input event handling daemon for linux (unmaintained)
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
@@ -490,6 +489,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [timopattikawa/kamoro](https://github.com/timopattikawa/kamoro) - Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
 - [cuducos/chunk](https://github.com/cuducos/chunk) - 🧱 Chunk is a download manager for slow and unstable servers
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
