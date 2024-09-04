@@ -300,7 +300,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [anyaudio/anyaudio-android-app](https://github.com/anyaudio/anyaudio-android-app) - One Stop Music Application
 - [codelv/enaml-native](https://github.com/codelv/enaml-native) - Build native mobile apps in python with enaml
@@ -1522,7 +1522,7 @@
 - [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - A better offline editor for Scratch 3.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
@@ -2571,7 +2571,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
@@ -3158,6 +3158,7 @@
 
 ## mastodon 
 
+- [cuducos/not-my-ex](https://github.com/cuducos/not-my-ex) - 🐝 Tiny CLI to post simultaneously to Mastodon and Bluesky
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
@@ -3395,7 +3396,7 @@
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) - Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
@@ -7577,7 +7578,7 @@
 
 ## react-native 
 
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 
 ## reactjs 
