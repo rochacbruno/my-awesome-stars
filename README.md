@@ -75,6 +75,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -270,6 +271,7 @@
 
 ## CSS 
 
+- [poerror/ncurses-css](https://github.com/poerror/ncurses-css) - CSS which turns web pages into oldschool text-based UI applications based on ncurses library.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [ansible-community/sphinx_ansible_theme](https://github.com/ansible-community/sphinx_ansible_theme) - A reusable Ansible Sphinx Theme
@@ -656,6 +658,7 @@
 
 ## HTML 
 
+- [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
 - [k4ml/htmx-snippets](https://github.com/k4ml/htmx-snippets) - Collection of htmx example
@@ -740,7 +743,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ondoheer/flask-zurb-foundation](https://github.com/ondoheer/flask-zurb-foundation) - A flask Wrapper to quickly use Zurb-Foundation on your Flask projects
 - [sh4nks/flask-emoji](https://github.com/sh4nks/flask-emoji) - Flask extension to add support for Emojis.
-- [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
 - [marians/rebrow](https://github.com/marians/rebrow) - Web UI for redis database content
 - [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
@@ -1669,6 +1671,7 @@
 - [rednafi/pysanity](https://github.com/rednafi/pysanity) - Opinionated coding guidelines and best practices in Python
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [moderntesting/resources](https://github.com/moderntesting/resources) - Resources related to modern testing
+- [mistodon/config_struct](https://github.com/mistodon/config_struct) - Deprecated: Use https://github.com/mistodon/edres instead.
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [actions-rs/meta](https://github.com/actions-rs/meta) - 🦀 GitHub Actions for Rust - recipes, discussions, questions and ideas
@@ -1900,6 +1903,8 @@
 
 ## Python 
 
+- [skeskinen/smartcut](https://github.com/skeskinen/smartcut) - Cut video files with minimal recoding
+- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [cuducos/not-my-ex](https://github.com/cuducos/not-my-ex) - 🐝 Tiny CLI to post simultaneously to Mastodon and Bluesky
 - [hacksider/ShortsGenerator](https://github.com/hacksider/ShortsGenerator) - Automate the creation of Shorts content locally with a couple simple steps.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -4646,7 +4651,6 @@
 - [whatisaphone/genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [mistodon/config_struct](https://github.com/mistodon/config_struct) - Generate structs at compile time from arbitrary config files.
 - [jniltinho/cli-linux](https://github.com/jniltinho/cli-linux) - Rust CLI Linux
 - [pedrohrb/intzl](https://github.com/pedrohrb/intzl) - Its my a Flask (Python-web framework) initializer (Project struct)!
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
@@ -5104,6 +5108,10 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
+## Svelte 
+
+- [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
+
 ## TSQL 
 
 - [lihaoyi/macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
@@ -5156,7 +5164,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
