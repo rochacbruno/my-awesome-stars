@@ -116,6 +116,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -2503,6 +2504,16 @@
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [pythad/nider](https://github.com/pythad/nider) - Python package to add text to images, textures and different backgrounds
+
+## instagram 
+
+- [tducasse/go-instabot](https://github.com/tducasse/go-instabot) - Automatically follow, like, and comment on instagram
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
+- [instagrambot/instagram-terminal-news-feed](https://github.com/instagrambot/instagram-terminal-news-feed) - Instagram in terminal :alien::alien::fire::fire:
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [dzaytsev91/mygf-instagram](https://github.com/dzaytsev91/mygf-instagram) - Like posts of my girlfriend's Instagram using web api, don't need any api key and access tokens just login and password
+- [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
+- [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 
 ## ios 
 
