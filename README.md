@@ -3931,7 +3931,7 @@
 - [tatiana/SPARQLWrapper](https://github.com/tatiana/SPARQLWrapper) - SPARQLWrapper fork. Original source code available at: https://sourceforge.net/projects/sparql-wrapper/
 - [fcurella/django-recommends](https://github.com/fcurella/django-recommends) - A django app that builds item-based suggestions for users.
 - [charlierguo/gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
-- [summernote/django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
+- [hackerwins/django-summernote](https://github.com/hackerwins/django-summernote) - Simply integrate Summernote editor with Django project.
 - [burke-software/django-responsive-dashboard](https://github.com/burke-software/django-responsive-dashboard) - A generic and easy dashboard for Django applications.
 - [vgel/summarize.py](https://github.com/vgel/summarize.py) - A python script for summarizing articles using nltk
 - [cenkalti/kuyruk](https://github.com/cenkalti/kuyruk) - ⚙️ Simple task queue for Python
