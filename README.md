@@ -878,6 +878,7 @@
 
 ## JavaScript 
 
+- [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [andigandhi/Mastodon-Circles](https://github.com/andigandhi/Mastodon-Circles) - Producing a visual representation of Mastodon interactions with JS
 - [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
