@@ -658,6 +658,7 @@
 
 ## HTML 
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
@@ -1409,6 +1410,7 @@
 
 ## Kotlin 
 
+- [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## LiveScript 
@@ -3931,7 +3933,7 @@
 - [tatiana/SPARQLWrapper](https://github.com/tatiana/SPARQLWrapper) - SPARQLWrapper fork. Original source code available at: https://sourceforge.net/projects/sparql-wrapper/
 - [fcurella/django-recommends](https://github.com/fcurella/django-recommends) - A django app that builds item-based suggestions for users.
 - [charlierguo/gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
-- [hackerwins/django-summernote](https://github.com/hackerwins/django-summernote) - Simply integrate Summernote editor with Django project.
+- [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [burke-software/django-responsive-dashboard](https://github.com/burke-software/django-responsive-dashboard) - A generic and easy dashboard for Django applications.
 - [vgel/summarize.py](https://github.com/vgel/summarize.py) - A python script for summarizing articles using nltk
 - [cenkalti/kuyruk](https://github.com/cenkalti/kuyruk) - ⚙️ Simple task queue for Python
@@ -4309,7 +4311,7 @@
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft) - An implementation of Raft in Rust.
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
 - [clojure-rs/ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
