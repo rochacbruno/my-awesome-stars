@@ -1579,6 +1579,7 @@
 
 ## OCaml 
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 
 ## Objective-C 
@@ -2531,7 +2532,7 @@
 - [BNMetrics/logme](https://github.com/BNMetrics/logme) - Python Logging For Humans (Also supports configurable color logging for the terminal!)
 - [niccokunzmann/hanging_threads](https://github.com/niccokunzmann/hanging_threads) - Deadlocks? Detect where your threads hang in Python with one import.
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
-- [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
+- [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot) - Telegram Bot @RastreioBot
 - [facebookincubator/Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
