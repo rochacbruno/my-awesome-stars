@@ -454,6 +454,7 @@
 
 ## automation 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -3260,6 +3261,7 @@
 
 ## monitoring 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -8591,6 +8593,7 @@
 
 ## twitter 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
 - [engnadeau/plumes](https://github.com/engnadeau/plumes) - Simple Twitter CLI for day-to-day social media hygiene
