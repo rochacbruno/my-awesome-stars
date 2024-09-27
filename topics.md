@@ -3560,6 +3560,7 @@
 
 ## others 
 
+- [Kishore96in/krunner-appmenu](https://github.com/Kishore96in/krunner-appmenu) - KRunner appmenu plugin (Plasma 6 fork)
 - [humrochagf/capsule](https://github.com/humrochagf/capsule) - My tiny capsule
 - [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
 - [messense/nh3](https://github.com/messense/nh3) - Python binding to Ammonia HTML sanitizer Rust crate
