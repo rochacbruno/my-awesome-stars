@@ -1912,6 +1912,7 @@
 
 ## Python 
 
+- [Kishore96in/krunner-appmenu](https://github.com/Kishore96in/krunner-appmenu) - KRunner appmenu plugin (Plasma 6 fork)
 - [nanos/FediFetcher](https://github.com/nanos/FediFetcher) - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.
 - [humrochagf/capsule](https://github.com/humrochagf/capsule) - My tiny capsule
 - [skeskinen/smartcut](https://github.com/skeskinen/smartcut) - Cut video files with minimal recoding
