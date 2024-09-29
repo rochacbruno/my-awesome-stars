@@ -1912,6 +1912,7 @@
 
 ## Python 
 
+- [dabapps/django-db-queue](https://github.com/dabapps/django-db-queue) - Simple database-backed job queue
 - [Kishore96in/krunner-appmenu](https://github.com/Kishore96in/krunner-appmenu) - KRunner appmenu plugin (Plasma 6 fork)
 - [nanos/FediFetcher](https://github.com/nanos/FediFetcher) - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.
 - [humrochagf/capsule](https://github.com/humrochagf/capsule) - My tiny capsule
@@ -4386,7 +4387,7 @@
 - [teenjuna/prae](https://github.com/teenjuna/prae) - prae is a crate that aims to provide a better way to define types that require validation.
 - [FauconFan/mdbook-cmdrun](https://github.com/FauconFan/mdbook-cmdrun) - A mdbook preprocessor for runnning arbitrary (shell) commands in a markdown file
 - [cloud-native-skunkworks/rust-operator](https://github.com/cloud-native-skunkworks/rust-operator) - A simple K8s operator written in Rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
@@ -4919,7 +4920,7 @@
 - [rustless/rustless](https://github.com/rustless/rustless) - REST-like API micro-framework for Rust. Works with Iron.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -5264,6 +5265,7 @@
 
 ## Vala 
 
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [treagod/spectator](https://github.com/treagod/spectator) - Client to test web endpoints
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
