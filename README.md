@@ -1912,6 +1912,8 @@
 
 ## Python 
 
+- [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dabapps/django-db-queue](https://github.com/dabapps/django-db-queue) - Simple database-backed job queue
 - [Kishore96in/krunner-appmenu](https://github.com/Kishore96in/krunner-appmenu) - KRunner appmenu plugin (Plasma 6 fork)
 - [nanos/FediFetcher](https://github.com/nanos/FediFetcher) - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.
@@ -4267,6 +4269,7 @@
 
 ## Rust 
 
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [messense/nh3](https://github.com/messense/nh3) - Python binding to Ammonia HTML sanitizer Rust crate
@@ -5323,7 +5326,7 @@
 
 ## YAML 
 
-- [redhat-cop/controller_configuration](https://github.com/redhat-cop/controller_configuration) - A collection of roles to manage Ansible Controller and previously Ansible Tower
+- [redhat-cop/aap_configuration](https://github.com/redhat-cop/aap_configuration) - A collection of roles to manage Ansible Controller and previously Ansible Tower
 
 ## Zig 
 
