@@ -335,7 +335,7 @@
 - [thieman/dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [kamilczujowski/least](https://github.com/kamilczujowski/least) - This plugin is no longer maintained - #leastjs 2 is available for download now!
 - [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
-- [tgrant54/Navi.js](https://github.com/tgrant54/Navi.js) - jQuery: Content switching made easy
+- [p0p-x/Navi.js](https://github.com/p0p-x/Navi.js) - jQuery: Content switching made easy
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [rif/web2admin](https://github.com/rif/web2admin) - web2py administration plugin
@@ -2672,7 +2672,7 @@
 - [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
 - [facebookarchive/fbtftp](https://github.com/facebookarchive/fbtftp) - fbtftp is Facebook's implementation of a dynamic TFTP server framework.
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
-- [landscapeio/dodgy](https://github.com/landscapeio/dodgy) - Looks at Python code to search for things which look "dodgy" such as passwords or diffs
+- [prospector-dev/dodgy](https://github.com/prospector-dev/dodgy) - Looks at Python code to search for things which look "dodgy" such as passwords or diffs
 - [lyft/linty_fresh](https://github.com/lyft/linty_fresh) - :sparkles: Surface lint errors during code review
 - [regebro/pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness
 - [timster/peewee-validates](https://github.com/timster/peewee-validates) - A simple and flexible model and data validator for Peewee ORM.
@@ -2956,7 +2956,7 @@
 - [enginebai/PyMessager](https://github.com/enginebai/PyMessager) - Python API to develop chatbot on Facebook Messenger Platform
 - [sloria/flask-konch](https://github.com/sloria/flask-konch) - An improved shell command for the Flask CLI
 - [collective/mr.bob](https://github.com/collective/mr.bob) - Mister Bob (the builder) is filesystem template renderer
-- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [johannestaas/cursed](https://github.com/johannestaas/cursed) - 
 - [omaciel/qpd](https://github.com/omaciel/qpd) - Quality Product Data
 - [psss/did](https://github.com/psss/did) - What did you do last week, month, year?
