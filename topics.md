@@ -4530,7 +4530,7 @@
 - [JacobCallahan/content-host-d](https://github.com/JacobCallahan/content-host-d) - Docker-ized Content Hosts for Red Hat Satellite 6
 - [SatelliteQE/sat6helper](https://github.com/SatelliteQE/sat6helper) - Placeholder for all sat6 helper scripts
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
-- [landscapeio/dodgy](https://github.com/landscapeio/dodgy) - Looks at Python code to search for things which look "dodgy" such as passwords or diffs
+- [prospector-dev/dodgy](https://github.com/prospector-dev/dodgy) - Looks at Python code to search for things which look "dodgy" such as passwords or diffs
 - [lyft/linty_fresh](https://github.com/lyft/linty_fresh) - :sparkles: Surface lint errors during code review
 - [timster/peewee-validates](https://github.com/timster/peewee-validates) - A simple and flexible model and data validator for Peewee ORM.
 - [opensanca/trilha-python](https://github.com/opensanca/trilha-python) - Curso "introdutório" à linguagem Python
@@ -4799,7 +4799,7 @@
 - [gokcehan/cheat-mugs](https://github.com/gokcehan/cheat-mugs) - 
 - [leegao/LuaInLua](https://github.com/leegao/LuaInLua) - A self-hosting compiler for the Lua language.
 - [collective/mr.bob](https://github.com/collective/mr.bob) - Mister Bob (the builder) is filesystem template renderer
-- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [johannestaas/cursed](https://github.com/johannestaas/cursed) - 
 - [omaciel/qpd](https://github.com/omaciel/qpd) - Quality Product Data
 - [juliarizza/certificate_generator](https://github.com/juliarizza/certificate_generator) - Free courses & events certificate generator
@@ -6179,7 +6179,7 @@
 - [circus-tent/circus](https://github.com/circus-tent/circus) - A Process & Socket Manager built with zmq
 - [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 - [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
-- [tgrant54/Navi.js](https://github.com/tgrant54/Navi.js) - jQuery: Content switching made easy
+- [p0p-x/Navi.js](https://github.com/p0p-x/Navi.js) - jQuery: Content switching made easy
 - [gustavosouzalima/floatfixed](https://github.com/gustavosouzalima/floatfixed) - A jQuery Plugin to make your navigation bar fixed on scroll
 - [sapegin/jquery.mosaicflow](https://github.com/sapegin/jquery.mosaicflow) - Pinterest like responsive image grid that doesn’t suck
 - [agiliq/django-graphos](https://github.com/agiliq/django-graphos) - Django charting made *really* easy.
