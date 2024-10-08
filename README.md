@@ -5326,7 +5326,7 @@
 
 ## YAML 
 
-- [redhat-cop/aap_configuration](https://github.com/redhat-cop/aap_configuration) - A collection of roles to manage Ansible Controller and previously Ansible Tower
+- [redhat-cop/infra.aap_configuration](https://github.com/redhat-cop/infra.aap_configuration) - A collection of roles to manage Ansible Controller and previously Ansible Tower
 
 ## Zig 
 
