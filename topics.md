@@ -2456,7 +2456,7 @@
 
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
@@ -3521,6 +3521,7 @@
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -3574,6 +3575,8 @@
 
 ## others 
 
+- [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [dabapps/django-db-queue](https://github.com/dabapps/django-db-queue) - Simple database-backed job queue
 - [Kishore96in/krunner-appmenu](https://github.com/Kishore96in/krunner-appmenu) - KRunner appmenu plugin (Plasma 6 fork)
 - [humrochagf/capsule](https://github.com/humrochagf/capsule) - My tiny capsule
@@ -6609,7 +6612,7 @@
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported.
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
