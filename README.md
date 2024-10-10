@@ -4982,6 +4982,7 @@
 
 ## Shell 
 
+- [bashbox/bashbox](https://github.com/bashbox/bashbox) - A bash compiler written in bash to help create modular and maintainable bash projects.
 - [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) - A small script to read from libinput-debug-events and trigger key commands depending on recognized gestures.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
