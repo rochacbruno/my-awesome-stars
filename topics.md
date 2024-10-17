@@ -833,7 +833,6 @@
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
-- [engnadeau/plumes](https://github.com/engnadeau/plumes) - Simple Twitter CLI for day-to-day social media hygiene
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -1513,7 +1512,6 @@
 - [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -1584,6 +1582,7 @@
 
 ## emoji 
 
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [alex1701c/EmojiRunner](https://github.com/alex1701c/EmojiRunner) - Search for emojis in Krunner and copy/paste them
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
@@ -3583,6 +3582,7 @@
 
 ## others 
 
+- [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [felippe-regazio/1post](https://github.com/felippe-regazio/1post) - A tiny, fast and fun static site generator for quick blogging
 - [nunesfd/hostcontrol](https://github.com/nunesfd/hostcontrol) - HostControl is a terminal-based desktop application, built with Python and the Textual library, that simplifies managing the /etc/hosts file. With an intuitive interface, you can easily add, edit, and
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
@@ -3969,7 +3969,7 @@
 - [untitaker/pytest-subtesthack](https://github.com/untitaker/pytest-subtesthack) - A hack to explicitly set up and tear down fixtures.
 - [ajavageek/rust-operator](https://github.com/ajavageek/rust-operator) - 
 - [not-fl3/nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies
-- [fusion-engineering/inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
+- [m-ou-se/inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code
 - [RedHatQE/CodeQuality](https://github.com/RedHatQE/CodeQuality) - Documentation, automation scripts and deployments, enabling the creation of an open-source, high quality, enterprise-wide code quality infrastructure over multiple languages and platforms:gem::star::t
 - [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
 - [ansible/project-config](https://github.com/ansible/project-config) - Zuul configuration files for the Ansible tenant
@@ -4039,6 +4039,7 @@
 - [dunossauro/cofrinho](https://github.com/dunossauro/cofrinho) - Projeto destinado a fazer o parser/exibição unificada das campanhas de financiamento
 - [dovpanda-dev/dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
 - [pandaman64/serde-query](https://github.com/pandaman64/serde-query) - 
+- [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [anapaulagomes/bazar-do-girassol](https://github.com/anapaulagomes/bazar-do-girassol) - 
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [mattboehm/dotfiles](https://github.com/mattboehm/dotfiles) - My dotfiles
@@ -6827,7 +6828,6 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [ionelmc/python-remote-pdb](https://github.com/ionelmc/python-remote-pdb) - Remote vanilla PDB (over TCP sockets).
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
-- [engnadeau/plumes](https://github.com/engnadeau/plumes) - Simple Twitter CLI for day-to-day social media hygiene
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [yiblet/inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
 - [juligaioso/referencias-para-estudos](https://github.com/juligaioso/referencias-para-estudos) - Repositório criado para reunir materiais de estudo, artigos, canais no youtube, e tudo o mais para melhorar e evoluir como dev
@@ -7642,6 +7642,7 @@
 
 ## react 
 
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
@@ -8630,7 +8631,6 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
-- [engnadeau/plumes](https://github.com/engnadeau/plumes) - Simple Twitter CLI for day-to-day social media hygiene
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [pwnfoo/fakemenot](https://github.com/pwnfoo/fakemenot) - Application to check authenticity of Twitter screenshots. Written in Python :snake:
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
