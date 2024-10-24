@@ -972,7 +972,7 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [bnjjj/twelf](https://github.com/bnjjj/twelf) - Twelf is a configuration solution for Rust including 12-Factor support. It is designed with layers in order to configure different sources and formats to build your configuration. The main goal is to 
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [hackebrot/poyo](https://github.com/hackebrot/poyo) - A lightweight YAML Parser for Python. 🐓
 - [drgarcia1986/simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
 
@@ -2776,7 +2776,7 @@
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [mre/hyperjson](https://github.com/mre/hyperjson) - 🐍 A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
@@ -4112,7 +4112,7 @@
 - [dizballanze/gray](https://github.com/dizballanze/gray) - Less uncompromising Python code formatter
 - [bodil/vgtk](https://github.com/bodil/vgtk) - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
-- [Spacedevsd/flask-introducao-live-twitch](https://github.com/Spacedevsd/flask-introducao-live-twitch) - 
+- [spacedevsbr/flask-introducao-live-twitch](https://github.com/spacedevsbr/flask-introducao-live-twitch) - 
 - [laffra/auger](https://github.com/laffra/auger) - Automated Unittest Generation for Python
 - [dunossauro/octomato](https://github.com/dunossauro/octomato) - octomato
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
@@ -6456,7 +6456,7 @@
 - [Shougo/neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 - [web2py/web2py](https://github.com/web2py/web2py) - Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python.
 - [malsup/cycle](https://github.com/malsup/cycle) - jQuery Cycle Plugin - Slideshow goodness
-- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+- [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [nkallen/jquery-database](https://github.com/nkallen/jquery-database) - A relational database using &lt;table&gt; tags and jQuery
 
 ## p2p 
@@ -8100,7 +8100,7 @@
 - [DavidDeSimone/mock_derive](https://github.com/DavidDeSimone/mock_derive) - A mocking library for Rust-lang
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [RReverser/serde-xml-rs](https://github.com/RReverser/serde-xml-rs) - xml-rs based deserializer for Serde (compatible with 1.0+)
 - [rust-br/2018-roadshow](https://github.com/rust-br/2018-roadshow) - Rust Roadshow 🇧🇷 2-4 de fevereiro de 2018
