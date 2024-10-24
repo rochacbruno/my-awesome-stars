@@ -830,7 +830,6 @@
 ## Handlebars 
 
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles) - 
-- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/quarkusmaster
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
@@ -849,6 +848,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GraphWalker/graphwalker-project](https://github.com/GraphWalker/graphwalker-project) - This is the repo for the Model-based testing tool GraphWalker.
+- [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/quarkusmaster
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [ibek/issue-keeper](https://github.com/ibek/issue-keeper) - Issue keeper is a tracking tool which makes the tests skipped in advance when they are blocked by the open issues.
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
@@ -2335,7 +2335,7 @@
 - [pulp/pulp-infra-ansible](https://github.com/pulp/pulp-infra-ansible) - A repo to hold Ansible playbooks to deploy infrastructure that supports the Pulp project itself, e.g. website, etc.
 - [karlamagueta/sistema_checkin_hotel](https://github.com/karlamagueta/sistema_checkin_hotel) - Sistema de Hotel * check in
 - [dizballanze/gray](https://github.com/dizballanze/gray) - Less uncompromising Python code formatter
-- [Spacedevsd/flask-introducao-live-twitch](https://github.com/Spacedevsd/flask-introducao-live-twitch) - 
+- [spacedevsbr/flask-introducao-live-twitch](https://github.com/spacedevsbr/flask-introducao-live-twitch) - 
 - [laffra/auger](https://github.com/laffra/auger) - Automated Unittest Generation for Python
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [dunossauro/octomato](https://github.com/dunossauro/octomato) - octomato
@@ -4209,7 +4209,7 @@
 - [zodman/dpaster](https://github.com/zodman/dpaster) - dpaste cli for paste code to dpaste.com
 - [marinho/geraldo](https://github.com/marinho/geraldo) - Geraldo is a reports engine for Python and Django applications. It uses the power of ReportLab and PIL to generate reports with page header and footer, child bands, report begin and summary bands, agr
 - [web2py/web2py](https://github.com/web2py/web2py) - Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python.
-- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+- [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 
 ## QML 
 
@@ -4884,7 +4884,7 @@
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [bluss/maplit](https://github.com/bluss/maplit) - Rust container / collection literal macros for HashMap, HashSet, BTreeMap, BTreeSet.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [tildeio/learning-rust](https://github.com/tildeio/learning-rust) - 
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [RReverser/serde-xml-rs](https://github.com/RReverser/serde-xml-rs) - xml-rs based deserializer for Serde (compatible with 1.0+)
