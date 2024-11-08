@@ -957,7 +957,6 @@
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
@@ -2284,7 +2283,7 @@
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [e-alizadeh/pycallgraph](https://github.com/e-alizadeh/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
-- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
 - [IsaiahT-Tech/fastapi-series](https://github.com/IsaiahT-Tech/fastapi-series) - This is the fastapi-tutorial repository.
 - [umutseven92/apyr](https://github.com/umutseven92/apyr) - API mocking with Python.
@@ -2772,7 +2771,7 @@
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [chakki-works/typot](https://github.com/chakki-works/typot) - Detect typo automatically, Adopt fix just by checking
-- [candlepin/subscription-manager](https://github.com/candlepin/subscription-manager) - A GUI and CLI client for Candlepin
+- [candlepin/subscription-manager](https://github.com/candlepin/subscription-manager) - A CLI client for Candlepin
 - [theelous3/asks](https://github.com/theelous3/asks) - Async requests-like httplib for python.
 - [nikhilkumarsingh/content-downloader](https://github.com/nikhilkumarsingh/content-downloader) - Python package to download files on any topic in bulk.
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
@@ -4573,7 +4572,7 @@
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [WindSoilder/hors](https://github.com/WindSoilder/hors) - instant coding answers via the command line (howdoi in rust)
@@ -4781,7 +4780,7 @@
 - [gahag/bgrep](https://github.com/gahag/bgrep) - A binary grep written in Rust.
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
-- [lotabout/fuzzy-matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust
+- [skim-rs/fuzzy-matcher](https://github.com/skim-rs/fuzzy-matcher) - Fuzzy Matching Library for Rust
 - [ZoeyR/wearte](https://github.com/ZoeyR/wearte) - 
 - [polydraw/polydraw](https://github.com/polydraw/polydraw) - 2D graphics engine written in Rust
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -4806,6 +4805,7 @@
 - [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [facebookarchive/rust-partial-io](https://github.com/facebookarchive/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
@@ -5185,7 +5185,7 @@
 - [scylladb/gaming-leaderboard-demo](https://github.com/scylladb/gaming-leaderboard-demo) - Learn how to use ScyllaDB to generate a monstrously fast leadearboard for your application!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [willianrod/ODeck](https://github.com/willianrod/ODeck) - A free and open-source alternative to StreamDeck
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
