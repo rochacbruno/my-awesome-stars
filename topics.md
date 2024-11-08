@@ -7067,7 +7067,7 @@
 - [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [chakki-works/typot](https://github.com/chakki-works/typot) - Detect typo automatically, Adopt fix just by checking
-- [candlepin/subscription-manager](https://github.com/candlepin/subscription-manager) - A GUI and CLI client for Candlepin
+- [candlepin/subscription-manager](https://github.com/candlepin/subscription-manager) - A CLI client for Candlepin
 - [nikhilkumarsingh/content-downloader](https://github.com/nikhilkumarsingh/content-downloader) - Python package to download files on any topic in bulk.
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
@@ -7952,7 +7952,7 @@
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [alexkehayias/woz](https://github.com/alexkehayias/woz) - Woz is a progressive WebAssembly app (PWAA) generator for Rust.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
@@ -8062,7 +8062,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
-- [lotabout/fuzzy-matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust
+- [skim-rs/fuzzy-matcher](https://github.com/skim-rs/fuzzy-matcher) - Fuzzy Matching Library for Rust
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
