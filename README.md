@@ -662,6 +662,7 @@
 
 ## HTML 
 
+- [holdenweb/descriptors](https://github.com/holdenweb/descriptors) - A hands-on walk-through explanation of Python's descriptor protocol
 - [pruger/tiny-brutalism-css](https://github.com/pruger/tiny-brutalism-css) - Tiny Brutalism is a minimalist, brutalist-style CSS framework that focuses on monochrome colors, hard edges, and prominent drop shadows. It is designed to be simple, small, and easy to use.
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -790,6 +791,7 @@
 - [usmanhalalit/charisma](https://github.com/usmanhalalit/charisma) - Free, responsive, multiple skin admin template
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
 - [burke-software/django-content-edit](https://github.com/burke-software/django-content-edit) - A very simple way to let users edit content on the front end of a website when you don't quite need a full CMS.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dvl/python-builtins](https://github.com/dvl/python-builtins) - Website to show a random python-builtin with example code
 - [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
 - [django-fiber/django-fiber](https://github.com/django-fiber/django-fiber) - Django Fiber - a simple, user-friendly CMS for all your Django projects
@@ -886,6 +888,7 @@
 
 ## JavaScript 
 
+- [arielgmelo/tweetXer-ptbr](https://github.com/arielgmelo/tweetXer-ptbr) - Dê fim aos seus Tweets de forma fácil e grátis.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [felippe-regazio/1post](https://github.com/felippe-regazio/1post) - A tiny, fast and fun static site generator for quick blogging
 - [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
@@ -1381,6 +1384,7 @@
 
 ## Jupyter Notebook 
 
+- [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An Open Framework for Federated Learning.
@@ -1482,7 +1486,7 @@
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [AndCake/micro-plugin-lsp](https://github.com/AndCake/micro-plugin-lsp) - An LSP Client implementation for the Micro Editor
@@ -1606,7 +1610,7 @@
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
-- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings) - 
@@ -1849,7 +1853,6 @@
 - [rpdillon/hack-emacs-notes](https://github.com/rpdillon/hack-emacs-notes) - Episode notes from my video series "Hack Emacs"
 - [sehmaschine/django-grappelli-cms](https://github.com/sehmaschine/django-grappelli-cms) - A different approach on content management, based on django–grappelli (official repository).
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jamescasbon/flask-backbone-mongo](https://github.com/jamescasbon/flask-backbone-mongo) - experiments with backbone.js, flask and mongo
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
 - [djalmaaraujo/gravatar-image](https://github.com/djalmaaraujo/gravatar-image) - Web Component wrapper for Gravatar using Polymer
@@ -1918,6 +1921,13 @@
 
 ## Python 
 
+- [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
+- [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- [flipbit03/main](https://github.com/flipbit03/main) - For those that think `if __name__ = "__main__"` is ugly
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [ansible-collections/ansible_hub](https://github.com/ansible-collections/ansible_hub) - Collection of modules to configure Automation Hub
 - [willmcgugan/terminal-tree](https://github.com/willmcgugan/terminal-tree) - 
 - [nunesfd/hostcontrol](https://github.com/nunesfd/hostcontrol) - HostControl is a terminal-based desktop application, built with Python and the Textual library, that simplifies managing the /etc/hosts file. With an intuitive interface, you can easily add, edit, and
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
@@ -2238,7 +2248,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [ethanhs/ryaml](https://github.com/ethanhs/ryaml) - Python yaml library using Rust
+- [emmatyping/ryaml](https://github.com/emmatyping/ryaml) - Python yaml library using Rust
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [alexmojaki/executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed
@@ -2339,7 +2349,7 @@
 - [pulp/pulp-infra-ansible](https://github.com/pulp/pulp-infra-ansible) - A repo to hold Ansible playbooks to deploy infrastructure that supports the Pulp project itself, e.g. website, etc.
 - [karlamagueta/sistema_checkin_hotel](https://github.com/karlamagueta/sistema_checkin_hotel) - Sistema de Hotel * check in
 - [dizballanze/gray](https://github.com/dizballanze/gray) - Less uncompromising Python code formatter
-- [spacedevsbr/flask-introducao-live-twitch](https://github.com/spacedevsbr/flask-introducao-live-twitch) - 
+- [spacdevs/flask-introducao-live-twitch](https://github.com/spacdevs/flask-introducao-live-twitch) - 
 - [laffra/auger](https://github.com/laffra/auger) - Automated Unittest Generation for Python
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [dunossauro/octomato](https://github.com/dunossauro/octomato) - octomato
@@ -2362,6 +2372,7 @@
 - [NinjaBunny9000/TwitchShoutoutBot](https://github.com/NinjaBunny9000/TwitchShoutoutBot) - A bot that shouts out a twitch team member! Uses chat + tts
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [RedHatInsights/drift-backend](https://github.com/RedHatInsights/drift-backend) - host drift analysis service
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [isamert/gracer](https://github.com/isamert/gracer) - a rust code completion plugin for gedit
 - [SeldomQA/seldom](https://github.com/SeldomQA/seldom) - Seldom automation testing framework based on unittest
 - [thoth-station/micropipenv](https://github.com/thoth-station/micropipenv) - A lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output. Designed for containerized Python applications but not limite
@@ -3647,7 +3658,7 @@
 - [codysoyland/django-phased](https://github.com/codysoyland/django-phased) - Simple two-phase template rendering application useful for caching of authenticated requests
 - [Ink/python-instagram](https://github.com/Ink/python-instagram) - Python Client for Instagram API
 - [renzon/tekton-micro](https://github.com/renzon/tekton-micro) - Python Microarchitecture for routing web application by convention
-- [blimpio/django-websocket-request](https://github.com/blimpio/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
+- [blimpllc/django-websocket-request](https://github.com/blimpllc/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
 - [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [neyer/snout](https://github.com/neyer/snout) - django url pattern generation via inspection
@@ -4276,6 +4287,16 @@
 
 ## Rust 
 
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
+- [raphamorim/sugarloaf](https://github.com/raphamorim/sugarloaf) - Sugarloaf is a simple cross-platform rendering engine.
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [erikvullings/docx-parser](https://github.com/erikvullings/docx-parser) - 
+- [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
+- [msuchane/presciidoc](https://github.com/msuchane/presciidoc) - Preprocessing AsciiDoc for other tools (WIP)
+- [scouten/asciidoc-parser](https://github.com/scouten/asciidoc-parser) - AsciiDoc parser
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [uggla/rock_run](https://github.com/uggla/rock_run) - A 2D old-school platformer
 - [fortress-build/whirlwind](https://github.com/fortress-build/whirlwind) - 🌀 Ridiculously fast, fully asynchronous, sharded hashmap for Rust.
 - [untitaker/mastodon-list-bot](https://github.com/untitaker/mastodon-list-bot) - Generate "programmatic" lists in Mastodon
@@ -4521,7 +4542,7 @@
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [ajavageek/rust-operator](https://github.com/ajavageek/rust-operator) - 
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [not-fl3/nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies
+- [not-fl3/nanoserde](https://github.com/not-fl3/nanoserde) - Serialization library with zero dependencies
 - [m-ou-se/inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [mstruebing/waitz](https://github.com/mstruebing/waitz) - Waits until the exit code of a program is zero
@@ -5001,6 +5022,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A bash compiler written in bash to help create modular and maintainable bash projects.
 - [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) - A small script to read from libinput-debug-events and trigger key commands depending on recognized gestures.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
@@ -5037,7 +5059,6 @@
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [nordtheme/tilix](https://github.com/nordtheme/tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
@@ -5154,6 +5175,7 @@
 
 ## Svelte 
 
+- [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
 ## TSQL 
