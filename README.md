@@ -205,6 +205,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [alex1701c/EmojiRunner](https://github.com/alex1701c/EmojiRunner) - Search for emojis in Krunner and copy/paste them
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
@@ -216,7 +217,7 @@
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
-- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt
+- [KDE/kate](https://github.com/KDE/kate) - Advanced text editor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -399,6 +400,8 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
@@ -465,6 +468,7 @@
 
 ## Go 
 
+- [brunobarros2093/gomde](https://github.com/brunobarros2093/gomde) - GOmde (Go Markdown Editor) is a really simple GUI markdown editor
 - [jeffque/teecp](https://github.com/jeffque/teecp) - The power of TCP over tee
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
@@ -628,6 +632,7 @@
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [MilanMisak/pixlserv](https://github.com/MilanMisak/pixlserv) - Go server for processing and serving of images
+- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [progrium/memalloc](https://github.com/progrium/memalloc) - Memory allocator for testing Docker memory constraining
 - [zachlatta/postman](https://github.com/zachlatta/postman) - CLI tool for batch-sending email via any SMTP server.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -662,6 +667,7 @@
 
 ## HTML 
 
+- [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [holdenweb/descriptors](https://github.com/holdenweb/descriptors) - A hands-on walk-through explanation of Python's descriptor protocol
 - [pruger/tiny-brutalism-css](https://github.com/pruger/tiny-brutalism-css) - Tiny Brutalism is a minimalist, brutalist-style CSS framework that focuses on monochrome colors, hard edges, and prominent drop shadows. It is designed to be simple, small, and easy to use.
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
@@ -847,6 +853,7 @@
 
 ## Java 
 
+- [NanowarOfSteel/HelloWorld](https://github.com/NanowarOfSteel/HelloWorld) - 
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips
 - [intoolswetrust/ldap-server](https://github.com/intoolswetrust/ldap-server) - Simple in-memory LDAP server for testing purposes - single JAR based on ApacheDS
@@ -888,6 +895,7 @@
 
 ## JavaScript 
 
+- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [arielgmelo/tweetXer-ptbr](https://github.com/arielgmelo/tweetXer-ptbr) - Dê fim aos seus Tweets de forma fácil e grátis.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [felippe-regazio/1post](https://github.com/felippe-regazio/1post) - A tiny, fast and fun static site generator for quick blogging
@@ -1115,7 +1123,6 @@
 - [BorisMoore/jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl) - The original official jQuery Templates plugin. This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and has been superseded by JsRender.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [hootsuite/grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists
-- [bgroff/kala-app](https://github.com/bgroff/kala-app) - Kala Document Management System
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [gabrielelana/mongodb-shell-extensions](https://github.com/gabrielelana/mongodb-shell-extensions) - Useful MongoDB shell extensions
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
@@ -1566,7 +1573,6 @@
 
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Mojo 
 
@@ -1921,6 +1927,10 @@
 
 ## Python 
 
+- [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
+- [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
+- [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
+- [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
@@ -1955,7 +1965,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket!
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE!
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
@@ -2038,7 +2048,7 @@
 - [pytest-dev/iniconfig](https://github.com/pytest-dev/iniconfig) - 
 - [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [HewlettPackard/squest](https://github.com/HewlettPackard/squest) - Service request portal on top of Ansible Tower/AWX
-- [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - Implementation of Redis in python without having a Redis server running. Fully compatible with using redis-py.
+- [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - Implementation of Redis API in python without having a server running. Fully compatible with using redis-py.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [taskipy/taskipy](https://github.com/taskipy/taskipy) - the complementary task runner for python
 - [code-specialist/fastapi-auth-middleware](https://github.com/code-specialist/fastapi-auth-middleware) - Lightweight auth middleware for FastAPI that just works. Fits most auth workflows with only a few lines of code
@@ -2134,7 +2144,6 @@
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [pyconpt/2022](https://github.com/pyconpt/2022) - PyCon Portugal 2022 Website
-- [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
 - [avinassh/py-caskdb](https://github.com/avinassh/py-caskdb) - (educational) build your own disk based KV store
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [rhuygen/textualog](https://github.com/rhuygen/textualog) - Display, filter and search log messages in your terminal
@@ -2395,7 +2404,6 @@
 - [scrapinghub/price-parser](https://github.com/scrapinghub/price-parser) - Extract price amount and currency symbol from a raw text string
 - [ddelange/pipgrip](https://github.com/ddelange/pipgrip) - Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm
 - [dhellmann/entry_point_inspector](https://github.com/dhellmann/entry_point_inspector) - Tool for looking at the entry point plugins on a system
-- [proofit404/dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
 - [omegaml/minibatch](https://github.com/omegaml/minibatch) - Python stream processing for humans
 - [CCExtractor/vardbg](https://github.com/CCExtractor/vardbg) - A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
 - [linux-system-roles/network](https://github.com/linux-system-roles/network) - An ansible role to configure networking
@@ -2941,7 +2949,7 @@
 - [pytest-dev/pytest-html](https://github.com/pytest-dev/pytest-html) - Plugin for generating HTML reports for pytest results
 - [jllorencetti/pets](https://github.com/jllorencetti/pets) - Pets is a Django-based website that allows people to share photos and information about missing pets and pets available for adoption
 - [supasate/yosh](https://github.com/supasate/yosh) - yosh - Your Own Shell in Python
-- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
 - [workalendar/workalendar](https://github.com/workalendar/workalendar) - Worldwide holidays and workdays computational toolkit.
@@ -3116,7 +3124,7 @@
 - [deepgully/me](https://github.com/deepgully/me) - Personal website powered by Flask, supports GAE, SAE and BAE.
 - [pyparallel/pyparallel](https://github.com/pyparallel/pyparallel) - Experimental multicore fork of Python 3
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [Leviathan1995/Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
+- [Mesaukee/Pylsy](https://github.com/Mesaukee/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
 - [PyCQA/mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [habnabit/vcversioner](https://github.com/habnabit/vcversioner) - take version numbers from version control
 - [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Shamelessly convert any Python 2 script into a terrible single line of code
@@ -3320,7 +3328,7 @@
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [lobocv/pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code.
 - [coleifer/walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [not-kennethreitz/flask-sslify](https://github.com/not-kennethreitz/flask-sslify) - Force SSL on your Flask app.
 - [alejandroautalan/pygubu](https://github.com/alejandroautalan/pygubu) - A simple GUI builder for the python tkinter module
@@ -3575,6 +3583,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [mgalves/python-readability](https://github.com/mgalves/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
+- [bgroff/kala-app](https://github.com/bgroff/kala-app) - Kala Document Management System
 - [sloria/konch](https://github.com/sloria/konch) - Configures your Python shell.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [shinken-solutions/shinken](https://github.com/shinken-solutions/shinken) - Flexible and scalable monitoring framework
@@ -3705,7 +3714,6 @@
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [mattmakai/underwear](https://github.com/mattmakai/underwear) - Dead simple LAMP-stack deployments for Python-powered web applications.
 - [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape) - SoundCloud (and Bandcamp and Mixcloud) downloader in Python.
-- [espern/tiny_website](https://github.com/espern/tiny_website) - Tiny website, a simple CMS that allows you create, update, delete your website pages.
 - [tsileo/flask-yeoman](https://github.com/tsileo/flask-yeoman) - A Flask blueprint to make create web application using Yeoman and Flask an easy task.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [bitlabstudio/django-booking](https://github.com/bitlabstudio/django-booking) - A reusable Django app that manages bookings for various purposes.
@@ -3851,6 +3859,7 @@
 - [translate/pootle](https://github.com/translate/pootle) - Online translation tool
 - [kageurufu/flask-sandbox](https://github.com/kageurufu/flask-sandbox) - A Flask plugin to restrict blueprints to specific users
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [LucasMagnum/pyexplain](https://github.com/LucasMagnum/pyexplain) - Será uma plataforma onde usuários poderão realizar análise de um código Python, enviar links e exemplos sobre as bibliotecas utilizadas, assim como inserir bibliotecas de terceiros.  O objetivo é que 
 - [encode/django-vanilla-views](https://github.com/encode/django-vanilla-views) - Beautifully simple class-based views.
 - [sgenoud/remarkdown](https://github.com/sgenoud/remarkdown) - A markdown parser for docutils
@@ -4244,6 +4253,7 @@
 
 ## Ruby 
 
+- [leandronsp/yacs](https://github.com/leandronsp/yacs) - Full-text search across 12M of cities in few milliseconds. Powered by PostgreSQL™
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
@@ -4280,6 +4290,7 @@
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [maxlapshin/mysql2postgres](https://github.com/maxlapshin/mysql2postgres) - Mysqldump, writing in postgresql format
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [aderyabin/rove](https://github.com/aderyabin/rove) - Rove is a service that allows you to pregenerate typical Vagrant builds
 - [tdd/git-basecamp](https://github.com/tdd/git-basecamp) - Git post-commit hook to transparently log dev time to Basecamp
 - [konklone/basecamper](https://github.com/konklone/basecamper) - RETIRED: Command line interface to tracking time on Basecamp.
@@ -4287,6 +4298,15 @@
 
 ## Rust 
 
+- [alekseysidorov/include-utils](https://github.com/alekseysidorov/include-utils) - A more powerful replacement for standard macros
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+- [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
+- [rustonaut/total-order-multi-map](https://github.com/rustonaut/total-order-multi-map) - A multimap with at the same time keeps the total insertion ordering of all elements
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
+- [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser.
+- [greymattergames/unbug](https://github.com/greymattergames/unbug) - Debug breakpoint assertions for Rust
+- [softdevteam/snare](https://github.com/softdevteam/snare) - snare: GitHub webhooks daemon
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [raphamorim/sugarloaf](https://github.com/raphamorim/sugarloaf) - Sugarloaf is a simple cross-platform rendering engine.
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -4451,7 +4471,7 @@
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -4620,7 +4640,7 @@
 - [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [luisvonmuller/wasm-bindgen-webcam-stream](https://github.com/luisvonmuller/wasm-bindgen-webcam-stream) - A small example on how to get webcam stream on rust-wasm
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - 🦀 Rust implementation of Celery for producing and consuming background tasks
 - [emmanuelantony2000/valerie](https://github.com/emmanuelantony2000/valerie) - Rust front-end framework for building web apps
 - [jonhoo/griddle](https://github.com/jonhoo/griddle) - A HashMap variant that spreads resize load across inserts
@@ -4868,7 +4888,7 @@
 - [svenstaro/cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ivanceras/diwata](https://github.com/ivanceras/diwata) - A user-friendly database interface
-- [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
+- [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [s3rvac/blog](https://github.com/s3rvac/blog) - Source code and other material for my blog posts.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [iqlusioninc/crates](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion
@@ -5022,8 +5042,9 @@
 
 ## Shell 
 
+- [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [bashbox/bashbox](https://github.com/bashbox/bashbox) - A bash compiler written in bash to help create modular and maintainable bash projects.
+- [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-link bash compiler written in bash to help create modular and maintainable bash projects.
 - [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) - A small script to read from libinput-debug-events and trigger key commands depending on recognized gestures.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
@@ -5358,6 +5379,7 @@
 
 ## Vue 
 
+- [KustoszApp/web-ui](https://github.com/KustoszApp/web-ui) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains frontend code.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
