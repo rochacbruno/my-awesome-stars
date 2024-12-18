@@ -409,6 +409,7 @@
 
 ## Dockerfile 
 
+- [shaliamekh/uv-docker-example](https://github.com/shaliamekh/uv-docker-example) - Medium article "Python package management with uv for dockerized environments"
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
 - [koenrh/docker-kindlegen](https://github.com/koenrh/docker-kindlegen) - Amazon's KindleGen dockerized.
 - [ansible/galaxy-dev](https://github.com/ansible/galaxy-dev) - Ansible Automation Hub
@@ -468,6 +469,7 @@
 
 ## Go 
 
+- [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [brunobarros2093/gomde](https://github.com/brunobarros2093/gomde) - GOmde (Go Markdown Editor) is a really simple GUI markdown editor
 - [jeffque/teecp](https://github.com/jeffque/teecp) - The power of TCP over tee
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
@@ -478,7 +480,7 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
@@ -521,7 +523,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1344,7 +1346,7 @@
 - [wbotelhos/gridy](https://github.com/wbotelhos/gridy) - jQuery Gridy - A Grid Plugin
 - [mithun-daa/abhorredCalendar](https://github.com/mithun-daa/abhorredCalendar) - Month view calendar to add time for a particular day and show total time for a day
 - [jakearchibald/sprite-cow](https://github.com/jakearchibald/sprite-cow) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [PaulUithol/backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) - A small compatibility layer to make backbone.js and django-tastypie work together happily.
 - [Unitech/Skytoop](https://github.com/Unitech/Skytoop) - A Nice Desktop in Cloud with a filemanager and a lot of features ! Fork it ! Web2Py
 - [Unitech/Web2Py-application-template](https://github.com/Unitech/Web2Py-application-template) - Application template for Web2Py including JS/CSS minification, logger...
@@ -1561,6 +1563,7 @@
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [teh-cmc/rust-async](https://github.com/teh-cmc/rust-async) - Demystifying Asynchronous Rust
+- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. ReportPortal starts here - see readme below.
 - [daneoshiga/ansible_local_playbook](https://github.com/daneoshiga/ansible_local_playbook) - 
 - [magnunleno/ansible-vostro-setup](https://github.com/magnunleno/ansible-vostro-setup) - Setup for my Vostro Notebook with Ansible
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
@@ -1573,6 +1576,7 @@
 
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Mojo 
 
@@ -1613,6 +1617,7 @@
 
 ## Others 
 
+- [openvex/spec](https://github.com/openvex/spec) - OpenVEX Specification
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
@@ -1721,7 +1726,6 @@
 - [RoleModel/bash_command](https://github.com/RoleModel/bash_command) - Ansible role to execute arbitrary bash commands via a role
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
-- [reportportal/reportportal](https://github.com/reportportal/reportportal) - Main Repository. ReportPortal starts here - see readme below.
 - [jrabello/rust-safety](https://github.com/jrabello/rust-safety) - Slides of my presentation on 11º Rust Meetup SP
 - [nikomatsakis/office-hours](https://github.com/nikomatsakis/office-hours) - Help me help you!
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
@@ -1927,6 +1931,7 @@
 
 ## Python 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
@@ -1965,7 +1970,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE!
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
@@ -2233,7 +2238,7 @@
 - [fsouza/autoflake8](https://github.com/fsouza/autoflake8) - Tool to automatically fix some issues reported by flake8 (previously forked from autoflake).
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
+- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -4290,7 +4295,6 @@
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [maxlapshin/mysql2postgres](https://github.com/maxlapshin/mysql2postgres) - Mysqldump, writing in postgresql format
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [aderyabin/rove](https://github.com/aderyabin/rove) - Rove is a service that allows you to pregenerate typical Vagrant builds
 - [tdd/git-basecamp](https://github.com/tdd/git-basecamp) - Git post-commit hook to transparently log dev time to Basecamp
 - [konklone/basecamper](https://github.com/konklone/basecamper) - RETIRED: Command line interface to tracking time on Basecamp.
@@ -4298,6 +4302,16 @@
 
 ## Rust 
 
+- [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
+- [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
+- [trustification/trustify](https://github.com/trustification/trustify) - Bringing together SBOMs and advisories.
+- [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
+- [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
+- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
+- [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
+- [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [alekseysidorov/include-utils](https://github.com/alekseysidorov/include-utils) - A more powerful replacement for standard macros
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
 - [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
@@ -4337,7 +4351,7 @@
 - [messense/nh3](https://github.com/messense/nh3) - Python binding to Ammonia HTML sanitizer Rust crate
 - [dlight/rye-maturin-template](https://github.com/dlight/rye-maturin-template) - Rye's template showing off how to build a Rust module with Maturin
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [fcoury/husk](https://github.com/fcoury/husk) - :deciduous_tree: Script Language Inspired by Rust
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -4425,7 +4439,7 @@
 - [assert-rs/assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions.
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
 - [duo-rs/duo](https://github.com/duo-rs/duo) - A lightweight Logging and Tracing observability solution for Rust, built with Apache Arrow, Apache Parquet and Apache DataFusion.
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -4452,7 +4466,7 @@
 - [teenjuna/prae](https://github.com/teenjuna/prae) - prae is a crate that aims to provide a better way to define types that require validation.
 - [FauconFan/mdbook-cmdrun](https://github.com/FauconFan/mdbook-cmdrun) - A mdbook preprocessor for runnning arbitrary (shell) commands in a markdown file
 - [cloud-native-skunkworks/rust-operator](https://github.com/cloud-native-skunkworks/rust-operator) - A simple K8s operator written in Rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
@@ -4930,6 +4944,7 @@
 - [mozillabrasil/dive-into-rust](https://github.com/mozillabrasil/dive-into-rust) - 
 - [marioidival/moeda](https://github.com/marioidival/moeda) - is an attempt to create a programming language, with a syntax similar to LISP
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
+- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [nickbabcock/rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite
 - [libpasta/libpasta](https://github.com/libpasta/libpasta) - Making passwords painless
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
@@ -5042,9 +5057,10 @@
 
 ## Shell 
 
+- [securesign/pipelines-demo](https://github.com/securesign/pipelines-demo) - A repository holding a few openshift-pipelines demos leveraging securesign repositories to demostrate basic Secure Supply Chain practices.
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-link bash compiler written in bash to help create modular and maintainable bash projects.
+- [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) - A small script to read from libinput-debug-events and trigger key commands depending on recognized gestures.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
@@ -5108,7 +5124,6 @@
 - [cxbrooks/ansible-junitxml](https://github.com/cxbrooks/ansible-junitxml) - Ansible plugin that outputs JUnit XML results for ansible playbooks to use with Jenkins
 - [flaper87/openshift-rust-cart](https://github.com/flaper87/openshift-rust-cart) - Rust Cartridge for OpenShift
 - [e-minguez/laptop_install](https://github.com/e-minguez/laptop_install) - Utils to reinstall a new laptop easily
-- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [japaric/trust](https://github.com/japaric/trust) - Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 - [JacobCallahan/content-host-d](https://github.com/JacobCallahan/content-host-d) - Docker-ized Content Hosts for Red Hat Satellite 6
@@ -5218,6 +5233,7 @@
 
 ## TypeScript 
 
+- [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
 - [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -5253,7 +5269,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
