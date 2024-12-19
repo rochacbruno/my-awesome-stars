@@ -5220,7 +5220,7 @@
 
 ## Tcl 
 
-- [honghaier-game/PyMe](https://github.com/honghaier-game/PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
+- [honghaier-game/PythonIDE-PyMe](https://github.com/honghaier-game/PythonIDE-PyMe) - PyMe is a tool software to develop the Python User Interface for Python programmer.
 
 ## TeX 
 
