@@ -1128,7 +1128,7 @@
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [gabrielelana/mongodb-shell-extensions](https://github.com/gabrielelana/mongodb-shell-extensions) - Useful MongoDB shell extensions
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [avelino/riak-dashboard](https://github.com/avelino/riak-dashboard) - Riak Dashboard is a web-based administrative console for inspecting and manipulating Riak clusters.
 - [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 - [romainberger/yeoman-flask](https://github.com/romainberger/yeoman-flask) - Yeoman generator for Flask project
@@ -1931,6 +1931,8 @@
 
 ## Python 
 
+- [flipbit03/cadurso](https://github.com/flipbit03/cadurso) - Authorization framework for Python-based applications.
+- [matthiask/html-sanitizer](https://github.com/matthiask/html-sanitizer) - Allowlist-based HTML cleaner
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
@@ -2394,7 +2396,7 @@
 - [bmbouter/rq_coverage_testing](https://github.com/bmbouter/rq_coverage_testing) - 
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API
-- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - An Async Bot/API wrapper for Twitch made in Python.
+- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - A powerful, asynchronous Python library for twitch.tv.
 - [gabicavalcante/flask-secret-santa](https://github.com/gabicavalcante/flask-secret-santa) - 
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -4303,6 +4305,10 @@
 
 ## Rust 
 
+- [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings
+- [PacificCommunity/pdh-dotstat-contract_explorer](https://github.com/PacificCommunity/pdh-dotstat-contract_explorer) - A web explorer for yaml data contracts, in Rust with Marmite
+- [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
+- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
@@ -4833,7 +4839,7 @@
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [fitzgen/dodrio](https://github.com/fitzgen/dodrio) - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [gahag/bgrep](https://github.com/gahag/bgrep) - A binary grep written in Rust.
@@ -5101,7 +5107,7 @@
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [nordtheme/tilix](https://github.com/nordtheme/tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [mut-ex/wallpapers](https://github.com/mut-ex/wallpapers) - Just some neat looking wallpapers (2560px × 1440px)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -5115,7 +5121,7 @@
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [lzap/doti3](https://github.com/lzap/doti3) - My .i3 dot files
@@ -5355,7 +5361,7 @@
 
 ## Vala 
 
-- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse - Locked until 2025 Week 2
 - [treagod/spectator](https://github.com/treagod/spectator) - Client to test web endpoints
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
@@ -5403,7 +5409,7 @@
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CodingGarden/sproutkit](https://github.com/CodingGarden/sproutkit) - Apps and Components for Twitch Overlays
 - [codigofalado/obs-countdown](https://github.com/codigofalado/obs-countdown) - Tela de Countdown para Streams
 - [leoGalani/sherlock](https://github.com/leoGalani/sherlock) - Sherlock QA - Test Manager
