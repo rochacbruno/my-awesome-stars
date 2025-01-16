@@ -260,6 +260,7 @@
 
 ## ai 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -564,7 +565,7 @@
 
 ## aws 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - This project covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit 
@@ -785,6 +786,7 @@
 
 ## cli 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -830,6 +832,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -991,7 +994,7 @@
 
 ## continuous-integration 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
@@ -1158,7 +1161,7 @@
 ## database 
 
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -3049,6 +3052,7 @@
 
 ## llm 
 
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
@@ -3582,6 +3586,7 @@
 - [ibonn/python_avatars](https://github.com/ibonn/python_avatars) - Avatar generation package for Python
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -3636,6 +3641,9 @@
 
 ## others 
 
+- [kamu-data/dill-rs](https://github.com/kamu-data/dill-rs) - Runtime dependency injection library for Rust
+- [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
+- [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [myagley/opa-rs](https://github.com/myagley/opa-rs) - Open Policy Agent integration for Rust
 - [PacificCommunity/pdh-dotstat-contract_explorer](https://github.com/PacificCommunity/pdh-dotstat-contract_explorer) - A web explorer for yaml data contracts, in Rust with Marmite
 - [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
@@ -3772,7 +3780,7 @@
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
-- [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
+- [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
@@ -6710,6 +6718,7 @@
 
 ## python 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [shaliamekh/uv-docker-example](https://github.com/shaliamekh/uv-docker-example) - Medium article "Python package management with uv for dockerized environments"
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -7715,6 +7724,7 @@
 
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [giacomogroppi/writernote-qt](https://github.com/giacomogroppi/writernote-qt) - Multiplatform application, currently available for linux, windows, macOS and android, which allows you to take notes in an intelligent way, you can record audio as you write, and listen to it again se
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
@@ -7799,7 +7809,7 @@
 
 ## rest-api 
 
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
@@ -7851,7 +7861,8 @@
 
 ## rust 
 
-- [pipelight/boulette](https://github.com/pipelight/boulette) - Protect you from yourself (even as root).
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
@@ -7860,7 +7871,7 @@
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser.
@@ -8338,7 +8349,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -8394,6 +8405,7 @@
 
 ## shell 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
