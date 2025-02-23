@@ -44,7 +44,6 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [MATLAB](#matlab)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -93,7 +92,7 @@
 
 ## Assembly 
 
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [c3x04/Unix-1st-Edition-jun72](https://github.com/c3x04/Unix-1st-Edition-jun72) - Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -122,7 +121,6 @@
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -189,7 +187,7 @@
 - [unbit/uwsgi-pgnotify](https://github.com/unbit/uwsgi-pgnotify) - Maps PostgreSQL notification system to uWSGI signal framework
 - [unbit/uwsgi-capture](https://github.com/unbit/uwsgi-capture) - uWSGI plugin for accessing video capture devices
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
-- [Kjuly/pngcrush](https://github.com/Kjuly/pngcrush) - It is a free, open source command-line utility for optimizing PNG image files ( batch script included ).
+- [Kjuly/pngcrush](https://github.com/Kjuly/pngcrush) - It is a free, open source command-line utility for optimizing PNG image files (batch script included).
 - [worr/wsh](https://github.com/worr/wsh) - A tool that allows you to run commands on multiple hosts
 - [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -218,6 +216,7 @@
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
 - [KDE/kate](https://github.com/KDE/kate) - Advanced text editor
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
@@ -339,7 +338,7 @@
 - [thieman/dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [kamilczujowski/least](https://github.com/kamilczujowski/least) - This plugin is no longer maintained - #leastjs 2 is available for download now!
 - [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
-- [p0p-x/Navi.js](https://github.com/p0p-x/Navi.js) - jQuery: Content switching made easy
+- [p0px/Navi.js](https://github.com/p0px/Navi.js) - jQuery: Content switching made easy
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [rif/web2admin](https://github.com/rif/web2admin) - web2py administration plugin
@@ -401,7 +400,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
@@ -409,6 +408,7 @@
 
 ## Dockerfile 
 
+- [omaciel/Ansible-Labs](https://github.com/omaciel/Ansible-Labs) - Get ansible running on docker for learning purposes
 - [shaliamekh/uv-docker-example](https://github.com/shaliamekh/uv-docker-example) - Medium article "Python package management with uv for dockerized environments"
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
 - [koenrh/docker-kindlegen](https://github.com/koenrh/docker-kindlegen) - Amazon's KindleGen dockerized.
@@ -469,6 +469,7 @@
 
 ## Go 
 
+- [serversfordev/deploy](https://github.com/serversfordev/deploy) - 
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [brunobarros2093/gomde](https://github.com/brunobarros2093/gomde) - GOmde (Go Markdown Editor) is a really simple GUI markdown editor
 - [jeffque/teecp](https://github.com/jeffque/teecp) - The power of TCP over tee
@@ -604,7 +605,7 @@
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - An API development platform
 - [fragmenta/fragmenta-cms](https://github.com/fragmenta/fragmenta-cms) - A user-friendly CMS written in Go (golang)
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
@@ -669,6 +670,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [holdenweb/descriptors](https://github.com/holdenweb/descriptors) - A hands-on walk-through explanation of Python's descriptor protocol
 - [pruger/tiny-brutalism-css](https://github.com/pruger/tiny-brutalism-css) - Tiny Brutalism is a minimalist, brutalist-style CSS framework that focuses on monochrome colors, hard edges, and prominent drop shadows. It is designed to be simple, small, and easy to use.
@@ -676,7 +678,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
-- [Scobiform/fedi-follow-force-graph](https://github.com/Scobiform/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
+- [ussiemer/fedi-follow-force-graph](https://github.com/ussiemer/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [naomijub/Rust-game-dev](https://github.com/naomijub/Rust-game-dev) - Desenvolvimento de Jogos com Rust
 - [k4ml/htmx-snippets](https://github.com/k4ml/htmx-snippets) - Collection of htmx example
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
@@ -685,7 +687,6 @@
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [karlamagueta/Bikcraft](https://github.com/karlamagueta/Bikcraft) - 
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [ansible/jinja-docsite](https://github.com/ansible/jinja-docsite) - A docsite for the Ansible community
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -970,7 +971,6 @@
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -1030,7 +1030,7 @@
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [koehlma/jaspy](https://github.com/koehlma/jaspy) - A Python byte code VM written entirely from scratch in JavaScript with some unique features.
 - [jwendell/gnome-shell-extension-timezone](https://github.com/jwendell/gnome-shell-extension-timezone) - See people with their timezones from the Shell
-- [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
+- [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 - [raphapassini/pyjobs](https://github.com/raphapassini/pyjobs) - Its a crawler with the goal of extract offers of python jobs from websites, mostly Brazilian websites.
 - [magwo/elevatorsaga](https://github.com/magwo/elevatorsaga) - The elevator programming game!
 - [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
@@ -1396,7 +1396,6 @@
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An Open Framework for Federated Learning.
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [danielfrg/mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) - Use Jupyter Notebook in mkdocs
@@ -1551,10 +1550,6 @@
 
 - [harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection) - Human Fall Detection from CCTV camera feed
 
-## MDX 
-
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-
 ## Makefile 
 
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
@@ -1617,6 +1612,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - An introduction to the Rust programming language.
 - [openvex/spec](https://github.com/openvex/spec) - OpenVEX Specification
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
@@ -1857,7 +1853,7 @@
 - [shawnchin/jquery-gentleSelect](https://github.com/shawnchin/jquery-gentleSelect) - Implements skinnable select boxes which provides option to display selection in multiple columns/rows
 - [leonyuan/pycms](https://github.com/leonyuan/pycms) - Pycms is a free and open source content management system written in python programming language. It is built on web.py framework.
 - [guilhermecomum/inkscape-bootstrap](https://github.com/guilhermecomum/inkscape-bootstrap) - 
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [dreamhost/stevedore](https://github.com/dreamhost/stevedore) - Manage dynamic plugins for Python applications
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [ellisonleao/Flask-Gamification](https://github.com/ellisonleao/Flask-Gamification) - Gamification extension for Flask applications
@@ -1932,13 +1928,16 @@
 
 ## Python 
 
+- [django-commons/django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler) - Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [frenck/python-elgato](https://github.com/frenck/python-elgato) - Asynchronous Python client for Elgato Key Lights.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [flipbit03/cadurso](https://github.com/flipbit03/cadurso) - Authorization framework for Python-based applications.
 - [matthiask/html-sanitizer](https://github.com/matthiask/html-sanitizer) - Allowlist-based HTML cleaner
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
@@ -1976,7 +1975,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
-- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
@@ -2050,6 +2049,7 @@
 - [packit/ogr](https://github.com/packit/ogr) - One Git library to Rule -- one API for many git forges
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
@@ -2099,6 +2099,7 @@
 - [allisson/fastqueue](https://github.com/allisson/fastqueue) - Simple queue system based on FastAPI and PostgreSQL
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
+- [securefederatedai/openfl](https://github.com/securefederatedai/openfl) - An Open Framework for Federated Learning.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [jaraco/jaraco.crypto](https://github.com/jaraco/jaraco.crypto) - 
@@ -2390,7 +2391,7 @@
 - [DeanWay/pydantic-jsonapi](https://github.com/DeanWay/pydantic-jsonapi) - an implementation of JSON:api using pydantic for validation
 - [JaDogg/pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
 - [kedark3/ATCasC](https://github.com/kedark3/ATCasC) - Declarative Ansible Tower Configuration as Code
-- [NinjaBunny9000/TwitchShoutoutBot](https://github.com/NinjaBunny9000/TwitchShoutoutBot) - A bot that shouts out a twitch team member! Uses chat + tts
+- [bun9000/TwitchShoutoutBot](https://github.com/bun9000/TwitchShoutoutBot) - A bot that shouts out a twitch team member! Uses chat + tts
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [RedHatInsights/drift-backend](https://github.com/RedHatInsights/drift-backend) - host drift analysis service
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
@@ -2400,7 +2401,7 @@
 - [bmbouter/rq_coverage_testing](https://github.com/bmbouter/rq_coverage_testing) - 
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API
-- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - A powerful, asynchronous Python library for twitch.tv.
+- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - A powerful, asynchronous Python library for the twitch API and EventSub.
 - [gabicavalcante/flask-secret-santa](https://github.com/gabicavalcante/flask-secret-santa) - 
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -2590,7 +2591,7 @@
 - [rochacbruno/talkshow](https://github.com/rochacbruno/talkshow) - A Call 4 Papers System - A simple base app as example of Flask Architecture
 - [dtkav/flask-batch](https://github.com/dtkav/flask-batch) - Handle many API calls from a single HTTP request
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
-- [s3rvac/weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send.
+- [s3rvac/weechat-notify-send](https://github.com/s3rvac/weechat-notify-send) - A WeeChat script that sends highlight and message notifications through notify-send
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
 - [avilum/linqit](https://github.com/avilum/linqit) - Extend python lists operations using .NET's LINQ syntax for clean and fast coding.
@@ -2612,7 +2613,7 @@
 - [anapaulagomes/pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [pulp/pulp_docker](https://github.com/pulp/pulp_docker) - ⛔️  Pulp2 is EOL! ⛔️
 - [pulp/pulp-smash](https://github.com/pulp/pulp-smash) - A GPL-licensed Python library that facilitates integration testing of Pulp.
 - [drdoctr/doctr](https://github.com/drdoctr/doctr) - A tool for automatically deploying docs from Travis CI to GitHub pages.
@@ -2813,7 +2814,7 @@
 - [stdevel/check_katello_sync](https://github.com/stdevel/check_katello_sync) - A Nagios / Icinga plugin for checking product synchronization within Katello/Red Hat Satellite 6.x
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [schedutron/flask-common](https://github.com/schedutron/flask-common) - A Flask extension with lots of common time-savers (file-serving, favicons, etc).
-- [anfederico/flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
+- [anfederico/flaskex](https://github.com/anfederico/flaskex) - 
 - [nvbn/py-backwards](https://github.com/nvbn/py-backwards) - Python to python compiler that allows you to use Python 3.6 features in older versions.
 - [simion/pip-upgrader](https://github.com/simion/pip-upgrader) - An interactive pip requirements upgrader. It also updates the version in your requirements.txt file.
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
@@ -3054,7 +3055,7 @@
 - [eduardocereto/pyboleto](https://github.com/eduardocereto/pyboleto) - A Python module to create Brazilian "Boletos de Cobrança" for multiple banks
 - [nvbn/import_from_github_com](https://github.com/nvbn/import_from_github_com) - Python module finder/loader from github, like in golang
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [ikreymer/webarchiveplayer](https://github.com/ikreymer/webarchiveplayer) - NOTE: This project is no longer being actively developed.. Check out Webrecorder Player for the latest player. https://github.com/webrecorder/webrecorderplayer-electron) (Legacy: Desktop application f
+- [ikreymer/webarchiveplayer](https://github.com/ikreymer/webarchiveplayer) - NOTE: This project is no longer being actively developed.. Check out https://replayweb.page / https://github.com/webrecorder/replayweb.page for latest tool for viewing web archives directly in the bro
 - [rach/suma](https://github.com/rach/suma) - Suma, microservice to manage external links
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [charlax/wordpresslib](https://github.com/charlax/wordpresslib) - Wordpresslib is a wrapper to post to a Wordpress blog in Python. Started by Michele Ferretti. This version adds support for tags (keywords).
@@ -4008,7 +4009,6 @@
 - [mdeous/shorty](https://github.com/mdeous/shorty) - An URL shortener written in Python using the Flask framework
 - [PostmonAPI/postmon](https://github.com/PostmonAPI/postmon) - Uma API para consulta de informações relacionadas a endereçamento e entrega no Brasil.
 - [alesdotio/django-admin-shortcuts](https://github.com/alesdotio/django-admin-shortcuts) - Add simple and pretty shortcuts to the django admin homepage.
-- [yannlambret/flstats](https://github.com/yannlambret/flstats) - A performance monitoring tool for the Flask microframework
 - [klen/Flask-Foundation](https://github.com/klen/Flask-Foundation) - Quick start with Flask
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
 - [miguelgrinberg/Flask-Runner](https://github.com/miguelgrinberg/Flask-Runner) - A set of standard command line arguments for Flask applications
@@ -4309,6 +4309,25 @@
 
 ## Rust 
 
+- [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
+- [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - A Rust library for generating and parsing frontmatter in various formats.
+- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
+- [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
+- [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
+- [ricott1/asterion](https://github.com/ricott1/asterion) - 
+- [codervijo/journalview](https://github.com/codervijo/journalview) - JournalView is a lightweight, terminal-based application written in Rust that allows users to efficiently view, filter, and navigate system logs from journalctl.
+- [riberk/embed_it](https://github.com/riberk/embed_it) - Include your assets statically into your application with a strict structure
+- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
+- [DiscreteTom/whitehole](https://github.com/DiscreteTom/whitehole) - A simple, fast, intuitive parser combinator framework for Rust.
+- [kmdreko/venator](https://github.com/kmdreko/venator) - Venator: a desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [Aras14HD/abstract-impl](https://github.com/Aras14HD/abstract-impl) - Define abstract (generic) implementations for traits
+- [zefchain/serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
+- [jeremychone-channel/rust-md-block-extractor](https://github.com/jeremychone-channel/rust-md-block-extractor) - Markdown "Lexer" to extract/parse #!meta toml/yaml (Jeremy Chone Rust Coding https://youtube.com/jeremychone)
+- [nikomatsakis/moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
+- [indexmap-rs/equivalent](https://github.com/indexmap-rs/equivalent) - Rust traits for key comparison in maps.
+- [mitsuhiko/argument](https://github.com/mitsuhiko/argument) - I want to have an argument
 - [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) - Language Server implementation for Cargo.toml
 - [kamu-data/dill-rs](https://github.com/kamu-data/dill-rs) - Runtime dependency injection library for Rust
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -4332,7 +4351,7 @@
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [alekseysidorov/include-utils](https://github.com/alekseysidorov/include-utils) - A more powerful replacement for standard macros
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
@@ -4394,7 +4413,7 @@
 - [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bltavares/axum-content-negotiation](https://github.com/bltavares/axum-content-negotiation) - Axum middleware to use Accept and Content-Type headers to serialize with different formats
@@ -4417,9 +4436,9 @@
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [mamba-org/resolvo](https://github.com/mamba-org/resolvo) - Fast package resolver written in Rust (CDCL based SAT solving)
+- [prefix-dev/resolvo](https://github.com/prefix-dev/resolvo) - Fast package resolver written in Rust (CDCL based SAT solving)
 - [adwhit/diesel-derive-enum](https://github.com/adwhit/diesel-derive-enum) - Use enums with Diesel ORM
-- [google/zerocopy](https://github.com/google/zerocopy) - 
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft) - An implementation of Raft in Rust.
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -4439,7 +4458,7 @@
 - [viniciusfonseca/caramuru](https://github.com/viniciusfonseca/caramuru) - 
 - [reu/rinha-compiladores](https://github.com/reu/rinha-compiladores) - rinha-compiladores
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
 - [tomgroenwoldt/helix-shortcut-quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) - Learn the helix editor keymap on the web!
@@ -4500,7 +4519,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [containerd/runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm / WASI workloads managed by containerd
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
@@ -4548,7 +4567,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
-- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
@@ -4634,7 +4653,7 @@
 - [steveklabnik/semver-parser](https://github.com/steveklabnik/semver-parser) - A parser for the semver specification
 - [mersinvald/aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermaid.js
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
-- [canduma/canduma](https://github.com/canduma/canduma) - A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
+- [canduma/canduma](https://github.com/canduma/canduma) - A Rust server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -4711,7 +4730,7 @@
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [sirupsen/airtable-rs](https://github.com/sirupsen/airtable-rs) - Rust wrapper for the Airtable API
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [jonhoo/arccstr](https://github.com/jonhoo/arccstr) - Thread-safe, reference-counted null-terminated immutable Rust strings.
@@ -4724,11 +4743,11 @@
 - [rodolfoghi/cpf-util-rust](https://github.com/rodolfoghi/cpf-util-rust) - CPF utils written in Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [Lokathor/tinyvec](https://github.com/Lokathor/tinyvec) - Just, really the littlest Vec you could need. So smol.
-- [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
+- [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A small terminal UTF-8 text editor written in Rust 📝🦀
 - [vitiral/artifact](https://github.com/vitiral/artifact) - The open source design documentation tool for everybody
 - [vmchale/project-init](https://github.com/vmchale/project-init) - Project templates in rust
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
-- [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
+- [roosta/i3wsr](https://github.com/roosta/i3wsr) - A dynamic workspace renamer for i3 and Sway that updates names to reflect their active applications.
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [mre/envy](https://github.com/mre/envy) - 💫 Manage environment variables without cluttering your .zshrc.
 - [museun/simple_env_load](https://github.com/museun/simple_env_load) - a simple .env file loader
@@ -4771,7 +4790,7 @@
 - [jniltinho/cli-linux](https://github.com/jniltinho/cli-linux) - Rust CLI Linux
 - [pedrohrb/intzl](https://github.com/pedrohrb/intzl) - Its my a Flask (Python-web framework) initializer (Project struct)!
 - [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [risoflora/fiscalidade](https://github.com/risoflora/fiscalidade) - Biblioteca Rust para validação, assinatura e transmissão de XMLs para webservices SEFAZ.
 - [termapps/enquirer](https://github.com/termapps/enquirer) - Command line utility for stylish interactive prompts
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
@@ -4924,7 +4943,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ivanceras/diwata](https://github.com/ivanceras/diwata) - A user-friendly database interface
 - [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
-- [s3rvac/blog](https://github.com/s3rvac/blog) - Source code and other material for my blog posts.
+- [s3rvac/blog](https://github.com/s3rvac/blog) - Source code and other material for my blog posts
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [iqlusioninc/crates](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion
 - [lotabout/rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
@@ -4956,6 +4975,7 @@
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [google/rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -5021,7 +5041,7 @@
 - [marioidival/goga](https://github.com/marioidival/goga) - A fully RESTful API from any existing PostgreSQL database written in Rust
 - [rustless/rustless](https://github.com/rustless/rustless) - REST-like API micro-framework for Rust. Works with Iron.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -5078,6 +5098,7 @@
 
 ## Shell 
 
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [securesign/pipelines-demo](https://github.com/securesign/pipelines-demo) - A repository holding a few openshift-pipelines demos leveraging securesign repositories to demostrate basic Secure Supply Chain practices.
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -5257,7 +5278,7 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
-- [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
@@ -5333,6 +5354,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
