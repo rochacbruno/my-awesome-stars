@@ -44,6 +44,7 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -116,6 +117,7 @@
 
 ## C 
 
+- [tobhe/opencu](https://github.com/tobhe/opencu) - OpenBSD cu(1) for Linux
 - [toasterllc/debase](https://github.com/toasterllc/debase) - drag & drop git editing from the comfort of your terminal
 - [osresearch/neyes](https://github.com/osresearch/neyes) - ASCII art version of xeyes, implemented with ncurses and xterm mouse mode
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -469,6 +471,7 @@
 
 ## Go 
 
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances
 - [serversfordev/deploy](https://github.com/serversfordev/deploy) - 
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [brunobarros2093/gomde](https://github.com/brunobarros2093/gomde) - GOmde (Go Markdown Editor) is a really simple GUI markdown editor
@@ -718,7 +721,6 @@
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [jniltinho/go-samba4](https://github.com/jniltinho/go-samba4) - A web interface to manage a remote samba4 server - Python, Flask Framework
 - [steveklabnik/rust-in-ten-slides](https://github.com/steveklabnik/rust-in-ten-slides) - Short presentations about Rust syntax + concepts
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [JacobCallahan/quickchat](https://github.com/JacobCallahan/quickchat) - QuickChat - Stupid fast, scale-able, private chat app
 - [rustbridge/website](https://github.com/rustbridge/website) - the website for rustbridge
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
@@ -1550,6 +1552,10 @@
 
 - [harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection) - Human Fall Detection from CCTV camera feed
 
+## MDX 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 ## Makefile 
 
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
@@ -1575,7 +1581,7 @@
 
 ## Mojo 
 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 
 ## MoonScript 
 
@@ -1801,7 +1807,7 @@
 - [elastic/elasticsearch-cloud-aws](https://github.com/elastic/elasticsearch-cloud-aws) - AWS Cloud Plugin for Elasticsearch
 - [drgarcia1986/ansible-playbooks](https://github.com/drgarcia1986/ansible-playbooks) - Some ansible playbooks that I use.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
 - [deepak1556/kitematic](https://github.com/deepak1556/kitematic) - Simple Docker App management for Mac OS X.
 - [ewjoachim/zen-of-python](https://github.com/ewjoachim/zen-of-python) - Zen of Python poster
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
@@ -1928,6 +1934,7 @@
 
 ## Python 
 
+- [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [django-commons/django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler) - Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
@@ -2014,7 +2021,7 @@
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - 
 - [ansible/eda-server](https://github.com/ansible/eda-server) - Event Driven Ansible for AAP
@@ -4309,6 +4316,8 @@
 
 ## Rust 
 
+- [nwiizo/cargo-autodd](https://github.com/nwiizo/cargo-autodd) - A tool that automatically manages Rust dependencies by analyzing your source code and updating Cargo.toml
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
 - [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - A Rust library for generating and parsing frontmatter in various formats.
 - [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
@@ -4484,7 +4493,6 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
-- [tanay-pingalkar/rq](https://github.com/tanay-pingalkar/rq) - A jquery inspired library for wasm made in rust
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [pblins/dundie-rewards-rs](https://github.com/pblins/dundie-rewards-rs) - 
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
@@ -4666,7 +4674,7 @@
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [vorner/pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python
@@ -4901,7 +4909,7 @@
 - [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing, templating and rendering PDF
 - [facebookarchive/rust-partial-io](https://github.com/facebookarchive/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
