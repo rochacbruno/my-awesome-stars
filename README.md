@@ -402,7 +402,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
@@ -426,6 +426,7 @@
 
 ## Elixir 
 
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [fazibear/defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
@@ -673,7 +674,6 @@
 
 ## HTML 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [holdenweb/descriptors](https://github.com/holdenweb/descriptors) - A hands-on walk-through explanation of Python's descriptor protocol
 - [pruger/tiny-brutalism-css](https://github.com/pruger/tiny-brutalism-css) - Tiny Brutalism is a minimalist, brutalist-style CSS framework that focuses on monochrome colors, hard edges, and prominent drop shadows. It is designed to be simple, small, and easy to use.
@@ -687,7 +687,6 @@
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [codeshow/qpizza](https://github.com/codeshow/qpizza) - QPizza is the best pizza
-- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [karlamagueta/Bikcraft](https://github.com/karlamagueta/Bikcraft) - 
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [ansible/jinja-docsite](https://github.com/ansible/jinja-docsite) - A docsite for the Ansible community
@@ -788,6 +787,7 @@
 - [aws-samples/eb-py-flask-signup](https://github.com/aws-samples/eb-py-flask-signup) - 
 - [DataViva/dataviva-site](https://github.com/DataViva/dataviva-site) - Rapid data visualization engine
 - [andhart/bijou](https://github.com/andhart/bijou) - A small (Less than 2kb) CSS framework
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [uretgec/pure-admin](https://github.com/uretgec/pure-admin) - Simple Pure Admin Panel. Want to make simple blog cms and admin panel, Pure Admin is here.
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
@@ -845,6 +845,7 @@
 
 ## Handlebars 
 
+- [kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template) - Template for 'mdbook' books with my preferences
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles) - 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
@@ -1399,7 +1400,7 @@
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [danielfrg/mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) - Use Jupyter Notebook in mkdocs
 - [fluentpython/builtins](https://github.com/fluentpython/builtins) - Talk about built-in callables in Python 3.7+
 - [rplevka/auto_profiling](https://github.com/rplevka/auto_profiling) - jupyter notebook for visualizing automation execution timeline
@@ -1467,13 +1468,13 @@
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [MaximilianLloyd/ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim) - A collection of ascii art as lua tables
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) - Nvim material icon
-- [riddlew/swap-split.nvim](https://github.com/riddlew/swap-split.nvim) - Swaps your current split with another split
+- [attrid/swap-split.nvim](https://github.com/attrid/swap-split.nvim) - Swaps your current split with another split
 - [doums/monark.nvim](https://github.com/doums/monark.nvim) - Show mode changes right next to the cursor
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
-- [riddlew/asciitree.nvim](https://github.com/riddlew/asciitree.nvim) - Convert selected text into an ASCII tree.
+- [attrid/asciitree.nvim](https://github.com/attrid/asciitree.nvim) - Convert selected text into an ASCII tree.
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) - Some semi-util useless plugins put together
@@ -1807,7 +1808,7 @@
 - [elastic/elasticsearch-cloud-aws](https://github.com/elastic/elasticsearch-cloud-aws) - AWS Cloud Plugin for Elasticsearch
 - [drgarcia1986/ansible-playbooks](https://github.com/drgarcia1986/ansible-playbooks) - Some ansible playbooks that I use.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
+- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [deepak1556/kitematic](https://github.com/deepak1556/kitematic) - Simple Docker App management for Mac OS X.
 - [ewjoachim/zen-of-python](https://github.com/ewjoachim/zen-of-python) - Zen of Python poster
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
@@ -1916,7 +1917,6 @@
 
 ## Perl 
 
-- [kg4zow/mdbook-template](https://github.com/kg4zow/mdbook-template) - Template for 'mdbook' books with my preferences
 - [jaagr/dots](https://github.com/jaagr/dots) - dotfiles for my local setup
 - [sitaramc/gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [bucardo/bucardo](https://github.com/bucardo/bucardo) - Bucardo multimaster and master/slave Postgres replication
@@ -1934,6 +1934,8 @@
 
 ## Python 
 
+- [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
+- [ansible/ansible-ai-connect-service](https://github.com/ansible/ansible-ai-connect-service) - 
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [django-commons/django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler) - Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -1945,6 +1947,7 @@
 - [flipbit03/cadurso](https://github.com/flipbit03/cadurso) - Authorization framework for Python-based applications.
 - [matthiask/html-sanitizer](https://github.com/matthiask/html-sanitizer) - Allowlist-based HTML cleaner
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
@@ -2048,7 +2051,6 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
-- [CaravanaCloud/up](https://github.com/CaravanaCloud/up) - Delivering unified and pluggable container solutions
 - [fabiocaccamo/django-redirects](https://github.com/fabiocaccamo/django-redirects) - :arrow_right_hook: :white_check_mark: redirects as they should be, with full control.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [adamchainz/unittest-parametrize](https://github.com/adamchainz/unittest-parametrize) - Parametrize tests within unittest TestCases.
@@ -3737,7 +3739,6 @@
 - [tsileo/flask-yeoman](https://github.com/tsileo/flask-yeoman) - A Flask blueprint to make create web application using Yeoman and Flask an easy task.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [bitlabstudio/django-booking](https://github.com/bitlabstudio/django-booking) - A reusable Django app that manages bookings for various purposes.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [renzon/pagseguro2csv](https://github.com/renzon/pagseguro2csv) - Programa para transforma o XML do Pagseguro em CSV
 - [Caramel/django-viewtracker](https://github.com/Caramel/django-viewtracker) - Simple view-tracking application for Django
 - [morninj/web2pdf](https://github.com/morninj/web2pdf) - Convert webpages to PDFs for offline reading
@@ -3852,7 +3853,7 @@
 - [mbr/simplekv](https://github.com/mbr/simplekv) - A simple key-value store for binary data.
 - [codelucas/easycomplete](https://github.com/codelucas/easycomplete) - A python autocompletion library. Easycomplete has a simple API and utilizes google's autocomplete results & the english dictionary for now.
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
-- [pallets-eco/flask-rq](https://github.com/pallets-eco/flask-rq) - RQ (Redis Queue) integration for Flask applications
+- [pallets-eco/flask-rq](https://github.com/pallets-eco/flask-rq) - RQ (Redis Queue) integration for Flask and Quart applications.
 - [closeio/flask-mongorest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
 - [closeio/flask-common](https://github.com/closeio/flask-common) - Some commonly shared code for Flask, MongoEngine, and Python apps
 - [closeio/Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
@@ -4316,6 +4317,11 @@
 
 ## Rust 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
+- [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
+- [cuducos/astronomer](https://github.com/cuducos/astronomer) - ⭐️ Astronomer looks at the stars. At all the stars you’ve got on GitHub.
+- [jessekrubin/ry](https://github.com/jessekrubin/ry) - ry ~ rust-python
+- [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
 - [nwiizo/cargo-autodd](https://github.com/nwiizo/cargo-autodd) - A tool that automatically manages Rust dependencies by analyzing your source code and updating Cargo.toml
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
@@ -4438,7 +4444,7 @@
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models.
-- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -4470,6 +4476,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [freqmod/helicoid](https://github.com/freqmod/helicoid) - Aspiring helix text editor frontend
+- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [tomgroenwoldt/helix-shortcut-quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) - Learn the helix editor keymap on the web!
 - [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Web based playground for the helix editor.
 - [metafates/buffer-language-server](https://github.com/metafates/buffer-language-server) - 💬 LSP that can autocomplete words found in the opened buffer
@@ -4494,11 +4501,12 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
+- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [pblins/dundie-rewards-rs](https://github.com/pblins/dundie-rewards-rs) - 
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-- [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a modern and secure command-line tool that simplifies the management of environment variables
+- [envio-cli/envio](https://github.com/envio-cli/envio) - envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
@@ -4844,7 +4852,7 @@
 - [fishinabarrel/linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust) - Framework for writing Linux kernel modules in safe Rust
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [stratis-storage/stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [choubacha/rench](https://github.com/choubacha/rench) - A benchmark utility for end points. Written in rust... rust + bench = rench
 - [TedDriggs/syn-select](https://github.com/TedDriggs/syn-select) - Lightweight path selector for searching Rust code
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -4950,7 +4958,7 @@
 - [svenstaro/cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ivanceras/diwata](https://github.com/ivanceras/diwata) - A user-friendly database interface
-- [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
+- [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
 - [s3rvac/blog](https://github.com/s3rvac/blog) - Source code and other material for my blog posts
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [iqlusioninc/crates](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion
@@ -5075,7 +5083,6 @@
 ## SCSS 
 
 - [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
-- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [cristatus/asciidoctor-styles](https://github.com/cristatus/asciidoctor-styles) - A themeable stylesheet for Asciidoctor.
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
@@ -5283,6 +5290,7 @@
 
 ## TypeScript 
 
+- [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
