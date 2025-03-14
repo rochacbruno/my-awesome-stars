@@ -263,7 +263,7 @@
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
@@ -791,6 +791,7 @@
 
 ## cli 
 
+- [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -1418,7 +1419,7 @@
 - [shaliamekh/uv-docker-example](https://github.com/shaliamekh/uv-docker-example) - Medium article "Python package management with uv for dockerized environments"
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
@@ -1594,7 +1595,7 @@
 
 ## elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [fazibear/defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
@@ -2173,6 +2174,7 @@
 
 ## hacktoberfest 
 
+- [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
 - [cuducos/astronomer](https://github.com/cuducos/astronomer) - ⭐️ Astronomer looks at the stars. At all the stars you’ve got on GitHub.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -2464,7 +2466,7 @@
 ## html 
 
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
@@ -2644,7 +2646,6 @@
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
@@ -3086,6 +3087,7 @@
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -3157,7 +3159,7 @@
 ## mac 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -3200,7 +3202,7 @@
 
 ## macos 
 
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
@@ -3242,7 +3244,7 @@
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [brunobarros2093/gomde](https://github.com/brunobarros2093/gomde) - GOmde (Go Markdown Editor) is a really simple GUI markdown editor
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -3802,7 +3804,7 @@
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
-- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - 🏔️ Mountaineer is a batteries-included web framework for Python.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [Silverquark/dance](https://github.com/Silverquark/dance) - Make your cursors dance with Helix-like modal editing in VS Code.
 - [fictive-kin/dynaconf-aws-loader](https://github.com/fictive-kin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
@@ -7919,6 +7921,8 @@
 
 ## rust 
 
+- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
+- [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [jessekrubin/ry](https://github.com/jessekrubin/ry) - ry ~ rust-python
 - [nwiizo/cargo-autodd](https://github.com/nwiizo/cargo-autodd) - A tool that automatically manages Rust dependencies by analyzing your source code and updating Cargo.toml
@@ -8542,7 +8546,7 @@
 
 ## sql 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -8593,7 +8597,7 @@
 
 ## sqlite 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
@@ -8683,6 +8687,7 @@
 
 ## terminal 
 
+- [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -8910,6 +8915,7 @@
 
 ## ubuntu 
 
+- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
