@@ -426,7 +426,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [fazibear/defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
@@ -1953,11 +1953,11 @@
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [flipbit03/main](https://github.com/flipbit03/main) - For those that think `if __name__ = "__main__"` is ugly
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [ansible-collections/ansible_hub](https://github.com/ansible-collections/ansible_hub) - Collection of modules to configure Automation Hub
 - [willmcgugan/terminal-tree](https://github.com/willmcgugan/terminal-tree) - 
 - [nunesfd/hostcontrol](https://github.com/nunesfd/hostcontrol) - HostControl is a terminal-based desktop application, built with Python and the Textual library, that simplifies managing the /etc/hosts file. With an intuitive interface, you can easily add, edit, and
@@ -2004,7 +2004,7 @@
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
 - [jaraco/keyring](https://github.com/jaraco/keyring) - 
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
-- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python.
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - 🏔️ Mountaineer is a batteries-included web framework for Python.
 - [baverman/sqlbind](https://github.com/baverman/sqlbind) - Lightweight text-based SQL parameter binds
 - [fictive-kin/dynaconf-aws-loader](https://github.com/fictive-kin/dynaconf-aws-loader) - A Dynaconf loader for AWS Systems Manager Parameter Store that can query slash-delimited hierarchical configuration data.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -4317,6 +4317,8 @@
 
 ## Rust 
 
+- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
+- [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
 - [cuducos/astronomer](https://github.com/cuducos/astronomer) - ⭐️ Astronomer looks at the stars. At all the stars you’ve got on GitHub.
