@@ -402,7 +402,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
@@ -1932,6 +1932,7 @@
 
 ## Python 
 
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [Senhaji-Rhazi-Hamza/handyobj](https://github.com/Senhaji-Rhazi-Hamza/handyobj) - This repo aims to provide some utilities to manipulate list in python and list of dict
 - [sosreport/sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -4496,7 +4497,7 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [viniciusfonseca/rinha-backend-rust](https://github.com/viniciusfonseca/rinha-backend-rust) - 
-- [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
+- [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [assert-rs/assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions.
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
 - [duo-rs/duo](https://github.com/duo-rs/duo) - A lightweight Logging and Tracing observability solution for Rust, built with Apache Arrow, Apache Parquet and Apache DataFusion.
@@ -5296,7 +5297,7 @@
 ## TypeScript 
 
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
@@ -5383,7 +5384,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hiro-sun/vscode-emacs](https://github.com/hiro-sun/vscode-emacs) - 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
