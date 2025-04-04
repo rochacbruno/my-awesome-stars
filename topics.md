@@ -663,13 +663,13 @@
 
 ## bitcoin 
 
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [pragmaticivan/guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - :airplane: Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
 ## blockchain 
 
 - [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [marioidival/blockchain-example](https://github.com/marioidival/blockchain-example) - Blockchain Example made in Rust
 
@@ -1033,7 +1033,7 @@
 
 ## cryptocurrency 
 
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 
 ## cryptography 
 
@@ -2395,7 +2395,6 @@
 - [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [kootenpv/yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
 - [s-m-i-t-a/flask_siilo](https://github.com/s-m-i-t-a/flask_siilo) - A simple storage for flask.
-- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
@@ -3681,6 +3680,7 @@
 
 ## others 
 
+- [badtuxx/girus-cli](https://github.com/badtuxx/girus-cli) - 
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [Senhaji-Rhazi-Hamza/handyobj](https://github.com/Senhaji-Rhazi-Hamza/handyobj) - This repo aims to provide some utilities to manipulate list in python and list of dict
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
@@ -6619,7 +6619,7 @@
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 
 ## package-manager 
@@ -6784,6 +6784,7 @@
 
 ## python 
 
+- [zobweyt/textcase](https://github.com/zobweyt/textcase) - A feature-rich Python text case conversion library
 - [jessekrubin/ry](https://github.com/jessekrubin/ry) - ry ~ rust-python
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [django-commons/django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler) - Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
@@ -7042,7 +7043,7 @@
 - [CCExtractor/vardbg](https://github.com/CCExtractor/vardbg) - A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
