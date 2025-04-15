@@ -1892,6 +1892,7 @@
 
 ## PHP 
 
+- [moonmoon/moonmoon](https://github.com/moonmoon/moonmoon) - moonmoon is a simple feed aggregator (planet like)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) - Github Action that waits for successful commit status
 - [Beachcasts/airtable-sdk-php](https://github.com/Beachcasts/airtable-sdk-php) - Flexible SDK for the Airtable API for PHP.
@@ -1940,7 +1941,7 @@
 - [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment) - Build and maintain a development environment including ansible collections and their python dependencies
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
-- [zobweyt/textcase](https://github.com/zobweyt/textcase) - A feature-rich Python text case conversion library
+- [zobweyt/textcase](https://github.com/zobweyt/textcase) - Python library for text case conversions
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [Senhaji-Rhazi-Hamza/handyobj](https://github.com/Senhaji-Rhazi-Hamza/handyobj) - This repo aims to provide some utilities to manipulate list in python and list of dict
 - [sosreport/sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
@@ -2062,6 +2063,7 @@
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [fabiocaccamo/django-redirects](https://github.com/fabiocaccamo/django-redirects) - :arrow_right_hook: :white_check_mark: redirects as they should be, with full control.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
+- [matheus-feu/dynaconf-example](https://github.com/matheus-feu/dynaconf-example) - 
 - [adamchainz/unittest-parametrize](https://github.com/adamchainz/unittest-parametrize) - Parametrize tests within unittest TestCases.
 - [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [packit/ogr](https://github.com/packit/ogr) - One Git library to Rule -- one API for many git forges
