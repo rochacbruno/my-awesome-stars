@@ -231,6 +231,7 @@
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -670,7 +671,7 @@
 
 ## blockchain 
 
-- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
+- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [marioidival/blockchain-example](https://github.com/marioidival/blockchain-example) - Blockchain Example made in Rust
@@ -1670,7 +1671,7 @@
 
 ## ethereum 
 
-- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
+- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 
 ## express 
@@ -3467,7 +3468,7 @@
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [sharksforarms/neovim-rust](https://github.com/sharksforarms/neovim-rust) - Sample neovim and vim configurations for Rust development
 - [MaximilianLloyd/ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim) - A collection of ascii art as lua tables
-- [doums/monark.nvim](https://github.com/doums/monark.nvim) - Show mode changes right next to the cursor
+- [doums/monark.nvim](https://github.com/doums/monark.nvim) - Enhances visual feedback when leaping
 - [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
@@ -3906,7 +3907,7 @@
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
-- [dmcg310/Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Terminal based file explorer.
+- [dmcg310/navoxide](https://github.com/dmcg310/navoxide) - Terminal based file explorer.
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
@@ -5048,7 +5049,7 @@
 - [nickodell/pact](https://github.com/nickodell/pact) - Give pact several PIDs. When one PID dies, pact will kill all provided PIDs.
 - [mynameisfiber/high_performance_python](https://github.com/mynameisfiber/high_performance_python) - Code for the book "High Performance Python" by Micha Gorelick and Ian Ozsvald with OReilly
 - [AcrDijon/henet](https://github.com/AcrDijon/henet) - Admin for Pelican
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [samastur/pyimagediet](https://github.com/samastur/pyimagediet) - Python wrapper around image optimisations tools.
 - [GabrielRocha/WebCrawlerPacktPublishing](https://github.com/GabrielRocha/WebCrawlerPacktPublishing) - 
@@ -6207,7 +6208,7 @@
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 - [maxlapshin/mysql2postgres](https://github.com/maxlapshin/mysql2postgres) - Mysqldump, writing in postgresql format
 - [tryolabs/python-simple-getty](https://github.com/tryolabs/python-simple-getty) - 
-- [bartTC/django-attachments](https://github.com/bartTC/django-attachments) - A generic Django application to attach Files (Attachments) to any model.
+- [atodorov/django-attachments](https://github.com/atodorov/django-attachments) - A generic Django application to attach Files (Attachments) to any model.
 - [chrishunt/favcount](https://github.com/chrishunt/favcount) - Enhance your useless favicon with FavCount technology
 - [tiagobutzke/LiveWebcamWithHTML5](https://github.com/tiagobutzke/LiveWebcamWithHTML5) - Live stream webcam using Node.js and HTML5.
 - [jakiestfu/Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
@@ -7965,7 +7966,7 @@
 - [jessekrubin/ry](https://github.com/jessekrubin/ry) - ry ~ rust-python
 - [nwiizo/cargo-autodd](https://github.com/nwiizo/cargo-autodd) - A tool that automatically manages Rust dependencies by analyzing your source code and updating Cargo.toml
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
-- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
+- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [codervijo/journalview](https://github.com/codervijo/journalview) - JournalView is a lightweight, terminal-based application written in Rust that allows users to efficiently view, filter, and navigate system logs from journalctl.
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
@@ -8420,7 +8421,7 @@
 
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients
@@ -8713,6 +8714,14 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+
+## telegram-bot 
+
+- [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
+- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - A Telegram bot that helps you learn German der/die/das articles.
+- [GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot) - Telegram Bot @RastreioBot
+- [un-def/tinystash](https://github.com/un-def/tinystash) - A storage-less database-less file sharing service powered by OpenResty
+- [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 
 ## tensorflow 
 
