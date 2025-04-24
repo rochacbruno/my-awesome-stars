@@ -247,7 +247,7 @@
 - [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
 - [romanvm/WsgiBoostServer](https://github.com/romanvm/WsgiBoostServer) - Python WSGI/HTTP server written in C++
 - [wiseio/paratext](https://github.com/wiseio/paratext) - A library for reading text files over multiple cores.
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -693,7 +693,7 @@
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [ansible/jinja-docsite](https://github.com/ansible/jinja-docsite) - A docsite for the Ansible community
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [karlamagueta/Aulas-html-e-css](https://github.com/karlamagueta/Aulas-html-e-css) - exercícios guanabara
 - [sethmlarson/utf8.xyz](https://github.com/sethmlarson/utf8.xyz) - A quick web app for fetching Unicode characters without extra fluff
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -723,6 +723,7 @@
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [jniltinho/go-samba4](https://github.com/jniltinho/go-samba4) - A web interface to manage a remote samba4 server - Python, Flask Framework
 - [steveklabnik/rust-in-ten-slides](https://github.com/steveklabnik/rust-in-ten-slides) - Short presentations about Rust syntax + concepts
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [JacobCallahan/quickchat](https://github.com/JacobCallahan/quickchat) - QuickChat - Stupid fast, scale-able, private chat app
 - [rustbridge/website](https://github.com/rustbridge/website) - the website for rustbridge
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
@@ -799,7 +800,6 @@
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [not-kennethreitz/markdownplease.com](https://github.com/not-kennethreitz/markdownplease.com) - Give it a URL, it'll give you Markdown. Powered by Readability.
 - [bradymholt/jquery-googleslides](https://github.com/bradymholt/jquery-googleslides) - A jQuery plugin to display your Google Photos.
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [mdamien/infinity](https://github.com/mdamien/infinity) - :boom: Infinite depth website (abandonned - 2014)
 - [usmanhalalit/charisma](https://github.com/usmanhalalit/charisma) - Free, responsive, multiple skin admin template
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
@@ -1198,6 +1198,7 @@
 - [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - INACTIVE - http://mzl.la/ghe-archive - A chat room to demo presence
 - [Bluefinch/microglark](https://github.com/Bluefinch/microglark) - A hacky minimalistic remote pair programming editor
 - [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [qmagico/treinamento-angularjs](https://github.com/qmagico/treinamento-angularjs) - Treinamento de AngularJS do QMágico
 - [msjolund/jquery-esn-autobrowse](https://github.com/msjolund/jquery-esn-autobrowse) - Autobrowse jquery plugin
@@ -1347,7 +1348,6 @@
 - [domain7/bootstrap](https://github.com/domain7/bootstrap) - CSS toolkit from Twitter
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any &lt;ol&gt; or &lt;ul&gt; into a &lt;select&gt; for mobiles and low browser sizes
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [wbotelhos/gridy](https://github.com/wbotelhos/gridy) - jQuery Gridy - A Grid Plugin
 - [mithun-daa/abhorredCalendar](https://github.com/mithun-daa/abhorredCalendar) - Month view calendar to add time for a particular day and show total time for a day
 - [jakearchibald/sprite-cow](https://github.com/jakearchibald/sprite-cow) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
@@ -1471,7 +1471,7 @@
 - [MaximilianLloyd/ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim) - A collection of ascii art as lua tables
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) - Nvim material icon
 - [attrid/swap-split.nvim](https://github.com/attrid/swap-split.nvim) - Swaps your current split with another split
-- [doums/monark.nvim](https://github.com/doums/monark.nvim) - Show mode changes right next to the cursor
+- [doums/monark.nvim](https://github.com/doums/monark.nvim) - Enhances visual feedback when leaping
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
@@ -1557,8 +1557,7 @@
 
 ## MDX 
 
-- [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1769,7 +1768,6 @@
 - [ritiek/RAT-via-Telegram](https://github.com/ritiek/RAT-via-Telegram) - Removed according to regulations
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [IonicaBizau/made-in-brazil](https://github.com/IonicaBizau/made-in-brazil) - 🇧🇷 A list of neat projects made in Brazil.
-- [pythonbrasil/planet](https://github.com/pythonbrasil/planet) - Repo público para atualização da lista de sites do Planet PythonBrasil
 - [mattharrison/Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
 - [davidhalter/pysible](https://github.com/davidhalter/pysible) - Beautiful Pythonic Ansible
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
@@ -1993,6 +1991,7 @@
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
@@ -2876,6 +2875,7 @@
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [schollz/playlistfromsong](https://github.com/schollz/playlistfromsong) - Create an offline music playlist from a single song :notes:
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [pythonbrasil/planet](https://github.com/pythonbrasil/planet) - Repo público para atualização da lista de sites do Planet PythonBrasil
 - [wong2/pmm](https://github.com/wong2/pmm) - PyPi Mirror Manager
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
 - [khornberg/elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless pypi
@@ -3975,7 +3975,7 @@
 - [multmeio/django-hstore-flattenfields](https://github.com/multmeio/django-hstore-flattenfields) - Django with dynamic fields in hstore
 - [tryolabs/python-simple-getty](https://github.com/tryolabs/python-simple-getty) - 
 - [Fantomas42/django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) - Simple yet powerful and really extendable application for managing a blog within your Django Web site.
-- [bartTC/django-attachments](https://github.com/bartTC/django-attachments) - A generic Django application to attach Files (Attachments) to any model.
+- [atodorov/django-attachments](https://github.com/atodorov/django-attachments) - A generic Django application to attach Files (Attachments) to any model.
 - [niwinz/django-sse](https://github.com/niwinz/django-sse) - HTML5 Server-Sent Events integration for Django
 - [saippuakauppias/temp-mail](https://github.com/saippuakauppias/temp-mail) - 📬 A python API wrapper for temp-mail.org
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -4345,7 +4345,7 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
 - [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - A Rust library for generating and parsing frontmatter in various formats.
-- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - The fastest, most feature-complete zkVM for developers.
+- [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 - [ricott1/asterion](https://github.com/ricott1/asterion) - 
@@ -4503,7 +4503,7 @@
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bennetthardwick/rust-obs-plugins](https://github.com/bennetthardwick/rust-obs-plugins) - A safe wrapper around the OBS API, useful for creating OBS sources, filters and effects.
-- [dmcg310/Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Terminal based file explorer.
+- [dmcg310/navoxide](https://github.com/dmcg310/navoxide) - Terminal based file explorer.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
