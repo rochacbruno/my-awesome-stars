@@ -487,7 +487,7 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. CURRENTLY LOCKED WHILE MIGRATING -&gt; CODEBERG
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
@@ -4926,7 +4926,7 @@
 - [killercup/a-range](https://github.com/killercup/a-range) - Write quick and explict ranges in Rust
 - [psFried/flo](https://github.com/psFried/flo) - An event stream server that aims to one day be simple, scalable, and developer friendly
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
-- [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
+- [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [therustmonk/rusty](https://github.com/therustmonk/rusty) - Minimal Rust Application Template - dotenv, clap, log, config
 - [kanidm/concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
@@ -5130,7 +5130,7 @@
 
 ## Shell 
 
-- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [securesign/pipelines-demo](https://github.com/securesign/pipelines-demo) - A repository holding a few openshift-pipelines demos leveraging securesign repositories to demostrate basic Secure Supply Chain practices.
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
