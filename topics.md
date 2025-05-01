@@ -273,7 +273,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
@@ -314,7 +314,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -1795,7 +1795,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -2946,7 +2946,7 @@
 
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [skalamark/gl](https://github.com/skalamark/gl) - Language of script GLanguage
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [NexInfinite/whython](https://github.com/NexInfinite/whython) - An almost fully customizable language made in python!
@@ -3015,7 +3015,7 @@
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -3190,7 +3190,7 @@
 ## machine-learning 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
@@ -3225,7 +3225,7 @@
 
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3416,7 +3416,7 @@
 ## music 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) - Library for audio processing and synthesis
 - [anyaudio/anyaudio-android-app](https://github.com/anyaudio/anyaudio-android-app) - One Stop Music Application
 - [anyaudio/web](https://github.com/anyaudio/web) - [Inactive] A free, open source music player
@@ -7090,7 +7090,7 @@
 - [yashaka/selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
 - [csparpa/fluentcheck](https://github.com/csparpa/fluentcheck) - Fluent assertions for Python
-- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX.
+- [Erotemic/xdoctest](https://github.com/Erotemic/xdoctest) - A rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of RegEx.
 - [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [dvdvgt/Giter](https://github.com/dvdvgt/Giter) - Quickly set up a new remote repository, initialize a local git repository and add the remote repo
@@ -9168,7 +9168,7 @@
 ## windows 
 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - Emoji filter / Unicode chat keyboard
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
