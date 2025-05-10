@@ -241,6 +241,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -265,7 +266,8 @@
 
 ## ai 
 
-- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
+- [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
+- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -384,6 +386,7 @@
 
 ## api 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [ats1999/dakia](https://github.com/ats1999/dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols.
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
@@ -1025,6 +1028,7 @@
 
 ## cpp 
 
+- [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [bartkessels/GetIt](https://github.com/bartkessels/GetIt) - Application to send HTTP requests to test your API endpoints.
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
@@ -1242,6 +1246,7 @@
 
 ## deep-learning 
 
+- [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine learning operator & controller for Kubernetes
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1268,7 +1273,7 @@
 ## design 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [vitiral/artifact](https://github.com/vitiral/artifact) - The open source design documentation tool for everybody
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
@@ -1440,6 +1445,7 @@
 
 ## docker 
 
+- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [shaliamekh/uv-docker-example](https://github.com/shaliamekh/uv-docker-example) - Medium article "Python package management with uv for dockerized environments"
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -2027,6 +2033,7 @@
 
 ## go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated, text-based social network with a Gemini frontend
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
@@ -2074,7 +2081,7 @@
 - [sbinet/go-python](https://github.com/sbinet/go-python) - naive go bindings to the CPython2 C-API
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
+- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -2095,6 +2102,7 @@
 
 ## golang 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated, text-based social network with a Gemini frontend
@@ -3100,7 +3108,8 @@
 
 ## llm 
 
-- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
+- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -3189,6 +3198,7 @@
 
 ## machine-learning 
 
+- [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
@@ -3705,6 +3715,10 @@
 
 ## others 
 
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [CestDiego/sudo-ai](https://github.com/CestDiego/sudo-ai) - 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [moonmoon/moonmoon](https://github.com/moonmoon/moonmoon) - moonmoon is a simple feed aggregator (planet like)
 - [pulp/pulp-service](https://github.com/pulp/pulp-service) - 
 - [faiface/par](https://github.com/faiface/par) - ⅋ — session types for Rust
@@ -6684,6 +6698,7 @@
 
 ## pentesting 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [operatorequals/covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
@@ -6811,6 +6826,7 @@
 
 ## python 
 
+- [Pylons/hupper](https://github.com/Pylons/hupper) - in-process file monitor / reloader for reloading your code automatically during development
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [zobweyt/textcase](https://github.com/zobweyt/textcase) - Python library for text case conversions
 - [jessekrubin/ry](https://github.com/jessekrubin/ry) - ry ~ rust-python
@@ -6825,7 +6841,7 @@
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
@@ -7859,7 +7875,7 @@
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
@@ -7909,6 +7925,7 @@
 
 ## rest-api 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -8005,7 +8022,6 @@
 - [memospot/memospot](https://github.com/memospot/memospot) - Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
-- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
@@ -8030,7 +8046,7 @@
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to stream and process data in motion to power responsive data intensive applications.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [Peperworx/fluxion](https://github.com/Peperworx/fluxion) - Fluxion is an actor framework designed with distributed systems in mind, namely sending messages not just between actors, but also between systems.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
@@ -8480,7 +8496,6 @@
 
 ## server 
 
-- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [raphamorim/cargo-server](https://github.com/raphamorim/cargo-server) - serve a static site, single page application or just a static file with Rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -8501,7 +8516,7 @@
 
 ## serverless 
 
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to stream and process data in motion to power responsive data intensive applications.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - This project covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -8574,7 +8589,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## software 
 
@@ -8855,6 +8870,7 @@
 
 ## testing 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
@@ -8974,6 +8990,11 @@
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 
+## ui-design 
+
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+
 ## unity 
 
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
@@ -9045,6 +9066,7 @@
 
 ## vue 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
