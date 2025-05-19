@@ -439,6 +439,7 @@
 
 ## Emacs Lisp 
 
+- [shanemcd/.emacs.d](https://github.com/shanemcd/.emacs.d) - My emacs config
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [grafov/rust-playground](https://github.com/grafov/rust-playground) - GNU/Emacs mode that setup local playground for code snippets in Rust language.
 - [omaciel/super-emacs](https://github.com/omaciel/super-emacs) - An out-of-the-box Emacs configuration with super powers
@@ -571,7 +572,7 @@
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine learning operator & controller for Kubernetes
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [coreos/vault-operator](https://github.com/coreos/vault-operator) - Run and manage Vault on Kubernetes simply and securely
@@ -1401,6 +1402,7 @@
 
 ## Jupyter Notebook 
 
+- [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) - 
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1939,6 +1941,7 @@
 
 ## Python 
 
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [Pylons/hupper](https://github.com/Pylons/hupper) - in-process file monitor / reloader for reloading your code automatically during development
@@ -3199,7 +3202,7 @@
 - [mardiros/pyshop](https://github.com/mardiros/pyshop) - A Private PyPI server written in pyramid
 - [donnex/django-docker-coookiecutter](https://github.com/donnex/django-docker-coookiecutter) - Cookiecutter project template - setups a dev enviroment for Django projects using Docker containers with docker-compose
 - [circuits/circuits](https://github.com/circuits/circuits) - circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.
-- [philipsoutham/py-mysql2pgsql](https://github.com/philipsoutham/py-mysql2pgsql) - Tool for migrating/converting from mysql to postgresql.
+- [ps0uth/py-mysql2pgsql](https://github.com/ps0uth/py-mysql2pgsql) - Tool for migrating/converting from mysql to postgresql.
 - [catherinedevlin/python_learners_glossary](https://github.com/catherinedevlin/python_learners_glossary) - Definitions of Pardon jargon to help Python beginners understand Pythonista gobbletigook
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [robdmc/pandashells](https://github.com/robdmc/pandashells) - :panda_face: Bringing the python data stack to the shell prompt
@@ -3291,7 +3294,7 @@
 - [patrys/httmock](https://github.com/patrys/httmock) - A mocking library for requests
 - [vladimarius/imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [jsbueno/chillicurry](https://github.com/jsbueno/chillicurry) - An "expression decorator" for function currying
-- [eka/pygrabbit](https://github.com/eka/pygrabbit) - 
+- [estebanfeldman/pygrabbit](https://github.com/estebanfeldman/pygrabbit) - 
 - [fluentpython/asyncio-tkinter](https://github.com/fluentpython/asyncio-tkinter) - Example of running asyncio on top of the Tcl/Tk event loop via Tkinter
 - [hchasestevens/xpyth](https://github.com/hchasestevens/xpyth) - A module for querying the DOM tree and writing XPath expressions using native Python syntax.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
@@ -4334,6 +4337,8 @@
 
 ## Rust 
 
+- [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
+- [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [CestDiego/sudo-ai](https://github.com/CestDiego/sudo-ai) - 
 - [faiface/par](https://github.com/faiface/par) - ⅋ — session types for Rust
 - [faiface/par-lang](https://github.com/faiface/par-lang) - Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
@@ -4624,7 +4629,6 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
-- [rillrate-lab/meio](https://github.com/rillrate-lab/meio) - Rust actors alternative to Erlang/OTP
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
@@ -4673,7 +4677,6 @@
 - [Szymongib/bookmark](https://github.com/Szymongib/bookmark) - Save your favourite URLs from the comfort of your terminal and open them quickly in the browser.
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [rillrate-fossil/rillrate](https://github.com/rillrate-fossil/rillrate) - Real-time UI for bots and tools
 - [naomijub/wooridb](https://github.com/naomijub/wooridb) - WooriDB is a general purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [landaire/pdbview](https://github.com/landaire/pdbview) - dump all available information from PDBs
@@ -5317,6 +5320,7 @@
 
 ## TypeScript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
