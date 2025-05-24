@@ -476,6 +476,7 @@
 
 ## Go 
 
+- [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [badtuxx/girus-cli](https://github.com/badtuxx/girus-cli) - 
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances
@@ -920,7 +921,7 @@
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [qownnotes/scripts](https://github.com/qownnotes/scripts) - QOwnNotes script repository
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1942,6 +1943,7 @@
 
 ## Python 
 
+- [benthomasson/prompt-engineering-workshop](https://github.com/benthomasson/prompt-engineering-workshop) - 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
@@ -1949,9 +1951,9 @@
 - [pulp/pulp-service](https://github.com/pulp/pulp-service) - 
 - [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment) - Build and maintain a development environment including ansible collections and their python dependencies
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
-- [containers/ramalama](https://github.com/containers/ramalama) - Ramalama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
+- [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [zobweyt/textcase](https://github.com/zobweyt/textcase) - Python library for text case conversions
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [Senhaji-Rhazi-Hamza/handyobj](https://github.com/Senhaji-Rhazi-Hamza/handyobj) - This repo aims to provide some utilities to manipulate list in python and list of dict
 - [sosreport/sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -1999,7 +2001,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
@@ -4108,7 +4110,7 @@
 - [stephenmcd/gunicorn-console](https://github.com/stephenmcd/gunicorn-console) - A curses application for managing gunicorn processes.
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
 - [bread-and-pepper/django-userena](https://github.com/bread-and-pepper/django-userena) - Accounts for Django made beautifully simple
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [lucasicf/dict2xml](https://github.com/lucasicf/dict2xml) - Python tool for converting a JSON-style dictionary element to a XML document.
 - [circus-tent/circus](https://github.com/circus-tent/circus) - A Process & Socket Manager built with zmq
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
@@ -4337,6 +4339,7 @@
 
 ## Rust 
 
+- [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
