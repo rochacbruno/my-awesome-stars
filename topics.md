@@ -267,6 +267,7 @@
 
 ## ai 
 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) - NotebookLM related tools and hacks
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
@@ -276,6 +277,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -302,6 +304,7 @@
 
 ## analytics 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -389,6 +392,7 @@
 
 ## api 
 
+- [picahq/pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [ats1999/dakia](https://github.com/ats1999/dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols.
@@ -408,6 +412,7 @@
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [umutseven92/apyr](https://github.com/umutseven92/apyr) - API mocking with Python.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [fdgt-apis/api](https://github.com/fdgt-apis/api) - `fdgt` is a mock API for the Twitch. Via `fdgt`, you can simulate events without having to spend a penny!
 - [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API
@@ -637,6 +642,7 @@
 
 ## bash 
 
+- [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
@@ -869,7 +875,7 @@
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
@@ -897,7 +903,7 @@
 - [andrewpetrochenkov/setupcfg-generator.py](https://github.com/andrewpetrochenkov/setupcfg-generator.py) - :package: :snake: setup.cfg generator
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python3 library for multimedia functions at the command terminal
+- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
@@ -966,6 +972,7 @@
 
 ## code-quality 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
@@ -983,6 +990,7 @@
 
 ## compiler 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
@@ -1139,6 +1147,7 @@
 
 ## data-analysis 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
@@ -1147,6 +1156,7 @@
 
 ## data-science 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
@@ -1180,6 +1190,7 @@
 
 ## data-visualization 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -1188,7 +1199,7 @@
 ## database 
 
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1252,6 +1263,7 @@
 
 ## deep-learning 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine learning operator & controller for Kubernetes
@@ -1357,14 +1369,14 @@
 - [fabiocaccamo/django-redirects](https://github.com/fabiocaccamo/django-redirects) - :arrow_right_hook: :white_check_mark: redirects as they should be, with full control.
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [HewlettPackard/squest](https://github.com/HewlettPackard/squest) - Service request portal on top of Ansible Tower/AWX
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
 - [odwyersoftware/django-rename-app](https://github.com/odwyersoftware/django-rename-app) - A Django Management Command to rename existing Django Applications.
 - [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [rg3915/django-experience](https://github.com/rg3915/django-experience) - Tutorial Django Experience 2022
-- [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
+- [adamchainz/django-auto-prefetch](https://github.com/adamchainz/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
@@ -1471,7 +1483,7 @@
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -1549,6 +1561,7 @@
 
 ## documentation 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
@@ -1722,7 +1735,7 @@
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
 - [marcuxyz/mvc-flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc-flask extension to turn on MVC pattern in your applications.
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [shezadkhan137/required](https://github.com/shezadkhan137/required) - Easy multi-field validation
 - [rantav/flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A Swagger spec extractor for flask-restful
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
@@ -1822,10 +1835,10 @@
 
 ## font 
 
-- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
+- [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
-- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python3 library for multimedia functions at the command terminal
+- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
@@ -2038,6 +2051,7 @@
 
 ## go 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated, text-based social network with a Gemini frontend
@@ -2108,6 +2122,7 @@
 
 ## golang 
 
+- [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -2195,7 +2210,7 @@
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [kiranz/just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
 - [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [canduma/canduma](https://github.com/canduma/canduma) - A Rust server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
@@ -2214,6 +2229,7 @@
 
 ## hacktoberfest 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
@@ -2236,7 +2252,7 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions.
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Biblioteca de utilitários projetada para validar, gerar e manipular dados de acordo com as particularidades do Brasil 🇧🇷
@@ -2303,10 +2319,10 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [sanitizers/patchback-github-app](https://github.com/sanitizers/patchback-github-app) - 
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
-- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
+- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -2328,7 +2344,6 @@
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [asciidoctor/docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
 - [jsbueno/extradict](https://github.com/jsbueno/extradict) - Collection of Mappings and with different capabilites and some utilities
@@ -2427,7 +2442,6 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [psss/did](https://github.com/psss/did) - What did you do last week, month, year?
 - [SatelliteQE/betelgeuse](https://github.com/SatelliteQE/betelgeuse) - Betelgeuse reads standard Python test cases and offers tools   to interact with Polarion.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [kootenpv/yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
@@ -2707,7 +2721,7 @@
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [imteekay/functional-programming-learning-path](https://github.com/imteekay/functional-programming-learning-path) - ✨ A Learning Path for Functional Programming
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2960,6 +2974,7 @@
 
 ## language 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -3028,6 +3043,8 @@
 
 ## linux 
 
+- [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
@@ -3116,6 +3133,7 @@
 
 ## llm 
 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
@@ -3161,6 +3179,7 @@
 - [MaximilianLloyd/ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim) - A collection of ascii art as lua tables
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) - Some semi-util useless plugins put together
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -3207,6 +3226,7 @@
 
 ## machine-learning 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -3242,6 +3262,7 @@
 
 ## macos 
 
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
@@ -3281,6 +3302,7 @@
 
 ## markdown 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -3359,7 +3381,7 @@
 
 ## material-design 
 
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -3410,6 +3432,8 @@
 
 ## monitoring 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -3727,6 +3751,19 @@
 
 ## others 
 
+- [matrixise/dsmtpd](https://github.com/matrixise/dsmtpd) - dsmtpd is a small SMTP server for debugging and the developers.
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
+- [bretello/pdbpp](https://github.com/bretello/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C++ module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters 
+- [kitespark/django-mcp](https://github.com/kitespark/django-mcp) - 
+- [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
+- [rh-aiservices-bu/models-aas](https://github.com/rh-aiservices-bu/models-aas) - Models as a Service
+- [rooftopcellist/chatbot-template](https://github.com/rooftopcellist/chatbot-template) - 
+- [RHEcosystemAppEng/RAG-Blueprint](https://github.com/RHEcosystemAppEng/RAG-Blueprint) - RAG blueprint
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [benthomasson/prompt-engineering-workshop](https://github.com/benthomasson/prompt-engineering-workshop) - 
 - [shanemcd/.emacs.d](https://github.com/shanemcd/.emacs.d) - My emacs config
@@ -3851,7 +3888,7 @@
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [hermetoproject/pybuild-deps](https://github.com/hermetoproject/pybuild-deps) - A simple tool for detection of PEP-517 build dependencies.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
-- [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
+- [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmark manager. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
@@ -3902,7 +3939,7 @@
 - [ansible/ansible-risk-insight](https://github.com/ansible/ansible-risk-insight) - Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
 - [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
-- [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
+- [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [simple-repository/simple-repository-server](https://github.com/simple-repository/simple-repository-server) - A tool for running a PEP-503 simple Python package repository, including features such as dist metadata (PEP-658) and JSON API (PEP-691)
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models.
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
@@ -3940,7 +3977,7 @@
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [joshbainbridge/aibro](https://github.com/joshbainbridge/aibro) - A CLI tool you can pipe code and then ask for changes, add documentation, etc, using the OpenAI API.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
-- [dmcg310/navoxide](https://github.com/dmcg310/navoxide) - Terminal based file explorer.
+- [dmcg310/rust-traverse](https://github.com/dmcg310/rust-traverse) - Terminal based file explorer.
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
@@ -3956,7 +3993,7 @@
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [PacktPublishing/Demystifying-Ansible-Automation-Platform](https://github.com/PacktPublishing/Demystifying-Ansible-Automation-Platform) - Demystifying Ansible Automation Controller, Published by Packt
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
-- [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
+- [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) - TiDB AI Documentations - https://pingcap.github.io/ai/
 - [codeshow/qpizza](https://github.com/codeshow/qpizza) - QPizza is the best pizza
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [JessicaNathany/the-office.api](https://github.com/JessicaNathany/the-office.api) - The Office API
@@ -6224,7 +6261,7 @@
 - [semirook/flask-kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
 - [djalmaaraujo/gravatar-image](https://github.com/djalmaaraujo/gravatar-image) - Web Component wrapper for Gravatar using Polymer
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [imwilsonxu/fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -6839,6 +6876,10 @@
 
 ## python 
 
+- [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [Pylons/hupper](https://github.com/Pylons/hupper) - in-process file monitor / reloader for reloading your code automatically during development
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
@@ -6912,8 +6953,9 @@
 - [jpsca/jinjax](https://github.com/jpsca/jinjax) - Server-Side Components with Jinja
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
@@ -7007,7 +7049,7 @@
 - [imageio/imageio](https://github.com/imageio/imageio) - Python library for reading and writing image data
 - [fsouza/autoflake8](https://github.com/fsouza/autoflake8) - Tool to automatically fix some issues reported by flake8 (previously forked from autoflake).
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -7160,7 +7202,7 @@
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python3 library for multimedia functions at the command terminal
+- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
@@ -7440,7 +7482,7 @@
 - [sdispater/orator](https://github.com/sdispater/orator) - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [what-studio/profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
-- [benhoyt/scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
+- [benhoyt/scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(). Archived, as this has been in the stdlib since Python 3.5.
 - [jsdelivr/bot](https://github.com/jsdelivr/bot) - DEPRECATED The jerk of a bot that checks PRs and responds in comments
 - [ellisonleao/slack-howdoi](https://github.com/ellisonleao/slack-howdoi) - :cloud: Slack integration with the howdoi library
 - [drgarcia1986/simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
@@ -7725,7 +7767,6 @@
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
-- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -7920,6 +7961,7 @@
 ## reactjs 
 
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use) and share your own JavaScript plugins that effortlessly match your website's style. 🌟 Star to support our work!
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
 - [anyaudio/web](https://github.com/anyaudio/web) - [Inactive] A free, open source music player
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -7993,6 +8035,8 @@
 
 ## rust 
 
+- [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
 - [ats1999/dakia](https://github.com/ats1999/dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
@@ -8070,7 +8114,7 @@
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
@@ -8453,6 +8497,7 @@
 
 ## security 
 
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -8480,6 +8525,7 @@
 
 ## security-tools 
 
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
@@ -8549,6 +8595,7 @@
 
 ## shell 
 
+- [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
@@ -8621,7 +8668,7 @@
 ## sql 
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
@@ -8834,7 +8881,7 @@
 - [chrismaille/cabrita](https://github.com/chrismaille/cabrita) - TUI dashboard for easy visualization of docker services
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python3 library for multimedia functions at the command terminal
+- [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [p-e-w/hegemon](https://github.com/p-e-w/hegemon) - A modular system monitor written in Rust
@@ -8904,7 +8951,7 @@
 - [jondot/hypertesting](https://github.com/jondot/hypertesting) - A declarative and contextual contract-driven testing framework for your API.
 - [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [DonaldWhyte/double](https://github.com/DonaldWhyte/double) - Mocking framework for Rust -- inspired by googlemock
 - [vitiral/artifact](https://github.com/vitiral/artifact) - The open source design documentation tool for everybody
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
@@ -8978,6 +9025,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
+- [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -9008,6 +9056,7 @@
 
 ## ui 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [ussiemer/fedi-follow-force-graph](https://github.com/ussiemer/fedi-follow-force-graph) - Mastodon analytics tool that generates a force graph to visually represent the relationships between user followers and followings on Mastodon. Users can log in via Mastodon OAuth to view graphs of th
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
