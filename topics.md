@@ -3963,6 +3963,7 @@
 
 ## others 
 
+- [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [sivel/amanda](https://github.com/sivel/amanda) - A simple web application, to mimic the v3 API endpoints for Ansible Galaxy Collections, with no database, just a directory with artifacts
 - [jctanner/gateway-auth-wasm-plugin](https://github.com/jctanner/gateway-auth-wasm-plugin) - 
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
