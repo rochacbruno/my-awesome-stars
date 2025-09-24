@@ -540,7 +540,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [timopattikawa/kamoro](https://github.com/timopattikawa/kamoro) - Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
 - [cuducos/chunk](https://github.com/cuducos/chunk) - 🧱 Chunk is a download manager for slow and unstable servers
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -2188,7 +2188,7 @@
 - [lucaslattari/Video-Silence-Remover](https://github.com/lucaslattari/Video-Silence-Remover) - A tool created to automatically remove silence from videos.
 - [stereobutter/reddish](https://github.com/stereobutter/reddish) - An async redis client for python with minimal API
 - [ansible/anonymizer](https://github.com/ansible/anonymizer) - 
-- [ansible-community/community-website](https://github.com/ansible-community/community-website) - Ansible Community website (WIP)
+- [ansible-community/ansible-docsite](https://github.com/ansible-community/ansible-docsite) - Ansible community docsite
 - [pytest-dev/iniconfig](https://github.com/pytest-dev/iniconfig) - 
 - [ansible/mkdocs-ansible](https://github.com/ansible/mkdocs-ansible) - Ansible MkDocs Theme based on Material
 - [HewlettPackard/squest](https://github.com/HewlettPackard/squest) - Service request portal on top of Ansible Tower/AWX
@@ -4437,6 +4437,7 @@
 
 ## Rust 
 
+- [AbelHristodor/octofer](https://github.com/AbelHristodor/octofer) - 🤖 Framework for easily building GitHub Apps, in Rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [rpm-rs/rpm-builder](https://github.com/rpm-rs/rpm-builder) - build rpms without a spec file. Pure Rust. No dependencies to librpm
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
