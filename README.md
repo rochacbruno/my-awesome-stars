@@ -283,6 +283,7 @@
 
 ## CSS 
 
+- [waltenne/mini-curso-cicd](https://github.com/waltenne/mini-curso-cicd) - Fornecer uma base conceitual sólida sobre CI/CD, capacitando os participantes a planejar, argumentar e implementar pipelines de forma estratégica e eficaz, focando no "porquê" antes do "como".
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [josvanr/cde-motif-theme](https://github.com/josvanr/cde-motif-theme) - Gtk2 / Gtk3 theme mimicking CDE / Motif and Front panel app
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
@@ -746,7 +747,7 @@
 - [maurocordioli/viperus](https://github.com/maurocordioli/viperus) - Viperus - a cli configuration management toolbox
 - [pyjamasconf/pyjamas.live](https://github.com/pyjamasconf/pyjamas.live) - pyjamas.live website
 - [codeshow/site](https://github.com/codeshow/site) - CodeShow content powered by Rust and Zola
-- [spastorino/why-rust](https://github.com/spastorino/why-rust) - Why Rust? OSS talk, check out my version -&gt;
+- [spastorino/why-rust](https://github.com/spastorino/why-rust) - Why Rust? OSS talk
 - [brian-slate/JSON-Schema-Builder](https://github.com/brian-slate/JSON-Schema-Builder) - A simple GUI tool to enable designing and building JSON schemas
 - [web2py/py4web](https://github.com/web2py/py4web) - 
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
@@ -762,7 +763,6 @@
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
 - [rust-br/2018-roadshow](https://github.com/rust-br/2018-roadshow) - Rust Roadshow 🇧🇷 2-4 de fevereiro de 2018
 - [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [kichik/whypy3](https://github.com/kichik/whypy3) - All the reasons to switch to Python 3 today
 - [lex009/flask-admin-lte](https://github.com/lex009/flask-admin-lte) - AdminLTE for Flask Admin
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -1544,7 +1544,7 @@
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
+- [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
@@ -1605,6 +1605,7 @@
 ## MDX 
 
 - [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -1963,7 +1964,7 @@
 - [eduardotakeo/test-push](https://github.com/eduardotakeo/test-push) - Whatever
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 
 ## PLpgSQL 
@@ -1995,6 +1996,8 @@
 
 ## Python 
 
+- [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
+- [jsbueno/python-react](https://github.com/jsbueno/python-react) - Pythn reactive programming  framework
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [saccarosium/awesome-vim9](https://github.com/saccarosium/awesome-vim9) - Collection of awesome vim9script plugins.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -4161,7 +4164,6 @@
 - [philippWassibauer/templated-emails](https://github.com/philippWassibauer/templated-emails) - A simple app (that works similar to django-notification) that allows you to send emails by specifying a short.txt (subject), email.txt (plain text), and email.html (html email, optional) in a folder. 
 - [henriquebastos/django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 - [arasraj/Recommender_System](https://github.com/arasraj/Recommender_System) - CF item-based recommender system
-- [henriquebastos/django-decouple](https://github.com/henriquebastos/django-decouple) - Strict separation of config from code.
 - [cenkalti/pyhtml](https://github.com/cenkalti/pyhtml) - HTML generation library for Python
 - [emre/kaptan](https://github.com/emre/kaptan) - configuration manager in your pocket.
 - [Bouke/django-airbrake](https://github.com/Bouke/django-airbrake) - Django Airbrake provides a logging handler to push exceptions and other errors to airbrakeapp or other airbrake-compatible exception handler services (e.g. aTech Media's Codebase).
@@ -4376,6 +4378,7 @@
 
 ## QML 
 
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell optimized for niri & hyprland. Check out the niri community Discord below.
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
 - [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
@@ -4437,6 +4440,7 @@
 
 ## Rust 
 
+- [ctz/graviola](https://github.com/ctz/graviola) - High quality, fast and easy to build cryptography for Rust
 - [AbelHristodor/octofer](https://github.com/AbelHristodor/octofer) - 🤖 Framework for easily building GitHub Apps, in Rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [rpm-rs/rpm-builder](https://github.com/rpm-rs/rpm-builder) - build rpms without a spec file. Pure Rust. No dependencies to librpm
@@ -4772,7 +4776,7 @@
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
-- [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
+- [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Built for easy embedding in applications.
 - [moriturus/ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry
 - [epilys/rsqlite3](https://github.com/epilys/rsqlite3) - sqlite3 Rewritten in RiiR Rust 🦀🦀🦀 /s
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -5099,7 +5103,7 @@
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing and rendering PDF
 - [facebookarchive/rust-partial-io](https://github.com/facebookarchive/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations
-- [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
+- [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool. Assists with large-scale codebase refactors via regex-based find and replace with human oversight and occasional intervention.
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [andylokandy/smallbox](https://github.com/andylokandy/smallbox) - Small Box optimization: store small item on stack and fallback to heap for large item.
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
