@@ -54,6 +54,7 @@
 - [Mustache](#mustache)
 - [Nginx](#nginx)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Opa](#opa)
@@ -1568,6 +1569,7 @@
 - [joselbr2099/mcompiler](https://github.com/joselbr2099/mcompiler) - Plugin to compile some languages ​​in micro text editor
 - [un-def/tinystash](https://github.com/un-def/tinystash) - A storage-less database-less file sharing service powered by OpenResty
 - [wrxck/telegram-bot-lua](https://github.com/wrxck/telegram-bot-lua) - A simple yet extensive Lua library for the Telegram bot API.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [kennethreitz/super-sphere](https://github.com/kennethreitz/super-sphere) - A minimal action game by Kenneth Reitz.
 - [sumory/lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty
 - [rangercyh/chance](https://github.com/rangercyh/chance) - A library for Mersenne Twister random number generator in lua
@@ -1654,6 +1656,10 @@
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
+
+## Nix 
+
+- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 
 ## OCaml 
 
@@ -1817,7 +1823,6 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [rust-br/estudos](https://github.com/rust-br/estudos) - Local destinado para estudos sobre assuntos relacionados a Rust
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [jamiejennings/rosie-pattern-language](https://github.com/jamiejennings/rosie-pattern-language) - Rosie Pattern Language (RPL) and the Rosie Pattern Engine have MOVED!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [wcrasta/SWA-Scraper](https://github.com/wcrasta/SWA-Scraper) - 
@@ -4440,6 +4445,9 @@
 
 ## Rust 
 
+- [Kiki-Bouba-Team/niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - Provides task switcher for Niri compositor.
+- [lonerOrz/nsticky](https://github.com/lonerOrz/nsticky) - A sticky windows manager CLI tool for Niri
+- [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [ctz/graviola](https://github.com/ctz/graviola) - High quality, fast and easy to build cryptography for Rust
 - [AbelHristodor/octofer](https://github.com/AbelHristodor/octofer) - 🤖 Framework for easily building GitHub Apps, in Rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -5619,6 +5627,7 @@
 
 ## Vim Script 
 
+- [andergrim/vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between [niri](https://github.com/YaLTeR/niri) windows and (Neo)Vim splits with the same key bindings.
 - [rochacbruno/bred](https://github.com/rochacbruno/bred) - Bruno Rocha editor - vim9 config
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) - Run jq interactively in Vim
