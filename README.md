@@ -1679,6 +1679,7 @@
 
 ## Others 
 
+- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - List of plugins for DankMaterialShell
 - [leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes) - A collection of themes built by the community
 - [apollographql/rust-best-practices](https://github.com/apollographql/rust-best-practices) - 
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
@@ -2004,6 +2005,7 @@
 
 ## Python 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
 - [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
 - [jsbueno/python-react](https://github.com/jsbueno/python-react) - Pythn reactive programming  framework
@@ -4387,6 +4389,7 @@
 
 ## QML 
 
+- [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell optimized for niri & hyprland. Check out the niri community Discord below.
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
 - [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
@@ -4449,6 +4452,7 @@
 
 ## Rust 
 
+- [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [Kiki-Bouba-Team/niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - Provides task switcher for Niri compositor.
