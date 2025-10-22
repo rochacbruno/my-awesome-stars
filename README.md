@@ -1678,6 +1678,7 @@
 
 ## Others 
 
+- [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes) - A collection of themes built by the community
 - [apollographql/rust-best-practices](https://github.com/apollographql/rust-best-practices) - 
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
@@ -2003,8 +2004,9 @@
 
 ## Python 
 
+- [alicealysia/persistent-wlr-randr-gui](https://github.com/alicealysia/persistent-wlr-randr-gui) - a fork of wlr-layout-ui that removes xrandr and hyprctl functionality, then extends wlr-randr support.
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [openshift/cincinnati-graph-data](https://github.com/openshift/cincinnati-graph-data) - Release node and upgrade edge metadata for Cincinnati graphs.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -2177,7 +2179,7 @@
 - [brazilian-utils/python](https://github.com/brazilian-utils/python) - Biblioteca de utilitários projetada para validar, gerar e manipular dados de acordo com as particularidades do Brasil 🇧🇷
 - [zueve/zenv](https://github.com/zueve/zenv) - Zenv: Zen Environment - docker based virtual environments
 - [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [pedro-psb/history-runner](https://github.com/pedro-psb/history-runner) - Quickly run any command across different git tags.
 - [irsl/curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
@@ -2260,7 +2262,7 @@
 - [to-mc/checksumdir](https://github.com/to-mc/checksumdir) - Simple package to compute a single deterministic hash of the file contents of a directory.
 - [Kludex/fastapi-microservices](https://github.com/Kludex/fastapi-microservices) - Fully Python async FastAPI project! 🚀
 - [visini/abstracting-fastapi-services](https://github.com/visini/abstracting-fastapi-services) - FastAPI application and service structure for a more maintainable codebase – See full article
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink) - 🔗 Immutable, Pythonic, correct URLs.
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [lewoudar/ws](https://github.com/lewoudar/ws) - The simplest websocket cli
@@ -2279,7 +2281,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [adamchainz/patchy](https://github.com/adamchainz/patchy) - :anchor: Patch the inner source of python functions at runtime.
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
-- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
 - [canonical/operator](https://github.com/canonical/operator) - Pure Python framework for writing Juju charms
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate](https://github.com/syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate) - Boiler plate project for using GraphQL (Strawberry) with FastAPI and Async SQL Alchemy 🍓
@@ -3827,7 +3829,7 @@
 - [renzon/tekton-micro](https://github.com/renzon/tekton-micro) - Python Microarchitecture for routing web application by convention
 - [blimpllc/django-websocket-request](https://github.com/blimpllc/django-websocket-request) - Support for Django's request/response lifecycle to automatically handle WebSocket messages.
 - [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
-- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [neyer/snout](https://github.com/neyer/snout) - django url pattern generation via inspection
 - [chokepoint/flaskgur](https://github.com/chokepoint/flaskgur) - Simple image hosting site written with Flask and Python
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman.
@@ -4392,6 +4394,7 @@
 
 ## QML 
 
+- [devnullvoid/dms-web-search](https://github.com/devnullvoid/dms-web-search) - Web Search plugin for DankMaterialShell - Search the web with 23+ built-in search engines
 - [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.
@@ -4456,6 +4459,7 @@
 
 ## Rust 
 
+- [duskmoon314/httpbin-rs](https://github.com/duskmoon314/httpbin-rs) - HTTP Request & Response Service pretty like [httpbin](http://httpbin.org) but powered by Rust
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [forensicmatt/datatui](https://github.com/forensicmatt/datatui) - A Terminal UI for Data
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
@@ -5513,6 +5517,7 @@
 
 ## TypeScript 
 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -5715,6 +5720,7 @@
 
 ## YAML 
 
+- [vndmtrx/k8s-in-a-box](https://github.com/vndmtrx/k8s-in-a-box) - 🧩 K8s in a Box - Uma instalação de Kubernetes sem helpers usando Ansible
 - [redhat-cop/infra.aap_configuration](https://github.com/redhat-cop/infra.aap_configuration) - A collection of roles to manage Ansible Automation Platform 2.5+ with code
 
 ## Zig 
