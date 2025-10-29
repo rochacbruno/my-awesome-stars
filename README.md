@@ -117,6 +117,7 @@
 
 ## C 
 
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [bbogdan-ov/mupwit](https://github.com/bbogdan-ov/mupwit) - WIP Music player with things (MPD client)
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
@@ -497,6 +498,10 @@
 
 ## Go 
 
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
+- [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch) - Indexed filesystem search in GO
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System Resources
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -506,7 +511,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [canonical/k8s-dqlite](https://github.com/canonical/k8s-dqlite) - Dqlite for Kubernetes
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
@@ -1142,7 +1147,7 @@
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
+- [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
 - [romansanchez/Calaca](https://github.com/romansanchez/Calaca) - Search UI for Elasticsearch
 - [rdpatil4/ESClient](https://github.com/rdpatil4/ESClient) - Elasticsearch client and web front end tool
 - [codemix/oriento](https://github.com/codemix/oriento) - Former official node.js driver for OrientDB. Fast, lightweight, uses the binary protocol. Now deprecated.
@@ -1510,7 +1515,6 @@
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) - Some color utils for neovim
 - [superhawk610/ascii-blocks.nvim](https://github.com/superhawk610/ascii-blocks.nvim) - Neovim plugin to prettify ASCII boxes using extended UTF-8 box drawing characters.
 - [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
-- [sopa0/telescope-makefile](https://github.com/sopa0/telescope-makefile) - 
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
@@ -2004,6 +2008,11 @@
 
 ## Python 
 
+- [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
+- [maltheberk/dynaconf-aws-secrets-loader](https://github.com/maltheberk/dynaconf-aws-secrets-loader) - A custom loader for Dynaconf that enables seamless, environment-aware integration with AWS Secrets Manager - securely loading and managing secrets directly from AWS into your Dynaconf settings.
+- [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
+- [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
+- [asweigart/buttonpad](https://github.com/asweigart/buttonpad) - If your app only needs buttons, this cross-platform GUI toolkit for Python gives you a configurable grid of buttons.
 - [alicealysia/persistent-wlr-randr-gui](https://github.com/alicealysia/persistent-wlr-randr-gui) - a fork of wlr-layout-ui that removes xrandr and hyprctl functionality, then extends wlr-randr support.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
@@ -2092,7 +2101,7 @@
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
-- [seddonym/grimp](https://github.com/seddonym/grimp) - Builds a graph of a Python project's internal dependencies.
+- [python-grimp/grimp](https://github.com/python-grimp/grimp) - Builds a graph of a Python project's internal dependencies.
 - [KustoszApp/server](https://github.com/KustoszApp/server) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains backend server.
 - [deliro/moka-py](https://github.com/deliro/moka-py) - A high performance caching library for Python written in Rust
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
@@ -2127,7 +2136,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
-- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests. HTTP/1.1, HTTP/2, and HTTP/3 supported. With WebSocket, and SSE! Be free of Reques
+- [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [adilmohak/django-lms](https://github.com/adilmohak/django-lms) - A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and so
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
@@ -3133,7 +3142,7 @@
 - [kushaldas/retask](https://github.com/kushaldas/retask) - Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.
 - [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python
 - [etsy/logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
-- [python-manage/manage](https://github.com/python-manage/manage) - Command Line Manager + Interactive Shell for Python Projects
+- [rochacbruno-archive/manage](https://github.com/rochacbruno-archive/manage) - Command Line Manager + Interactive Shell for Python Projects
 - [PyAr/fades](https://github.com/PyAr/fades) - fades is a system that automatically handles the virtualenvs in the cases normally found when writing scripts and simple programs, and even helps to administer big projects.
 - [mpeterv/hererocks](https://github.com/mpeterv/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
@@ -4459,6 +4468,10 @@
 
 ## Rust 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
+- [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
+- [nbittich/file-search](https://github.com/nbittich/file-search) - Simple alternative to elasticsearch for pdf/xlsx/csv files
+- [0xsecaas/quickfind](https://github.com/0xsecaas/quickfind) - Instant file search CLI
 - [duskmoon314/httpbin-rs](https://github.com/duskmoon314/httpbin-rs) - HTTP Request & Response Service pretty like [httpbin](http://httpbin.org) but powered by Rust
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [forensicmatt/datatui](https://github.com/forensicmatt/datatui) - A Terminal UI for Data
@@ -4518,7 +4531,7 @@
 - [bircni/git-statuses](https://github.com/bircni/git-statuses) - A command-line tool to display the status of multiple Git repositories in a clear, tabular format.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [greyblake/joydb](https://github.com/greyblake/joydb) - A Rust in-memory embedded database with persistence and multiple adapters (JSON, CSV, etc). Acts like a minimalistic ORM with zero setup. Simple, lightweight, and perfect for prototypes, small apps, o
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -4584,7 +4597,7 @@
 - [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
 - [guacsec/trustify](https://github.com/guacsec/trustify) - Bringing together SBOMs and advisories.
@@ -5603,7 +5616,7 @@
 - [codigofalado/twitch-giphy](https://github.com/codigofalado/twitch-giphy) - Um chatbot para Twitch que integra a API do GIPHY, fazendo com que hashtags no chat da Twitch virem GIFs na Live :)
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
