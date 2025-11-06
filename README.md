@@ -213,6 +213,7 @@
 
 ## C++ 
 
+- [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [ErrorAtLine0/infinipaint](https://github.com/ErrorAtLine0/infinipaint) - Infinite space, infinite zoom, collaborative canvas program for massive sketches and notes
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -1961,7 +1962,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [moonmoon/moonmoon](https://github.com/moonmoon/moonmoon) - moonmoon is a simple feed aggregator (planet like)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) - Github Action that waits for successful commit status
