@@ -215,6 +215,7 @@
 
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [ErrorAtLine0/infinipaint](https://github.com/ErrorAtLine0/infinipaint) - Infinite space, infinite zoom, collaborative canvas program for massive sketches and notes
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -2024,7 +2025,6 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [openshift/cincinnati-graph-data](https://github.com/openshift/cincinnati-graph-data) - Release node and upgrade edge metadata for Cincinnati graphs.
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
 - [gvolpe/niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for Niri
 - [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
@@ -4489,7 +4489,7 @@
 - [forensicmatt/datatui](https://github.com/forensicmatt/datatui) - A Terminal UI for Data
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
-- [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh! (mirror of https://git.devcomp.xyz/DevComp/ssh-portfolio)
+- [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [vipmax/ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for Ratatui
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -5015,7 +5015,7 @@
 - [roosta/i3wsr](https://github.com/roosta/i3wsr) - A dynamic workspace renamer for i3 and Sway that updates names to reflect their active applications.
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [museun/simple_env_load](https://github.com/museun/simple_env_load) - a simple .env file loader
-- [AliasT/hostess](https://github.com/AliasT/hostess) - Command-line utility for managing your /etc/hosts file built with rust
+- [Syntaxe3/hostess](https://github.com/Syntaxe3/hostess) - Command-line utility for managing your /etc/hosts file built with rust
 - [cuducos/createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [radicle-dev/radicle-surf](https://github.com/radicle-dev/radicle-surf) - A code browsing library for VCS file systems.
