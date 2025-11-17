@@ -2114,7 +2114,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [flipbit03/main](https://github.com/flipbit03/main) - For those that think `if __name__ = "__main__"` is ugly
+- [flipbit03/main](https://github.com/flipbit03/main) - For those that think `if __name__ = "__main__"` is ugly (this is a joke)
 - [ansible-collections/ansible_hub](https://github.com/ansible-collections/ansible_hub) - Collection of modules to configure Automation Hub
 - [willmcgugan/terminal-tree](https://github.com/willmcgugan/terminal-tree) - 
 - [nunesfd/hostcontrol](https://github.com/nunesfd/hostcontrol) - HostControl is a terminal-based desktop application, built with Python and the Textual library, that simplifies managing the /etc/hosts file. With an intuitive interface, you can easily add, edit, and
@@ -4412,7 +4412,7 @@
 - [devnullvoid/dms-web-search](https://github.com/devnullvoid/dms-web-search) - Web Search plugin for DankMaterialShell - Search the web with 23+ built-in search engines
 - [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
 - [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
@@ -4430,7 +4430,7 @@
 
 ## Ruby 
 
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [leandronsp/yacs](https://github.com/leandronsp/yacs) - Full-text search across 12M of cities in few milliseconds. Powered by PostgreSQL™
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
