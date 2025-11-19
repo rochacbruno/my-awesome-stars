@@ -1264,7 +1264,7 @@
 - [chrisdickinson/plate](https://github.com/chrisdickinson/plate) - a javascript template library, aimed at being compatible with django's template language.
 - [refactory-id/bootstrap-markdown](https://github.com/refactory-id/bootstrap-markdown) - Bootstrap plugin for markdown editing
 - [globocom/jsonform](https://github.com/globocom/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Twitter Bootstrap out of the box.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [nassor/mongoose-history](https://github.com/nassor/mongoose-history) - Keeps a history of all changes of a document.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [eriktaubeneck/flask_facebook_login](https://github.com/eriktaubeneck/flask_facebook_login) - Using Flask with the Facebook JavaScript SDK and jQuery
@@ -2065,7 +2065,7 @@
 - [albertomh/pycliche](https://github.com/albertomh/pycliche) - A Python project template with opinionated tooling
 - [albertomh/djereo](https://github.com/albertomh/djereo) - A Django project template with opinionated tooling
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [lukehinds/akta](https://github.com/lukehinds/akta) - Authenticated Knowledge & Trust Architecture for AI Agents
+- [always-further/akta](https://github.com/always-further/akta) - Authenticated Knowledge & Trust Architecture for AI Agents
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
 - [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
@@ -2296,8 +2296,8 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [adamchainz/patchy](https://github.com/adamchainz/patchy) - :anchor: Patch the inner source of python functions at runtime.
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
-- [canonical/operator](https://github.com/canonical/operator) - Pure Python framework for writing Juju charms
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+- [canonical/operator](https://github.com/canonical/operator) - Pure Python framework for writing Juju charms.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate](https://github.com/syedfaisalsaleeem/FastApi-Strawberry-GraphQL-SqlAlchemy-BoilerPlate) - Boiler plate project for using GraphQL (Strawberry) with FastAPI and Async SQL Alchemy 🍓
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
@@ -4679,7 +4679,7 @@
 - [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bltavares/axum-content-negotiation](https://github.com/bltavares/axum-content-negotiation) - Axum middleware to use Accept and Content-Type headers to serialize with different formats
@@ -5542,13 +5542,14 @@
 
 ## TypeScript 
 
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
