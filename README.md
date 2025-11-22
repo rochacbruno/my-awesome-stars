@@ -653,7 +653,7 @@
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
 - [shazow/gohttplib](https://github.com/shazow/gohttplib) - Go buildmodes prototype: Expose net/http.Server as a library with C bindings
 - [sbinet/go-python](https://github.com/sbinet/go-python) - naive go bindings to the CPython2 C-API
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -1714,7 +1714,7 @@
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [inspiradanacomputacao/tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) - Manifesto de Pessoas Tecnologistas contra Bolsonaro
 - [Politica-Para-Todos/manifestos](https://github.com/Politica-Para-Todos/manifestos) - Contém todos os programas políticos usados pelo PPT
-- [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
+- [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - 📖 Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [QuineDot/rust-snags](https://github.com/QuineDot/rust-snags) - Gotchas and warts in Rust Lang
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
@@ -2148,7 +2148,7 @@
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [saurabh0719/constable](https://github.com/saurabh0719/constable) - Constable lets you be lazy by inserting prints directly into your AST for stateful debugging :man_juggling:
 - [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
-- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - 😃 ⌨  Emoji filter / Unicode chat keyboard, with GIFs
+- [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - 😃 ⌨ 🖼  Emoji filter / Unicode chat keyboard, with GIFs
 - [hermetoproject/pybuild-deps](https://github.com/hermetoproject/pybuild-deps) - A simple tool for detection of PEP-517 build dependencies.
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [anze3db/fedidevs](https://github.com/anze3db/fedidevs) - Discover amazing developers across the fediverse 🌐
