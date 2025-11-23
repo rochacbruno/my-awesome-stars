@@ -1682,7 +1682,7 @@
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
-- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - A Telegram bot that helps you learn German der/die/das articles, @derdiedas_quizbot
+- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - Dasbot -- a Telegram bot that helps you learn German der/die/das articles
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
@@ -3709,7 +3709,7 @@
 - [gluesql/glues](https://github.com/gluesql/glues) - Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [art049/odmantic](https://github.com/art049/odmantic) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints
-- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - A Telegram bot that helps you learn German der/die/das articles, @derdiedas_quizbot
+- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - Dasbot -- a Telegram bot that helps you learn German der/die/das articles
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 - [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot) - Telegram Bot @RastreioBot
@@ -9317,7 +9317,7 @@
 ## telegram-bot 
 
 - [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
-- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - A Telegram bot that helps you learn German der/die/das articles, @derdiedas_quizbot
+- [wetterkrank/dasbot](https://github.com/wetterkrank/dasbot) - Dasbot -- a Telegram bot that helps you learn German der/die/das articles
 - [GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot) - Telegram Bot @RastreioBot
 - [un-def/tinystash](https://github.com/un-def/tinystash) - A storage-less database-less file sharing service powered by OpenResty
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
