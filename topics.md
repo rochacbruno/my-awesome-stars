@@ -355,6 +355,7 @@
 
 ## android 
 
+- [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
@@ -866,6 +867,7 @@
 
 ## cli 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
@@ -1267,7 +1269,7 @@
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [emirozer/fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
@@ -3170,6 +3172,7 @@
 
 ## kotlin 
 
+- [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
@@ -4311,7 +4314,7 @@
 - [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
 - [KDE/ktexteditor](https://github.com/KDE/ktexteditor) - KTextEditor Framework
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [treagod/spectator](https://github.com/treagod/spectator) - Client to test web endpoints
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
@@ -7835,7 +7838,7 @@
 - [xlwings/jsondiff](https://github.com/xlwings/jsondiff) - Diff JSON and JSON-like structures in Python
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [alexprengere/jsonmixin](https://github.com/alexprengere/jsonmixin) - Automatic Json export of your Python objects
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
@@ -8496,6 +8499,7 @@
 
 ## rust 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
@@ -9510,7 +9514,7 @@
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) - Python 3.5+ runtime type checking for integration testing and data validation
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [mindflayer/python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module
 - [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python
