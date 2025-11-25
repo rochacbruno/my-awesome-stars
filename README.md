@@ -1493,6 +1493,7 @@
 
 ## Kotlin 
 
+- [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -3081,7 +3082,7 @@
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
 - [materialsvirtuallab/flamyngo](https://github.com/materialsvirtuallab/flamyngo) - Flask frontend for MongoDB
 - [jamesabel/osnap](https://github.com/jamesabel/osnap) - 
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [alexprengere/jsonmixin](https://github.com/alexprengere/jsonmixin) - Automatic Json export of your Python objects
 - [renzon/pytocli](https://github.com/renzon/pytocli) - A Python lib to generate CLI commands
@@ -4475,6 +4476,7 @@
 
 ## Rust 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
 - [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
@@ -4669,7 +4671,7 @@
 - [JacobCallahan/Hussh](https://github.com/JacobCallahan/Hussh) - SSH for Humans
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
