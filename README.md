@@ -4476,6 +4476,7 @@
 
 ## Rust 
 
+- [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - 
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
