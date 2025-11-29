@@ -449,7 +449,7 @@
 
 ## api 
 
-- [jonatasoli/keyrunes](https://github.com/jonatasoli/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
+- [Keyrunes/keyrunes](https://github.com/Keyrunes/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [picahq/pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -8644,7 +8644,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [euclio/aurelius](https://github.com/euclio/aurelius) - A complete solution for previewing markdown written in Rust.
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
-- [jonatasoli/keyrunes](https://github.com/jonatasoli/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
+- [Keyrunes/keyrunes](https://github.com/Keyrunes/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
 - [enieber/today](https://github.com/enieber/today) - manager tasks using markdown and get information about weather today
 - [iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban) - Rust Sokoban book and code samples
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
