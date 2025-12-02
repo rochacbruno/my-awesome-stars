@@ -3079,7 +3079,7 @@
 - [xlwings/jsondiff](https://github.com/xlwings/jsondiff) - Diff JSON and JSON-like structures in Python
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
-- [materialsvirtuallab/flamyngo](https://github.com/materialsvirtuallab/flamyngo) - Flask frontend for MongoDB
+- [materialyzeai/flamyngo](https://github.com/materialyzeai/flamyngo) - Flask frontend for MongoDB
 - [jamesabel/osnap](https://github.com/jamesabel/osnap) - 
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
@@ -4836,6 +4836,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -5597,7 +5598,6 @@
 - [devpt-org/discord-bot](https://github.com/devpt-org/discord-bot) - Uma experiência colaborativa construindo um  BotDiscord devPT utilizando Hexagonal Arch
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
