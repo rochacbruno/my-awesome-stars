@@ -2591,7 +2591,6 @@
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
@@ -5513,7 +5512,7 @@
 - [arpitbbhayani/flasksr](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses :boom:
 - [ybalt/ansible-tower](https://github.com/ybalt/ansible-tower) - Ansible Tower dockerized
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
-- [materialsvirtuallab/flamyngo](https://github.com/materialsvirtuallab/flamyngo) - Flask frontend for MongoDB
+- [materialyzeai/flamyngo](https://github.com/materialyzeai/flamyngo) - Flask frontend for MongoDB
 - [jamesabel/osnap](https://github.com/jamesabel/osnap) - 
 - [rplevka/i3wm_config](https://github.com/rplevka/i3wm_config) - 
 - [hintjens/confessions](https://github.com/hintjens/confessions) - 
