@@ -932,7 +932,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [envio-cli/envio](https://github.com/envio-cli/envio) - A modern and secure command-line tool that simplifies the management of environment variables
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - A secure command-line tool for managing environment variables
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
@@ -1195,7 +1195,7 @@
 
 ## compiler 
 
-- [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
+- [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -1530,8 +1530,8 @@
 
 ## design 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [vitiral/artifact](https://github.com/vitiral/artifact) - The open source design documentation tool for everybody
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
@@ -3019,7 +3019,7 @@
 
 ## image-processing 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
@@ -3366,7 +3366,7 @@
 
 ## language 
 
-- [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
+- [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
@@ -4205,6 +4205,7 @@
 
 ## others 
 
+- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - 
 - [tecki/ebpfcat](https://github.com/tecki/ebpfcat) - A Python-base EBPF code generator
 - [jesuino/LLMFX](https://github.com/jesuino/LLMFX) - LLM FX: A LLM Server Desktop Client free for everyone!
@@ -7373,6 +7374,7 @@
 
 ## privacy 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [gluesql/glues](https://github.com/gluesql/glues) - Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused
@@ -7422,7 +7424,7 @@
 
 ## programming-language 
 
-- [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
+- [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -8534,7 +8536,7 @@
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!
 - [growilabs/growi](https://github.com/growilabs/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
@@ -8641,7 +8643,7 @@
 
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
-- [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
+- [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
 - [duskmoon314/httpbin-rs](https://github.com/duskmoon314/httpbin-rs) - HTTP Request & Response Service pretty like [httpbin](http://httpbin.org) but powered by Rust
@@ -8784,7 +8786,7 @@
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
-- [envio-cli/envio](https://github.com/envio-cli/envio) - A modern and secure command-line tool that simplifies the management of environment variables
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - A secure command-line tool for managing environment variables
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
@@ -9304,7 +9306,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
 ## software 
 
