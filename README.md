@@ -81,6 +81,7 @@
 - [Svelte](#svelte)
 - [TSQL](#tsql)
 - [TeX](#tex)
+- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -4482,7 +4483,7 @@
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
-- [jonathanmagambo/otterlang](https://github.com/jonathanmagambo/otterlang) - Otterlang programming language 🦦
+- [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [leegeunhyeok/craby](https://github.com/leegeunhyeok/craby) - Type-safe Rust for React Native—auto generated, integrated with pure C++ TurboModule
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
@@ -4609,7 +4610,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [myagley/opa-rs](https://github.com/myagley/opa-rs) - Open Policy Agent integration for Rust
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings
 - [PacificCommunity/pdh-dotstat-contract_explorer](https://github.com/PacificCommunity/pdh-dotstat-contract_explorer) - A web explorer for yaml data contracts, in Rust with Marmite
 - [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
@@ -4763,7 +4764,7 @@
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-- [envio-cli/envio](https://github.com/envio-cli/envio) - A modern and secure command-line tool that simplifies the management of environment variables
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - A secure command-line tool for managing environment variables
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
@@ -5364,6 +5365,7 @@
 
 ## Shell 
 
+- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [dpejoh/Adwaita-colors](https://github.com/dpejoh/Adwaita-colors) - Adwaita Colors customizes Adwaita icons to match your GNOME theme's accent color, providing a cohesive, personalized look.
 - [Alanon202/nirirun](https://github.com/Alanon202/nirirun) - Small bash script to make manipulating windows with keybinds a bit easier on Niri.
 - [MartV0/niri-scratchpad](https://github.com/MartV0/niri-scratchpad) - Scratchpad support for Niri
@@ -5544,6 +5546,10 @@
 - [jonasteuwen/A-note-on-gaussian-maximal-functions](https://github.com/jonasteuwen/A-note-on-gaussian-maximal-functions) - Published paper: "A note on Gaussian maximal functions"
 - [yograterol/libromongodb](https://github.com/yograterol/libromongodb) - Libro en Espanol sobre NoSQL y MongoDB
 
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## Tree-sitter Query 
 
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
@@ -5582,7 +5588,7 @@
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama
 - [scylladb/gaming-leaderboard-demo](https://github.com/scylladb/gaming-leaderboard-demo) - Learn how to use ScyllaDB to generate a monstrously fast leadearboard for your application!
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [willianrod/ODeck](https://github.com/willianrod/ODeck) - A free and open-source alternative to StreamDeck
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 - [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible) - Ansible IDE extension: auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.
