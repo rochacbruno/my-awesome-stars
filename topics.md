@@ -4210,6 +4210,8 @@
 
 ## others 
 
+- [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
+- [shanemcd/jirahhh](https://github.com/shanemcd/jirahhh) - jirahhh — because that’s how it feels using it.
 - [shanemcd/ai-cmd](https://github.com/shanemcd/ai-cmd) - Zsh plugin to generate shell commands from natural language using local LLMs via ollama
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - 
@@ -5340,7 +5342,7 @@
 - [carlosmaniero/patrocina-rodeios](https://github.com/carlosmaniero/patrocina-rodeios) - Lista empresas envolvidas com rodeios
 - [cassiobotaro/headless_selenium](https://github.com/cassiobotaro/headless_selenium) - :jack_o_lantern: An example of how to runs Chrome and Firefox headless without third parties.
 - [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [rougeth/bottery](https://github.com/rougeth/bottery) - [DEVELOPMENT-HALTED] :battery: A bot framework with batteries included
 - [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.
 - [facebookarchive/fbtftp](https://github.com/facebookarchive/fbtftp) - fbtftp is Facebook's implementation of a dynamic TFTP server framework.
