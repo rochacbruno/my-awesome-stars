@@ -1014,6 +1014,7 @@
 - [Byron/termbook](https://github.com/Byron/termbook) - A runner for `mdbooks` to keep your documentation tested.
 - [killercup/quicli](https://github.com/killercup/quicli) - Quickly build cool CLI apps in Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [cbednarski/hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
@@ -7448,6 +7449,7 @@
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
+- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 
 ## publishing 
 
@@ -7868,7 +7870,6 @@
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [gilsondev/old-buscaimoveis](https://github.com/gilsondev/old-buscaimoveis) - Agregador de anúncios de imóveis a venda
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [codelv/enaml-native](https://github.com/codelv/enaml-native) - Build native mobile apps in python with enaml
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
