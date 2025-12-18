@@ -260,6 +260,7 @@
 - [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -309,6 +310,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
@@ -339,6 +341,7 @@
 
 ## ai-agents 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 
 ## ajax 
@@ -585,7 +588,7 @@
 ## awesome 
 
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - The most pythonic ORM (for SQLite and PostgreSQL). Seriously, try it out!
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -622,7 +625,7 @@
 
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [saccarosium/awesome-vim9](https://github.com/saccarosium/awesome-vim9) - Collection of awesome vim9script plugins.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -856,7 +859,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
@@ -906,6 +909,7 @@
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 - [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) - Hermeto is a CLI tool that prefetches your project dependencies to aid in making your container build process hermetic.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [arthurhenrique/rusti-cal](https://github.com/arthurhenrique/rusti-cal) - ⚡️ A cal(1) clone lightning-fast ~ more than 9999 years ~ Written in Rust 🦀
@@ -1199,7 +1203,7 @@
 
 - [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
@@ -1647,6 +1651,7 @@
 
 ## django 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [django-commons/django-typer](https://github.com/django-commons/django-typer) - Use Typer (type hints) to define the interface for your Django management commands.
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -1851,6 +1856,7 @@
 
 ## documentation 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -2931,6 +2937,7 @@
 
 ## html5 
 
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -3464,7 +3471,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
@@ -3698,7 +3705,7 @@
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - Cross-platform 2FA desktop client built with Tauri
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -3750,7 +3757,7 @@
 - [opensourcecheemsburgers/ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - A cross-platform markdown editor.
 - [Mandarancio/scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -4232,14 +4239,12 @@
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [nbittich/file-search](https://github.com/nbittich/file-search) - Simple alternative to elasticsearch for pdf/xlsx/csv files
-- [0xsecaas/quickfind](https://github.com/0xsecaas/quickfind) - Instant file search CLI
 - [asweigart/buttonpad](https://github.com/asweigart/buttonpad) - If your app only needs buttons, this cross-platform GUI toolkit for Python gives you a configurable grid of buttons.
 - [alicealysia/persistent-wlr-randr-gui](https://github.com/alicealysia/persistent-wlr-randr-gui) - a fork of wlr-layout-ui that removes xrandr and hyprctl functionality, then extends wlr-randr support.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [devnullvoid/dms-web-search](https://github.com/devnullvoid/dms-web-search) - Web Search plugin for DankMaterialShell - Search the web with 23+ built-in search engines
 - [forensicmatt/datatui](https://github.com/forensicmatt/datatui) - A Terminal UI for Data
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
-- [vipmax/ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for Ratatui
 - [Alanon202/nirirun](https://github.com/Alanon202/nirirun) - Small bash script to make manipulating windows with keybinds a bit easier on Niri.
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [openshift/cincinnati-graph-data](https://github.com/openshift/cincinnati-graph-data) - Release node and upgrade edge metadata for Cincinnati graphs.
@@ -4298,7 +4303,6 @@
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [google-gemini/gemini-cli-action](https://github.com/google-gemini/gemini-cli-action) - 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [pamelafox/personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) - An agent to manage my personal LinkedIn account, using playwright for browser automation.
 - [tiagojulianoferreira/pedagogiahacker](https://github.com/tiagojulianoferreira/pedagogiahacker) - MINUTA DE PROJETO POLÍTICO-PEDAGÓGICO DE CURSO FIC
 - [waltenne/jenkins_course](https://github.com/waltenne/jenkins_course) - Mini Curso sobre Jenkins CI/CD
@@ -4346,12 +4350,10 @@
 - [sosreport/sos](https://github.com/sosreport/sos) - A unified tool for collecting system logs and other debug information
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
-- [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
 - [ansible/ansible-ai-connect-service](https://github.com/ansible/ansible-ai-connect-service) - 
 - [tobhe/opencu](https://github.com/tobhe/opencu) - OpenBSD cu(1) for Linux
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances. development has moved to Codeberg.
 - [omaciel/Ansible-Labs](https://github.com/omaciel/Ansible-Labs) - Get ansible running on docker for learning purposes
-- [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
 - [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - A Rust library for generating and parsing frontmatter in various formats.
 - [serversfordev/deploy](https://github.com/serversfordev/deploy) - 
 - [ricott1/asterion](https://github.com/ricott1/asterion) - 
@@ -4466,7 +4468,6 @@
 - [jaraco/keyring](https://github.com/jaraco/keyring) - 
 - [KDE/kate](https://github.com/KDE/kate) - Advanced text editor
 - [jctanner/galaxygo](https://github.com/jctanner/galaxygo) - 
-- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [brooks-builds/lms](https://github.com/brooks-builds/lms) - Learning Management System for Brooks Builds
@@ -4560,7 +4561,6 @@
 - [karlamagueta/Bikcraft](https://github.com/karlamagueta/Bikcraft) - 
 - [apyb/comunidade](https://github.com/apyb/comunidade) - Espaço para discussão da comunidade em torno da APyB
 - [adamchainz/unittest-parametrize](https://github.com/adamchainz/unittest-parametrize) - Parametrize tests within unittest TestCases.
-- [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible) - Ansible IDE extension: auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
@@ -5137,7 +5137,6 @@
 - [boramalper/pydis](https://github.com/boramalper/pydis) - A redis clone in Python 3 to disprove some falsehoods about performance.
 - [pulp/pulpcore](https://github.com/pulp/pulpcore) - Pulp 3 pulpcore package https://pypi.org/project/pulpcore/
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [ZoeyR/wearte](https://github.com/ZoeyR/wearte) - 
 - [pauleveritt/arcade_tutorial](https://github.com/pauleveritt/arcade_tutorial) - Multi-step tutorial on building a 2d game using Python and the arcade library
 - [web2py/yatl](https://github.com/web2py/yatl) - 
 - [Yipit/dredis](https://github.com/Yipit/dredis) - Disk-based Redis implementation
@@ -6160,7 +6159,7 @@
 - [RockLi/guava](https://github.com/RockLi/guava) - Guava is a lightweight Python web framework written in C
 - [lukehaas/Scrollify](https://github.com/lukehaas/Scrollify) - A jQuery plugin that assists scrolling and snaps to sections.
 - [bucardo/bucardo](https://github.com/bucardo/bucardo) - Bucardo multimaster and master/slave Postgres replication
-- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script.
+- [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script. Now updated.
 - [mitsuhiko/pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [MongoEngine/extras-mongoengine](https://github.com/MongoEngine/extras-mongoengine) - MongoEngine Extras - Field Types and any other wizardry.
@@ -7467,6 +7466,7 @@
 
 ## python 
 
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
 - [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
@@ -8577,6 +8577,7 @@
 
 ## reactjs 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
@@ -8641,7 +8642,7 @@
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -8724,7 +8725,7 @@
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser.
 - [greymattergames/unbug](https://github.com/greymattergames/unbug) - Debug breakpoint assertions for Rust
@@ -9197,6 +9198,7 @@
 
 ## self-hosted 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -9659,7 +9661,7 @@
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [RedHatQE/widgetastic.core](https://github.com/RedHatQE/widgetastic.core) - Making testing of UIs fantastic.
-- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking.
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
@@ -9692,6 +9694,76 @@
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+
+## tui 
+
+- [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
+- [0xsecaas/quickfind](https://github.com/0xsecaas/quickfind) - Instant file search CLI
+- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
+- [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
+- [vipmax/ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for Ratatui
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
+- [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
+- [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
+- [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device.
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
+- [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
+- [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
+- [codervijo/journalview](https://github.com/codervijo/journalview) - JournalView is a lightweight, terminal-based application written in Rust that allows users to efficiently view, filter, and navigate system logs from journalctl.
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
+- [gluesql/glues](https://github.com/gluesql/glues) - Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
+- [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+- [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
+- [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+- [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
+- [sirfuzzalot/textual-inputs](https://github.com/sirfuzzalot/textual-inputs) - Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
+- [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
+- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
+- [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [chrismaille/cabrita](https://github.com/chrismaille/cabrita) - TUI dashboard for easy visualization of docker services
+- [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [vtr0n/npyscreen](https://github.com/vtr0n/npyscreen) - Fork from https://code.google.com/archive/p/npyscreen/
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
+- [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
 ## twitter 
 
@@ -9994,7 +10066,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [efck-chat-keyboard/efck](https://github.com/efck-chat-keyboard/efck) - 😃 ⌨ 🖼  Emoji filter / Unicode chat keyboard, with GIFs
@@ -10049,7 +10121,7 @@
 
 ## youtube 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
