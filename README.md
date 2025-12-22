@@ -292,7 +292,7 @@
 
 ## CSS 
 
-- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - List of plugins for DankMaterialShell
+- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 - [waltenne/mini-curso-cicd](https://github.com/waltenne/mini-curso-cicd) - Fornecer uma base conceitual sólida sobre CI/CD, capacitando os participantes a planejar, argumentar e implementar pipelines de forma estratégica e eficaz, focando no "porquê" antes do "como".
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [josvanr/cde-motif-theme](https://github.com/josvanr/cde-motif-theme) - Gtk2 / Gtk3 theme mimicking CDE / Motif and Front panel app
