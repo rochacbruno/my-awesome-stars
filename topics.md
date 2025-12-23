@@ -301,6 +301,7 @@
 
 ## ai 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Declarative language for composable Al workflows. Devtool for agents and mere humans.
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
@@ -4262,7 +4263,7 @@
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [openshift/cincinnati-graph-data](https://github.com/openshift/cincinnati-graph-data) - Release node and upgrade edge metadata for Cincinnati graphs.
 - [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
-- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - List of plugins for DankMaterialShell
+- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -4726,7 +4727,7 @@
 - [TheZoq2/ferris](https://github.com/TheZoq2/ferris) - Variations of Ferris, the rust mascot
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [perylemke/chespirito-api](https://github.com/perylemke/chespirito-api) - Uma API pública contendo informações sobre o unvierso de Roberto Gomez Bolaños.
-- [jAzz-hub/Criatividade_Pythonica](https://github.com/jAzz-hub/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
+- [7joaoG/Criatividade_Pythonica](https://github.com/7joaoG/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [atsaki/termeter](https://github.com/atsaki/termeter) - Visualize data in the terminal
 - [responsibleproblemsolving/energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
@@ -9711,6 +9712,7 @@
 
 ## tui 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [0xsecaas/quickfind](https://github.com/0xsecaas/quickfind) - Instant file search CLI
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
