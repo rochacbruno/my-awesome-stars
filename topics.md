@@ -4233,6 +4233,8 @@
 
 ## others 
 
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, Apple Photos & NextCloud Photos. The Tool supports multiple accounts 
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
 - [shanemcd/jirahhh](https://github.com/shanemcd/jirahhh) - jirahhh — because that’s how it feels using it.
 - [shanemcd/ai-cmd](https://github.com/shanemcd/ai-cmd) - Zsh plugin to generate shell commands from natural language using local LLMs via ollama
@@ -8549,6 +8551,7 @@
 
 ## raspberry-pi 
 
+- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
