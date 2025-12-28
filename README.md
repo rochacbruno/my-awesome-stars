@@ -4487,6 +4487,7 @@
 
 ## Rust 
 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - 
