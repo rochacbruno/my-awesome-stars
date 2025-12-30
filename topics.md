@@ -4233,6 +4233,9 @@
 
 ## others 
 
+- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - Fast way for running for Radarr, Lidarr, Readarr, and Bazarr
+- [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, Apple Photos & NextCloud Photos. The Tool supports multiple accounts 
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
@@ -8733,7 +8736,7 @@
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [DiscreteTom/whitehole](https://github.com/DiscreteTom/whitehole) - A simple, fast, intuitive parser combinator framework for Rust.
 - [kmdreko/venator](https://github.com/kmdreko/venator) - Venator: a desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem
-- [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - An introduction to the Rust programming language.
+- [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - Learn Rust by building Rustle - a grep-like tool with complete source code, hands-on exercises, and a fast, engaging pace.
 - [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) - Language Server implementation for Cargo.toml
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
