@@ -501,6 +501,7 @@
 
 ## Go 
 
+- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - Fast way for running for Radarr, Lidarr, Readarr, and Bazarr
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
@@ -1698,7 +1699,7 @@
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [tiagojulianoferreira/pedagogiahacker](https://github.com/tiagojulianoferreira/pedagogiahacker) - MINUTA DE PROJETO POLÍTICO-PEDAGÓGICO DE CURSO FIC
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - An introduction to the Rust programming language.
+- [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - Learn Rust by building Rustle - a grep-like tool with complete source code, hands-on exercises, and a fast, engaging pace.
 - [openvex/spec](https://github.com/openvex/spec) - OpenVEX Specification
 - [cuducos/not-my-ex](https://github.com/cuducos/not-my-ex) - 🐝 Tiny CLI to post simultaneously to Mastodon and Bluesky
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
@@ -4487,6 +4488,7 @@
 
 ## Rust 
 
+- [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
