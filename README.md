@@ -501,7 +501,7 @@
 
 ## Go 
 
-- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - Fast way for running for Radarr, Lidarr, Readarr, and Bazarr
+- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
