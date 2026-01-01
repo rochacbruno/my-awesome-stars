@@ -4233,6 +4233,7 @@
 
 ## others 
 
+- [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
 - [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
 - [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
@@ -4938,7 +4939,6 @@
 - [dizballanze/gray](https://github.com/dizballanze/gray) - Less uncompromising Python code formatter
 - [bodil/vgtk](https://github.com/bodil/vgtk) - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
-- [spacdevs/flask-introducao-live-twitch](https://github.com/spacdevs/flask-introducao-live-twitch) - 
 - [laffra/auger](https://github.com/laffra/auger) - Automated Unittest Generation for Python
 - [dunossauro/octomato](https://github.com/dunossauro/octomato) - octomato
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
@@ -5453,7 +5453,6 @@
 - [wcrasta/SWA-Scraper](https://github.com/wcrasta/SWA-Scraper) - 
 - [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
 - [soltysh/talks](https://github.com/soltysh/talks) - Slides, code samples etc.
-- [stdevel/check_katello_sync](https://github.com/stdevel/check_katello_sync) - A Nagios / Icinga plugin for checking product synchronization within Katello/Red Hat Satellite 6.x
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [anfederico/flaskex](https://github.com/anfederico/flaskex) - 
