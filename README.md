@@ -2019,6 +2019,7 @@
 
 ## Python 
 
+- [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, Apple Photos & NextCloud Photos. The Tool supports multiple accounts 
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -2549,7 +2550,6 @@
 - [pulp/pulp-infra-ansible](https://github.com/pulp/pulp-infra-ansible) - A repo to hold Ansible playbooks to deploy infrastructure that supports the Pulp project itself, e.g. website, etc.
 - [karlamagueta/sistema_checkin_hotel](https://github.com/karlamagueta/sistema_checkin_hotel) - Sistema de Hotel * check in
 - [dizballanze/gray](https://github.com/dizballanze/gray) - Less uncompromising Python code formatter
-- [spacdevs/flask-introducao-live-twitch](https://github.com/spacdevs/flask-introducao-live-twitch) - 
 - [laffra/auger](https://github.com/laffra/auger) - Automated Unittest Generation for Python
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [dunossauro/octomato](https://github.com/dunossauro/octomato) - octomato
@@ -2987,7 +2987,6 @@
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
 - [pypa/setuptools-scm](https://github.com/pypa/setuptools-scm) - the blessed package to manage your versions by scm tags
 - [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
-- [stdevel/check_katello_sync](https://github.com/stdevel/check_katello_sync) - A Nagios / Icinga plugin for checking product synchronization within Katello/Red Hat Satellite 6.x
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [schedutron/flask-common](https://github.com/schedutron/flask-common) - A Flask extension with lots of common time-savers (file-serving, favicons, etc).
 - [anfederico/flaskex](https://github.com/anfederico/flaskex) - 
