@@ -333,7 +333,6 @@
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [markusslima/bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle) - jQuery customization of input html file for Bootstrap Twitter
 - [gophercon/2014-talks](https://github.com/gophercon/2014-talks) - This is the official repository for slides and talks from GopherCon 2014
-- [exaroth/subrosa](https://github.com/exaroth/subrosa) - Small and elegant blogging platform.
 - [concentricsky/django-client-admin](https://github.com/concentricsky/django-client-admin) - An enhanced administrator interface for Django.
 - [ellisonleao/savemydate](https://github.com/ellisonleao/savemydate) - My wedding website
 - [MessageDream/MessageBlog](https://github.com/MessageDream/MessageBlog) - a blog powered by golang beego and mongodb
@@ -2071,7 +2070,7 @@
 - [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) - Hermeto is a CLI tool that prefetches your project dependencies to aid in making your container build process hermetic.
 - [sarugaku/resolvelib](https://github.com/sarugaku/resolvelib) - Resolve abstract dependencies into concrete ones
 - [francozanardi/pictex](https://github.com/francozanardi/pictex) - A powerful Python library for creating complex visual compositions and beautifully styled images
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [janbjorge/notifelect](https://github.com/janbjorge/notifelect) - A distributed leader election python package using postgresql notify.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
@@ -2440,7 +2439,7 @@
 - [RedHatQE/teflo_examples](https://github.com/RedHatQE/teflo_examples) - Examples on how to use Teflo
 - [RedHatQE/teflo](https://github.com/RedHatQE/teflo) - Teflo is a standalone orchestration software that controls the flow of a set of testing scenarios, allowing users to provision machines, deploy software, execute tests against them and manage generate
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [ballet/ballet](https://github.com/ballet/ballet) - ☀️🦶 A lightweight framework for collaborative, open-source feature engineering
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -3763,6 +3762,7 @@
 - [openlabs/Microsoft-Translator-Python-API](https://github.com/openlabs/Microsoft-Translator-Python-API) - Not maintained here anymore. See fork
 - [dveselov/python-yandex-translate](https://github.com/dveselov/python-yandex-translate) - Python module for Yandex.Translate API
 - [terryyin/translate-python](https://github.com/terryyin/translate-python) - Online translation as a Python module & command line tool. No key, no authentication needed.
+- [exaroth/subrosa](https://github.com/exaroth/subrosa) - Small and elegant blogging platform.
 - [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -5573,7 +5573,7 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
