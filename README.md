@@ -437,7 +437,7 @@
 - [rroemhild/docker-test-openldap](https://github.com/rroemhild/docker-test-openldap) - Docker OpenLDAP Server for testing LDAP applications
 - [koenrh/docker-kindlegen](https://github.com/koenrh/docker-kindlegen) - Amazon's KindleGen dockerized.
 - [ansible/galaxy-dev](https://github.com/ansible/galaxy-dev) - Ansible Automation Hub
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v9+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
@@ -1669,7 +1669,7 @@
 
 ## Nim 
 
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Effort free video editing!
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 
@@ -3882,7 +3882,6 @@
 - [rbp/configtamer](https://github.com/rbp/configtamer) - A configuration file format and parser. An alternative to Python's configparser
 - [jhmaddox/django-precompressed](https://github.com/jhmaddox/django-precompressed) - precompressed is a pluggable application for Django developers who want to serve precompressed (gzipped) static files.
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
-- [percolate/redset](https://github.com/percolate/redset) - A Redis-backed sorted set useful for coordinating distributed work.
 - [Zulko/picnic.py](https://github.com/Zulko/picnic.py) - Easy Python packages creation.
 - [aaugustin/django-transaction-signals](https://github.com/aaugustin/django-transaction-signals) - Transaction signals for Django. Don't miss the README!
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
