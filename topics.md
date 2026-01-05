@@ -164,6 +164,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [matlab](#matlab)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -961,6 +962,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
+- [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
@@ -1384,7 +1386,6 @@
 ## data-analysis 
 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
@@ -1402,7 +1403,6 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
-- [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
@@ -1806,7 +1806,7 @@
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [oracle/railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v9+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [chrismaille/cabrita](https://github.com/chrismaille/cabrita) - TUI dashboard for easy visualization of docker services
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
@@ -3847,6 +3847,15 @@
 
 - [harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection) - Human Fall Detection from CCTV camera feed
 
+## mcp 
+
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
+- [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+
 ## microservices 
 
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -4050,7 +4059,7 @@
 
 ## nim 
 
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Effort free video editing!
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 
@@ -4381,7 +4390,6 @@
 - [ricott1/asterion](https://github.com/ricott1/asterion) - 
 - [riberk/embed_it](https://github.com/riberk/embed_it) - Include your assets statically into your application with a strict structure
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Aras14HD/abstract-impl](https://github.com/Aras14HD/abstract-impl) - Define abstract (generic) implementations for traits
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [zefchain/serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
@@ -6489,7 +6497,6 @@
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [abilian/abilian-core](https://github.com/abilian/abilian-core) - Abilian Core framework and services
-- [percolate/redset](https://github.com/percolate/redset) - A Redis-backed sorted set useful for coordinating distributed work.
 - [Zulko/picnic.py](https://github.com/Zulko/picnic.py) - Easy Python packages creation.
 - [aaugustin/django-transaction-signals](https://github.com/aaugustin/django-transaction-signals) - Transaction signals for Django. Don't miss the README!
 - [noamraph/tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
@@ -9564,6 +9571,7 @@
 - [sirfuzzalot/textual-inputs](https://github.com/sirfuzzalot/textual-inputs) - Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
+- [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -9768,6 +9776,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [sirfuzzalot/textual-inputs](https://github.com/sirfuzzalot/textual-inputs) - Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
+- [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
