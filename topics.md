@@ -212,6 +212,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -665,6 +666,7 @@
 
 ## aws 
 
+- [leandrodamascena/pydynox](https://github.com/leandrodamascena/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -4247,6 +4249,7 @@
 
 ## others 
 
+- [z-galaxy/zbus](https://github.com/z-galaxy/zbus) - Rust D-Bus crate.
 - [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
 - [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
 - [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
@@ -7481,6 +7484,11 @@
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 
+## prompt-engineering 
+
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
+
 ## publishing 
 
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -7497,6 +7505,7 @@
 
 ## python 
 
+- [leandrodamascena/pydynox](https://github.com/leandrodamascena/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -8686,6 +8695,7 @@
 
 ## rust 
 
+- [leandrodamascena/pydynox](https://github.com/leandrodamascena/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
