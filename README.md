@@ -131,7 +131,7 @@
 - [toasterllc/debase](https://github.com/toasterllc/debase) - drag & drop git editing from the comfort of your terminal
 - [osresearch/neyes](https://github.com/osresearch/neyes) - ASCII art version of xeyes, implemented with ncurses and xterm mouse mode
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
@@ -499,6 +499,9 @@
 
 ## Go 
 
+- [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
+- [openshift/apiserver-library-go](https://github.com/openshift/apiserver-library-go) - k/k dependent helpers for kube-apiserver and openshift-apiserver
+- [openshift/api](https://github.com/openshift/api) - Canonical location of the OpenShift API definition.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2425,7 +2428,7 @@
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 - [fsouza/autoflake8](https://github.com/fsouza/autoflake8) - Tool to automatically fix some issues reported by flake8 (previously forked from autoflake).
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -4440,7 +4443,6 @@
 
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!
 - [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -5141,7 +5143,7 @@
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [http-rs/http-service](https://github.com/http-rs/http-service) - Types and traits for http-based services using the latest futures API
 - [MSDimos/commander-rust](https://github.com/MSDimos/commander-rust) - a more intuitive development method of CLI in Rust
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [softprops/recap](https://github.com/softprops/recap) - deserialize typed structures from regex captures
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
@@ -5529,6 +5531,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jneen/balls](https://github.com/jneen/balls) - Bash on Balls
 - [hybridgroup/GitHub-Wikifier](https://github.com/hybridgroup/GitHub-Wikifier) - A pre-commit Git Hook that will generate all the Table of Contents you will ever need. Just write your content, and let it take over.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [torchbox/vagrant-thumbor-base](https://github.com/torchbox/vagrant-thumbor-base) - Vagrant box providing a thumbor service over HTTP
 - [funcoeszz/funcoeszz](https://github.com/funcoeszz/funcoeszz) - Funções ZZ — 180+ aplicativos para a linha de comando do Linux, Mac e Cygwin
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
