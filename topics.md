@@ -6573,7 +6573,6 @@
 - [espeed/bulbs](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
 - [aaugustin/django-c10k-demo](https://github.com/aaugustin/django-c10k-demo) - 10 000 concurrent real-time connections to Django [UNMAINTAINED]
 - [fgallina/dotemacs](https://github.com/fgallina/dotemacs) - My GNU/Emacs configuration
-- [aaronlifton/Gooo](https://github.com/aaronlifton/Gooo) - Go lang web app "framework" showcasing straightforward, no-magic, web development
 - [ulule/django-separatedvaluesfield](https://github.com/ulule/django-separatedvaluesfield) - Custom field for Django to separate multiple values in database with a separator and retrieve them as list
 - [buzzm/ipsum](https://github.com/buzzm/ipsum) - Python utils to create random JSON data and import into mongoDB
 - [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.
@@ -8721,7 +8720,7 @@
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
 - [duskmoon314/httpbin-rs](https://github.com/duskmoon314/httpbin-rs) - HTTP Request & Response Service pretty like [httpbin](http://httpbin.org) but powered by Rust
-- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -9769,7 +9768,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [0xsecaas/quickfind](https://github.com/0xsecaas/quickfind) - Instant file search CLI
-- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
 - [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
 - [vipmax/ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for Ratatui
@@ -10052,7 +10051,7 @@
 
 ## web 
 
-- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
