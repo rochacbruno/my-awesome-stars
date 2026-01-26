@@ -3837,7 +3837,7 @@
 - [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
 - [jacobweber/coverArt](https://github.com/jacobweber/coverArt) - Cover Art Server
 - [chrissimpkins/naked](https://github.com/chrissimpkins/naked) - A Python command line application framework
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library that hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy-to-use API.
 - [ambitioninc/fleming](https://github.com/ambitioninc/fleming) - Python functions for manipulating datetime objects with respect to their time zone
 - [angstwad/elemental](https://github.com/angstwad/elemental) - A MVC-style project base for Flask applications
 - [pmclanahan/django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django email backend that uses a celery task for sending the email.
