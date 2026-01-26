@@ -1092,7 +1092,7 @@
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library that hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy-to-use API.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 
 ## cms 
@@ -3464,7 +3464,7 @@
 - [brutus/wtforms-html5](https://github.com/brutus/wtforms-html5) - HTML5 widgets for WTForms
 - [thanethomson/statik](https://github.com/thanethomson/statik) - Multi-purpose static web site generator aimed at developers.
 - [reubano/pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library that hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy-to-use API.
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 The easiest way to parse and modify URLs in Python.
 - [nandoflorestan/releaser](https://github.com/nandoflorestan/releaser) - Automates the process of releasing a new version of Python software
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
@@ -8282,7 +8282,7 @@
 - [nigma/django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library that hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy-to-use API.
 - [angstwad/elemental](https://github.com/angstwad/elemental) - A MVC-style project base for Flask applications
 - [pmclanahan/django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django email backend that uses a celery task for sending the email.
 - [mining/mining](https://github.com/mining/mining) - Business Intelligence (BI) in Python, OLAP
