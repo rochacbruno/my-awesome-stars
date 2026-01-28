@@ -2020,6 +2020,7 @@
 
 ## Python 
 
+- [aponysus/redress](https://github.com/aponysus/redress) - Composable, low-overhead retry policies with pluggable classification, per-class backoff strategies, and structured observability hooks. Designed for services that need predictable retry behavior and 
 - [elen-c-sales/fogo_doom](https://github.com/elen-c-sales/fogo_doom) - Este repositório é um estudo do efeito de fogo estilo Doom usando uma tabela de cores (paleta) e uma simulacao discreta de calor. A implementacao foi feita como exercicio de aprendizagem: primeiro ent
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [ferrumio/pydynox](https://github.com/ferrumio/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
@@ -4489,6 +4490,7 @@
 
 ## Rust 
 
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
@@ -4549,7 +4551,7 @@
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
-- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface developed in Typescript/React, Fer
+- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface, FerrisKey offers a robust and fle
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
@@ -4560,7 +4562,7 @@
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [confidential-containers/trustee](https://github.com/confidential-containers/trustee) - Attestation and Secret Delivery Components
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [opensourcecheemsburgers/ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - A cross-platform markdown editor.
 - [anoek/sandbox](https://github.com/anoek/sandbox) - A tool for creating lightweight containerized copy-on-write views of your computer for safely running programs and managing output.
