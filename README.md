@@ -499,6 +499,7 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 - [openshift/apiserver-library-go](https://github.com/openshift/apiserver-library-go) - k/k dependent helpers for kube-apiserver and openshift-apiserver
 - [openshift/api](https://github.com/openshift/api) - Canonical location of the OpenShift API definition.
@@ -633,7 +634,7 @@
 - [cbednarski/hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
 - [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [jwendell/fnkube](https://github.com/jwendell/fnkube) - Runs a docker image in a kubernetes cluster and prints its output
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
@@ -3271,7 +3272,7 @@
 - [rainyear/ImageColorTheme](https://github.com/rainyear/ImageColorTheme) - Extract Color Themes from Images
 - [emanuelvianna/eye-keyboard](https://github.com/emanuelvianna/eye-keyboard) - Extending webcam-eyetracker to use a keyboard with pupils
 - [gouthambs/Flask-Blogging](https://github.com/gouthambs/Flask-Blogging) - A Markdown Based Python Blog Engine as a Flask Extension.
-- [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [YelpArchive/elastalert](https://github.com/YelpArchive/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [nk412/pyfzf](https://github.com/nk412/pyfzf) - A python wrapper for fzf
 - [GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTP security headers for Flask
 - [datalib/proclib](https://github.com/datalib/proclib) - pythonic processes
@@ -4567,7 +4568,7 @@
 - [opensourcecheemsburgers/ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - A cross-platform markdown editor.
 - [anoek/sandbox](https://github.com/anoek/sandbox) - A tool for creating lightweight containerized copy-on-write views of your computer for safely running programs and managing output.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
-- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [bircni/git-statuses](https://github.com/bircni/git-statuses) - A command-line tool to display the status of multiple Git repositories in a clear, tabular format.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [greyblake/joydb](https://github.com/greyblake/joydb) - A Rust in-memory embedded database with persistence and multiple adapters (JSON, CSV, etc). Acts like a minimalistic ORM with zero setup. Simple, lightweight, and perfect for prototypes, small apps, o
