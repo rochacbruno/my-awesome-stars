@@ -451,7 +451,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [fazibear/defql](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
@@ -2021,7 +2021,7 @@
 
 ## Python 
 
-- [aponysus/redress](https://github.com/aponysus/redress) - Composable, low-overhead retry policies with pluggable classification, per-class backoff strategies, and structured observability hooks. Designed for services that need predictable retry behavior and 
+- [aponysus/redress](https://github.com/aponysus/redress) - Policy-driven retries and circuit breaking for Python services, designed to make failure handling explicit, bounded, and observable.
 - [elen-c-sales/fogo_doom](https://github.com/elen-c-sales/fogo_doom) - Este repositório é um estudo do efeito de fogo estilo Doom usando uma tabela de cores (paleta) e uma simulacao discreta de calor. A implementacao foi feita como exercicio de aprendizagem: primeiro ent
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [ferrumio/pydynox](https://github.com/ferrumio/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
@@ -4501,7 +4501,7 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
-- [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - 
+- [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - The first game written and played entirely in Rust's type system. Not only do you play by writing Rust code, but the rules of the game are enforced by the Rust compiler. If you can write the program s
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
