@@ -7529,7 +7529,7 @@
 
 ## python 
 
-- [aponysus/redress](https://github.com/aponysus/redress) - Policy-driven retries and circuit breaking for Python services, designed to make failure handling explicit, bounded, and observable.
+- [aponysus/redress](https://github.com/aponysus/redress) - Failure-policy primitives for Python services. redress coordinates retries, circuit breaking, and stop conditions as explicit, bounded responses to classified failure, with enforced limits and observa
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [ferrumio/pydynox](https://github.com/ferrumio/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
