@@ -349,6 +349,7 @@
 
 ## ai-agents 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 
@@ -2627,7 +2628,6 @@
 - [leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes) - A collection of themes built by the community
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
@@ -4272,6 +4272,7 @@
 
 ## others 
 
+- [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
 - [openshift/installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [kriten-io/kriten](https://github.com/kriten-io/kriten) - 
@@ -8008,7 +8009,7 @@
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
 - [pypa/setuptools-scm](https://github.com/pypa/setuptools-scm) - the blessed package to manage your versions by scm tags
-- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
+- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python library to print tables in Terminal.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [schedutron/flask-common](https://github.com/schedutron/flask-common) - A Flask extension with lots of common time-savers (file-serving, favicons, etc).
 - [nvbn/py-backwards](https://github.com/nvbn/py-backwards) - Python to python compiler that allows you to use Python 3.6 features in older versions.
@@ -8528,7 +8529,7 @@
 - [theelous3/asks](https://github.com/theelous3/asks) - Async requests-like httplib for python.
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
-- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
+- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python library to print tables in Terminal.
 - [sdispater/poet](https://github.com/sdispater/poet) - Poet helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 - [joowani/kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
@@ -9668,7 +9669,7 @@
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
+- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python library to print tables in Terminal.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [ergonomica/ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
