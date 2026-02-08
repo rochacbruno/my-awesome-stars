@@ -4272,6 +4272,7 @@
 
 ## others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
 - [openshift/installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
@@ -4469,7 +4470,7 @@
 - [erikvullings/docx-parser](https://github.com/erikvullings/docx-parser) - 
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
 - [msuchane/presciidoc](https://github.com/msuchane/presciidoc) - Preprocessing AsciiDoc for other tools (WIP)
-- [scouten/asciidoc-parser](https://github.com/scouten/asciidoc-parser) - AsciiDoc parser
+- [asciidoc-rs/asciidoc-parser](https://github.com/asciidoc-rs/asciidoc-parser) - AsciiDoc parser
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [holdenweb/descriptors](https://github.com/holdenweb/descriptors) - A hands-on walk-through explanation of Python's descriptor protocol
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
@@ -4832,7 +4833,7 @@
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [vv9k/mdbook-man](https://github.com/vv9k/mdbook-man) - Generate manual pages from mdBooks!
 - [badtuxx/cheatsheet](https://github.com/badtuxx/cheatsheet) - Repo com as cheatsheet da LINUXtips!
-- [xxpaulorobertoxx/virtual-background](https://github.com/xxpaulorobertoxx/virtual-background) - Virtual background using Python/OpenCV/Tensorflow for many applications, including teams, discord and slack
+- [paulo-social/virtual-background](https://github.com/paulo-social/virtual-background) - Virtual background using Python/OpenCV/Tensorflow for many applications, including teams, discord and slack
 - [dougransom/pyenvutils](https://github.com/dougransom/pyenvutils) - pyenvutils
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [lincolixavier/tretadev](https://github.com/lincolixavier/tretadev) - Repositório criado com o intuito de centralizar as tretas semanais que acontecem na cena dev BR
@@ -8529,7 +8530,6 @@
 - [theelous3/asks](https://github.com/theelous3/asks) - Async requests-like httplib for python.
 - [dahlia/logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
 - [dahlia/iterfzf](https://github.com/dahlia/iterfzf) - Pythonic interface to fzf, a CLI fuzzy finder
-- [carlosplanchon/outfancy](https://github.com/carlosplanchon/outfancy) - Python library to print tables in Terminal.
 - [sdispater/poet](https://github.com/sdispater/poet) - Poet helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 - [joowani/kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
