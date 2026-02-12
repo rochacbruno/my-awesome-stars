@@ -4498,11 +4498,15 @@
 
 ## Rust 
 
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
+- [ricardodantas/feedo](https://github.com/ricardodantas/feedo) - 📡 A stunning terminal RSS reader built with Rust and ratatui
+- [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut) - 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
-- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [z-galaxy/zbus](https://github.com/z-galaxy/zbus) - Rust D-Bus crate.
 - [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
