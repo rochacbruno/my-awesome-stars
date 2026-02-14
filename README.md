@@ -2507,7 +2507,7 @@
 - [e-alizadeh/pycallgraph](https://github.com/e-alizadeh/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
-- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
+- [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn) - The magical reactive component framework for Django ✨
 - [IsaiahT-Tech/fastapi-series](https://github.com/IsaiahT-Tech/fastapi-series) - This is the fastapi-tutorial repository.
 - [umutseven92/apyr](https://github.com/umutseven92/apyr) - API mocking with Python.
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
@@ -5397,6 +5397,8 @@
 
 ## Shell 
 
+- [openshift/release](https://github.com/openshift/release) - Release tooling for OpenShift
+- [zirconium-dev/zirconium](https://github.com/zirconium-dev/zirconium) - Opinionated Niri bootc image
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [shanemcd/ai-cmd](https://github.com/shanemcd/ai-cmd) - Zsh plugin to generate shell commands from natural language using local LLMs via ollama
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
