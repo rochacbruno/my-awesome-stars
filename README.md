@@ -214,6 +214,7 @@
 
 ## C++ 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -499,6 +500,7 @@
 
 ## Go 
 
+- [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [openshift/installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [kriten-io/kriten](https://github.com/kriten-io/kriten) - 
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -2024,9 +2026,10 @@
 
 ## Python 
 
+- [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
-- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
+- [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [aponysus/redress](https://github.com/aponysus/redress) - Failure-policy primitives for Python services. redress coordinates retries, circuit breaking, and stop conditions as explicit, bounded responses to classified failure, with enforced limits and observa
 - [elen-c-sales/fogo_doom](https://github.com/elen-c-sales/fogo_doom) - Este repositório é um estudo do efeito de fogo estilo Doom usando uma tabela de cores (paleta) e uma simulacao discreta de calor. A implementacao foi feita como exercicio de aprendizagem: primeiro ent
