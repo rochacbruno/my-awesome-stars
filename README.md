@@ -2464,7 +2464,6 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [emmatyping/ryaml](https://github.com/emmatyping/ryaml) - Python yaml library using Rust
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [alexmojaki/executing](https://github.com/alexmojaki/executing) - Get information about what a Python frame is currently doing, particularly the AST node being executed
@@ -4920,6 +4919,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [plamorg/ambit](https://github.com/plamorg/ambit) - ambit is a dotfile manager (written in Rust)
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+- [emmatyping/ryaml](https://github.com/emmatyping/ryaml) - Python yaml library using Rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
