@@ -2815,7 +2815,6 @@
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [antoyo/tql](https://github.com/antoyo/tql) - TQL is a compile-time Rust ORM
 - [theforeman/foreman-ansible-modules](https://github.com/theforeman/foreman-ansible-modules) - Ansible modules for interacting with the Foreman API and various plugin APIs such as Katello
 - [dzaytsev91/mygf-instagram](https://github.com/dzaytsev91/mygf-instagram) - Like posts of my girlfriend's Instagram using web api, don't need any api key and access tokens just login and password
@@ -4006,6 +4005,7 @@
 
 ## neovim 
 
+- [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -9989,6 +9989,7 @@
 
 ## vim 
 
+- [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
 - [rochacbruno/bred](https://github.com/rochacbruno/bred) - Bruno Rocha editor - vim9 config
 - [alonswartz/notesium](https://github.com/alonswartz/notesium) - Markdown notes system with bi-directional links, Vim integration and local webapp
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
