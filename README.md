@@ -961,6 +961,7 @@
 
 ## JavaScript 
 
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [celiopy/auto-adwaita-colors](https://github.com/celiopy/auto-adwaita-colors) - Complementary extension for Adwaita-Colors Icons
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [alonswartz/notesium](https://github.com/alonswartz/notesium) - Markdown notes system with bi-directional links, Vim integration and local webapp
@@ -4595,7 +4596,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Jkeyuk/JDbrowser](https://github.com/Jkeyuk/JDbrowser) - A terminal SQLite database browser. written in rust.
 - [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
