@@ -1462,7 +1462,6 @@
 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) - NotebookLM related tools and hacks
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [ramalho/jupyturtle](https://github.com/ramalho/jupyturtle) - Python Turtle graphics for Jupyter notebooks
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1700,6 +1699,7 @@
 
 ## Others 
 
+- [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes) - A collection of themes built by the community
@@ -2030,7 +2030,6 @@
 - [larryb02/Build-Server](https://github.com/larryb02/Build-Server) - CI/CD System
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [aponysus/redress](https://github.com/aponysus/redress) - Failure-policy primitives for Python services. redress coordinates retries, circuit breaking, and stop conditions as explicit, bounded responses to classified failure, with enforced limits and observa
@@ -3322,7 +3321,7 @@
 - [benhamner/hillary-clinton-emails](https://github.com/benhamner/hillary-clinton-emails) - Code to transform Hillary's emails from raw PDF documents to a SQLite database
 - [danriti/nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
 - [martinrusev/devopsium](https://github.com/martinrusev/devopsium) - Ansible playbook for syncing the official or most popular community repositories for frequently used Linux software
-- [semirook/snaql](https://github.com/semirook/snaql) - Raw *QL queries from Python without pain
+- [zaiev/snaql](https://github.com/zaiev/snaql) - Raw *QL queries from Python without pain
 - [erikrose/peep](https://github.com/erikrose/peep) - A "pip install" that is cryptographically guaranteed repeatable
 - [OrangeTux/minimal-docker-python-setup](https://github.com/OrangeTux/minimal-docker-python-setup) - A demo of a minimal Nginx-uWSGI-Flask-Redis stack using Docker in less than 42 mb.
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
@@ -4133,7 +4132,7 @@
 - [matrixise/flask-openerp](https://github.com/matrixise/flask-openerp) - OpenERP connector for Flask, an awesome micro-framework
 - [magopian/django-data-exports](https://github.com/magopian/django-data-exports) - Model data exports for Django
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
-- [semirook/flask-kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
+- [zaiev/flask-kit](https://github.com/zaiev/flask-kit) - Flexible microkit for Flask microframework
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [nandoflorestan/releaser](https://github.com/nandoflorestan/releaser) - Automates the process of releasing a new version of Python software
@@ -4502,6 +4501,7 @@
 
 ## Rust 
 
+- [GreatScott/enveil](https://github.com/GreatScott/enveil) - ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
@@ -4663,7 +4663,7 @@
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
-- [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
+- [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -5415,6 +5415,7 @@
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [mrbrandao/ncursor](https://github.com/mrbrandao/ncursor) - Switch Between Cursor Directories
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) - NotebookLM related tools and hacks
 - [securesign/pipelines-demo](https://github.com/securesign/pipelines-demo) - A repository holding a few openshift-pipelines demos leveraging securesign repositories to demostrate basic Secure Supply Chain practices.
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
