@@ -4289,6 +4289,7 @@
 
 ## others 
 
+- [GreatScott/enveil](https://github.com/GreatScott/enveil) - ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [larryb02/Build-Server](https://github.com/larryb02/Build-Server) - CI/CD System
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [openshift/release](https://github.com/openshift/release) - Release tooling for OpenShift
@@ -5846,7 +5847,7 @@
 - [rehabstudio/docker-gunicorn-nginx](https://github.com/rehabstudio/docker-gunicorn-nginx) - An experimental docker setup for Python / Gunicorn / Nginx stack
 - [danriti/nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
 - [martinrusev/devopsium](https://github.com/martinrusev/devopsium) - Ansible playbook for syncing the official or most popular community repositories for frequently used Linux software
-- [semirook/snaql](https://github.com/semirook/snaql) - Raw *QL queries from Python without pain
+- [zaiev/snaql](https://github.com/zaiev/snaql) - Raw *QL queries from Python without pain
 - [drgarcia1986/ansible-playbooks](https://github.com/drgarcia1986/ansible-playbooks) - Some ansible playbooks that I use.
 - [erikrose/peep](https://github.com/erikrose/peep) - A "pip install" that is cryptographically guaranteed repeatable
 - [OrangeTux/minimal-docker-python-setup](https://github.com/OrangeTux/minimal-docker-python-setup) - A demo of a minimal Nginx-uWSGI-Flask-Redis stack using Docker in less than 42 mb.
@@ -6883,7 +6884,7 @@
 - [LinkedInAttic/hopscotch](https://github.com/LinkedInAttic/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [MaximBoyarskiy/mongowebstat](https://github.com/MaximBoyarskiy/mongowebstat) - Mongowebstat. More convenient way to monitor your mongodb hosts. In browser, as many hosts as you want! Written in golang.
-- [semirook/flask-kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
+- [zaiev/flask-kit](https://github.com/zaiev/flask-kit) - Flexible microkit for Flask microframework
 - [djalmaaraujo/gravatar-image](https://github.com/djalmaaraujo/gravatar-image) - Web Component wrapper for Gravatar using Polymer
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
