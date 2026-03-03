@@ -63,6 +63,7 @@
 - [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [Pony](#pony)
 - [PostScript](#postscript)
 - [Pug](#pug)
 - [Python](#python)
@@ -118,7 +119,7 @@
 ## C 
 
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - Practical and Powerful wayland compositor (dwm but wayland)
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [bbogdan-ov/mupwit](https://github.com/bbogdan-ov/mupwit) - WIP Music player with things (MPD client)
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
@@ -160,7 +161,6 @@
 - [kovidgoyal/html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python
 - [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-TH
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
-- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [bilhamil/OBSRemote](https://github.com/bilhamil/OBSRemote) - Websocket Enabled API and Webclient Plugin for Open Broadcaster Software
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
@@ -500,6 +500,8 @@
 
 ## Go 
 
+- [openshift/machine-config-operator](https://github.com/openshift/machine-config-operator) - 
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [openshift/installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [kriten-io/kriten](https://github.com/kriten-io/kriten) - 
@@ -729,6 +731,7 @@
 
 ## HTML 
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [waltenne/jenkins_course](https://github.com/waltenne/jenkins_course) - Mini Curso sobre Jenkins CI/CD
 - [modelyaml/modelyaml](https://github.com/modelyaml/modelyaml) - model.yaml is an open standard for defining crossplatform, composable AI models
@@ -1646,6 +1649,7 @@
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
 - [bahamat/docker-unix-1st-ed](https://github.com/bahamat/docker-unix-1st-ed) - A Docker image that drops you into 1st Edition Unix
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [aptible/docker-cron-example](https://github.com/aptible/docker-cron-example) - DEPRECATED - Please see https://github.com/aptible/supercronic instead
 - [alanfranz/killmesoftly](https://github.com/alanfranz/killmesoftly) - Kill processes The Right Way.
 
@@ -1797,7 +1801,6 @@
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [actions-rs/meta](https://github.com/actions-rs/meta) - 🦀 GitHub Actions for Rust - recipes, discussions, questions and ideas
-- [ispmarin/python_deploy](https://github.com/ispmarin/python_deploy) - Compile and install Python from source
 - [hoodie/awesome-rust-testing](https://github.com/hoodie/awesome-rust-testing) - 😎 Curated list of awesome things regarding Rust Testing
 - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
 - [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust
@@ -1901,7 +1904,6 @@
 - [ewjoachim/zen-of-python](https://github.com/ewjoachim/zen-of-python) - Zen of Python poster
 - [FSX/misaka](https://github.com/FSX/misaka) - A Python binding for Hoedown.
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gutem/http-api-design](https://github.com/Gutem/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [bevacqua/css](https://github.com/bevacqua/css) - :art: CSS: The Good Parts
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
@@ -2015,6 +2017,10 @@
 - [bucardo/bucardo](https://github.com/bucardo/bucardo) - Bucardo multimaster and master/slave Postgres replication
 - [mengwong/org-asana](https://github.com/mengwong/org-asana) - Roundtrip synchronization and bidirectional replication between Emacs Org-mode and Asana.com.
 - [SPORE/specifications](https://github.com/SPORE/specifications) - SPORE specifications
+
+## Pony 
+
+- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
 ## PostScript 
 
@@ -2357,7 +2363,7 @@
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [rhuygen/textualog](https://github.com/rhuygen/textualog) - Display, filter and search log messages in your terminal
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
@@ -2480,7 +2486,7 @@
 - [asottile/reorder-python-imports](https://github.com/asottile/reorder-python-imports) - Rewrites source to reorder python imports
 - [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
 - [vsajip/py-cfg-lib](https://github.com/vsajip/py-cfg-lib) - A Python library for working with the CFG configuration format.
-- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
+- [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [ansible/project-config](https://github.com/ansible/project-config) - Zuul configuration files for the Ansible tenant
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [l3ender/ansible-galaxy-api](https://github.com/l3ender/ansible-galaxy-api) - Simple python program used for mocking an Ansible Galaxy API server.
@@ -4463,7 +4469,7 @@
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
 - [kmarekspartz/yapl](https://github.com/kmarekspartz/yapl) - YAml Programming Language
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [uroesch/asciidoctor-pdf-tutorial-theme](https://github.com/uroesch/asciidoctor-pdf-tutorial-theme) - asciidoctor-pdf theme for technical tutorials
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -4501,6 +4507,7 @@
 
 ## Rust 
 
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
@@ -5757,6 +5764,7 @@
 
 ## Vim Script 
 
+- [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [andergrim/vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between [niri](https://github.com/YaLTeR/niri) windows and (Neo)Vim splits with the same key bindings.
 - [rochacbruno/bred](https://github.com/rochacbruno/bred) - Bruno Rocha editor - vim9 config
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
@@ -5797,7 +5805,7 @@
 - [KustoszApp/web-ui](https://github.com/KustoszApp/web-ui) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains frontend code.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CodingGarden/sproutkit](https://github.com/CodingGarden/sproutkit) - Apps and Components for Twitch Overlays
