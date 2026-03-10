@@ -4418,7 +4418,7 @@
 - [lfagundes/oosheet](https://github.com/lfagundes/oosheet) - OpenOffice.org Spreadsheet scripting and macros made easy with Python
 - [etianen/moody-templates](https://github.com/etianen/moody-templates) - A fast, extensible templating engine for Python 3 with Django-like syntax.
 - [omab/django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 - [marcelcaraciolo/crab](https://github.com/marcelcaraciolo/crab) - Crab - A  recommendation engine library for Python
 - [seb-m/pyinotify](https://github.com/seb-m/pyinotify) - Monitoring filesystems events with inotify on Linux.
 - [douglascamata/web2pyrecipe](https://github.com/douglascamata/web2pyrecipe) - A recipe for using web2py with Buildout
@@ -5414,6 +5414,7 @@
 
 ## Shell 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [YunoHost-Apps/snac_ynh](https://github.com/YunoHost-Apps/snac_ynh) - Snac package for YunoHost: A simple, minimalistic ActivityPub instance written in portable C
 - [openshift/release](https://github.com/openshift/release) - Release tooling for OpenShift
 - [zirconium-dev/zirconium](https://github.com/zirconium-dev/zirconium) - Opinionated Niri bootc image
@@ -5612,6 +5613,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
