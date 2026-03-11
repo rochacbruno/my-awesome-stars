@@ -965,6 +965,7 @@
 
 ## JavaScript 
 
+- [welpo/tabi](https://github.com/welpo/tabi) - An accessible Zola theme with search, multi-language support, optional JavaScript, a perfect Lighthouse score, and comprehensive documentation. Crafted for personal websites and blogs.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [celiopy/auto-adwaita-colors](https://github.com/celiopy/auto-adwaita-colors) - Complementary extension for Adwaita-Colors Icons
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -4509,6 +4510,8 @@
 
 ## Rust 
 
+- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
@@ -5147,7 +5150,7 @@
 - [jordy25519/casey](https://github.com/jordy25519/casey) - Case transforming macros for idents
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
-- [rust-cli/rexpect](https://github.com/rust-cli/rexpect) - .github/workflows/ci.yml
+- [rust-cli/rexpect](https://github.com/rust-cli/rexpect) - Interact with unix processes/bash the same way as pexpect or Don libes expect does
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [dtolnay/indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust
