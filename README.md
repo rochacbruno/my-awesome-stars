@@ -501,6 +501,9 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [openshift/machine-config-operator](https://github.com/openshift/machine-config-operator) - 
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
@@ -733,6 +736,7 @@
 
 ## HTML 
 
+- [lucadealfaro/plainbook](https://github.com/lucadealfaro/plainbook) - Notebooks, in natural language.  A replacement for Jupyter notebooks in plain English.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [waltenne/jenkins_course](https://github.com/waltenne/jenkins_course) - Mini Curso sobre Jenkins CI/CD
@@ -4512,6 +4516,7 @@
 
 ## Rust 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Media downloader. Paste a link. Get your file. Udemy, Hotmart, Telegram and 1000+ Downloader
 - [isala404/forge](https://github.com/isala404/forge) - The Full-Stack Framework for the Impatient
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -4936,7 +4941,7 @@
 - [trillium-rs/trillium](https://github.com/trillium-rs/trillium) - Trillium is a composable toolkit for building internet applications with async rust
 - [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
 - [beltram/asserhttp](https://github.com/beltram/asserhttp) - Fluent http assertions
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [plamorg/ambit](https://github.com/plamorg/ambit) - ambit is a dotfile manager (written in Rust)
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
@@ -5620,6 +5625,7 @@
 
 ## TypeScript 
 
+- [ansible/aap-mcp-server](https://github.com/ansible/aap-mcp-server) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
