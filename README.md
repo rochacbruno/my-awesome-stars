@@ -2205,7 +2205,7 @@
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
 - [chriskuehl/dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files
-- [pomponchik/suby](https://github.com/pomponchik/suby) - Slightly simplified subprocesses
+- [mutating/suby](https://github.com/mutating/suby) - Slightly simplified subprocesses
 - [rochacbruno/web-api-example](https://github.com/rochacbruno/web-api-example) - 
 - [jaraco/keyring](https://github.com/jaraco/keyring) - 
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
@@ -3021,7 +3021,7 @@
 - [schedutron/flask-common](https://github.com/schedutron/flask-common) - A Flask extension with lots of common time-savers (file-serving, favicons, etc).
 - [anfederico/flaskex](https://github.com/anfederico/flaskex) - 
 - [nvbn/py-backwards](https://github.com/nvbn/py-backwards) - Python to python compiler that allows you to use Python 3.6 features in older versions.
-- [simion/pip-upgrader](https://github.com/simion/pip-upgrader) - An interactive pip requirements upgrader. It also updates the version in your requirements.txt file.
+- [simion/pip-upgrader](https://github.com/simion/pip-upgrader) - An interactive pip requirements upgrader. Supports requirements.txt, pyproject.toml, and Pipfile
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [ramonsaraiva/timy](https://github.com/ramonsaraiva/timy) - Minimalist measurement of python code time
 - [rplevka/claim_stats](https://github.com/rplevka/claim_stats) - 
@@ -4518,7 +4518,7 @@
 ## Rust 
 
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Media downloader. Paste a link. Get your file. Udemy, Hotmart, Telegram and 1000+ Downloader
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
 - [isala404/forge](https://github.com/isala404/forge) - The Full-Stack Framework for the Impatient
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -4829,7 +4829,7 @@
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - A secure command-line tool for managing environment variables
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -5689,7 +5689,7 @@
 - [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [seufernandez/coursebuddy](https://github.com/seufernandez/coursebuddy) - CourseBuddy App was made during Supabase 2021 HacktoberFest Hackathon and WON 🥇 as the "MOST VISUALLY PLEASING" project!
