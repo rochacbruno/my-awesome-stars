@@ -1721,6 +1721,7 @@
 - [cuducos/not-my-ex](https://github.com/cuducos/not-my-ex) - 🐝 Tiny CLI to post simultaneously to Mastodon and Bluesky
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [jonatasoli/fast-ecommerce-back](https://github.com/jonatasoli/fast-ecommerce-back) - Capicat backend in FastAPI
@@ -2047,12 +2048,12 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
-- [aponysus/redress](https://github.com/aponysus/redress) - Failure-policy primitives for Python services. redress coordinates retries, circuit breaking, and stop conditions as explicit, bounded responses to classified failure, with enforced limits and observa
+- [aponysus/redress](https://github.com/aponysus/redress) - Policy-driven failure handling for Python services.
 - [elen-c-sales/fogo_doom](https://github.com/elen-c-sales/fogo_doom) - Este repositório é um estudo do efeito de fogo estilo Doom usando uma tabela de cores (paleta) e uma simulacao discreta de calor. A implementacao foi feita como exercicio de aprendizagem: primeiro ent
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [ferrumio/pydynox](https://github.com/ferrumio/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
-- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, Apple Photos & NextCloud Photos. The Tool supports multiple accounts 
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos & Google Takeout. The Tool supports multiple account
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -2609,7 +2610,7 @@
 - [bmbouter/rq_coverage_testing](https://github.com/bmbouter/rq_coverage_testing) - 
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API
-- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) - A fully featured, powerful async Python library for the Twitch API and EventSub.
+- [TwitchIO/TwitchIO](https://github.com/TwitchIO/TwitchIO) - A fully featured, powerful async Python library for the Twitch API and EventSub.
 - [gabicavalcante/flask-secret-santa](https://github.com/gabicavalcante/flask-secret-santa) - 
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -4623,7 +4624,7 @@
 - [Jkeyuk/JDbrowser](https://github.com/Jkeyuk/JDbrowser) - A terminal SQLite database browser. written in rust.
 - [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [picahq/pica](https://github.com/picahq/pica) - The Complete Agentic Integration Platform [Community Edition]
+- [withoneai/pica](https://github.com/withoneai/pica) - The Complete Agentic Infrastructure
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
@@ -5449,7 +5450,6 @@
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) - A small script to read from libinput-debug-events and trigger key commands depending on recognized gestures.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [catppuccin/zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) - 🪗 Soothing pastel theme for zsh-syntax-highlighting
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
@@ -5651,7 +5651,7 @@
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
