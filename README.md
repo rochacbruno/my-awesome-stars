@@ -165,7 +165,7 @@
 - [bilhamil/OBSRemote](https://github.com/bilhamil/OBSRemote) - Websocket Enabled API and Webclient Plugin for Open Broadcaster Software
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
-- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
@@ -856,7 +856,6 @@
 - [aws-samples/eb-py-flask-signup](https://github.com/aws-samples/eb-py-flask-signup) - 
 - [DataViva/dataviva-site](https://github.com/DataViva/dataviva-site) - Rapid data visualization engine
 - [andhart/bijou](https://github.com/andhart/bijou) - A small (Less than 2kb) CSS framework
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [uretgec/pure-admin](https://github.com/uretgec/pure-admin) - Simple Pure Admin Panel. Want to make simple blog cms and admin panel, Pure Admin is here.
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
@@ -1619,7 +1618,7 @@
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [enotodden/turboredis](https://github.com/enotodden/turboredis) - Redis library for Turbo
 - [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance
-- [ophal/core](https://github.com/ophal/core) - Official Ophal core repository (this project is no longer actively maintained)
+- [ophal/core](https://github.com/ophal/core) - Official Ophal core repository
 - [cloudflare/raven-lua](https://github.com/cloudflare/raven-lua) - A Lua interface to Sentry
 - [mongrel2/Tir](https://github.com/mongrel2/Tir) - A Simple Lua Web Framework For Mongrel2
 - [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
@@ -1904,7 +1903,7 @@
 - [lerrua/remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
 - [elastic/elasticsearch-cloud-aws](https://github.com/elastic/elasticsearch-cloud-aws) - AWS Cloud Plugin for Elasticsearch
 - [drgarcia1986/ansible-playbooks](https://github.com/drgarcia1986/ansible-playbooks) - Some ansible playbooks that I use.
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [deepak1556/kitematic](https://github.com/deepak1556/kitematic) - Simple Docker App management for Mac OS X.
 - [ewjoachim/zen-of-python](https://github.com/ewjoachim/zen-of-python) - Zen of Python poster
 - [FSX/misaka](https://github.com/FSX/misaka) - A Python binding for Hoedown.
@@ -2310,7 +2309,7 @@
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
 - [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [allisson/fastqueue](https://github.com/allisson/fastqueue) - Simple queue system based on FastAPI and PostgreSQL
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [securefederatedai/openfederatedlearning](https://github.com/securefederatedai/openfederatedlearning) - An Open Framework for Federated Learning.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
@@ -3665,7 +3664,7 @@
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [bennylope/mongoengine-extras](https://github.com/bennylope/mongoengine-extras) - Use the latest django-extensions instead - now supports Mongo!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [bx2/queuer](https://github.com/bx2/queuer) - A simple Flask-based app for queued registration.
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [renatopp/aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
@@ -3937,6 +3936,7 @@
 - [tsileo/flask-yeoman](https://github.com/tsileo/flask-yeoman) - A Flask blueprint to make create web application using Yeoman and Flask an easy task.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [bitlabstudio/django-booking](https://github.com/bitlabstudio/django-booking) - A reusable Django app that manages bookings for various purposes.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [renzon/pagseguro2csv](https://github.com/renzon/pagseguro2csv) - Programa para transforma o XML do Pagseguro em CSV
 - [Caramel/django-viewtracker](https://github.com/Caramel/django-viewtracker) - Simple view-tracking application for Django
 - [morninj/web2pdf](https://github.com/morninj/web2pdf) - Convert webpages to PDFs for offline reading
@@ -4624,7 +4624,7 @@
 - [Jkeyuk/JDbrowser](https://github.com/Jkeyuk/JDbrowser) - A terminal SQLite database browser. written in rust.
 - [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [withoneai/pica](https://github.com/withoneai/pica) - The Complete Agentic Infrastructure
+- [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
