@@ -1269,7 +1269,6 @@
 - [mozilla-services/presence-chatroom](https://github.com/mozilla-services/presence-chatroom) - INACTIVE - http://mzl.la/ghe-archive - A chat room to demo presence
 - [Bluefinch/microglark](https://github.com/Bluefinch/microglark) - A hacky minimalistic remote pair programming editor
 - [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [qmagico/treinamento-angularjs](https://github.com/qmagico/treinamento-angularjs) - Treinamento de AngularJS do QMágico
 - [msjolund/jquery-esn-autobrowse](https://github.com/msjolund/jquery-esn-autobrowse) - Autobrowse jquery plugin
@@ -2478,6 +2477,7 @@
 - [replit/replit-py](https://github.com/replit/replit-py) - A helpful Python package that helps you build excellent things inside Repls! 💻
 - [simplistix/testfixtures](https://github.com/simplistix/testfixtures) - A collection of helpers and mock objects that are useful when writing automated tests in Python.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -4602,7 +4602,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [rvben/yamldap](https://github.com/rvben/yamldap) - A lightweight LDAP server that serves directory data from YAML files
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device.
-- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [confidential-containers/trustee](https://github.com/confidential-containers/trustee) - Attestation and Secret Delivery Components
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
@@ -5704,7 +5704,6 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [sorenlouv/backport](https://github.com/sorenlouv/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
@@ -5766,6 +5765,7 @@
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
