@@ -26,6 +26,7 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -493,6 +494,10 @@
 
 - [discoproject/disco](https://github.com/discoproject/disco) - a Map/Reduce framework for distributed computing
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## GDScript 
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
@@ -568,7 +573,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [laubstein/galaxy-light](https://github.com/laubstein/galaxy-light) - Ansible Galaxy server alternative
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [timopattikawa/kamoro](https://github.com/timopattikawa/kamoro) - Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
@@ -735,7 +740,6 @@
 
 ## HTML 
 
-- [lucadealfaro/plainbook](https://github.com/lucadealfaro/plainbook) - Notebooks, in natural language.  A replacement for Jupyter notebooks in plain English.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [waltenne/jenkins_course](https://github.com/waltenne/jenkins_course) - Mini Curso sobre Jenkins CI/CD
@@ -968,6 +972,7 @@
 
 ## JavaScript 
 
+- [lucadealfaro/plainbook](https://github.com/lucadealfaro/plainbook) - Notebooks, in natural language.  A replacement for Jupyter notebooks in plain English.
 - [welpo/tabi](https://github.com/welpo/tabi) - An accessible Zola theme with search, multi-language support, optional JavaScript, a perfect Lighthouse score, and comprehensive documentation. Crafted for personal websites and blogs.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [celiopy/auto-adwaita-colors](https://github.com/celiopy/auto-adwaita-colors) - Complementary extension for Adwaita-Colors Icons
@@ -1879,7 +1884,6 @@
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework - A flexible, open approach to making decisions and leading projects
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [ahmed-machine/PokemonGo-Map](https://github.com/ahmed-machine/PokemonGo-Map) - 🌏 Live visualization of all the pokemon in your area... and more! (shutdown)
 - [yhatt/marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
 - [juliovp01/ansible-satellite6-install](https://github.com/juliovp01/ansible-satellite6-install) - Ansible role to install and configure Red Hat Satellite 6.X.
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
@@ -2531,7 +2535,6 @@
 - [umutseven92/apyr](https://github.com/umutseven92/apyr) - API mocking with Python.
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
-- [cassiobotaro/poop](https://github.com/cassiobotaro/poop) - 💩 Python Object-Oriented Programming :snake:
 - [lebedov/ripdb](https://github.com/lebedov/ripdb) - Remotely accessible IPython-enabled debugger
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
@@ -4521,6 +4524,7 @@
 
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
 - [isala404/forge](https://github.com/isala404/forge) - The Full-Stack Framework for the Impatient
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -4581,7 +4585,7 @@
 - [rpm-rs/rpm-builder](https://github.com/rpm-rs/rpm-builder) - build rpms without a spec file. Pure Rust. No dependencies to librpm
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [jctanner/gateway-auth-wasm-plugin](https://github.com/jctanner/gateway-auth-wasm-plugin) - 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [Open-Cyber-Range/Deputy](https://github.com/Open-Cyber-Range/Deputy) - A digital library implementation intended for storing cyber exercise artifacts.
@@ -4952,7 +4956,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [ajavageek/rust-operator](https://github.com/ajavageek/rust-operator) - 
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
@@ -4973,7 +4977,6 @@
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [naomijub/wooridb](https://github.com/naomijub/wooridb) - WooriDB is a general purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [landaire/pdbview](https://github.com/landaire/pdbview) - dump all available information from PDBs
 - [rgripper/rusty-bomber](https://github.com/rgripper/rusty-bomber) - Bomberman clone in Bevy
 - [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
@@ -5602,7 +5605,6 @@
 
 ## Svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
 ## TSQL 
@@ -5691,7 +5693,7 @@
 - [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [seufernandez/coursebuddy](https://github.com/seufernandez/coursebuddy) - CourseBuddy App was made during Supabase 2021 HacktoberFest Hackathon and WON 🥇 as the "MOST VISUALLY PLEASING" project!
@@ -5752,7 +5754,6 @@
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [no13bus/redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, react, vite, socket.io
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -5840,6 +5841,7 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [pdyba/aioquiz](https://github.com/pdyba/aioquiz) - 
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 
 ## YAML 
 
