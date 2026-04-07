@@ -1481,6 +1481,7 @@
 - [danielfrg/mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) - Use Jupyter Notebook in mkdocs
 - [fluentpython/builtins](https://github.com/fluentpython/builtins) - Talk about built-in callables in Python 3.7+
 - [rplevka/auto_profiling](https://github.com/rplevka/auto_profiling) - jupyter notebook for visualizing automation execution timeline
+- [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [PulpQE/pulp-qe-tools](https://github.com/PulpQE/pulp-qe-tools) - Tools, Helpers, Scripts, Playbooks and docs for Pulp QE
 - [nixocio/Internals](https://github.com/nixocio/Internals) - 
@@ -2750,7 +2751,6 @@
 - [lovelysystems/lovely-pytest-docker](https://github.com/lovelysystems/lovely-pytest-docker) - Pytest plugin providing the ability to use docker-compose services as fixtures.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [fredrik-corneliusson/click-web](https://github.com/fredrik-corneliusson/click-web) - Serve click scripts over the web
-- [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance) - Doing the OAuth dance with style using Flask, requests, and oauthlib.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
@@ -4663,7 +4663,7 @@
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [DiscreteTom/whitehole](https://github.com/DiscreteTom/whitehole) - A simple, fast, intuitive parser combinator framework for Rust.
 - [kmdreko/venator](https://github.com/kmdreko/venator) - Venator: a desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Aras14HD/abstract-impl](https://github.com/Aras14HD/abstract-impl) - Define abstract (generic) implementations for traits
 - [zefchain/serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [jeremychone-channel/rust-md-block-extractor](https://github.com/jeremychone-channel/rust-md-block-extractor) - Markdown "Lexer" to extract/parse #!meta toml/yaml (Jeremy Chone Rust Coding https://youtube.com/jeremychone)
