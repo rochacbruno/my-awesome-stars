@@ -151,7 +151,6 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [sdss/flicamera](https://github.com/sdss/flicamera) - A library and actor to control Finger Lakes Instrumentation cameras
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
@@ -253,6 +252,7 @@
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
 - [CatxFish/obs-v4l2sink](https://github.com/CatxFish/obs-v4l2sink) - obs studio output plugin for Video4Linux2 device
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -1711,6 +1711,7 @@
 
 ## Others 
 
+- [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
 - [RHEcosystemAppEng/exploitiq-docs](https://github.com/RHEcosystemAppEng/exploitiq-docs) - 
 - [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2090,7 +2091,6 @@
 - [mbwilding/NeoSpleen](https://github.com/mbwilding/NeoSpleen) - A modern monospaced font inspired by Spleen.
 - [d-k-patel/ai-ffmpeg-cli](https://github.com/d-k-patel/ai-ffmpeg-cli) - AI-powered CLI that translates natural language into safe, reviewable ffmpeg commands.
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [swyddfa/esbonio](https://github.com/swyddfa/esbonio) - A language server for working with Sphinx projects.
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [salvozappa/gattino](https://github.com/salvozappa/gattino) - A kitty terminal extension that turns plain language into commands using Ollama.
@@ -2112,7 +2112,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [janbjorge/notifelect](https://github.com/janbjorge/notifelect) - A distributed leader election python package using postgresql notify.
-- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [russoz-ansible/andebox](https://github.com/russoz-ansible/andebox) - Ansible Developer's (tool)Box, andebox, is a single script to assist Ansible developers by encapsulating some boilerplate tasks
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [pamelafox/personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) - An agent to manage my personal LinkedIn account, using playwright for browser automation.
@@ -2651,7 +2651,7 @@
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [python-poetry/semver](https://github.com/python-poetry/semver) - A semantic versioning library for Python
 - [guokr/swagger-py-codegen](https://github.com/guokr/swagger-py-codegen) - a Python web framework generator supports Flask, Tornado, Falcon, Sanic
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [sio/Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile
 - [pytest-dev/pytest-reportlog](https://github.com/pytest-dev/pytest-reportlog) - Replacement for the --resultlog option, focused in simplicity and extensibility
@@ -3465,7 +3465,6 @@
 - [Eyepea/API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
 - [drgarcia1986/simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
 - [closeio/flask-tracking](https://github.com/closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
-- [karan/slack-overflow](https://github.com/karan/slack-overflow) - A programmer's best friend, now in Slack.
 - [ctb/twill-legacy](https://github.com/ctb/twill-legacy) - A simple command-line Web browser, for testing and Web automation.
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [nryoung/algorithms](https://github.com/nryoung/algorithms) - This repository is not maintained
@@ -4522,9 +4521,9 @@
 
 ## Rust 
 
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send 
 - [isala404/forge](https://github.com/isala404/forge) - The Full-Stack Framework for the Impatient
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -5643,6 +5642,7 @@
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
