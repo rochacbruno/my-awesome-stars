@@ -2043,6 +2043,7 @@
 
 ## Python 
 
+- [RedHatProductSecurity/lola](https://github.com/RedHatProductSecurity/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [vmagueta/envgate](https://github.com/vmagueta/envgate) - A minimal Python library to validate environment variables at startup. Zero dependencies.
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub translation bot — mention it to get any post translated. Built with apkit, FastAPI and LibreTranslate.
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
@@ -2983,7 +2984,6 @@
 - [PyFilesystem/s3fs](https://github.com/PyFilesystem/s3fs) - Amazon S3 filesystem for PyFilesystem2
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
-- [pennsignals/aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [JacobCallahan/Random-Demos](https://github.com/JacobCallahan/Random-Demos) - just a number of random ideas that have been fleshed out a bit.
@@ -5059,7 +5059,7 @@
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [tsoding/cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
