@@ -4209,7 +4209,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [fike/fastapi-blog](https://github.com/fike/fastapi-blog) - A FastAPI backend for blog with OpenTelemtry and Jaeger
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
 ## nim 
@@ -4350,7 +4350,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -4407,6 +4407,7 @@
 
 ## others 
 
+- [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [RedHatProductSecurity/lola](https://github.com/RedHatProductSecurity/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
 - [vmagueta/envgate](https://github.com/vmagueta/envgate) - A minimal Python library to validate environment variables at startup. Zero dependencies.
@@ -7555,7 +7556,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
@@ -9716,7 +9717,7 @@
 ## tailwindcss 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 
 ## telegram 
 
@@ -10063,7 +10064,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Built for easy embedding in applications.
 - [Brendonovich/sceneify](https://github.com/Brendonovich/sceneify) - The simplest way to control OBS from JavaScript
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
