@@ -2043,6 +2043,7 @@
 
 ## Python 
 
+- [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [RedHatProductSecurity/lola](https://github.com/RedHatProductSecurity/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [vmagueta/envgate](https://github.com/vmagueta/envgate) - A minimal Python library to validate environment variables at startup. Zero dependencies.
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub translation bot — mention it to get any post translated. Built with apkit, FastAPI and LibreTranslate.
@@ -2248,7 +2249,7 @@
 - [brazilian-utils/python](https://github.com/brazilian-utils/python) - Biblioteca de utilitários projetada para validar, gerar e manipular dados de acordo com as particularidades do Brasil 🇧🇷
 - [zueve/zenv](https://github.com/zueve/zenv) - Zenv: Zen Environment - docker based virtual environments
 - [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [pedro-psb/history-runner](https://github.com/pedro-psb/history-runner) - Quickly run any command across different git tags.
 - [irsl/curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
@@ -4521,11 +4522,13 @@
 
 ## Rust 
 
+- [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
+- [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send 
-- [isala404/forge](https://github.com/isala404/forge) - The Full-Stack Framework for the Impatient
+- [isala404/forge](https://github.com/isala404/forge) - Rust framework that compiles entire infrastructure into one binary
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -5842,7 +5845,7 @@
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [pdyba/aioquiz](https://github.com/pdyba/aioquiz) - 
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
+- [andrewsbarbaro/for-the-badge](https://github.com/andrewsbarbaro/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 
 ## YAML 
 
