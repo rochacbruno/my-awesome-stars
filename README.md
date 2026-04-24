@@ -4123,7 +4123,7 @@
 - [djcoin/django-unaccent](https://github.com/djcoin/django-unaccent) - Integration of nice operators to the django ORM for unaccented search in postgresql
 - [dakrauth/django-swingtime](https://github.com/dakrauth/django-swingtime) - 📆  Event and occurrence scheduling application for Django
 - [thauber/django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django.  It is now stable, Please feel free to use it now. Active development has been taken over by bartekgorny.
-- [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
+- [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django.
 - [kirang89/bootstrapy](https://github.com/kirang89/bootstrapy) - A bootstrap Python application, so that you can focus on writing code
 - [hovel/imagestore](https://github.com/hovel/imagestore) - Django gallery solution.
 - [django-treebeard/django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations for Django
@@ -4549,7 +4549,7 @@
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
-- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
+- [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [z-galaxy/zbus](https://github.com/z-galaxy/zbus) - Rust D-Bus crate.
 - [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
@@ -5439,6 +5439,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [YunoHost-Apps/snac_ynh](https://github.com/YunoHost-Apps/snac_ynh) - Snac package for YunoHost: A simple, minimalistic ActivityPub instance written in portable C
 - [openshift/release](https://github.com/openshift/release) - Release tooling for OpenShift
