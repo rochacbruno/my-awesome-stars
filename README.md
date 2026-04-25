@@ -134,6 +134,7 @@
 - [osresearch/neyes](https://github.com/osresearch/neyes) - ASCII art version of xeyes, implemented with ncurses and xterm mouse mode
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
+- [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
@@ -2046,6 +2047,7 @@
 
 ## Python 
 
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [RedHatProductSecurity/lola](https://github.com/RedHatProductSecurity/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -4467,7 +4469,6 @@
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [heqro/colorschemeswapper-plasmoid](https://github.com/heqro/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
-- [KDE/klevernotes](https://github.com/KDE/klevernotes) - A note-taking and management application using markdown.
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
 
@@ -4593,14 +4594,13 @@
 - [rpm-rs/rpm-builder](https://github.com/rpm-rs/rpm-builder) - build rpms without a spec file. Pure Rust. No dependencies to librpm
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [jctanner/gateway-auth-wasm-plugin](https://github.com/jctanner/gateway-auth-wasm-plugin) - 
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [Open-Cyber-Range/Deputy](https://github.com/Open-Cyber-Range/Deputy) - A digital library implementation intended for storing cyber exercise artifacts.
 - [Canop/codesort](https://github.com/Canop/codesort) - codesort sorts code
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [euclio/aurelius](https://github.com/euclio/aurelius) - A complete solution for previewing markdown written in Rust.
-- [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [Keyrunes/keyrunes](https://github.com/Keyrunes/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
 - [enieber/today](https://github.com/enieber/today) - manager tasks using markdown and get information about weather today
 - [iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban) - Rust Sokoban book and code samples
