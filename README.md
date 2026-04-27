@@ -189,7 +189,6 @@
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 - [miohtama/python-Levenshtein](https://github.com/miohtama/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [RockLi/guava](https://github.com/RockLi/guava) - Guava is a lightweight Python web framework written in C
-- [pygraphviz/pygraphviz](https://github.com/pygraphviz/pygraphviz) - Python interface to Graphviz graph drawing package
 - [coleifer/vedis-python](https://github.com/coleifer/vedis-python) - Python bindings for the Vedis embedded NoSQL database
 - [monkey/monkey](https://github.com/monkey/monkey) - Monkey HTTP Server
 - [telegram-s/telegram](https://github.com/telegram-s/telegram) - Telegram S Edition Android App
@@ -506,6 +505,7 @@
 
 ## Go 
 
+- [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [openshift/assisted-installer](https://github.com/openshift/assisted-installer) - 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -1176,7 +1176,7 @@
 - [vjsrinath/sails-orientdb](https://github.com/vjsrinath/sails-orientdb) - An waterline adapter for orient db
 - [jstacoder/flask-cms](https://github.com/jstacoder/flask-cms) - a minimal CMS built on the pythonic MTV (model / template / view) pattern, implemented using the flask webframework
 - [Crowducate/crowducate-platform](https://github.com/Crowducate/crowducate-platform) - True Open and Fun Education. Powered by meteor.js
-- [kamranahmedse/jquery-toast-plugin](https://github.com/kamranahmedse/jquery-toast-plugin) - Highly customizable jquery plugin to show toast messages
+- [nilbuild/jquery-toast-plugin](https://github.com/nilbuild/jquery-toast-plugin) - Highly customizable jquery plugin to show toast messages
 - [mindmup/editable-table](https://github.com/mindmup/editable-table) - tiny jQuery/Bootstrap widget that makes a HTML table editable
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [alagu/hummingbird](https://github.com/alagu/hummingbird) - Hummingbird is a opensource embeddable chat system. One line embed in your website with adium/pidgin support
@@ -1714,6 +1714,8 @@
 
 ## Others 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
+- [namesakefyi/atkinson-hyperlegible-soft](https://github.com/namesakefyi/atkinson-hyperlegible-soft) - A soft, rounded version of the font Atkinson Hyperlegible Next.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
 - [RHEcosystemAppEng/exploitiq-docs](https://github.com/RHEcosystemAppEng/exploitiq-docs) - 
@@ -3681,6 +3683,7 @@
 - [renatopp/aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
 - [chozabu/KivEntEd](https://github.com/chozabu/KivEntEd) - A Physics world/level creator/editor using Kivent
 - [rdegges/flask-dynamo](https://github.com/rdegges/flask-dynamo) - DynamoDB integration for Flask.
+- [pygraphviz/pygraphviz](https://github.com/pygraphviz/pygraphviz) - Python interface to Graphviz graph drawing package
 - [miguelgrinberg/Flask-SocketIO-Chat](https://github.com/miguelgrinberg/Flask-SocketIO-Chat) - A simple chat application that demonstrates how to structure a Flask-SocketIO application.
 - [pricingassistant/mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 - [piglei/uwsgi-sloth](https://github.com/piglei/uwsgi-sloth) - Realtime uwsgi log file analyzer, slow requests analyzer.
@@ -4573,7 +4576,7 @@
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [forensicmatt/datatui](https://github.com/forensicmatt/datatui) - A Terminal UI for Data
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool!
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [vipmax/ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for Ratatui
@@ -5757,7 +5760,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
