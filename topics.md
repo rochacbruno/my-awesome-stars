@@ -583,7 +583,7 @@
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [ansible-collections/ansible_hub](https://github.com/ansible-collections/ansible_hub) - Collection of modules to configure Automation Hub
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -751,7 +751,7 @@
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
@@ -1845,7 +1845,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [growilabs/growi](https://github.com/growilabs/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -2408,7 +2408,7 @@
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [gluesql/glues](https://github.com/gluesql/glues) - Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [packit/ogr](https://github.com/packit/ogr) - One Git library to Rule -- one API for many git forges
@@ -4427,7 +4427,7 @@
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
-- [RedHatProductSecurity/lola](https://github.com/RedHatProductSecurity/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
+- [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
 - [vmagueta/envgate](https://github.com/vmagueta/envgate) - A minimal Python library to validate environment variables at startup. Zero dependencies.
 - [RHEcosystemAppEng/exploitiq-docs](https://github.com/RHEcosystemAppEng/exploitiq-docs) - 
@@ -8977,7 +8977,7 @@
 - [freddiehaddad/fast-track-to-rust](https://github.com/freddiehaddad/fast-track-to-rust) - Learn Rust by building Rustle - a grep-like tool with complete source code, hands-on exercises, and a fast, engaging pace.
 - [MathiasPius/crates-lsp](https://github.com/MathiasPius/crates-lsp) - Language Server implementation for Cargo.toml
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
+- [crocuda/boulette](https://github.com/crocuda/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
@@ -9007,7 +9007,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -10075,7 +10075,7 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [growilabs/growi](https://github.com/growilabs/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python, Django, TypeScript, React, MUI)
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
