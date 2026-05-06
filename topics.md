@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -312,6 +313,14 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [operatorequals/covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+
+## agents 
+
+- [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Declarative language for composable Al workflows. Devtool for agents and mere humans.
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 
 ## ai 
 
@@ -4428,6 +4437,7 @@
 
 ## others 
 
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [openshift/oc](https://github.com/openshift/oc) - The OpenShift Command Line, part of OKD
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
@@ -4601,7 +4611,7 @@
 - [moonmoon/moonmoon](https://github.com/moonmoon/moonmoon) - moonmoon is a simple feed aggregator (planet like)
 - [pulp/pulp-service](https://github.com/pulp/pulp-service) - 
 - [faiface/par](https://github.com/faiface/par) - ⅋ — session types for Rust
-- [faiface/par-lang](https://github.com/faiface/par-lang) - Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
+- [par-team/par-lang](https://github.com/par-team/par-lang) - Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
 - [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment) - Build and maintain a development environment including ansible collections and their python dependencies
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [badtuxx/girus-cli](https://github.com/badtuxx/girus-cli) - 
@@ -6187,7 +6197,7 @@
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [kabukky/journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
-- [DataTables/DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
+- [DataTables/DataTables](https://github.com/DataTables/DataTables) - DataTables - legacy repo
 - [yougov/mongo-connector](https://github.com/yougov/mongo-connector) - MongoDB data stream pipeline tools by YouGov (adopted from MongoDB)
 - [qw3rtman/p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
 - [kracekumar/flask_vs_django_bench](https://github.com/kracekumar/flask_vs_django_bench) - Benchmark Flask vs Django for simple JsonResponse
