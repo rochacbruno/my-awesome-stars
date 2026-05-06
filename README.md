@@ -325,7 +325,7 @@
 - [craigkerstiens/postgresguide.com](https://github.com/craigkerstiens/postgresguide.com) - 
 - [silverbux/bootflat-admin](https://github.com/silverbux/bootflat-admin) - A free opensource Admin Template with Flat UI based on Bootstrap 3.2.0 and BOOTFLAT, Plus flying dragons and rainbow unicorns
 - [arryanggaputra/Mokki-Editor](https://github.com/arryanggaputra/Mokki-Editor) - Mokki Editor is a lightweight HTML5 WYSIWYG / HTML Rich Text Editor
-- [DataTables/DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
+- [DataTables/DataTables](https://github.com/DataTables/DataTables) - DataTables - legacy repo
 - [nathancahill/Flask-Edits](https://github.com/nathancahill/Flask-Edits) - Editable Content in Flask
 - [sixrevisions/free-programming-fonts](https://github.com/sixrevisions/free-programming-fonts) - A demonstration of beautiful fonts for people who love to code
 - [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
@@ -778,7 +778,6 @@
 - [andredias/cookiecutter-fastapi](https://github.com/andredias/cookiecutter-fastapi) - 
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [oreillymedia/orm_book_samples](https://github.com/oreillymedia/orm_book_samples) - Sample book files for O'Reilly content
 - [vysakh0/asciidoctor-book-template](https://github.com/vysakh0/asciidoctor-book-template) - A book template to write using asciidoctor.
 - [ansible/galaxy_collection_archived](https://github.com/ansible/galaxy_collection_archived) - Automation for configuring and managing a Galaxy server
@@ -3198,6 +3197,7 @@
 - [dcramer/reraise](https://github.com/dcramer/reraise) - 
 - [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
 - [kashifrazzaqui/vyked](https://github.com/kashifrazzaqui/vyked) - A python asyncio driven service oriented architecture framework
+- [redhat-performance/satperf](https://github.com/redhat-performance/satperf) - Collection of Automation/Tools for Performance Analysis/Testing of Satelite 6
 - [revsys/pipup](https://github.com/revsys/pipup) - Better handling of Python pip's requirements.txt files
 - [ryukinix/decorating](https://github.com/ryukinix/decorating) - decorating: Literally decorating your terminal with decorators
 - [Eugeny/ajenti](https://github.com/Eugeny/ajenti) - DEPRECATED: Repo moved to https://github.com/ajenti/ajenti (into the `1.x` branch)
@@ -4534,6 +4534,7 @@
 
 ## Rust 
 
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
@@ -4650,7 +4651,7 @@
 - [CestDiego/sudo-ai](https://github.com/CestDiego/sudo-ai) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [faiface/par](https://github.com/faiface/par) - ⅋ — session types for Rust
-- [faiface/par-lang](https://github.com/faiface/par-lang) - Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
+- [par-team/par-lang](https://github.com/par-team/par-lang) - Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [ats1999/dakia](https://github.com/ats1999/dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
@@ -4990,6 +4991,7 @@
 - [naomijub/wooridb](https://github.com/naomijub/wooridb) - WooriDB is a general purpose time serial database. It is schemaless, key-value storage and uses its own query syntax that is similar to SparQL.
 - [landaire/pdbview](https://github.com/landaire/pdbview) - dump all available information from PDBs
 - [rgripper/rusty-bomber](https://github.com/rgripper/rusty-bomber) - Bomberman clone in Bevy
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor library for Rust based on asynchronous functions.
 - [rubik/hydroconf](https://github.com/rubik/hydroconf) - Effortless configuration management for Rust, inspired by Dynaconf.
@@ -5552,7 +5554,6 @@
 - [ekohl/ownca](https://github.com/ekohl/ownca) - Set of scripts for generating custom ca and signed certs: devel only
 - [MeltwaterArchive/docker-cleanup](https://github.com/MeltwaterArchive/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
-- [redhat-performance/satperf](https://github.com/redhat-performance/satperf) - Collection of Automation/Tools for Performance Analysis/Testing of Satelite 6
 - [lzap/snap-guest](https://github.com/lzap/snap-guest) - Bash script for quick provisioning of copy-on-write KVM guests
 - [fsouza/elasticmq-docker](https://github.com/fsouza/elasticmq-docker) - 
 - [luzfcb/playbooks](https://github.com/luzfcb/playbooks) - My personal Ansible playbooks
