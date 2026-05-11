@@ -505,6 +505,7 @@
 
 ## Go 
 
+- [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server) - 
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [openshift/oc](https://github.com/openshift/oc) - The OpenShift Command Line, part of OKD
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
@@ -1712,6 +1713,7 @@
 
 ## Others 
 
+- [rochacbruno/vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - 100% vegan recipes
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [namesakefyi/atkinson-hyperlegible-soft](https://github.com/namesakefyi/atkinson-hyperlegible-soft) - A soft, rounded version of the font Atkinson Hyperlegible Next.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -4358,7 +4360,6 @@
 - [mdipierro/kryten](https://github.com/mdipierro/kryten) - A shell tool to turn code into a video presentation
 - [mjhea0/web2py](https://github.com/mjhea0/web2py) - Intro to web2py
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [mdipierro/web3py](https://github.com/mdipierro/web3py) - web3py (work in progress... an experiment)
 - [MaxMorais/Code2Case](https://github.com/MaxMorais/Code2Case) - Web2Py Puglin to easy convert slowest VirtualFields to agile case columns
 - [staticjinja/staticjinja](https://github.com/staticjinja/staticjinja) - Minimalist Python library for building static websites with Jinja
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -4534,11 +4535,12 @@
 
 ## Rust 
 
+- [rochacbruno/makectl](https://github.com/rochacbruno/makectl) - WIP - Generate and Manage targets in your makefiles.
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
 - [isala404/forge](https://github.com/isala404/forge) - Rust framework that compiles entire infrastructure into one binary
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
