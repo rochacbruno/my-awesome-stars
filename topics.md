@@ -324,6 +324,7 @@
 
 ## ai 
 
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -6339,7 +6340,7 @@
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [KoffeinFlummi/Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates
 - [hayd/pep8radius](https://github.com/hayd/pep8radius) - PEP8 clean only the parts of the files touched since the last commit, a previous commit or (the merge-base of) a branch.
-- [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
+- [react/jsx](https://github.com/react/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
 - [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [chromakode/wake](https://github.com/chromakode/wake) - A simple life stream web frontend to been.
 - [chromakode/been](https://github.com/chromakode/been) - Life stream collector.
@@ -9795,6 +9796,7 @@
 
 ## terminal 
 
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
@@ -10482,6 +10484,7 @@
 
 ## zsh 
 
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
