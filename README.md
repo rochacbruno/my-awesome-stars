@@ -842,7 +842,7 @@
 - [sh4nks/flask-emoji](https://github.com/sh4nks/flask-emoji) - Flask extension to add support for Emojis.
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
 - [marians/rebrow](https://github.com/marians/rebrow) - Web UI for redis database content
-- [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
+- [react/jsx](https://github.com/react/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
 - [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
 - [hersonls/djamin](https://github.com/hersonls/djamin) - A new style for Django admin
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -5446,6 +5446,7 @@
 
 ## Shell 
 
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
 - [LobsterTrap/tank-os](https://github.com/LobsterTrap/tank-os) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
