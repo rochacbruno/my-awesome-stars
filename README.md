@@ -978,6 +978,7 @@
 
 ## JavaScript 
 
+- [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [lucadealfaro/plainbook](https://github.com/lucadealfaro/plainbook) - Notebooks, in natural language.  A replacement for Jupyter notebooks in plain English.
 - [welpo/tabi](https://github.com/welpo/tabi) - An accessible Zola theme with search, multi-language support, optional JavaScript, a perfect Lighthouse score, and comprehensive documentation. Crafted for personal websites and blogs.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -1468,7 +1469,6 @@
 - [ansible/galaxy_collection](https://github.com/ansible/galaxy_collection) - Collection of modules and roles to configure Automation Hub
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [pulp/pulp_installer](https://github.com/pulp/pulp_installer) - Ansible roles to install & configure Pulp 3 from PyPI
-- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 
 ## Julia 
 
@@ -1717,7 +1717,7 @@
 - [rochacbruno/vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - 100% vegan recipes
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [namesakefyi/atkinson-hyperlegible-soft](https://github.com/namesakefyi/atkinson-hyperlegible-soft) - A soft, rounded version of the font Atkinson Hyperlegible Next.
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
 - [RHEcosystemAppEng/exploitiq-docs](https://github.com/RHEcosystemAppEng/exploitiq-docs) - 
 - [benthomasson/shared-understanding](https://github.com/benthomasson/shared-understanding) - 
@@ -3123,6 +3123,7 @@
 - [Capgemini/kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [abalkin/pytest-leaks](https://github.com/abalkin/pytest-leaks) - A pytest plugin to trace resource leaks.
 - [timofurrer/shellfuncs](https://github.com/timofurrer/shellfuncs) - Python API to execute shell functions as they would be Python functions
+- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [RedHatSatellite/satellite-clone](https://github.com/RedHatSatellite/satellite-clone) - Utility to assist cloning an existing Satellite 6 server to a new host
 - [thanethomson/statik](https://github.com/thanethomson/statik) - Multi-purpose static web site generator aimed at developers.
