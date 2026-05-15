@@ -4538,7 +4538,7 @@
 ## Rust 
 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [rochacbruno/makectl](https://github.com/rochacbruno/makectl) - WIP - Generate and Manage targets in your makefiles.
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
@@ -5335,7 +5335,7 @@
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [google/rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
-- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
+- [composefs/tar-rs](https://github.com/composefs/tar-rs) - Tar file reading/writing for Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [cassiobotaro/rust_playground](https://github.com/cassiobotaro/rust_playground) - :memo: Just some fun with Rust
 - [rayon-rs/rayon-hash](https://github.com/rayon-rs/rayon-hash) - Parallel HashMap and HashSet for Rust
