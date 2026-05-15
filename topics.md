@@ -1193,7 +1193,7 @@
 
 ## code-review 
 
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 
 ## coding 
 
@@ -5564,7 +5564,7 @@
 - [ikalnytskyi/picobox](https://github.com/ikalnytskyi/picobox) - Dependency injection framework designed with Python in mind.
 - [google/rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
+- [composefs/tar-rs](https://github.com/composefs/tar-rs) - Tar file reading/writing for Rust
 - [aio-libs/aiohttp-security](https://github.com/aio-libs/aiohttp-security) - auth and permissions for aiohttp
 - [cassiobotaro/rust_playground](https://github.com/cassiobotaro/rust_playground) - :memo: Just some fun with Rust
 - [rayon-rs/rayon-hash](https://github.com/rayon-rs/rayon-hash) - Parallel HashMap and HashSet for Rust
@@ -8932,7 +8932,7 @@
 ## rust 
 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
@@ -10010,7 +10010,7 @@
 
 ## tui 
 
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.
