@@ -3310,6 +3310,7 @@
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
+- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -4058,6 +4059,7 @@
 
 ## minecraft 
 
+- [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 
 ## mobile 
@@ -4397,6 +4399,7 @@
 - [RespiradorHacker/camara-descontaminacao-ar](https://github.com/RespiradorHacker/camara-descontaminacao-ar) - Câmara de descontaminação de ar
 - [gita/BhagavadGita](https://github.com/gita/BhagavadGita) - A non-profit initiative to help spread the transcendental wisdom from the Bhagavad Gita to people around the world.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -5469,7 +5472,6 @@
 - [danmacnish/cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
 - [openstack-infra/nodepool](https://github.com/openstack-infra/nodepool) - MOVED: Now at https://opendev.org/zuul/nodepool
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
-- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - The Desktop Webcam Widget
 - [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [Azure/iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
@@ -7729,6 +7731,7 @@
 - [alexkehayias/woz](https://github.com/alexkehayias/woz) - Woz is a progressive WebAssembly app (PWAA) generator for Rust.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
+- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
@@ -9770,6 +9773,7 @@
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
+- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 
 ## telegram 
 
