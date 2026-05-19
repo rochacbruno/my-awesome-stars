@@ -4378,7 +4378,7 @@
 
 ## open-source 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -4684,7 +4684,6 @@
 - [softdevteam/snare](https://github.com/softdevteam/snare) - snare: GitHub webhooks daemon
 - [leandronsp/yacs](https://github.com/leandronsp/yacs) - Full-text search across 12M of cities in few milliseconds. Powered by PostgreSQL™
 - [arielgmelo/tweetXer-ptbr](https://github.com/arielgmelo/tweetXer-ptbr) - Dê fim aos seus Tweets de forma fácil e grátis.
-- [erikvullings/docx-parser](https://github.com/erikvullings/docx-parser) - 
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
 - [msuchane/presciidoc](https://github.com/msuchane/presciidoc) - Preprocessing AsciiDoc for other tools (WIP)
 - [asciidoc-rs/asciidoc-parser](https://github.com/asciidoc-rs/asciidoc-parser) - AsciiDoc parser
@@ -8939,7 +8938,7 @@
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [isala404/forge](https://github.com/isala404/forge) - Rust framework that compiles entire infrastructure into one binary
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
@@ -9750,7 +9749,7 @@
 
 ## svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [isala404/forge](https://github.com/isala404/forge) - Rust framework that compiles entire infrastructure into one binary
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
