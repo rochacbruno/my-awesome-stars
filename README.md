@@ -4726,7 +4726,6 @@
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [raphamorim/sugarloaf](https://github.com/raphamorim/sugarloaf) - Sugarloaf is a simple cross-platform rendering engine.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
-- [erikvullings/docx-parser](https://github.com/erikvullings/docx-parser) - 
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [msuchane/presciidoc](https://github.com/msuchane/presciidoc) - Preprocessing AsciiDoc for other tools (WIP)
 - [asciidoc-rs/asciidoc-parser](https://github.com/asciidoc-rs/asciidoc-parser) - AsciiDoc parser
@@ -5624,7 +5623,7 @@
 
 ## Svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
 ## TSQL 
