@@ -4450,6 +4450,7 @@
 
 ## others 
 
+- [LextZip/Deskbuddy](https://github.com/LextZip/Deskbuddy) - Deskbuddy is a compact ESP32-based smart desk companion built around a ESP - CYD touchscreen display. The project combines 3D printing, simple hardware, and software to turn a raw ESP32 screen into a 
 - [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4) - Collaborative effort on the next version of LaserWeb / CNCWeb
 - [rochacbruno/vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - 100% vegan recipes
 - [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server) - 
