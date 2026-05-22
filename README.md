@@ -5101,7 +5101,7 @@
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [rust-torino/tree-sitter-core](https://github.com/rust-torino/tree-sitter-core) - Experimental oxidation of tree-sitter
 - [rodolfoghi/cpf-util-rust](https://github.com/rodolfoghi/cpf-util-rust) - CPF utils written in Rust
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [Lokathor/tinyvec](https://github.com/Lokathor/tinyvec) - Just, really the littlest Vec you could need. So smol.
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A small terminal UTF-8 text editor written in Rust 📝🦀
 - [vitiral/artifact](https://github.com/vitiral/artifact) - The open source design documentation tool for everybody
