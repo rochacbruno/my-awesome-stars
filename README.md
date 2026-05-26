@@ -639,7 +639,7 @@
 - [annamedv/red](https://github.com/annamedv/red) - Red Analytics Tool
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
-- [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine learning operator & controller for Kubernetes
+- [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - ML/AI training/serving and agent sandbox operator and controller for Kubernetes
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
