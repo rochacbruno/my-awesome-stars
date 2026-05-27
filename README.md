@@ -297,6 +297,7 @@
 
 ## CSS 
 
+- [validatedpatterns/docs](https://github.com/validatedpatterns/docs) - Validated Patterns documentation
 - [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [josvanr/cde-motif-theme](https://github.com/josvanr/cde-motif-theme) - Gtk2 / Gtk3 theme mimicking CDE / Motif and Front panel app
@@ -794,6 +795,7 @@
 - [web2py/py4web](https://github.com/web2py/py4web) - 
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 - [wspeirs/rust-compare](https://github.com/wspeirs/rust-compare) - A site that compares Rust to C++ and Java
+- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 - [rimolive/mapa-crime-sp](https://github.com/rimolive/mapa-crime-sp) - Visualização dos dados de criminalidade da cidade de São Paulo
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
@@ -1065,7 +1067,6 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
-- [michaelsboost/CamDesk](https://github.com/michaelsboost/CamDesk) - CamDesk is a free privacy-first webcam recorder and camera studio PWA for taking photos, recording videos, Picture-in-Picture, webcam switching, fullscreen capture, and offline use directly in your br
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
@@ -1914,7 +1915,7 @@
 - [lerrua/remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
 - [elastic/elasticsearch-cloud-aws](https://github.com/elastic/elasticsearch-cloud-aws) - AWS Cloud Plugin for Elasticsearch
 - [drgarcia1986/ansible-playbooks](https://github.com/drgarcia1986/ansible-playbooks) - Some ansible playbooks that I use.
-- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [deepak1556/kitematic](https://github.com/deepak1556/kitematic) - Simple Docker App management for Mac OS X.
 - [ewjoachim/zen-of-python](https://github.com/ewjoachim/zen-of-python) - Zen of Python poster
 - [FSX/misaka](https://github.com/FSX/misaka) - A Python binding for Hoedown.
@@ -4537,6 +4538,7 @@
 
 ## Rust 
 
+- [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [rochacbruno/makectl](https://github.com/rochacbruno/makectl) - WIP - Generate and Manage targets in your makefiles.
