@@ -5870,7 +5870,7 @@
 
 ## YAML 
 
-- [vndmtrx/k8s-in-a-box](https://github.com/vndmtrx/k8s-in-a-box) - 🧩 K8s in a Box - Uma instalação de Kubernetes sem helpers usando Ansible
+- [vndmtrx/k8s-in-a-box](https://github.com/vndmtrx/k8s-in-a-box) - 🧩 KIABO: K8s in a Box - Uma instalação de Kubernetes sem helpers usando Ansible
 - [redhat-cop/infra.aap_configuration](https://github.com/redhat-cop/infra.aap_configuration) - A collection of roles to manage Ansible Automation Platform 2.5+ with code
 
 ## Zig 
