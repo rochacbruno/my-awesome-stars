@@ -2116,7 +2116,6 @@
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [avilum/uvify](https://github.com/avilum/uvify) - Turn python repositories to environments and oneliners with uv python manager, without diving into the code.
 - [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
@@ -4607,7 +4606,7 @@
 - [AbelHristodor/octofer](https://github.com/AbelHristodor/octofer) - 🤖 Framework for easily building GitHub Apps, in Rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [rpm-rs/rpm-builder](https://github.com/rpm-rs/rpm-builder) - build rpms without a spec file. Pure Rust. No dependencies to librpm
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [jctanner/gateway-auth-wasm-plugin](https://github.com/jctanner/gateway-auth-wasm-plugin) - 
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
@@ -4627,6 +4626,7 @@
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [rvben/yamldap](https://github.com/rvben/yamldap) - A lightweight LDAP server that serves directory data from YAML files
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -5870,7 +5870,7 @@
 
 ## YAML 
 
-- [vndmtrx/k8s-in-a-box](https://github.com/vndmtrx/k8s-in-a-box) - 🧩 KIABO: K8s in a Box - Uma instalação de Kubernetes sem helpers usando Ansible
+- [vndmtrx/k8s-in-a-box](https://github.com/vndmtrx/k8s-in-a-box) - 🧩 K8s in a Box: Uma instalação de Kubernetes sem helpers usando Ansible
 - [redhat-cop/infra.aap_configuration](https://github.com/redhat-cop/infra.aap_configuration) - A collection of roles to manage Ansible Automation Platform 2.5+ with code
 
 ## Zig 
