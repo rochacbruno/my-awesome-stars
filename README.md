@@ -288,7 +288,7 @@
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [mongodb/mongo-snippets](https://github.com/mongodb/mongo-snippets) - snippets of code that might be useful for your mongodb deployment
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -1636,6 +1636,7 @@
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 - [nrk/redis-lua](https://github.com/nrk/redis-lua) - A Lua client library for the redis key value storage system.
 - [majek/lua-channels](https://github.com/majek/lua-channels) - Go style channels in pure Lua
+- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 
 ## M4 
 
@@ -5614,7 +5615,6 @@
 - [funcoeszz/funcoeszz](https://github.com/funcoeszz/funcoeszz) - Funções ZZ — 180+ aplicativos para a linha de comando do Linux, Mac e Cygwin
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [hugomaiavieira/afterFormat](https://github.com/hugomaiavieira/afterFormat) - Instala automaticamente diversos softwares básicos que sempre são necessários após uma formatação.
-- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 
 ## Smarty 
