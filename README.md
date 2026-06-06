@@ -1488,7 +1488,6 @@
 - [danielfrg/mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) - Use Jupyter Notebook in mkdocs
 - [fluentpython/builtins](https://github.com/fluentpython/builtins) - Talk about built-in callables in Python 3.7+
 - [rplevka/auto_profiling](https://github.com/rplevka/auto_profiling) - jupyter notebook for visualizing automation execution timeline
-- [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [PulpQE/pulp-qe-tools](https://github.com/PulpQE/pulp-qe-tools) - Tools, Helpers, Scripts, Playbooks and docs for Pulp QE
 - [nixocio/Internals](https://github.com/nixocio/Internals) - 
@@ -2420,7 +2419,7 @@
 - [bwhmather/ssort](https://github.com/bwhmather/ssort) - Tool for automatically sorting python statements within a module
 - [olavolav/uniplot](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [carlsborg/rcviz](https://github.com/carlsborg/rcviz) - Python call graph visualization for recursive functions.
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [pulp/pulp_ansible](https://github.com/pulp/pulp_ansible) - A Pulp plugin that manages Ansible content, i.e. roles, collections
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [calandoa/movescreen](https://github.com/calandoa/movescreen) - Linux script to move windows across screens
@@ -2430,7 +2429,7 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [perylemke/chespirito-api](https://github.com/perylemke/chespirito-api) - Uma API pública contendo informações sobre o unvierso de Roberto Gomez Bolaños.
 - [7joaoG/Criatividade_Pythonica](https://github.com/7joaoG/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [responsibleproblemsolving/energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool
@@ -2767,6 +2766,7 @@
 - [lovelysystems/lovely-pytest-docker](https://github.com/lovelysystems/lovely-pytest-docker) - Pytest plugin providing the ability to use docker-compose services as fixtures.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [fredrik-corneliusson/click-web](https://github.com/fredrik-corneliusson/click-web) - Serve click scripts over the web
+- [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance) - Doing the OAuth dance with style using Flask, requests, and oauthlib.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
@@ -2794,7 +2794,6 @@
 - [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python
 - [wiltonsr/Flask-Toastr](https://github.com/wiltonsr/Flask-Toastr) - Showing non-blocking notifications with Flask's flash and toastr.
 - [web2py/yatl](https://github.com/web2py/yatl) - 
-- [Yipit/dredis](https://github.com/Yipit/dredis) - Disk-based Redis implementation
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [vaab/gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -&gt; https://github.com/ansible/galaxy_ng
@@ -4538,6 +4537,8 @@
 
 ## Rust 
 
+- [jctanner/picoshift](https://github.com/jctanner/picoshift) - 
+- [jctanner/whackamux](https://github.com/jctanner/whackamux) - 
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
