@@ -2356,7 +2356,6 @@
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [jctanner/hub-backport-analyzer](https://github.com/jctanner/hub-backport-analyzer) - linting for hub jira+PR backports
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -4917,6 +4916,7 @@
 - [pacak/hackerman](https://github.com/pacak/hackerman) - Cargo hack manager
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [jniltinho/check-actions](https://github.com/jniltinho/check-actions) - Check Actions and on Github API
+- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [Electron100/butane](https://github.com/Electron100/butane) - An ORM for Rust with a focus on simplicity and on writing Rust, not SQL
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
