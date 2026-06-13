@@ -2492,7 +2492,7 @@
 - [RedHatQE/teflo_examples](https://github.com/RedHatQE/teflo_examples) - Examples on how to use Teflo
 - [RedHatQE/teflo](https://github.com/RedHatQE/teflo) - Teflo is a standalone orchestration software that controls the flow of a set of testing scenarios, allowing users to provision machines, deploy software, execute tests against them and manage generate
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [ballet/ballet](https://github.com/ballet/ballet) - ☀️🦶 A lightweight framework for collaborative, open-source feature engineering
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -4447,7 +4447,7 @@
 - [lfagundes/oosheet](https://github.com/lfagundes/oosheet) - OpenOffice.org Spreadsheet scripting and macros made easy with Python
 - [etianen/moody-templates](https://github.com/etianen/moody-templates) - A fast, extensible templating engine for Python 3 with Django-like syntax.
 - [omab/django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [marcelcaraciolo/crab](https://github.com/marcelcaraciolo/crab) - Crab - A  recommendation engine library for Python
 - [seb-m/pyinotify](https://github.com/seb-m/pyinotify) - Monitoring filesystems events with inotify on Linux.
 - [douglascamata/web2pyrecipe](https://github.com/douglascamata/web2pyrecipe) - A recipe for using web2py with Buildout
@@ -5662,7 +5662,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
