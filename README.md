@@ -2051,10 +2051,12 @@
 
 ## Python 
 
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
+- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
 - [itdove/ai-guardian](https://github.com/itdove/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -2074,7 +2076,7 @@
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [ferrumio/pydynox](https://github.com/ferrumio/pydynox) - A fast DynamoDB ORM for Python with a Rust core.
 - [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
-- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos & Google Takeout. The Tool supports multiple account
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -2116,6 +2118,7 @@
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [avilum/uvify](https://github.com/avilum/uvify) - Turn python repositories to environments and oneliners with uv python manager, without diving into the code.
 - [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
@@ -4537,6 +4540,7 @@
 
 ## Rust 
 
+- [fkeil/agentbox](https://github.com/fkeil/agentbox) - Run AI coding agents in isolated containers — one command, any agent, your folder.
 - [jctanner/picoshift](https://github.com/jctanner/picoshift) - 
 - [jctanner/whackamux](https://github.com/jctanner/whackamux) - 
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
@@ -4629,7 +4633,6 @@
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [rvben/yamldap](https://github.com/rvben/yamldap) - A lightweight LDAP server that serves directory data from YAML files
 - [tracel-ai/burn-lm](https://github.com/tracel-ai/burn-lm) - Democratizing large model inference and training on any device.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -5625,7 +5628,7 @@
 
 ## Starlark 
 
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
