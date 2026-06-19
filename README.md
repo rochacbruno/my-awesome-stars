@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server) - 
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [openshift/oc](https://github.com/openshift/oc) - The OpenShift Command Line, part of OKD
