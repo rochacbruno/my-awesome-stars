@@ -793,6 +793,7 @@
 - [pyjamasconf/pyjamas.live](https://github.com/pyjamasconf/pyjamas.live) - pyjamas.live website
 - [codeshow/site](https://github.com/codeshow/site) - CodeShow content powered by Rust and Zola
 - [spastorino/why-rust](https://github.com/spastorino/why-rust) - Why Rust? OSS talk
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [brian-slate/JSON-Schema-Builder](https://github.com/brian-slate/JSON-Schema-Builder) - A simple GUI tool to enable designing and building JSON schemas
 - [web2py/py4web](https://github.com/web2py/py4web) - 
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
@@ -951,7 +952,6 @@
 - [redhat-developer-demos/quarkus-tutorial](https://github.com/redhat-developer-demos/quarkus-tutorial) - Quarkus Tutorial for https://dn.dev/quarkusmaster
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [ibek/issue-keeper](https://github.com/ibek/issue-keeper) - Issue keeper is a tracking tool which makes the tests skipped in advance when they are blocked by the open issues.
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [anyaudio/anyaudio-android-app](https://github.com/anyaudio/anyaudio-android-app) - One Stop Music Application
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -1861,7 +1861,6 @@
 - [fedora-python/fedora-python](https://github.com/fedora-python/fedora-python) - Docs about Python in Fedora
 - [PKpacheco/comunidades-python-latam](https://github.com/PKpacheco/comunidades-python-latam) - Comunidades de Python espalhadas pela América Latina.
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
-- [inessadl/readme](https://github.com/inessadl/readme) - Examples of README files and notes about how to write them.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
@@ -4569,7 +4568,6 @@
 - [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut) - 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -4736,6 +4734,7 @@
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [raphamorim/sugarloaf](https://github.com/raphamorim/sugarloaf) - Sugarloaf is a simple cross-platform rendering engine.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
+- [erikvullings/docx-parser](https://github.com/erikvullings/docx-parser) - 
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [msuchane/presciidoc](https://github.com/msuchane/presciidoc) - Preprocessing AsciiDoc for other tools (WIP)
 - [asciidoc-rs/asciidoc-parser](https://github.com/asciidoc-rs/asciidoc-parser) - AsciiDoc parser
@@ -5662,6 +5661,7 @@
 - [ansible/aap-mcp-server](https://github.com/ansible/aap-mcp-server) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
