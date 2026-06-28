@@ -2065,7 +2065,7 @@
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub translation bot — mention it to get any post translated. Built with apkit, FastAPI and LibreTranslate.
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [cloin/semaphore-mcp](https://github.com/cloin/semaphore-mcp) - MCP for SemaphoreUI
-- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.
+- [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
 - [openshift-eng/ai-helpers](https://github.com/openshift-eng/ai-helpers) - Developer productivity tools for Claude Code & other AI assistants
 - [larryb02/Build-Server](https://github.com/larryb02/Build-Server) - CI/CD System
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
@@ -2138,7 +2138,7 @@
 - [albertomh/pycliche](https://github.com/albertomh/pycliche) - A Python project template with opinionated tooling
 - [albertomh/djereo](https://github.com/albertomh/djereo) - A Django project template with opinionated tooling
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-- [always-further/akta](https://github.com/always-further/akta) - Authenticated independently verifiable agent delegation.
+- [nolabs-ai/akta](https://github.com/nolabs-ai/akta) - Authenticated independently verifiable agent delegation.
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
 - [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
