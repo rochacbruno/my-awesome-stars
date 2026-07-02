@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server) - 
@@ -3081,7 +3082,7 @@
 - [schapman1974/tinymongo](https://github.com/schapman1974/tinymongo) - A simple wrapper to make a flat file drop in raplacement for mongodb out of TinyDB
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [lubosz/wacom-utility](https://github.com/lubosz/wacom-utility) - GTK gui for xsetwacom (Wacom Tablets)
-- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy🍻
 - [schollz/playlistfromsong](https://github.com/schollz/playlistfromsong) - Create an offline music playlist from a single song :notes:
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [pythonbrasil/planet](https://github.com/pythonbrasil/planet) - Repo público para atualização da lista de sites do Planet PythonBrasil
@@ -4568,6 +4569,7 @@
 - [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut) - 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+- [Start9Labs/start-technologies](https://github.com/Start9Labs/start-technologies) - A graphical server OS optimized for self-hosting
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [rust-lang/bors](https://github.com/rust-lang/bors) - Rust implementation of bors used for various Rust components (e.g. the compiler).
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -4579,7 +4581,7 @@
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open source voice-to-text for the terminal. Record from a hotkey, transcribe with any provider, pipe to AI or shell commands.
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - The first game written and played entirely in Rust's type system. Not only do you play by writing Rust code, but the rules of the game are enforced by the Rust compiler. If you can write the program s
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [vcwild/akon](https://github.com/vcwild/akon) - Access and manage VPN connections automatically
 - [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
 - [leegeunhyeok/craby](https://github.com/leegeunhyeok/craby) - Type-safe Rust for React Native—auto generated, integrated with pure C++ TurboModule
@@ -4638,7 +4640,7 @@
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [confidential-containers/trustee](https://github.com/confidential-containers/trustee) - Attestation and Secret Delivery Components
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [opensourcecheemsburgers/ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - A cross-platform markdown editor.
 - [anoek/sandbox](https://github.com/anoek/sandbox) - A tool for creating lightweight containerized copy-on-write views of your computer for safely running programs and managing output.
@@ -5663,7 +5665,6 @@
 - [ansible/aap-mcp-server](https://github.com/ansible/aap-mcp-server) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
