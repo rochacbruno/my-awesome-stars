@@ -7,6 +7,7 @@
 
 - [ASL](#asl)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
@@ -104,6 +105,10 @@
 - [c3x04/Unix-1st-Edition-jun72](https://github.com/c3x04/Unix-1st-Edition-jun72) - Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [ricbit/Oldies](https://github.com/ricbit/Oldies) - Old code written by Ricbit
+
+## Astro 
+
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Awk 
 
@@ -335,7 +340,6 @@
 - [JoelSutherland/GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - A good looking repo widget to add to your website.
 - [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 - [davidsonfellipe/im-coder](https://github.com/davidsonfellipe/im-coder) - :metal: :trollface:
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [markusslima/bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle) - jQuery customization of input html file for Bootstrap Twitter
 - [gophercon/2014-talks](https://github.com/gophercon/2014-talks) - This is the official repository for slides and talks from GopherCon 2014
 - [concentricsky/django-client-admin](https://github.com/concentricsky/django-client-admin) - An enhanced administrator interface for Django.
@@ -2053,8 +2057,9 @@
 
 ## Python 
 
+- [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
-- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [itdove/ai-guardian](https://github.com/itdove/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
@@ -2129,7 +2134,7 @@
 - [sarugaku/resolvelib](https://github.com/sarugaku/resolvelib) - Resolve abstract dependencies into concrete ones
 - [francozanardi/pictex](https://github.com/francozanardi/pictex) - A Python library for efficient image generation using CSS Flexbox
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [janbjorge/notifelect](https://github.com/janbjorge/notifelect) - A distributed leader election python package using postgresql notify.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [russoz-ansible/andebox](https://github.com/russoz-ansible/andebox) - Ansible Developer's (tool)Box, andebox, is a single script to assist Ansible developers by encapsulating some boilerplate tasks
