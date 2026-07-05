@@ -2086,7 +2086,7 @@
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
 - [shanemcd/jirahhh](https://github.com/shanemcd/jirahhh) - jirahhh — because that’s how it feels using it.
@@ -2365,7 +2365,7 @@
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
+- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - A Rust-backed async ORM for Python applications that use Pydantic models ✨
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [jctanner/hub-backport-analyzer](https://github.com/jctanner/hub-backport-analyzer) - linting for hub jira+PR backports
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -4546,6 +4546,8 @@
 
 ## Rust 
 
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
+- [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [fkeil/agentbox](https://github.com/fkeil/agentbox) - Run AI coding agents in isolated containers — one command, any agent, your folder.
 - [jctanner/picoshift](https://github.com/jctanner/picoshift) - 
 - [jctanner/whackamux](https://github.com/jctanner/whackamux) - 
