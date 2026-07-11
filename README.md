@@ -189,6 +189,7 @@
 - [unbit/uwsgi-realtime](https://github.com/unbit/uwsgi-realtime) - a uWSGI plugin exposing offloaded realtime features like SSE, socket.io and media streaming
 - [aldur/uwsgi-slack](https://github.com/aldur/uwsgi-slack) - uWSGI plugin for Slack integration. (https://slack.com)
 - [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
+- [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
@@ -1173,7 +1174,6 @@
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [tibastral/markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload.
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
-- [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [abhiomkar/flask-react](https://github.com/abhiomkar/flask-react) - Boilerplate to create lightweight webapp with Flask & React.js
 - [glamp/wooderson.js](https://github.com/glamp/wooderson.js) - A library for randomly quoting Wooderson in order to create maximum business value
 - [obihill/restive.js](https://github.com/obihill/restive.js) - a designer-friendly jQuery toolkit for responsive Web design
@@ -1758,7 +1758,6 @@
 - [Skalamark/gl](https://github.com/Skalamark/gl) - Language of script GLanguage
 - [cuducos/chunk](https://github.com/cuducos/chunk) - 🧱 Chunk is a download manager for slow and unstable servers
 - [lambda-study-group/dicionario-termos-funcionais](https://github.com/lambda-study-group/dicionario-termos-funcionais) - Dicionario de termos funcionais traduzidos
-- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [inspiradanacomputacao/tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) - Manifesto de Pessoas Tecnologistas contra Bolsonaro
 - [Politica-Para-Todos/manifestos](https://github.com/Politica-Para-Todos/manifestos) - Contém todos os programas políticos usados pelo PPT
 - [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - 📖 Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
@@ -4546,6 +4545,7 @@
 
 ## Rust 
 
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
@@ -4725,7 +4725,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
-- [guacsec/trustify](https://github.com/guacsec/trustify) - Bringing together SBOMs and advisories.
+- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale.
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
@@ -4921,6 +4921,7 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [INSAgenda/yew-template](https://github.com/INSAgenda/yew-template) - A crate to separate your HTML from your Rust code when using Yew
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
