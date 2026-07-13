@@ -1107,7 +1107,6 @@
 - [the8472/fastar](https://github.com/the8472/fastar) - Fast tar archiver
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [andrewpetrochenkov/setupcfg-generator.py](https://github.com/andrewpetrochenkov/setupcfg-generator.py) - :package: :snake: setup.cfg generator
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
@@ -8123,7 +8122,6 @@
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
 - [mesalock-linux/mesapy](https://github.com/mesalock-linux/mesapy) - A Fast and Safe Python based on PyPy
 - [python-needle/needle](https://github.com/python-needle/needle) - Automated tests for your CSS.
-- [andrewpetrochenkov/setupcfg-generator.py](https://github.com/andrewpetrochenkov/setupcfg-generator.py) - :package: :snake: setup.cfg generator
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [reportportal/client-Python](https://github.com/reportportal/client-Python) - A common client library for Python-based agents
 - [ionelmc/python-manhole](https://github.com/ionelmc/python-manhole) - Debugging manhole for python applications.
