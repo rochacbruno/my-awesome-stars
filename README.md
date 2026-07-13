@@ -2738,7 +2738,6 @@
 - [mesalock-linux/mesapy](https://github.com/mesalock-linux/mesapy) - A Fast and Safe Python based on PyPy
 - [python-needle/needle](https://github.com/python-needle/needle) - Automated tests for your CSS.
 - [ssrikanta/pytest-excel](https://github.com/ssrikanta/pytest-excel) - 
-- [andrewpetrochenkov/setupcfg-generator.py](https://github.com/andrewpetrochenkov/setupcfg-generator.py) - :package: :snake: setup.cfg generator
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [reportportal/client-Python](https://github.com/reportportal/client-Python) - A common client library for Python-based agents
 - [ionelmc/python-manhole](https://github.com/ionelmc/python-manhole) - Debugging manhole for python applications.
