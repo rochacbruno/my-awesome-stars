@@ -124,7 +124,6 @@
 
 ## C 
 
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [bbogdan-ov/mupwit](https://github.com/bbogdan-ov/mupwit) - WIP Music player with things (MPD client)
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -2062,7 +2061,7 @@
 - [itdove/ai-guardian](https://github.com/itdove/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -4585,6 +4584,7 @@
 - [guibeira/wakezilla](https://github.com/guibeira/wakezilla) - A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [kristoferlund/ostt](https://github.com/kristoferlund/ostt) - Open source voice-to-text for the terminal. Record from a hotkey, transcribe with any provider, pipe to AI or shell commands.
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - The first game written and played entirely in Rust's type system. Not only do you play by writing Rust code, but the rules of the game are enforced by the Rust compiler. If you can write the program s
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
