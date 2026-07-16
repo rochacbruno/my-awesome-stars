@@ -4631,7 +4631,7 @@
 - [trygveaa/kitty-kitten-search](https://github.com/trygveaa/kitty-kitten-search) - Kitten for searching in kitty
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
-- [alx210/emwm](https://github.com/alx210/emwm) - Enhanced Motif Window Manager (MWM fork). Supports Xinerama, Xrandr, UTF-8/Xft, and relevant EWMH.
+- [alx210/emwm](https://github.com/alx210/emwm) - Enhanced Motif Window Manager (MWM fork). Supports Xinerama, Xrandr, UTF-8/Xft, multiple workspaces and relevant EWMH.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [josvanr/cde-motif-theme](https://github.com/josvanr/cde-motif-theme) - Gtk2 / Gtk3 theme mimicking CDE / Motif and Front panel app
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
