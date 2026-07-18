@@ -1489,7 +1489,7 @@
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [smarie/pytest-patterns](https://github.com/smarie/pytest-patterns) - A couple of examples showing how pytest and its plugins can be combined to solve real-world needs.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [emirozer/fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
@@ -1559,7 +1559,7 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -2040,7 +2040,6 @@
 
 ## dotfiles 
 
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -8322,7 +8321,7 @@
 - [xlwings/jsondiff](https://github.com/xlwings/jsondiff) - Diff JSON and JSON-like structures in Python
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
 - [alexprengere/jsonmixin](https://github.com/alexprengere/jsonmixin) - Automatic Json export of your Python objects
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
@@ -9727,7 +9726,7 @@
 ## sql 
 
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
@@ -10066,7 +10065,7 @@
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) - Python 3.5+ runtime type checking for integration testing and data validation
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [mindflayer/python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module
 - [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python
