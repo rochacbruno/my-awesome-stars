@@ -217,6 +217,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
+- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [pico-8](#pico-8)
@@ -5450,7 +5451,6 @@
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [encode/requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
-- [fsouza/join](https://github.com/fsouza/join) - [pt-BR] sistema de gerenciamento de inscrições em cursos - migrado do Bitbucket & abandonado
 - [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
 - [HackSoftware/simple_schema_validator](https://github.com/HackSoftware/simple_schema_validator) - A dead-simple utility that validates if object has a certain structure. Used in some of our projects.
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
@@ -5923,7 +5923,6 @@
 - [lzap/snap-guest](https://github.com/lzap/snap-guest) - Bash script for quick provisioning of copy-on-write KVM guests
 - [mxsasha/lessobviouschecklist](https://github.com/mxsasha/lessobviouschecklist) - The Less Obvious Conference Checklist
 - [shazow/gohttplib](https://github.com/shazow/gohttplib) - Go buildmodes prototype: Expose net/http.Server as a library with C bindings
-- [fsouza/elasticmq-docker](https://github.com/fsouza/elasticmq-docker) - 
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.
 - [help-somebody/help-somebody](https://github.com/help-somebody/help-somebody) - Ajude a comunidade ou ajude a caridade
 - [dpapavas/luaprompt](https://github.com/dpapavas/luaprompt) - An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion.
@@ -7618,6 +7617,10 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [operatorequals/covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
+
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## php 
 
