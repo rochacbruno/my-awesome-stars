@@ -2782,7 +2782,6 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [encode/requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [fsouza/join](https://github.com/fsouza/join) - [pt-BR] sistema de gerenciamento de inscrições em cursos - migrado do Bitbucket & abandonado
 - [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [HackSoftware/simple_schema_validator](https://github.com/HackSoftware/simple_schema_validator) - A dead-simple utility that validates if object has a certain structure. Used in some of our projects.
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
@@ -3750,7 +3749,6 @@
 - [mfitzp/qtipy](https://github.com/mfitzp/qtipy) - Automatically run IPython notebooks against new data using file triggers returning new-rendered output.
 - [rasbt/pyprind](https://github.com/rasbt/pyprind) - PyPrind - Python Progress Indicator Utility
 - [scrapy/w3lib](https://github.com/scrapy/w3lib) - Python library of web-related functions
-- [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
 - [pkrumins/xgoogle](https://github.com/pkrumins/xgoogle) - Python library to Google services (google search, google sets, google translate, sponsored links)
 - [toudi/porter](https://github.com/toudi/porter) - general-purpose deployment system
@@ -5438,6 +5436,7 @@
 - [fengsp/pencil](https://github.com/fengsp/pencil) - A web application microframework for Rust
 - [erickt/rust-elasticsearch](https://github.com/erickt/rust-elasticsearch) - Rust library to interact with ElasticSearch
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+- [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 
@@ -5582,7 +5581,6 @@
 - [MeltwaterArchive/docker-cleanup](https://github.com/MeltwaterArchive/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [lzap/snap-guest](https://github.com/lzap/snap-guest) - Bash script for quick provisioning of copy-on-write KVM guests
-- [fsouza/elasticmq-docker](https://github.com/fsouza/elasticmq-docker) - 
 - [luzfcb/playbooks](https://github.com/luzfcb/playbooks) - My personal Ansible playbooks
 - [tckmn/xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [jakubnabrdalik/gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
