@@ -222,7 +222,7 @@
 
 - [LextZip/Deskbuddy](https://github.com/LextZip/Deskbuddy) - Deskbuddy is a compact ESP32-based smart desk companion built around a ESP - CYD touchscreen display. The project combines 3D printing, simple hardware, and software to turn a raw ESP32 screen into a 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [DMarked/DMarked](https://github.com/DMarked/DMarked) - markdown editor based on dtk
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
