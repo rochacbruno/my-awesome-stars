@@ -753,7 +753,7 @@
 - [RedHatQE/CodeQuality](https://github.com/RedHatQE/CodeQuality) - Documentation, automation scripts and deployments, enabling the creation of an open-source, high quality, enterprise-wide code quality infrastructure over multiple languages and platforms:gem::star::t
 - [oasis-origin/oasis-pipeline](https://github.com/oasis-origin/oasis-pipeline) - Jenkinsfile shared library for wrapping molecule testing workflows
 - [RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib) - Jenkins shared library used by the Insights team at Red Hat
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
 - [Netflix/asgard](https://github.com/Netflix/asgard) - [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.co
 
 ## HTML 
