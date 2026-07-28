@@ -108,6 +108,7 @@
 
 ## Astro 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Awk 
@@ -188,6 +189,7 @@
 - [unbit/uwsgi-realtime](https://github.com/unbit/uwsgi-realtime) - a uWSGI plugin exposing offloaded realtime features like SSE, socket.io and media streaming
 - [aldur/uwsgi-slack](https://github.com/aldur/uwsgi-slack) - uWSGI plugin for Slack integration. (https://slack.com)
 - [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [amol-/dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
@@ -810,7 +812,6 @@
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [jniltinho/go-samba4_archive](https://github.com/jniltinho/go-samba4_archive) - A web interface to manage a remote samba4 server - Python, Flask Framework
 - [steveklabnik/rust-in-ten-slides](https://github.com/steveklabnik/rust-in-ten-slides) - Short presentations about Rust syntax + concepts
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [JacobCallahan/quickchat](https://github.com/JacobCallahan/quickchat) - QuickChat - Stupid fast, scale-able, private chat app
 - [rustbridge/website](https://github.com/rustbridge/website) - the website for rustbridge
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
@@ -1632,7 +1633,6 @@
 - [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 - [sailorproject/sailor](https://github.com/sailorproject/sailor) - A Lua MVC Web Framework.
 - [tarekziade/nuax](https://github.com/tarekziade/nuax) - Micro-Framework in Lua
-- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [enotodden/turboredis](https://github.com/enotodden/turboredis) - Redis library for Turbo
 - [kernelsauce/turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance
 - [ophal/core](https://github.com/ophal/core) - Official Ophal core repository
