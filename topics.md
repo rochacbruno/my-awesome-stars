@@ -516,7 +516,7 @@
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [ats1999/api-gateway](https://github.com/ats1999/api-gateway) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
+- [ats1999/Dakia](https://github.com/ats1999/Dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols.
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -3162,7 +3162,7 @@
 
 ## http 
 
-- [ats1999/api-gateway](https://github.com/ats1999/api-gateway) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
+- [ats1999/Dakia](https://github.com/ats1999/Dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -4438,7 +4438,6 @@
 
 ## open-source 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -4520,7 +4519,7 @@
 - [rochacbruno/vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - 100% vegan recipes
 - [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server) - 
 - [rochacbruno/makectl](https://github.com/rochacbruno/makectl) - WIP - Generate and Manage targets in your makefiles.
-- [itdove/ai-guardian](https://github.com/itdove/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
+- [RedHatProductSecurity/ai-guardian](https://github.com/RedHatProductSecurity/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [openshift/oc](https://github.com/openshift/oc) - The OpenShift Command Line, part of OKD
@@ -4540,6 +4539,7 @@
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub translation bot — mention it to get any post translated. Built with apkit, FastAPI and LibreTranslate.
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
 - [ansible/aap-mcp-server](https://github.com/ansible/aap-mcp-server) - 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [cloin/semaphore-mcp](https://github.com/cloin/semaphore-mcp) - MCP for SemaphoreUI
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -9016,7 +9016,6 @@
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [isala404/forge](https://github.com/isala404/forge) - The standard library for agent-built SaaS
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
@@ -9077,7 +9076,7 @@
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
-- [ats1999/api-gateway](https://github.com/ats1999/api-gateway) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
+- [ats1999/Dakia](https://github.com/ats1999/Dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
@@ -9833,7 +9832,6 @@
 
 ## svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
