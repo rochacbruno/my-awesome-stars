@@ -4527,7 +4527,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [LobsterTrap/tank-os](https://github.com/LobsterTrap/tank-os) - 
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [openshift/assisted-installer](https://github.com/openshift/assisted-installer) - 
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
@@ -5790,7 +5790,7 @@
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
 - [msiemens/tinydb-smartcache](https://github.com/msiemens/tinydb-smartcache) - A smarter cache for TinyDB
 - [msiemens/tinydb-serialization](https://github.com/msiemens/tinydb-serialization) - Serialization for objects which TinyDB couldn't handle otherwise
-- [schapman1974/tinymongo](https://github.com/schapman1974/tinymongo) - A simple wrapper to make a flat file drop in raplacement for mongodb out of TinyDB
+- [schapman1974/tinymongo](https://github.com/schapman1974/tinymongo) - A simple wrapper to make a flat file drop in raplacement for mongodb out of TinyDB/SQLite/Duckdb... etc
 - [lubosz/wacom-utility](https://github.com/lubosz/wacom-utility) - GTK gui for xsetwacom (Wacom Tablets)
 - [Zeioth/XFCE-Wacom-Settings](https://github.com/Zeioth/XFCE-Wacom-Settings) - Wacom settings for XFCE
 - [laike9m/pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy🍻
