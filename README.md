@@ -84,7 +84,6 @@
 - [Svelte](#svelte)
 - [TSQL](#tsql)
 - [TeX](#tex)
-- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -5658,10 +5657,6 @@
 - [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [jonasteuwen/A-note-on-gaussian-maximal-functions](https://github.com/jonasteuwen/A-note-on-gaussian-maximal-functions) - Published paper: "A note on Gaussian maximal functions"
 - [yograterol/libromongodb](https://github.com/yograterol/libromongodb) - Libro en Espanol sobre NoSQL y MongoDB
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Tree-sitter Query 
 
