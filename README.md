@@ -537,7 +537,7 @@
 - [openshift/apiserver-library-go](https://github.com/openshift/apiserver-library-go) - k/k dependent helpers for kube-apiserver and openshift-apiserver
 - [openshift/api](https://github.com/openshift/api) - Canonical location of the OpenShift API definition.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
+- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - 🏴‍☠️ Navigate the high seas of media automation
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
