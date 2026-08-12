@@ -3063,7 +3063,6 @@
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman.
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [gmr/flatdict](https://github.com/gmr/flatdict) - Python module for interacting with nested dicts as a single level dict with delimited keys.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
@@ -4568,7 +4567,7 @@
 - [elen-c-sales/fogo_doom](https://github.com/elen-c-sales/fogo_doom) - Este repositório é um estudo do efeito de fogo estilo Doom usando uma tabela de cores (paleta) e uma simulacao discreta de calor. A implementacao foi feita como exercicio de aprendizagem: primeiro ent
 - [z-galaxy/zbus](https://github.com/z-galaxy/zbus) - Rust D-Bus crate.
 - [clivewatts/takeout_downloader_script](https://github.com/clivewatts/takeout_downloader_script) - This script will facilitate
-- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - A fast way to run your own media server using Radarr, Lidarr, Readarr, and Bazarr
+- [woliveiras/corsarr](https://github.com/woliveiras/corsarr) - 🏴‍☠️ Navigate the high seas of media automation
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
