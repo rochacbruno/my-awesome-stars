@@ -2058,7 +2058,7 @@
 - [RedHatProductSecurity/ai-guardian](https://github.com/RedHatProductSecurity/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -3686,7 +3686,7 @@
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [bennylope/mongoengine-extras](https://github.com/bennylope/mongoengine-extras) - Use the latest django-extensions instead - now supports Mongo!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [bx2/queuer](https://github.com/bx2/queuer) - A simple Flask-based app for queued registration.
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [renatopp/aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
