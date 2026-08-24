@@ -322,7 +322,6 @@
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
 - [cuducos/PhD](https://github.com/cuducos/PhD) - My PhD writings
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
-- [marcelogumercinocosta/django-garb](https://github.com/marcelogumercinocosta/django-garb) - Modern theme for Django admin interface
 - [tiagocordeiro/djmenu](https://github.com/tiagocordeiro/djmenu) - Django food menu. A simple solution for restaurants and pizzerias.
 - [containers/podman.io_old](https://github.com/containers/podman.io_old) - Repository for podman.io website using GitHub Pages.
 - [apas/athena](https://github.com/apas/athena) - Minimalist static blog generator written in Python
@@ -5445,6 +5444,7 @@
 
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [cristatus/asciidoctor-styles](https://github.com/cristatus/asciidoctor-styles) - A themeable stylesheet for Asciidoctor.
+- [marcelogumercinocosta/django-garb](https://github.com/marcelogumercinocosta/django-garb) - Modern theme for Django admin interface
 - [elixir-examples/elixir-examples.github.io](https://github.com/elixir-examples/elixir-examples.github.io) - A collection of elixir programming language examples.
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
