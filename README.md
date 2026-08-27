@@ -149,7 +149,7 @@
 - [otherJL0/tree-sitter-hurl](https://github.com/otherJL0/tree-sitter-hurl) - Tree-sitter grammar for Hurl
 - [andykitchen/swcursor](https://github.com/andykitchen/swcursor) - Large software cursor for screen recording on X11
 - [swillner/highlight-pointer](https://github.com/swillner/highlight-pointer) - Highlight mouse pointer/cursor using a dot - useful for presentations, screen sharing, ...
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [gandro/input-event-daemon](https://github.com/gandro/input-event-daemon) - input event handling daemon for linux (unmaintained)
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
@@ -1088,7 +1088,6 @@
 - [anyaudio/web](https://github.com/anyaudio/web) - [Inactive] A free, open source music player
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
-- [eissasoubhi/summernote-bricks](https://github.com/eissasoubhi/summernote-bricks) - A Summernote module to add user-friendly components to the wysiwyg editor
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [browserify/rustify](https://github.com/browserify/rustify) - Rust WebAssembly transform for Browserify
 - [bltavares/presentations](https://github.com/bltavares/presentations) - 
@@ -2058,7 +2057,7 @@
 - [RedHatProductSecurity/ai-guardian](https://github.com/RedHatProductSecurity/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -3981,7 +3980,6 @@
 - [mrjoes/sockjs-tornado](https://github.com/mrjoes/sockjs-tornado) - WebSocket emulation - Python server
 - [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
 - [tlatsas/jinja2-highlight](https://github.com/tlatsas/jinja2-highlight) - Jinja2 extension to highlight source code using Pygments
-- [roman-neuhauser/py-impala](https://github.com/roman-neuhauser/py-impala) - Import packages and modules from arbitrary directories and files
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [jpvanhal/flask-split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
@@ -5516,7 +5514,7 @@
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [andrewpetrochenkov/pypi-register](https://github.com/andrewpetrochenkov/pypi-register) - :snake: register pypi.org project
+- [petrochenkov-ak/pypi-register](https://github.com/petrochenkov-ak/pypi-register) - :snake: register pypi.org project
 - [MashMB/manjaro-i3wm](https://github.com/MashMB/manjaro-i3wm) - Personalized Manjaro i3wm configuration
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -5777,6 +5775,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
+- [eissasoubhi/summernote-bricks](https://github.com/eissasoubhi/summernote-bricks) - A Summernote module to add user-friendly components to the wysiwyg editor
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hiro-sun/vscode-emacs](https://github.com/hiro-sun/vscode-emacs) - 
