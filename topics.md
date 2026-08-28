@@ -391,6 +391,7 @@
 
 ## ai-agents 
 
+- [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -970,7 +971,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-- [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+- [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -986,7 +987,7 @@
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
-- [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+- [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 
@@ -1018,7 +1019,7 @@
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
-- [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+- [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 - [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) - Hermeto is a CLI tool that prefetches project dependencies for hermetic container builds.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -1088,7 +1089,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
-- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight flexible file watcher for the agentic era.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -1697,7 +1698,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight flexible file watcher for the agentic era.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [headcrab-rs/headcrab](https://github.com/headcrab-rs/headcrab) - A modern Rust debugging library 🦀
 - [cuducos/createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files
@@ -1784,7 +1785,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [LiangrunDa/raft-lite](https://github.com/LiangrunDa/raft-lite) - Raft Lite is a very simple and verified implementation of the Raft consensus algorithm.
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is an asynchronous Python framework for building event-driven applications. It brings together message broker integration, dependency injection, validation, testing utilities, and AsyncAPI 
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and obs
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1908,6 +1909,7 @@
 
 ## docker 
 
+- [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub bot that translates Fediverse posts when mentioned — works with Mastodon. Built with apkit, FastAPI and LibreTranslate.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
@@ -4606,7 +4608,7 @@
 - [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
 - [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -7892,7 +7894,7 @@
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [brazilian-utils/python](https://github.com/brazilian-utils/python) - Biblioteca de utilitários projetada para validar, gerar e manipular dados de acordo com as particularidades do Brasil 🇧🇷
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is an asynchronous Python framework for building event-driven applications. It brings together message broker integration, dependency injection, validation, testing utilities, and AsyncAPI 
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and obs
 - [AlexWiles/pai](https://github.com/AlexWiles/pai) - pai: A Python REPL with a built in AI agent
 - [dunossauro/videomaker-helper](https://github.com/dunossauro/videomaker-helper) - Simplify your video editing workflow with Python 📹
 - [ran-isenberg/serverless-python-demo](https://github.com/ran-isenberg/serverless-python-demo) - This project covers an opinionated approach to Python project setup, testing, profiling, deployments, and operations. Learn about many open source tools, including Powertools for AWS Lambda—a toolkit 
@@ -9016,6 +9018,7 @@
 
 ## rust 
 
+- [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 - [Latias94/merman](https://github.com/Latias94/merman) - Mermaid.js, but headless, in Rust.
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
@@ -9307,7 +9310,7 @@
 - [maciejhirsz/ramhorns](https://github.com/maciejhirsz/ramhorns) - Fast Mustache template engine implementation in pure Rust.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
-- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight flexible file watcher for the agentic era.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
