@@ -4514,7 +4514,7 @@
 
 ## others 
 
-- [honr-app/honr](https://github.com/honr-app/honr) - An agent orchestrator whose board is a control plane, not a report.
+- [sandboard-app/sandboard](https://github.com/sandboard-app/sandboard) - An agent orchestrator whose board is a control plane, not a report.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [jctanner/picoshift](https://github.com/jctanner/picoshift) - 
@@ -9557,6 +9557,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+- [p-r-a-v-i-n/rwatch](https://github.com/p-r-a-v-i-n/rwatch) - Real-time Threat Detection using eBPF + Rust
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
