@@ -4537,7 +4537,7 @@
 ## Rust 
 
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
-- [honr-app/honr](https://github.com/honr-app/honr) - An agent orchestrator whose board is a control plane, not a report.
+- [sandboard-app/sandboard](https://github.com/sandboard-app/sandboard) - An agent orchestrator whose board is a control plane, not a report.
 - [Latias94/merman](https://github.com/Latias94/merman) - Mermaid.js, but headless, in Rust.
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
