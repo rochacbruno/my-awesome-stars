@@ -618,7 +618,6 @@
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [RedHatInsights/clowder](https://github.com/RedHatInsights/clowder) - Operator for operating cloud.redhat.com
@@ -1778,6 +1777,7 @@
 - [dunossauro/guia-de-estilo-python](https://github.com/dunossauro/guia-de-estilo-python) - Tradução das propostas de melhoria do python referentes a estilo de código (PEP-8) e docstrings (PEP-257)
 - [simonw/datasette-plugin-template-repository](https://github.com/simonw/datasette-plugin-template-repository) - GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [badtuxx/cheatsheet](https://github.com/badtuxx/cheatsheet) - Repo com as cheatsheet da LINUXtips!
 - [lincolixavier/tretadev](https://github.com/lincolixavier/tretadev) - Repositório criado com o intuito de centralizar as tretas semanais que acontecem na cena dev BR
 - [awesome-rust-cloud-native/awesome-rust-cloud-native](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native) - A curated list of awesome Cloud Native Rust frameworks, libraries and software
