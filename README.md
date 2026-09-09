@@ -618,6 +618,7 @@
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [sigstore/sigstore](https://github.com/sigstore/sigstore) - Common go library shared across sigstore services and clients
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [RedHatInsights/clowder](https://github.com/RedHatInsights/clowder) - Operator for operating cloud.redhat.com
@@ -1075,7 +1076,6 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [loganmzz/rust-presentation-introduction](https://github.com/loganmzz/rust-presentation-introduction) - "Tomorrow I stop coffee, I get to crab !"
@@ -1776,7 +1776,6 @@
 - [dunossauro/guia-de-estilo-python](https://github.com/dunossauro/guia-de-estilo-python) - Tradução das propostas de melhoria do python referentes a estilo de código (PEP-8) e docstrings (PEP-257)
 - [simonw/datasette-plugin-template-repository](https://github.com/simonw/datasette-plugin-template-repository) - GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [badtuxx/cheatsheet](https://github.com/badtuxx/cheatsheet) - Repo com as cheatsheet da LINUXtips!
 - [lincolixavier/tretadev](https://github.com/lincolixavier/tretadev) - Repositório criado com o intuito de centralizar as tretas semanais que acontecem na cena dev BR
 - [awesome-rust-cloud-native/awesome-rust-cloud-native](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native) - A curated list of awesome Cloud Native Rust frameworks, libraries and software
@@ -2832,6 +2831,7 @@
 - [sarugaku/shellingham](https://github.com/sarugaku/shellingham) - Tool to Detect Surrounding Shell
 - [jsbueno/gridder](https://github.com/jsbueno/gridder) - Python snippets for grid-drawing, game-of-life-like toys and simulators
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [pulp/crane](https://github.com/pulp/crane) - :warning: ⛔️ Pulp2 is EOL as of November 30 2022, for more info visit this link https://pulpproject.org/2022/09/19/pulp-2-eol/. ⛔️ docker-registry-like API with redirection, as a wsgi app
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [jarun/pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with piggybacked timers
@@ -4817,7 +4817,7 @@
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [clojure-rs/ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
