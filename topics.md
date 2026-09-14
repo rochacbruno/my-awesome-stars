@@ -2288,7 +2288,7 @@
 - [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask
 - [guilouro/slack-invite](https://github.com/guilouro/slack-invite) - Flask app to invite on slack
 - [pytest-dev/pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
-- [wooyek/flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - An OAuth based authentication blueprint for flask. Easy to extend and override.
+- [janusz-skonieczny/flask-social-blueprint](https://github.com/janusz-skonieczny/flask-social-blueprint) - An OAuth based authentication blueprint for flask. Easy to extend and override.
 - [shonenada/flask-rbac](https://github.com/shonenada/flask-rbac) - Flask-RBAC
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
 - [DeaconDesperado/flask_mab](https://github.com/DeaconDesperado/flask_mab) - An implementation of the multi-armed bandit optimization pattern as a Flask extension
@@ -8433,7 +8433,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-- [wooyek/flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - An OAuth based authentication blueprint for flask. Easy to extend and override.
+- [janusz-skonieczny/flask-social-blueprint](https://github.com/janusz-skonieczny/flask-social-blueprint) - An OAuth based authentication blueprint for flask. Easy to extend and override.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [shonenada/flask-rbac](https://github.com/shonenada/flask-rbac) - Flask-RBAC
 - [DeaconDesperado/flask_mab](https://github.com/DeaconDesperado/flask_mab) - An implementation of the multi-armed bandit optimization pattern as a Flask extension
