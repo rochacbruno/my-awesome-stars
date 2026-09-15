@@ -1329,7 +1329,7 @@
 - [websanova/wChar](https://github.com/websanova/wChar) - jQuery character counter plugin
 - [jbdemonte/gmap3](https://github.com/jbdemonte/gmap3) - jQuery plugin to create Google maps
 - [jcarver989/raphy-charts](https://github.com/jcarver989/raphy-charts) - Charting library built on Raphael.js
-- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - ichartjs is a HTML5 canvas charting library. written in pure JavaScript, It uses the HTML5 canvas tag to bulid a variety of charting.offering interactive charts to your web site or web application. ic
+- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - An agent-first, JSON-driven visualization runtime for interactive charts, project views, and process diagrams with Canvas and SVG support.
 - [briangonzalez/jquery.arbitrary-anchor.js](https://github.com/briangonzalez/jquery.arbitrary-anchor.js) - ⚓ Arbitrary anchors for any element on your page using a little jQuery magic.
 - [audreyfeldroy/messagebar](https://github.com/audreyfeldroy/messagebar) - MessageBar: A top bar for notification messages. Dismiss it by clicking the x. Works with Django, but that's optional.
 - [arthanson/django-genericadmin](https://github.com/arthanson/django-genericadmin) - A simple django app to make the lookup of generic models easier.
@@ -2053,7 +2053,6 @@
 ## Python 
 
 - [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [RedHatProductSecurity/ai-guardian](https://github.com/RedHatProductSecurity/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
@@ -4543,6 +4542,7 @@
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [fkeil/agentbox](https://github.com/fkeil/agentbox) - Run AI coding agents in isolated containers — one command, any agent, your folder.
 - [jctanner/picoshift](https://github.com/jctanner/picoshift) - 
 - [jctanner/whackamux](https://github.com/jctanner/whackamux) - 
@@ -4720,7 +4720,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
-- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale. Exposes a correlation graph of vuln :left_right_arrow: c
+- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale. Exposes a vulnerability correlation graph of vuln :left_
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
@@ -5469,7 +5469,7 @@
 
 ## Shell 
 
-- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly
 - [LobsterTrap/tank-os](https://github.com/LobsterTrap/tank-os) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [gwenneg/claude-engineering-toolkit](https://github.com/gwenneg/claude-engineering-toolkit) - 
