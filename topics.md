@@ -341,7 +341,7 @@
 ## ai 
 
 - [fkeil/agentbox](https://github.com/fkeil/agentbox) - Run AI coding agents in isolated containers — one command, any agent, your folder.
-- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -4734,7 +4734,7 @@
 - [matthiask/html-sanitizer](https://github.com/matthiask/html-sanitizer) - Allowlist-based HTML cleaner
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
-- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale. Exposes a correlation graph of vuln :left_right_arrow: c
+- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale. Exposes a vulnerability correlation graph of vuln :left_
 - [securesign/pipelines-demo](https://github.com/securesign/pipelines-demo) - A repository holding a few openshift-pipelines demos leveraging securesign repositories to demostrate basic Secure Supply Chain practices.
 - [openvex/spec](https://github.com/openvex/spec) - OpenVEX Specification
 - [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
@@ -7109,7 +7109,7 @@
 - [avelino/quik](https://github.com/avelino/quik) - A fast and lightweight Python template engine
 - [codeinthehole/django-deferred-filelogger](https://github.com/codeinthehole/django-deferred-filelogger) - A logging handler for Django that defers evaluation of the filepath
 - [jcarver989/raphy-charts](https://github.com/jcarver989/raphy-charts) - Charting library built on Raphael.js
-- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - ichartjs is a HTML5 canvas charting library. written in pure JavaScript, It uses the HTML5 canvas tag to bulid a variety of charting.offering interactive charts to your web site or web application. ic
+- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - An agent-first, JSON-driven visualization runtime for interactive charts, project views, and process diagrams with Canvas and SVG support.
 - [isnowfy/pydown](https://github.com/isnowfy/pydown) - An HTML5 presentation builder written by python
 - [MLstate/birdy](https://github.com/MLstate/birdy) - Micro-blogging engine
 - [apiguy/flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
@@ -9912,7 +9912,7 @@
 ## terminal 
 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
@@ -10621,7 +10621,7 @@
 
 ## zsh 
 
-- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need.
+- [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
