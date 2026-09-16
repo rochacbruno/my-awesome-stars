@@ -867,6 +867,7 @@
 - [jandecaluwe/urubu](https://github.com/jandecaluwe/urubu) - A micro CMS for static websites, with a focus on good navigation practices.
 - [viadeo/puppet-thumbor](https://github.com/viadeo/puppet-thumbor) - Puppet module to deploy Thumbor http://github.com/globocom/thumbor
 - [scrapy/scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
+- [scrapy/w3lib](https://github.com/scrapy/w3lib) - Python library of web-related functions
 - [Permafacture/pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [pythonclub/pythonclub.github.io](https://github.com/pythonclub/pythonclub.github.io) - Blog colaborativo sobre tecnologias que envolvam a linguagem Python
 - [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
@@ -3745,7 +3746,6 @@
 - [mvasilkov/kivy-2014](https://github.com/mvasilkov/kivy-2014) - Rockivy is an app for learning guitar scales, written in Python for Kivy App Contest 2014.
 - [mfitzp/qtipy](https://github.com/mfitzp/qtipy) - Automatically run IPython notebooks against new data using file triggers returning new-rendered output.
 - [rasbt/pyprind](https://github.com/rasbt/pyprind) - PyPrind - Python Progress Indicator Utility
-- [scrapy/w3lib](https://github.com/scrapy/w3lib) - Python library of web-related functions
 - [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
 - [pkrumins/xgoogle](https://github.com/pkrumins/xgoogle) - Python library to Google services (google search, google sets, google translate, sponsored links)
 - [toudi/porter](https://github.com/toudi/porter) - general-purpose deployment system
