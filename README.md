@@ -899,6 +899,7 @@
 - [django-fiber/django-fiber](https://github.com/django-fiber/django-fiber) - Django Fiber - a simple, user-friendly CMS for all your Django projects
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [daviferreira/twitter-bootstrap-admin](https://github.com/daviferreira/twitter-bootstrap-admin) - Admin interface using twitter bootstrap.
+- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - An agent-first, JSON-driven visualization runtime for interactive charts, project views, and process diagrams with Canvas and SVG support.
 - [Sandglaz/bootstrap-tagautocomplete](https://github.com/Sandglaz/bootstrap-tagautocomplete) - A bootstrap plugin to autocomplete tags for contenteditable div elements. It works in the same way tagging people on Facebook, Twitter or Sandglaz works.
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [douglasmiranda/django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Theme for Django Admin With Sidebar Menu
@@ -1330,7 +1331,6 @@
 - [websanova/wChar](https://github.com/websanova/wChar) - jQuery character counter plugin
 - [jbdemonte/gmap3](https://github.com/jbdemonte/gmap3) - jQuery plugin to create Google maps
 - [jcarver989/raphy-charts](https://github.com/jcarver989/raphy-charts) - Charting library built on Raphael.js
-- [wanghetommy/ichartjs](https://github.com/wanghetommy/ichartjs) - An agent-first, JSON-driven visualization runtime for interactive charts, project views, and process diagrams with Canvas and SVG support.
 - [briangonzalez/jquery.arbitrary-anchor.js](https://github.com/briangonzalez/jquery.arbitrary-anchor.js) - ⚓ Arbitrary anchors for any element on your page using a little jQuery magic.
 - [audreyfeldroy/messagebar](https://github.com/audreyfeldroy/messagebar) - MessageBar: A top bar for notification messages. Dismiss it by clicking the x. Works with Django, but that's optional.
 - [arthanson/django-genericadmin](https://github.com/arthanson/django-genericadmin) - A simple django app to make the lookup of generic models easier.
@@ -1737,6 +1737,7 @@
 - [openvex/spec](https://github.com/openvex/spec) - OpenVEX Specification
 - [cuducos/not-my-ex](https://github.com/cuducos/not-my-ex) - 🐝 Tiny CLI to post simultaneously to Mastodon and Bluesky
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [ImplFerris/rust-in-production](https://github.com/ImplFerris/rust-in-production) - Rust In Production
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, up to 2x faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
@@ -4769,7 +4770,6 @@
 - [fcoury/huskog](https://github.com/fcoury/huskog) - :deciduous_tree: Script Language Inspired by Rust
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [Code-Militia/jirust](https://github.com/Code-Militia/jirust) - Jira terminal UI
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
