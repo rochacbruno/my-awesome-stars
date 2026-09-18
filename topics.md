@@ -4787,7 +4787,6 @@
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [ret2src/kde-plasma-solarized](https://github.com/ret2src/kde-plasma-solarized) - Solarized Dark and Light Color Schemes for KDE Plasma
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [andigandhi/Mastodon-Circles](https://github.com/andigandhi/Mastodon-Circles) - Producing a visual representation of Mastodon interactions with JS
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
@@ -7778,6 +7777,7 @@
 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [Ottrlang/otterlang](https://github.com/Ottrlang/otterlang) - Otterlang programming language 🦦
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -9084,7 +9084,7 @@
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern, distro-independent package manager that just works [maintainer=@QaidVoid]
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
