@@ -2334,7 +2334,7 @@
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
 - [tetra-framework/tetra](https://github.com/tetra-framework/tetra) - Tetra - A full stack component framework for Django using Alpine.js
 - [allisson/fastqueue](https://github.com/allisson/fastqueue) - Simple queue system based on FastAPI and PostgreSQL
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [securefederatedai/openfederatedlearning](https://github.com/securefederatedai/openfederatedlearning) - An Open Framework for Federated Learning.
 - [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
@@ -4557,7 +4557,7 @@
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
 - [isala404/forge](https://github.com/isala404/forge) - The standard library for agent-built SaaS
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -4721,7 +4721,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
 - [rust-secure-code/cargo-auditable](https://github.com/rust-secure-code/cargo-auditable) - Make production Rust binaries auditable
-- [guacsec/trustify](https://github.com/guacsec/trustify) - SBOM analysis platform for storing, correlating, and querying software bill of materials and security advisories (CSAF/VEX, OSV, CVE) at scale. Exposes a vulnerability correlation graph of vuln :left_
+- [guacsec/trustify](https://github.com/guacsec/trustify) - Vulnerability correlation engine that works at scale turning your evidence (SBOMs, advisories) into assertions. Links vulnerability ↔ component ↔ product ↔ VEX across CSAF/VEX, OSV and CVE, and answer
 - [tag1consulting/goose](https://github.com/tag1consulting/goose) - Load testing framework, inspired by Locust
 - [seedwing-io/openvex-rs](https://github.com/seedwing-io/openvex-rs) - Rust types for the OpenVEX format
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
