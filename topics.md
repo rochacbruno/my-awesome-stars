@@ -4336,6 +4336,7 @@
 
 ## nlp 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [hliyan/jarvis](https://github.com/hliyan/jarvis) - J.A.R.V.I.S - Just Another Rudimentary Verbal Instruction Shell
 - [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
@@ -4526,7 +4527,6 @@
 
 ## others 
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 - [sandboard-app/sandboard](https://github.com/sandboard-app/sandboard) - Coordinate coding agents from a project board. Run tasks in OpenShell sandboxes and review pull requests on GitHub.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
@@ -7823,6 +7823,7 @@
 
 ## python 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [Riverfount/translate-bot](https://github.com/Riverfount/translate-bot) - ActivityPub bot that translates Fediverse posts when mentioned — works with Mastodon. Built with apkit, FastAPI and LibreTranslate.
 - [isala404/forge](https://github.com/isala404/forge) - The standard library for agent-built SaaS
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
@@ -8859,6 +8860,7 @@
 
 ## pytorch 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - ML/AI training/serving and agent sandbox operator and controller for Kubernetes
