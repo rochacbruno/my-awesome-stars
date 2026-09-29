@@ -6771,6 +6771,7 @@
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [mongrel2/Tir](https://github.com/mongrel2/Tir) - A Simple Lua Web Framework For Mongrel2
 - [SPORE/specifications](https://github.com/SPORE/specifications) - SPORE specifications
+- [foursquare/mongo-hdfs-export](https://github.com/foursquare/mongo-hdfs-export) - 
 - [billyyarosh/Bootstrap-Clean-Dashboard-Theme](https://github.com/billyyarosh/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
 - [Ink/python-instagram](https://github.com/Ink/python-instagram) - Python Client for Instagram API
 - [renzon/tekton-micro](https://github.com/renzon/tekton-micro) - Python Microarchitecture for routing web application by convention
