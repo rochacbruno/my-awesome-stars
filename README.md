@@ -1003,6 +1003,7 @@
 - [alonswartz/notesium](https://github.com/alonswartz/notesium) - Markdown notes system with bi-directional links, Vim integration and local webapp
 - [angolarti/openwnms](https://github.com/angolarti/openwnms) - 
 - [selfrefactor/niketa-theme](https://github.com/selfrefactor/niketa-theme) - 9 light themes for VSCode bundled in one theme
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [google-gemini/gemini-cli-action](https://github.com/google-gemini/gemini-cli-action) - 
 - [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
@@ -5463,6 +5464,7 @@
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
+- [foursquare/mongo-hdfs-export](https://github.com/foursquare/mongo-hdfs-export) - 
 - [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 
 ## Scheme 
@@ -5688,7 +5690,6 @@
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -5699,7 +5700,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
