@@ -2755,7 +2755,7 @@
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [omkarkhatavkar/jirasync](https://github.com/omkarkhatavkar/jirasync) - This CLI tool to sync and track GitHub issues, pr's, pr_reviews with Jira.   Currently supported to only for create, update and close status.
 - [RedHatQE/ouia](https://github.com/RedHatQE/ouia) - The Open UI Automation Standard
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - High-performance serialization without replacing your data model
 - [peterjc/flake8-black](https://github.com/peterjc/flake8-black) - flake8 plugin to run black for checking Python coding style
 - [SatelliteQE/airgun](https://github.com/SatelliteQE/airgun) - AirGun is a Python library that is built over Widgetastic and navmazing to make Satellite 6 UI testing easier.
 - [openstack/openstacksdk](https://github.com/openstack/openstacksdk) - Unified SDK for OpenStack. Mirror of code maintained at opendev.org.
