@@ -570,6 +570,7 @@
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated, text-based social network with a Gemini frontend
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -2216,7 +2217,6 @@
 - [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - The last Python environment manager you'll ever need.
 - [PythonicCafe/youtool](https://github.com/PythonicCafe/youtool) - Python library + CLI to easily access YouTube Data API in batches + scraping
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) - 
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
@@ -4054,7 +4054,7 @@
 - [patrys/pymongo-pubsub](https://github.com/patrys/pymongo-pubsub) - a publish-subscribe pattern implementation for pymongo
 - [rossdylan/utils](https://github.com/rossdylan/utils) - Personal utility libraries for python
 - [apache/predictionio-sdk-python](https://github.com/apache/predictionio-sdk-python) - PredictionIO Python SDK
-- [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
+- [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools lib
 - [nicolaiarocci/flask-mimerender](https://github.com/nicolaiarocci/flask-mimerender) - Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework
 - [authomatic/authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
