@@ -1078,7 +1078,6 @@
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
@@ -1514,7 +1513,6 @@
 - [kidpixo/git_history_visualizer](https://github.com/kidpixo/git_history_visualizer) - python script to visualize the history of files in a git repository
 - [gscottstukey/Localebnb](https://github.com/gscottstukey/Localebnb) - My capstone project for Galvanize (Zipfian Academy)
 - [brandon-rhodes/pycon-pandas-tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) - PyCon 2015 Pandas tutorial materials
-- [gems-uff/noworkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system.
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
 - [mbakker7/exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
@@ -3476,6 +3474,7 @@
 - [msosvi/flask-pyco](https://github.com/msosvi/flask-pyco) - A simple flat file CMS inspired by Pico and Jekyll.
 - [lobocv/crashreporter](https://github.com/lobocv/crashreporter) - Store and send crash reports directly to the devlopers
 - [asonawalla/FBEraser](https://github.com/asonawalla/FBEraser) - Programatically delete your Facebook posts
+- [gems-uff/noworkflow](https://github.com/gems-uff/noworkflow) - Supporting infrastructure to run scientific experiments without a scientific workflow management system.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [sdispater/orator](https://github.com/sdispater/orator) - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 - [hayd/leanpub](https://github.com/hayd/leanpub) - Build leanpub books locally.
@@ -4281,7 +4280,7 @@
 - [PlayNetwork/esimport](https://github.com/PlayNetwork/esimport) - Facilitates the indexing of content from a CSV into ElasticSearch
 - [not-kennethreitz/envoy](https://github.com/not-kennethreitz/envoy) - Python Subprocesses for Humans™.
 - [icook/yota](https://github.com/icook/yota) - Flexible Python web forms with asynchronous validation
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [gregmuellegger/django-mobile](https://github.com/gregmuellegger/django-mobile) - Detect mobile browsers and serve different template flavours to them.
 - [agiliq/merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors via Pluggable backends.
 - [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django
