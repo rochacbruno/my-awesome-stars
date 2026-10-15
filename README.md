@@ -396,6 +396,7 @@
 
 ## CoffeeScript 
 
+- [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) - Podcast Web Player
 - [paradoxxxzero/butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 - [SatelliteQE/robottelo-ircbot](https://github.com/SatelliteQE/robottelo-ircbot) - An IRC bot based on Hubot for Robottelo
@@ -571,7 +572,7 @@
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
@@ -1075,7 +1076,6 @@
 - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [greyli/albumy](https://github.com/greyli/albumy) - Check out the newer version (2024) of this project: https://github.com/greyli/moments
-- [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
@@ -1337,7 +1337,6 @@
 - [audreyfeldroy/messagebar](https://github.com/audreyfeldroy/messagebar) - MessageBar: A top bar for notification messages. Dismiss it by clicking the x. Works with Django, but that's optional.
 - [arthanson/django-genericadmin](https://github.com/arthanson/django-genericadmin) - A simple django app to make the lookup of generic models easier.
 - [LinkedInAttic/hopscotch](https://github.com/LinkedInAttic/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [rozza/demos](https://github.com/rozza/demos) - Some mongodb demos
@@ -3414,7 +3413,6 @@
 - [mardix/flask-cloudy](https://github.com/mardix/flask-cloudy) - A Flask extension to access, upload, download, save and delete files on cloud storage providers such as: AWS S3, Google Storage, Microsoft Azure, Rackspace Cloudfiles, and even Local file system
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [mattdennewitz/playlist-to-vec](https://github.com/mattdennewitz/playlist-to-vec) - An artist recommendation engine, from feeding Spotify playlists through word2vec
-- [emre/relationships](https://github.com/emre/relationships) - redis backed user relationships on its simplest form.
 - [Yelp/swagger_spec_validator](https://github.com/Yelp/swagger_spec_validator) - 
 - [eelzon/morgenbot](https://github.com/eelzon/morgenbot) - A standup bot for Slack
 - [jlfwong/flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
@@ -4267,7 +4265,6 @@
 - [henriquebastos/django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 - [arasraj/Recommender_System](https://github.com/arasraj/Recommender_System) - CF item-based recommender system
 - [cenkalti/pyhtml](https://github.com/cenkalti/pyhtml) - HTML generation library for Python
-- [emre/kaptan](https://github.com/emre/kaptan) - configuration manager in your pocket.
 - [Bouke/django-airbrake](https://github.com/Bouke/django-airbrake) - Django Airbrake provides a logging handler to push exceptions and other errors to airbrakeapp or other airbrake-compatible exception handler services (e.g. aTech Media's Codebase).
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
 - [relsi/chipincode](https://github.com/relsi/chipincode) - Chip in Code is an open source app for create crowdfunding websites
@@ -5707,6 +5704,7 @@
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [pwltr/tauthy](https://github.com/pwltr/tauthy) - A private desktop authenticator that keeps your codes within reach.
 - [growilabs/growi](https://github.com/growilabs/growi) - :anchor: GROWI - Team collaboration software using markdown
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [imqueue/pg-pubsub](https://github.com/imqueue/pg-pubsub) - Reliable PostgreSQL LISTEN/NOTIFY with inter-process lock support
 - [Silverquark/dance](https://github.com/Silverquark/dance) - Make your cursors dance with Helix-like modal editing in VS Code.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -5814,6 +5812,7 @@
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 
@@ -5874,7 +5873,6 @@
 
 - [KustoszApp/web-ui](https://github.com/KustoszApp/web-ui) - Focus on the worthwhile content with Kustosz, open source self-hosted web application. This repository contains frontend code.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
