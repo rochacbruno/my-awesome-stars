@@ -529,7 +529,7 @@
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [ats1999/Dakia](https://github.com/ats1999/Dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
@@ -848,7 +848,7 @@
 
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [pratikborsadiya/vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 5 admin/dashboard template
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
@@ -956,7 +956,6 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -1462,7 +1461,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [python-needle/needle](https://github.com/python-needle/needle) - Automated tests for your CSS.
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1705,7 +1704,7 @@
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -2113,7 +2112,6 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [Almenon/AREPL-electron](https://github.com/Almenon/AREPL-electron) - python scratchpad with real-time code evaluation
@@ -2688,7 +2686,7 @@
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated, text-based social network with a Gemini frontend
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -2767,7 +2765,7 @@
 
 ## graphql 
 
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interactio
 - [happy-machine/FastQL](https://github.com/happy-machine/FastQL) - Spin up a super fast Rust powered GraphQL API to prototype your ML model in one line of Python code.
 - [kiranz/just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
@@ -3142,7 +3140,7 @@
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
 - [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -3168,7 +3166,7 @@
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
@@ -3463,7 +3461,7 @@
 ## jekyll 
 
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 
 ## jenkins 
@@ -6174,7 +6172,6 @@
 - [mattdennewitz/playlist-to-vec](https://github.com/mattdennewitz/playlist-to-vec) - An artist recommendation engine, from feeding Spotify playlists through word2vec
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
-- [emre/relationships](https://github.com/emre/relationships) - redis backed user relationships on its simplest form.
 - [Yelp/swagger_spec_validator](https://github.com/Yelp/swagger_spec_validator) - 
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [eelzon/morgenbot](https://github.com/eelzon/morgenbot) - A standup bot for Slack
@@ -7251,7 +7248,6 @@
 - [cenkalti/pyhtml](https://github.com/cenkalti/pyhtml) - HTML generation library for Python
 - [ed-lea/jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
 - [pazguille/async-img](https://github.com/pazguille/async-img) - [DEPRECATED: You should use https://github.com/pazguille/aload] Asynchronous Image Loader.
-- [emre/kaptan](https://github.com/emre/kaptan) - configuration manager in your pocket.
 - [tent/tent.io](https://github.com/tent/tent.io) - The website for Tent — the protocol for evented data storage and decentralized communication
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
 - [relsi/chipincode](https://github.com/relsi/chipincode) - Chip in Code is an open source app for create crowdfunding websites
@@ -8689,7 +8685,7 @@
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
@@ -9541,7 +9537,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [sass/libsass-python](https://github.com/sass/libsass-python) - A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [drublic/css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript
@@ -10053,7 +10049,7 @@
 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
-- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
+- [chapar-rest/chapar](https://github.com/chapar-rest/chapar) - Fast, native API client for REST, gRPC, WebSocket and GraphQL. A local-first Postman alternative written in Go: no Electron, no account, no cloud.
 - [Tomperez98/pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in Cargo.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -10210,7 +10206,6 @@
 
 ## twitter 
 
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [polemicas-e-tretas-dev/polemicas-e-tretas-dev](https://github.com/polemicas-e-tretas-dev/polemicas-e-tretas-dev) - As polêmicas e tretas 🇧🇷 versionadas
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
