@@ -4631,7 +4631,7 @@
 - [Keyrunes/keyrunes](https://github.com/Keyrunes/keyrunes) - ⚔️ A modern, attribute-aware access control engine written in Rust. Supports RBAC, ABAC, ReBAC, PBAC, and fine-grained multi-tenant policies. Built to rival Keycloak's authorization module.
 - [enieber/today](https://github.com/enieber/today) - manager tasks using markdown and get information about weather today
 - [iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban) - Rust Sokoban book and code samples
-- [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
+- [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - Fully async Rust TUI engine 🦀. For powering AI/LLM coding agents, Cloud/SSH workflows & interactive CLIs: non-blocking readline, inline dialogs, React/Elm-style full-screen TUI, Markdown editor, PTY m
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments, high-performance and written in Rust.
