@@ -307,7 +307,7 @@
 ## CSS 
 
 - [validatedpatterns/docs](https://github.com/validatedpatterns/docs) - Validated Patterns documentation
-- [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
+- [duxlabs-dev/dux-plugin-registry](https://github.com/duxlabs-dev/dux-plugin-registry) - Official and third party plugins and themes for Dux Shell
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [josvanr/cde-motif-theme](https://github.com/josvanr/cde-motif-theme) - Gtk2 / Gtk3 theme mimicking CDE / Motif and Front panel app
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
@@ -516,7 +516,7 @@
 
 ## Go 
 
-- [jctanner/markov](https://github.com/jctanner/markov) - 
+- [vokramd/markov](https://github.com/vokramd/markov) - 
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
@@ -544,9 +544,9 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
-- [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch) - Indexed filesystem search in GO
+- [duxlabs-dev/dux-search](https://github.com/duxlabs-dev/dux-search) - Indexed filesystem search from Dux Labs
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
-- [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
+- [duxlabs-dev/dux-gop](https://github.com/duxlabs-dev/dux-gop) - API and CLI for system and process monitoring from Dux Labs
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [sivel/amanda](https://github.com/sivel/amanda) - A simple web application, to mimic the v3 API endpoints for Ansible Galaxy Collections, with no database, just a directory with artifacts
@@ -2063,7 +2063,7 @@
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
-- [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.
+- [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod - A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
 - [vmagueta/envgate](https://github.com/vmagueta/envgate) - A minimal Python library to validate environment variables at startup. Zero dependencies.
@@ -2586,7 +2586,7 @@
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [artemShelest/flask-admin-subview](https://github.com/artemShelest/flask-admin-subview) - Embedded Flask-Admin list views
 - [AFistfulOfLinks/afistfuloflinks](https://github.com/AFistfulOfLinks/afistfuloflinks) - A Fistful of Links website sources (Hugo) and tools
-- [jazzband/django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django rest auth
+- [django-commons/django-rest-knox](https://github.com/django-commons/django-rest-knox) - Authentication Module for django rest auth
 - [dcifuen/chalice-dynaconf-helloworld](https://github.com/dcifuen/chalice-dynaconf-helloworld) - Making chalice and dynaconf play together
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - EyeLoop is a Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments on consumer-grade hardware.
@@ -2921,7 +2921,7 @@
 - [pytest-dev/pytest-selenium](https://github.com/pytest-dev/pytest-selenium) - Plugin for running Selenium with pytest
 - [renzon/pytest-vs-unitest](https://github.com/renzon/pytest-vs-unitest) - Project to compare pytest and unitest Test Frameworks
 - [theforeman/foreman-ansible-modules](https://github.com/theforeman/foreman-ansible-modules) - Ansible modules for interacting with the Foreman API and various plugin APIs such as Katello
-- [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
+- [lordjabez/requestium](https://github.com/lordjabez/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [mckaymatt/cookiecutter-pypackage-rust-cross-platform-publish](https://github.com/mckaymatt/cookiecutter-pypackage-rust-cross-platform-publish) - Cookiecutter template for a Python package with a Rust binary module that supports releasing on Windows, OSX and Linux.
 - [pinterest/ptracer](https://github.com/pinterest/ptracer) - A library for ptrace-based tracing of Python programs
 - [getsentry/milksnake](https://github.com/getsentry/milksnake) - A setuptools/wheel/cffi extension to embed a binary data in wheels
@@ -3847,7 +3847,7 @@
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
 - [lethain/Redis-Python-Datastructures](https://github.com/lethain/Redis-Python-Datastructures) - simple python datastructure wrappings for redis
 - [lingthio/Flask-User](https://github.com/lingthio/Flask-User) - Customizable User Authorization & User Management: Register, Confirm, Login, Change username/password, Forgot password and more.
-- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins, fully CommonMark compliant.
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
 - [SatelliteQE/testimony](https://github.com/SatelliteQE/testimony) - Inspect and Report python test cases using test case docstrings
 - [marshmallow-code/webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
@@ -4476,9 +4476,9 @@
 ## QML 
 
 - [devnullvoid/dms-web-search](https://github.com/devnullvoid/dms-web-search) - Web Search plugin for DankMaterialShell - Search the web with 23+ built-in search engines
-- [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
+- [duxlabs-dev/dux-plugins](https://github.com/duxlabs-dev/dux-plugins) - First party plugins for Dux Shell
 - [Daniel-42-z/dankmaterialshell-plugins](https://github.com/Daniel-42-z/dankmaterialshell-plugins) - 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [Goldaracena/colorschemeswapper-plasmoid](https://github.com/Goldaracena/colorschemeswapper-plasmoid) - A KDE plasmoid to swap between any two given color schemes.
 - [chiyuki0325/plasma-mediacontroller-minimum](https://github.com/chiyuki0325/plasma-mediacontroller-minimum) - ⏯️ Minimum media info & controller widget
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
@@ -4807,6 +4807,7 @@
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [danilomo/rtetris](https://github.com/danilomo/rtetris) - Tetris game made with Bevy
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [gbaranski/ezsockets](https://github.com/gbaranski/ezsockets) - High-level declarative API for building WebSocket Clients and Servers in Rust 🦀
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
@@ -5095,7 +5096,7 @@
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [tsoding/cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
@@ -5681,7 +5682,7 @@
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [voideditor/void](https://github.com/voideditor/void) - 
