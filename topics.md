@@ -91,6 +91,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -2087,6 +2088,10 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [avilum/linqit](https://github.com/avilum/linqit) - Extend python lists operations using .NET's LINQ syntax for clean and fast coding.
 
+## downloader 
+
+- [Welltory/Zoom2Youtube](https://github.com/Welltory/Zoom2Youtube) - Transfer video recordings from the Zoom to YouTube
+
 ## education 
 
 - [davep/dhv](https://github.com/davep/dhv) - Dive into Python code
@@ -4078,7 +4083,7 @@
 - [mplewis/csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins, fully CommonMark compliant.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -5284,7 +5289,6 @@
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
 - [dustypomerleau/yarra-valley](https://github.com/dustypomerleau/yarra-valley) - Your new favorite dark theme for Visual Studio Code
 - [karlamagueta/pablito](https://github.com/karlamagueta/pablito) - to a toa
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
@@ -8248,7 +8252,7 @@
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [codelv/enaml-native](https://github.com/codelv/enaml-native) - Build native mobile apps in python with enaml
-- [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
+- [lordjabez/requestium](https://github.com/lordjabez/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [mckaymatt/cookiecutter-pypackage-rust-cross-platform-publish](https://github.com/mckaymatt/cookiecutter-pypackage-rust-cross-platform-publish) - Cookiecutter template for a Python package with a Rust binary module that supports releasing on Windows, OSX and Linux.
 - [pinterest/ptracer](https://github.com/pinterest/ptracer) - A library for ptrace-based tracing of Python programs
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -9361,6 +9365,7 @@
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
