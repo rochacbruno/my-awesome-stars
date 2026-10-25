@@ -4313,7 +4313,7 @@
 - [circus-tent/circus](https://github.com/circus-tent/circus) - A Process & Socket Manager built with zmq
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [znc-sistemas/django-municipios](https://github.com/znc-sistemas/django-municipios) - Aplicação plugável Django com modelos e widgets para os Municípios Brasileiros
-- [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
+- [django-commons/django-widget-tweaks](https://github.com/django-commons/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [sehmaschine/django-filebrowser](https://github.com/sehmaschine/django-filebrowser) - Media-Management with Grappelli
 - [incuna/django-wkhtmltopdf](https://github.com/incuna/django-wkhtmltopdf) - Django Wrapper to the PDF Renderer: wkhtmltopdf
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
