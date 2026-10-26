@@ -4565,7 +4565,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [LobsterTrap/tank-os](https://github.com/LobsterTrap/tank-os) - 
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [openshift/assisted-installer](https://github.com/openshift/assisted-installer) - 
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
@@ -7336,7 +7336,7 @@
 - [sapegin/jquery.mosaicflow](https://github.com/sapegin/jquery.mosaicflow) - Pinterest like responsive image grid that doesn’t suck
 - [agiliq/django-graphos](https://github.com/agiliq/django-graphos) - Django charting made *really* easy.
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
+- [django-commons/django-widget-tweaks](https://github.com/django-commons/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [sehmaschine/django-filebrowser](https://github.com/sehmaschine/django-filebrowser) - Media-Management with Grappelli
 - [jazzband/django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django
 - [pydanny/django-wysiwyg](https://github.com/pydanny/django-wysiwyg) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
