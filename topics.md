@@ -264,6 +264,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
+- [skills](#skills)
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -5908,7 +5909,6 @@
 - [san7ket/uuid](https://github.com/san7ket/uuid) - add uuid to tests
 - [phouse512/peps](https://github.com/phouse512/peps) - Python Enhancement Proposals
 - [uber-archive/image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
-- [kespindler/albatross](https://github.com/kespindler/albatross) - A modern, fast, simple async python3 web framework
 - [pattu777/Ansible-Django](https://github.com/pattu777/Ansible-Django) - Ansible playbooks to deploy a Django project
 - [theforeman/community-templates](https://github.com/theforeman/community-templates) - A place to share templates for various OSes for Foreman's provisioning
 - [birl-language/birl-language.github.io](https://github.com/birl-language/birl-language.github.io) - BIRL (Bambam's "It's show time" Recursive Language), a linguagem descendente! Derrubar tudo essas árvores do Parque Ibirapuera! BIRL!
@@ -6794,7 +6794,7 @@
 - [neyer/snout](https://github.com/neyer/snout) - django url pattern generation via inspection
 - [chokepoint/flaskgur](https://github.com/chokepoint/flaskgur) - Simple image hosting site written with Flask and Python
 - [hihellobolke/sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
-- [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
+- [django-commons/django-smart-selects](https://github.com/django-commons/django-smart-selects) - chained and grouped selects for django forms
 - [arthurnn/howdoi-emacs](https://github.com/arthurnn/howdoi-emacs) - Search code from StackOverflow and paste it in emacs.
 - [voronind/awesome-slugify](https://github.com/voronind/awesome-slugify) - Python flexible slugify function
 - [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
@@ -9762,6 +9762,14 @@
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+
+## skills 
+
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## software 
 
