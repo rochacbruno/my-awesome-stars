@@ -438,7 +438,6 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1531,6 +1530,7 @@
 - [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Liquid 
@@ -2062,7 +2062,7 @@
 - [RedHatProductSecurity/ai-guardian](https://github.com/RedHatProductSecurity/ai-guardian) - AI IDE security hook: blocks directories, scans secrets, and protects AI interactions
 - [nuwainfo/ffl](https://github.com/nuwainfo/ffl) - FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [srinivasr/nirimod](https://github.com/srinivasr/nirimod) - NiriMod - A visual, interactive configuration interface for the niri Wayland compositor.
 - [malemburg/pymmich](https://github.com/malemburg/pymmich) - An easy to use Immich upload/download CLI
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
@@ -3179,7 +3179,6 @@
 - [phouse512/peps](https://github.com/phouse512/peps) - Python Enhancement Proposals
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [kespindler/albatross](https://github.com/kespindler/albatross) - A modern, fast, simple async python3 web framework
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [heynemann/skink](https://github.com/heynemann/skink) - Skink is a continuous-integration server in Python.
 - [python/devguide](https://github.com/python/devguide) - The Python developer's guide
@@ -3922,7 +3921,7 @@
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [paulocheque/django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture) - A complete library to create dynamic model instances for testing purposes.
 - [hihellobolke/sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
-- [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
+- [django-commons/django-smart-selects](https://github.com/django-commons/django-smart-selects) - chained and grouped selects for django forms
 - [voronind/awesome-slugify](https://github.com/voronind/awesome-slugify) - Python flexible slugify function
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
 - [jeffknupp/bull](https://github.com/jeffknupp/bull) - Bull always charges!
