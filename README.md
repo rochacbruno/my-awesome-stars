@@ -267,7 +267,7 @@
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [facebook/pyre2](https://github.com/facebook/pyre2) - Python wrapper for RE2
+- [meta/pyre2](https://github.com/meta/pyre2) - Python wrapper for RE2
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -300,7 +300,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [mongodb/mongo-snippets](https://github.com/mongodb/mongo-snippets) - snippets of code that might be useful for your mongodb deployment
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [meta/watchman](https://github.com/meta/watchman) - Watches files and records, or triggers actions, when they change.
 - [RunestoneInteractive/RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) - Interactive books for computer science and mathematics
 - [guillaumezin/nvidiabl](https://github.com/guillaumezin/nvidiabl) - /!\ Please note that I don't maintain this repository anymore, please have a look at forked projects. /!\
 
@@ -3499,7 +3499,7 @@
 - [estebanfeldman/pygrabbit](https://github.com/estebanfeldman/pygrabbit) - 
 - [fluentpython/asyncio-tkinter](https://github.com/fluentpython/asyncio-tkinter) - Example of running asyncio on top of the Tcl/Tk event loop via Tkinter
 - [hchasestevens/xpyth](https://github.com/hchasestevens/xpyth) - A module for querying the DOM tree and writing XPath expressions using native Python syntax.
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
+- [meta/PathPicker](https://github.com/meta/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [yougov/mongo-connector](https://github.com/yougov/mongo-connector) - MongoDB data stream pipeline tools by YouGov (adopted from MongoDB)
 - [kracekumar/flask_vs_django_bench](https://github.com/kracekumar/flask_vs_django_bench) - Benchmark Flask vs Django for simple JsonResponse
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
@@ -4661,7 +4661,7 @@
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Jkeyuk/JDbrowser](https://github.com/Jkeyuk/JDbrowser) - A terminal SQLite database browser. written in rust.
 - [raphamorim/flash](https://github.com/raphamorim/flash) - ⚡ shell parser, formatter, and interpreter with Bash support
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
@@ -4870,7 +4870,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [grunnt/falling-rust](https://github.com/grunnt/falling-rust) - A falling-sand toy written using Rust, Bevy and egui.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) - A memory visualizer in Rust (ptrace + userfaultfd)
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) - gRPC web crawler turbo charged for performance
@@ -4998,7 +4998,7 @@
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [mstruebing/waitz](https://github.com/mstruebing/waitz) - Waits until the exit code of a program is zero
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
+- [meta/starlark-rust](https://github.com/meta/starlark-rust) - A Rust implementation of the Starlark language
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -5780,7 +5780,7 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hiro-sun/vscode-emacs](https://github.com/hiro-sun/vscode-emacs) - 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment.
