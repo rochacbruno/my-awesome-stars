@@ -2932,7 +2932,6 @@
 - [inspiradanacomputacao/tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) - Manifesto de Pessoas Tecnologistas contra Bolsonaro
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
-- [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [bnjjj/twelf](https://github.com/bnjjj/twelf) - Twelf is a configuration solution for Rust including 12-Factor support. It is designed with layers in order to configure different sources and formats to build your configuration. The main goal is to 
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
