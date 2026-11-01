@@ -145,7 +145,6 @@
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of "NCurses Disk Usage"
 - [otherJL0/tree-sitter-hurl](https://github.com/otherJL0/tree-sitter-hurl) - Tree-sitter grammar for Hurl
 - [andykitchen/swcursor](https://github.com/andykitchen/swcursor) - Large software cursor for screen recording on X11
@@ -251,6 +250,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
@@ -4687,7 +4687,7 @@
 - [nwiizo/cargo-autodd](https://github.com/nwiizo/cargo-autodd) - A tool that automatically manages Rust dependencies by analyzing your source code and updating Cargo.toml
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [AmarOk1412/jami-cli](https://github.com/AmarOk1412/jami-cli) - Jami client for terminal
-- [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - A Rust library for generating and parsing frontmatter in various formats.
+- [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - Rust library & CLI (fmg) to extract, parse, validate, and convert Markdown frontmatter across YAML 1.2, TOML, and JSON. Zero unsafe code, 100% test coverage, Miri & fuzz verified, HTML SEO meta-tag ge
 - [succinctlabs/sp1](https://github.com/succinctlabs/sp1) - SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
