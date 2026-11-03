@@ -747,7 +747,6 @@
 - [eaburns/Watch](https://github.com/eaburns/Watch) - Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [pierrre/imageserver](https://github.com/pierrre/imageserver) - Image server toolkit in Go
 - [MaximBoyarskiy/mongowebstat](https://github.com/MaximBoyarskiy/mongowebstat) - Mongowebstat. More convenient way to monitor your mongodb hosts. In browser, as many hosts as you want! Written in golang.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -1291,7 +1290,7 @@
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [qmagico/treinamento-angularjs](https://github.com/qmagico/treinamento-angularjs) - Treinamento de AngularJS do QMágico
 - [msjolund/jquery-esn-autobrowse](https://github.com/msjolund/jquery-esn-autobrowse) - Autobrowse jquery plugin
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [jackwanders/GalleryView](https://github.com/jackwanders/GalleryView) - jQuery plugin for creating photo galleries
 - [silvestreh/onScreen](https://github.com/silvestreh/onScreen) - A light library that does stuff when the matched elements enter or leave the viewport
 - [jgthms/juketube](https://github.com/jgthms/juketube) - A YouTube jukebox built with AngularJS
@@ -1494,7 +1493,6 @@
 - [fluentpython/builtins](https://github.com/fluentpython/builtins) - Talk about built-in callables in Python 3.7+
 - [rplevka/auto_profiling](https://github.com/rplevka/auto_profiling) - jupyter notebook for visualizing automation execution timeline
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
-- [PulpQE/pulp-qe-tools](https://github.com/PulpQE/pulp-qe-tools) - Tools, Helpers, Scripts, Playbooks and docs for Pulp QE
 - [nixocio/Internals](https://github.com/nixocio/Internals) - 
 - [opensanca/trilha-python](https://github.com/opensanca/trilha-python) - Curso "introdutório" à linguagem Python
 - [renzon/pytest-decorator](https://github.com/renzon/pytest-decorator) - Small test for decorator lib with pytest dependency injection
@@ -2086,7 +2084,6 @@
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
 - [shanemcd/jirahhh](https://github.com/shanemcd/jirahhh) - jirahhh — because that’s how it feels using it.
@@ -5091,7 +5088,7 @@
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [matklad/tom](https://github.com/matklad/tom) - tom: a format-preserving TOML parser in Rust
 - [bodil/vgtk](https://github.com/bodil/vgtk) - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
-- [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
+- [bodil/smartstring](https://github.com/bodil/smartstring) - This project has moved to Codeberg:
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -5463,7 +5460,7 @@
 ## Scheme 
 
 - [fluentpython/lispy](https://github.com/fluentpython/lispy) - Learning with Peter Norvig's lis.py interpreter
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Now Updated to Debian 13) se
 - [notanumber/django-vagrant](https://github.com/notanumber/django-vagrant) - Django-Vagrant
 
 ## Shell 
@@ -5620,6 +5617,7 @@
 - [grayhemp/pgcookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [qmagico/treinamento-python](https://github.com/qmagico/treinamento-python) - 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jneen/balls](https://github.com/jneen/balls) - Bash on Balls
 - [hybridgroup/GitHub-Wikifier](https://github.com/hybridgroup/GitHub-Wikifier) - A pre-commit Git Hook that will generate all the Table of Contents you will ever need. Just write your content, and let it take over.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5673,6 +5671,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
