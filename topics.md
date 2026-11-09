@@ -161,6 +161,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -184,6 +185,7 @@
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -403,6 +405,7 @@
 
 ## ai-agents 
 
+- [vokramd/markov](https://github.com/vokramd/markov) - Workflow engine for chaining agents with code; Codify turns the work that needs no judgment into native steps
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) - Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
@@ -684,7 +687,6 @@
 
 ## awesome 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
@@ -1012,10 +1014,12 @@
 
 ## claude-code 
 
+- [vokramd/markov](https://github.com/vokramd/markov) - Workflow engine for chaining agents with code; Codify turns the work that needs no judgment into native steps
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
@@ -2705,6 +2709,7 @@
 
 ## golang 
 
+- [vokramd/markov](https://github.com/vokramd/markov) - Workflow engine for chaining agents with code; Codify turns the work that needs no judgment into native steps
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -3587,6 +3592,12 @@
 - [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+
 ## kotlin 
 
 - [zac15987/LockView](https://github.com/zac15987/LockView) - An Android image viewer with lock functionality, gesture controls, and automatic device-unlock integration that prevents accidental interactions.
@@ -3841,6 +3852,7 @@
 
 ## llm 
 
+- [vokramd/markov](https://github.com/vokramd/markov) - Workflow engine for chaining agents with code; Codify turns the work that needs no judgment into native steps
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Build AI methods with your coding agent, then run them anywhere: as an MCP for chatbots, as a webapp for people, or via API for your software.
@@ -4143,6 +4155,7 @@
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Build AI methods with your coding agent, then run them anywhere: as an MCP for chatbots, as a webapp for people, or via API for your software.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -4153,6 +4166,17 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
+
+## mcp-server 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost) - A MCP server for Django applications, inspired by Laravel Boost.
+- [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - Fully async Rust TUI engine 🦀. For powering AI/LLM coding agents, Cloud/SSH workflows & interactive CLIs: non-blocking readline, inline dialogs, React/Elm-style full-screen TUI, Markdown editor, PTY m
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
+- [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 
 ## microservices 
 
@@ -4449,7 +4473,6 @@
 
 ## npm 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -4560,7 +4583,6 @@
 
 ## others 
 
-- [vokramd/markov](https://github.com/vokramd/markov) - 
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [sandboard-app/sandboard](https://github.com/sandboard-app/sandboard) - Coordinate coding agents from a project board. Run tasks in OpenShell sandboxes and review pull requests on GitHub.
 - [openshift/enhancements](https://github.com/openshift/enhancements) - Enhancements tracking repository for OKD
@@ -4626,7 +4648,7 @@
 - [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [shanemcd/jirahhh](https://github.com/shanemcd/jirahhh) - jirahhh — because that’s how it feels using it.
 - [shanemcd/ai-cmd](https://github.com/shanemcd/ai-cmd) - Zsh plugin to generate shell commands from natural language using local LLMs via ollama
-- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
+- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - PVE-mods is a Debian package that extends the Proxmox Virtual Environment (PVE) web interface with mods.
 - [albertsgarde/rustorio](https://github.com/albertsgarde/rustorio) - The first game written and played entirely in Rust's type system. Not only do you play by writing Rust code, but the rules of the game are enforced by the Rust compiler. If you can write the program s
 - [tecki/ebpfcat](https://github.com/tecki/ebpfcat) - A Python-base EBPF code generator
 - [jesuino/LLMFX](https://github.com/jesuino/LLMFX) - LLM FX: A LLM Server Desktop Client free for everyone!
@@ -9775,7 +9797,6 @@
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [LobsterTrap/lola](https://github.com/LobsterTrap/lola) - Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as the RPM package and Lola as the YUM/DNF. Write you
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## software 
