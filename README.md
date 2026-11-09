@@ -234,7 +234,6 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C++ module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters 
 - [arturbac/kdevcxx_with_ai](https://github.com/arturbac/kdevcxx_with_ai) - KDevelop and Kate plugins using OpenAI API to assist with code development
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [alex1701c/EmojiRunner](https://github.com/alex1701c/EmojiRunner) - Search for emojis in Krunner and copy/paste them
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
@@ -4729,6 +4728,7 @@
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [cuducos/airnope](https://github.com/cuducos/airnope) - ☔ AirNope keeps Telegram groups clean from ”airdrop” spam
 - [rustonaut/total-order-multi-map](https://github.com/rustonaut/total-order-multi-map) - A multimap with at the same time keeps the total insertion ordering of all elements
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser.
@@ -5473,7 +5473,7 @@
 - [zirconium-dev/zirconium](https://github.com/zirconium-dev/zirconium) - Opinionated Niri bootc image
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [shanemcd/ai-cmd](https://github.com/shanemcd/ai-cmd) - Zsh plugin to generate shell commands from natural language using local LLMs via ollama
-- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
+- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - PVE-mods is a Debian package that extends the Proxmox Virtual Environment (PVE) web interface with mods.
 - [dpejoh/Adwaita-Colors](https://github.com/dpejoh/Adwaita-Colors) - Adwaita Colors customizes Adwaita icons to match your GNOME theme's accent color, providing a cohesive, personalized look.
 - [Alanon202/nirirun](https://github.com/Alanon202/nirirun) - Small bash script to make manipulating windows with keybinds a bit easier on Niri.
 - [MartV0/niri-scratchpad](https://github.com/MartV0/niri-scratchpad) - Scratchpad support for Niri
