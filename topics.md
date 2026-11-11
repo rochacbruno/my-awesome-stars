@@ -312,6 +312,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -812,7 +813,7 @@
 
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [FFY00/trampolim](https://github.com/FFY00/trampolim) - A modern Python build backend
@@ -2287,7 +2288,6 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - 
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
@@ -3228,7 +3228,7 @@
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
@@ -3537,7 +3537,7 @@
 - [stefankoegl/python-json-patch](https://github.com/stefankoegl/python-json-patch) - Applying JSON Patches in Python
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
@@ -7965,7 +7965,7 @@
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [lucaslattari/Video-Silence-Remover](https://github.com/lucaslattari/Video-Silence-Remover) - A tool created to automatically remove silence from videos.
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) - In-memory fake Redis for Python tests: a drop-in replacement for redis-py and valkey-py, with no server to run. Emulates Redis, Valkey, DragonflyDB, KeyDB and KiviDB.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [whythawk/full-stack-fastapi-postgresql](https://github.com/whythawk/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Nuxt3, Docker, automatic HTTPS and more.
@@ -9027,7 +9027,7 @@
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [rochacbruno/dundie-api](https://github.com/rochacbruno/dundie-api) - Projeto do Treinamento Python Web API LINUXtips
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -10607,6 +10607,11 @@
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [staticjinja/staticjinja](https://github.com/staticjinja/staticjinja) - Minimalist Python library for building static websites with Jinja
 - [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
+
+## whatsapp 
+
+- [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
+- [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 
 ## windows 
 
