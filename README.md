@@ -248,7 +248,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Low-latency client-server engine built around Noise, io_uring & SIMD, with synchronous handlers, server-side batching, and C, C++, Python & Rust bindings ☎️
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
@@ -735,7 +735,6 @@
 - [zenazn/goji](https://github.com/zenazn/goji) - Goji is a minimalistic web framework for Golang that's high in antioxidants.
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [FiloSottile/Heartbleed](https://github.com/FiloSottile/Heartbleed) - A checker (site and tool) for CVE-2014-0160
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
@@ -2589,6 +2588,7 @@
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - EyeLoop is a Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments on consumer-grade hardware.
 - [cesargodoi/startproject](https://github.com/cesargodoi/startproject) - Flask start project in application factories
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
+- [pulp/pulp-oci-images](https://github.com/pulp/pulp-oci-images) - Containerfiles and other assets for building Pulp 3 OCI images
 - [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) - Galaxy content importer
 - [containers/podman-py](https://github.com/containers/podman-py) - Python bindings for Podman's RESTful API
 - [PetterKraabol/Twitch-Python](https://github.com/PetterKraabol/Twitch-Python) - Object-oriented Twitch API for Python developers
@@ -2725,7 +2725,7 @@
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [asottile-archive/flake8-2020](https://github.com/asottile-archive/flake8-2020) - flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 - [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
-- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - open source test management system with over 2 million downloads!
+- [kiwitcms/kiwitcms](https://github.com/kiwitcms/kiwitcms) - open source test management system with over 2 million downloads!
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases & fixups
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
@@ -3925,7 +3925,7 @@
 - [antlong/picka](https://github.com/antlong/picka) - pip install picka - Picka is a python based data generation and randomization module which aims to increase coverage by increasing the amount of tests you _dont_ have to write by hand.
 - [pysimplesoap/pysimplesoap](https://github.com/pysimplesoap/pysimplesoap) - Python Simple SOAP Library
 - [inueni/birdy](https://github.com/inueni/birdy) - A super awesome Twitter API client for Python.
-- [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-commons/django-push-notifications](https://github.com/django-commons/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [1st1/greenio](https://github.com/1st1/greenio) - Greenlets for asyncio
 - [madisonmay/CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake
@@ -5519,7 +5519,6 @@
 - [HorusGoul/rtmp-social-multicast](https://github.com/HorusGoul/rtmp-social-multicast) - Want to stream to Twitch, YouTube, Facebook, and/or Periscope at the same time? That's what this project allows you to do!
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [pulp/pulp-oci-images](https://github.com/pulp/pulp-oci-images) - Containerfiles and other assets for building Pulp 3 OCI images
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -5690,7 +5689,7 @@
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [electric-sql/postgres-to-sqlite-sync-example](https://github.com/electric-sql/postgres-to-sqlite-sync-example) - Basic Sync from Postgres to SQLite using ElectricSQL
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [scastiel/github-stars-video](https://github.com/scastiel/github-stars-video) - Generate an animation for your GitHub stars ⭐️🎞️
@@ -5801,6 +5800,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
