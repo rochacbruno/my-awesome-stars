@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -340,6 +341,13 @@
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
+
+## agentic-ai 
+
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 
 ## agents 
 
@@ -1706,6 +1714,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [drdoctr/doctr](https://github.com/drdoctr/doctr) - A tool for automatically deploying docs from Travis CI to GitHub pages.
+- [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
 - [fabric-bolt/fabric-bolt](https://github.com/fabric-bolt/fabric-bolt) - Fabric deployments via a web interface
 
 ## design 
@@ -1816,6 +1825,7 @@
 - [minishift/minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally | This project does not see active developement and maintenance.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
+- [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
@@ -4784,7 +4794,7 @@
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [Aras14HD/abstract-impl](https://github.com/Aras14HD/abstract-impl) - Define abstract (generic) implementations for traits
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [zefchain/serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
+- [serde-tools/serde-reflection](https://github.com/serde-tools/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [jeremychone-channel/rust-md-block-extractor](https://github.com/jeremychone-channel/rust-md-block-extractor) - Markdown "Lexer" to extract/parse #!meta toml/yaml (Jeremy Chone Rust Coding https://youtube.com/jeremychone)
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust
@@ -7412,7 +7422,7 @@
 - [konklone/basecamper](https://github.com/konklone/basecamper) - RETIRED: Command line interface to tracking time on Basecamp.
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [TracyWebTech/xavier](https://github.com/TracyWebTech/xavier) - 
-- [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [django-commons/django-model-utils](https://github.com/django-commons/django-model-utils) - Django model mixins and utilities.
 - [alexmic/microtemplates](https://github.com/alexmic/microtemplates) - A toy templating engine.
 - [dropbox/pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
 - [RunestoneInteractive/RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) - Interactive books for computer science and mathematics
@@ -7886,6 +7896,7 @@
 - [dmzoneill/jira-creator](https://github.com/dmzoneill/jira-creator) - helps in the creation of stories,issues,epics,bugs,spikes
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Build AI methods with your coding agent, then run them anywhere: as an MCP for chatbots, as a webapp for people, or via API for your software.
+- [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [awolverp/markupever](https://github.com/awolverp/markupever) - The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.
 - [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
