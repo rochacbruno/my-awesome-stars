@@ -1473,7 +1473,6 @@
 ## Jinja 
 
 - [ansible/galaxy_collection](https://github.com/ansible/galaxy_collection) - Collection of modules and roles to configure Automation Hub
-- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [pulp/pulp_installer](https://github.com/pulp/pulp_installer) - Ansible roles to install & configure Pulp 3 from PyPI
 
 ## Julia 
@@ -2178,7 +2177,7 @@
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [flipbit03/cadurso](https://github.com/flipbit03/cadurso) - Authorization framework for Python-based applications.
-- [matthiask/html-sanitizer](https://github.com/matthiask/html-sanitizer) - Allowlist-based HTML cleaner
+- [feincms/html-sanitizer](https://github.com/feincms/html-sanitizer) - Allowlist-based HTML cleaner
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [import-linter/import-linter](https://github.com/import-linter/import-linter) - Lint your Python architecture.
@@ -2497,7 +2496,7 @@
 - [RedHatQE/teflo_examples](https://github.com/RedHatQE/teflo_examples) - Examples on how to use Teflo
 - [RedHatQE/teflo](https://github.com/RedHatQE/teflo) - Teflo is a standalone orchestration software that controls the flow of a set of testing scenarios, allowing users to provision machines, deploy software, execute tests against them and manage generate
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [ballet/ballet](https://github.com/ballet/ballet) - ☀️🦶 A lightweight framework for collaborative, open-source feature engineering
 - [ambianic/ambianic-edge](https://github.com/ambianic/ambianic-edge) - The core runtime engine for Ambianic Edge devices.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -2787,6 +2786,7 @@
 - [jsbueno/terminedia](https://github.com/jsbueno/terminedia) - Python Framework for multimedia  at terminal: draw lines, circles with "▘ ▝ ▀ ▖ ▌ ▞ ▛ "
 - [HackSoftware/simple_schema_validator](https://github.com/HackSoftware/simple_schema_validator) - A dead-simple utility that validates if object has a certain structure. Used in some of our projects.
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
+- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [rochacbruno-archive/pulp3-juicer](https://github.com/rochacbruno-archive/pulp3-juicer) - Why smash the Pulp by hand when you can use a Juicer?
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [pulp/pulp-certguard](https://github.com/pulp/pulp-certguard) - Pulp plugin that provides an x.509 certificate based content-guard.
@@ -4344,7 +4344,7 @@
 - [burke-software/django-simple-import](https://github.com/burke-software/django-simple-import) - An import tool easy enough your users could use it
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [TracyWebTech/xavier](https://github.com/TracyWebTech/xavier) - 
-- [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [django-commons/django-model-utils](https://github.com/django-commons/django-model-utils) - Django model mixins and utilities.
 - [alexmic/microtemplates](https://github.com/alexmic/microtemplates) - A toy templating engine.
 - [dropbox/pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
 - [ccampbell/chromelogger-python](https://github.com/ccampbell/chromelogger-python) - Python library for logging variables to Google Chrome console
@@ -4646,7 +4646,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [opensourcecheemsburgers/ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - A cross-platform markdown editor.
-- [anoek/devlayer](https://github.com/anoek/devlayer) - A tool for creating lightweight containerized copy-on-write views of your computer for safely running programs and managing output.
+- [anoek/devlayer](https://github.com/anoek/devlayer) - Create mixed copy-on-write, read-only, and direct access environments for LLM agents to work in
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [bircni/git-statuses](https://github.com/bircni/git-statuses) - A command-line tool to display the status of multiple Git repositories in a clear, tabular format.
@@ -4698,7 +4698,7 @@
 - [kmdreko/venator](https://github.com/kmdreko/venator) - Venator: a desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Aras14HD/abstract-impl](https://github.com/Aras14HD/abstract-impl) - Define abstract (generic) implementations for traits
-- [zefchain/serde-reflection](https://github.com/zefchain/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
+- [serde-tools/serde-reflection](https://github.com/serde-tools/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [jeremychone-channel/rust-md-block-extractor](https://github.com/jeremychone-channel/rust-md-block-extractor) - Markdown "Lexer" to extract/parse #!meta toml/yaml (Jeremy Chone Rust Coding https://youtube.com/jeremychone)
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
