@@ -276,6 +276,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -640,7 +641,7 @@
 
 ## artificial-intelligence 
 
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 - [rdenadai/transcribe-audio2text](https://github.com/rdenadai/transcribe-audio2text) - Simple web app made so you can use Deep Learn models to transcribe audio to text.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -883,7 +884,7 @@
 
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [pratikborsadiya/vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 5 admin/dashboard template
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
@@ -1182,7 +1183,7 @@
 - [Byron/termbook](https://github.com/Byron/termbook) - A runner for `mdbooks` to keep your documentation tested.
 - [killercup/quicli](https://github.com/killercup/quicli) - Quickly build cool CLI apps in Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+- [jmaupetit/Watson](https://github.com/jmaupetit/Watson) - :watch: A wonderful CLI to track your time!
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [cbednarski/hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
@@ -1501,7 +1502,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [python-needle/needle](https://github.com/python-needle/needle) - Automated tests for your CSS.
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1556,7 +1557,7 @@
 - [emirozer/fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
-- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
+- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [Archived] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [turicas/brasil.io](https://github.com/turicas/brasil.io) - Backend do Brasil.IO (para código dos scripts de coleta de dados, veja o link na página de cada dataset)
 - [semente/django-smuggler](https://github.com/semente/django-smuggler) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
 
@@ -1565,7 +1566,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
-- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
+- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [Archived] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 
 ## data-engineering 
@@ -1962,7 +1963,7 @@
 - [znc-sistemas/django-municipios](https://github.com/znc-sistemas/django-municipios) - Aplicação plugável Django com modelos e widgets para os Municípios Brasileiros
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [jonasundderwolf/django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Django helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
-- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
+- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can!
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
 - [mirumee/django-prices](https://github.com/mirumee/django-prices) - Django fields for the prices module
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -2568,7 +2569,7 @@
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
@@ -3192,7 +3193,7 @@
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
 - [encode/typesystem](https://github.com/encode/typesystem) - Data validation, serialization, deserialization & form rendering. 🔢
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -3218,7 +3219,7 @@
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [ncalibey/mini-projects](https://github.com/ncalibey/mini-projects) - A repo of small projects that I've worked on, usually for educational purposes
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
@@ -3512,7 +3513,7 @@
 ## jekyll 
 
 - [cockpit-project/cockpit-project.github.io](https://github.com/cockpit-project/cockpit-project.github.io) - Cockpit Project Website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 
 ## jenkins 
@@ -4166,6 +4167,7 @@
 ## mcp 
 
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -7859,7 +7861,7 @@
 - [afterit/flaskstarter](https://github.com/afterit/flaskstarter) - A Flask project start-up script that creates a modular ready project.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+- [jmaupetit/Watson](https://github.com/jmaupetit/Watson) - :watch: A wonderful CLI to track your time!
 
 ## prompt-engineering 
 
@@ -8760,7 +8762,7 @@
 - [znc-sistemas/django-municipios](https://github.com/znc-sistemas/django-municipios) - Aplicação plugável Django com modelos e widgets para os Municípios Brasileiros
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [jonasundderwolf/django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - Django helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
-- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
+- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can!
 - [jazzband/django-payments](https://github.com/jazzband/django-payments) - Universal payment handling for Django.
 - [mirumee/django-prices](https://github.com/mirumee/django-prices) - Django fields for the prices module
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -9409,7 +9411,7 @@
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [smallvec/smallvec](https://github.com/smallvec/smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
@@ -9602,7 +9604,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [sass/libsass-python](https://github.com/sass/libsass-python) - A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [drublic/css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript
@@ -9869,7 +9871,7 @@
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 - [crate/crate-python](https://github.com/crate/crate-python) - Python DB API client library for CrateDB, using HTTP.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
-- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
+- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [Archived] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
@@ -9914,6 +9916,25 @@
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
+
+## static-site-generator 
+
+- [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
+- [rochacbruno/static.py](https://github.com/rochacbruno/static.py) - The most simple static blog generator powered by UV and Python
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+- [sebastienrousseau/frontmatter-gen](https://github.com/sebastienrousseau/frontmatter-gen) - Rust library & CLI (fmg) to extract, parse, validate, and convert Markdown frontmatter across YAML 1.2, TOML, and JSON. Zero unsafe code, 100% test coverage, Miri & fuzz verified, HTML SEO meta-tag ge
+- [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools
+- [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
+- [thanethomson/statik](https://github.com/thanethomson/statik) - Multi-purpose static web site generator aimed at developers.
+- [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [quokkaproject/quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
+- [staticjinja/staticjinja](https://github.com/staticjinja/staticjinja) - Minimalist Python library for building static websites with Jinja
 
 ## statistics 
 
@@ -10266,6 +10287,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [chrismaille/cabrita](https://github.com/chrismaille/cabrita) - TUI dashboard for easy visualization of docker services
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
