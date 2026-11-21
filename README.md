@@ -109,7 +109,6 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Awk 
@@ -1434,6 +1433,7 @@
 - [domain7/bootstrap](https://github.com/domain7/bootstrap) - CSS toolkit from Twitter
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any &lt;ol&gt; or &lt;ul&gt; into a &lt;select&gt; for mobiles and low browser sizes
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [wbotelhos/gridy](https://github.com/wbotelhos/gridy) - jQuery Gridy - A Grid Plugin
 - [mithun-daa/abhorredCalendar](https://github.com/mithun-daa/abhorredCalendar) - Month view calendar to add time for a particular day and show total time for a day
 - [jakearchibald/sprite-cow](https://github.com/jakearchibald/sprite-cow) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
@@ -1648,7 +1648,6 @@
 
 - [YunoHost/doc](https://github.com/YunoHost/doc) - YunoHost documentation
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -2097,7 +2096,7 @@
 - [asweigart/buttonpad](https://github.com/asweigart/buttonpad) - If your app only needs buttons, this cross-platform GUI toolkit for Python gives you a configurable grid of buttons.
 - [alicealysia/persistent-wlr-randr-gui](https://github.com/alicealysia/persistent-wlr-randr-gui) - a fork of wlr-layout-ui that removes xrandr and hyprctl functionality, then extends wlr-randr support.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [openshift/cincinnati-graph-data](https://github.com/openshift/cincinnati-graph-data) - Release node and upgrade edge metadata for Cincinnati graphs.
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
@@ -2909,7 +2908,7 @@
 - [ua-nick/fleep-py](https://github.com/ua-nick/fleep-py) - File format determination library for Python
 - [toxinu/sushi](https://github.com/toxinu/sushi) - Sushi is package builder based on template.
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+- [jmaupetit/Watson](https://github.com/jmaupetit/Watson) - :watch: A wonderful CLI to track your time!
 - [morten1982/crossviper](https://github.com/morten1982/crossviper) - Tkinter Python IDE
 - [n1nj4sec/memorpy](https://github.com/n1nj4sec/memorpy) - Python library using ctypes to search/edit windows / linux / macOS / SunOS programs memory
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
@@ -3780,7 +3779,7 @@
 - [lisa-lab/pylearn2](https://github.com/lisa-lab/pylearn2) - Warning: This project does not have any current developer. See bellow.
 - [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [Stiivi/bubbles](https://github.com/Stiivi/bubbles) - [NOT MAINTAINED] Bubbles – Python ETL framework
-- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
+- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [Archived] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [theorm/mongobox](https://github.com/theorm/mongobox) - Run sandboxed MongoDB from a python app.
@@ -4325,7 +4324,7 @@
 - [bradleyayers/django-celery-transactions](https://github.com/bradleyayers/django-celery-transactions) - Django transaction support for Celery tasks.
 - [ricobl/django-template-inspector](https://github.com/ricobl/django-template-inspector) - Extract information from django templates
 - [ricobl/django-importer](https://github.com/ricobl/django-importer) - Create Data Importers for Django models.
-- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
+- [raiderrobert/django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can!
 - [juanriaza/django-tempus](https://github.com/juanriaza/django-tempus) - Django Tempus provides url tokens that triggers custom actions
 - [un33k/django-uuslug](https://github.com/un33k/django-uuslug) - Generates Unique (& Unicode) slugs in Django Edit Add topics
 - [tzulberti/django-datefilterspec](https://github.com/tzulberti/django-datefilterspec) - Adds filtering by ranges of dates in the admin filter sidebar.
@@ -4556,7 +4555,7 @@
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus
 - [isala404/forge](https://github.com/isala404/forge) - The standard library for agent-built SaaS
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
@@ -5093,7 +5092,7 @@
 - [bodil/smartstring](https://github.com/bodil/smartstring) - This project has moved to Codeberg:
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [mongodb-rust/decimal128](https://github.com/mongodb-rust/decimal128) - WASM-compatible Decimal128 implementation
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [smallvec/smallvec](https://github.com/smallvec/smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [tsoding/cm](https://github.com/tsoding/cm) - Emacs' compilation-mode-like TUI application
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
@@ -5553,7 +5552,7 @@
 - [cxbrooks/ansible-junitxml](https://github.com/cxbrooks/ansible-junitxml) - Ansible plugin that outputs JUnit XML results for ansible playbooks to use with Jenkins
 - [flaper87/openshift-rust-cart](https://github.com/flaper87/openshift-rust-cart) - Rust Cartridge for OpenShift
 - [e-minguez/laptop_install](https://github.com/e-minguez/laptop_install) - Utils to reinstall a new laptop easily
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [japaric/trust](https://github.com/japaric/trust) - Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 - [JacobCallahan/content-host-d](https://github.com/JacobCallahan/content-host-d) - Docker-ized Content Hosts for Red Hat Satellite 6
 - [SatelliteQE/sat6helper](https://github.com/SatelliteQE/sat6helper) - Placeholder for all sat6 helper scripts
@@ -5773,6 +5772,7 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [eissasoubhi/summernote-bricks](https://github.com/eissasoubhi/summernote-bricks) - A Summernote module to add user-friendly components to the wysiwyg editor
@@ -5780,7 +5780,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hiro-sun/vscode-emacs](https://github.com/hiro-sun/vscode-emacs) - 
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
