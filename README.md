@@ -157,7 +157,6 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.
 - [sdss/flicamera](https://github.com/sdss/flicamera) - A library and actor to control Finger Lakes Instrumentation cameras
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
@@ -173,7 +172,7 @@
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
+- [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety. (This is a mirror of https://gitlab.com/fascinatedbox/lily)
 - [dpapavas/luaprompt](https://github.com/dpapavas/luaprompt) - An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion.
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [bitkeeper-scm/bitkeeper](https://github.com/bitkeeper-scm/bitkeeper) - This is the master copy of the BitKeeper source
@@ -735,6 +734,7 @@
 - [zenazn/goji](https://github.com/zenazn/goji) - Goji is a minimalistic web framework for Golang that's high in antioxidants.
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [FiloSottile/Heartbleed](https://github.com/FiloSottile/Heartbleed) - A checker (site and tool) for CVE-2014-0160
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
@@ -745,6 +745,7 @@
 - [eaburns/Watch](https://github.com/eaburns/Watch) - Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [pierrre/imageserver](https://github.com/pierrre/imageserver) - Image server toolkit in Go
 - [MaximBoyarskiy/mongowebstat](https://github.com/MaximBoyarskiy/mongowebstat) - Mongowebstat. More convenient way to monitor your mongodb hosts. In browser, as many hosts as you want! Written in golang.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -786,7 +787,6 @@
 - [karlamagueta/Aulas-html-e-css](https://github.com/karlamagueta/Aulas-html-e-css) - exercícios guanabara
 - [sethmlarson/utf8.xyz](https://github.com/sethmlarson/utf8.xyz) - A quick web app for fetching Unicode characters without extra fluff
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [marcuxyz/flask-mvc2](https://github.com/marcuxyz/flask-mvc2) - You can use the mvc-flask extension to turn on MVC pattern in your applications.
 - [RedHatInsights/red-hat-ansible-automation-platform-documentation](https://github.com/RedHatInsights/red-hat-ansible-automation-platform-documentation) - 
 - [rochacbruno/asciidoctor-book-template](https://github.com/rochacbruno/asciidoctor-book-template) - A book template to write using asciidoctor.
 - [andredias/cookiecutter-fastapi](https://github.com/andredias/cookiecutter-fastapi) - 
@@ -1016,7 +1016,7 @@
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [qownnotes/scripts](https://github.com/qownnotes/scripts) - QOwnNotes script repository
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [waltenne/guiadevopsbrasil](https://github.com/waltenne/guiadevopsbrasil) - Repositório para compartilhamento de conteúdo Gratuito sobre DevOps
@@ -2435,6 +2435,7 @@
 - [7joaoG/Criatividade_Pythonica](https://github.com/7joaoG/Criatividade_Pythonica) - Aqui é onde eu deixo a minha criatividade agir e crio alguns códigos por pura diversão
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+- [marcuxyz/flask-mvc2](https://github.com/marcuxyz/flask-mvc2) - You can use the mvc-flask extension to turn on MVC pattern in your applications.
 - [responsibleproblemsolving/energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
 - [containers/ansible-podman-collections](https://github.com/containers/ansible-podman-collections) - Repository for Ansible content that can include playbooks, roles, modules, and plugins for use with the Podman tool
 - [nicholaswold/fastapi-ipykernel-sandbox](https://github.com/nicholaswold/fastapi-ipykernel-sandbox) - A sandbox app for playing around with ipykernel processes
@@ -3950,7 +3951,7 @@
 - [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent Python applications.
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [jaapz/flask-celery3](https://github.com/jaapz/flask-celery3) - Easily integrate Celery3 into Flask.
-- [PythonCharmers/python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility
+- [CharmersTraining/python-future](https://github.com/CharmersTraining/python-future) - Easy, clean, reliable Python 2/3 compatibility
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [mattmakai/underwear](https://github.com/mattmakai/underwear) - Dead simple LAMP-stack deployments for Python-powered web applications.
 - [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape) - SoundCloud (and Bandcamp and Mixcloud) downloader in Python.
@@ -4816,7 +4817,7 @@
 - [fritzrehde/watchbind](https://github.com/fritzrehde/watchbind) - A cli menu for periodically watching a program's output and executing commands on its lines through keybindings
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [clojure-rs/ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust (unofficial)
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
@@ -5617,7 +5618,6 @@
 - [grayhemp/pgcookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [qmagico/treinamento-python](https://github.com/qmagico/treinamento-python) - 
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jneen/balls](https://github.com/jneen/balls) - Bash on Balls
 - [hybridgroup/GitHub-Wikifier](https://github.com/hybridgroup/GitHub-Wikifier) - A pre-commit Git Hook that will generate all the Table of Contents you will ever need. Just write your content, and let it take over.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5802,7 +5802,6 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
